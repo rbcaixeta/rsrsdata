@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1001,
+    "area_id": 920001,
+    "start_at": 1623632400,
+    "end_at": 1624237199,
+    "rule_summary": "Starting BP: 10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1001,
+      1002,
+      1003
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1002,
+    "area_id": 920001,
+    "start_at": 1622422800,
+    "end_at": 1623027599,
+    "rule_summary": "Starting BP: 10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1004,
+      1005,
+      1006
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1003,
+    "area_id": 920001,
+    "start_at": 1624842000,
+    "end_at": 1625446799,
+    "rule_summary": "Starting BP: 10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1007,
+      1008,
+      1009
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1004,
+    "area_id": 920001,
+    "start_at": 1626051600,
+    "end_at": 1626656399,
+    "rule_summary": "Starting BP: 10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1010,
+      1011,
+      1012
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1006,
+    "area_id": 920001,
+    "start_at": 1628470800,
+    "end_at": 1629075599,
+    "rule_summary": "Starting BP: 10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1016,
+      1017,
+      1018
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
+    "id": 1007,
+    "area_id": 920001,
+    "start_at": 1627261200,
+    "end_at": 1627865999,
+    "rule_summary": "Starting BP: 10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1019,
+      1020,
+      1021
+    ],
+    "limit_island_reward_set_id": 1001
+  }
+]

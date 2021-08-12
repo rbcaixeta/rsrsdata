@@ -1,0 +1,3673 @@
+[
+  {
+    "id": 430000011,
+    "quest_type": 1,
+    "name": "Forest of Mystery Lv. 1",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 7,
+        "id": 860002,
+        "quantity": 200
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000001,
+      400000021,
+      400000087
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001001,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 430000021,
+    "quest_type": 1,
+    "name": "Forest of Mystery Lv. 2",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 7,
+        "id": 860002,
+        "quantity": 200
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000002,
+      400000022,
+      400000093
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001002,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 430000031,
+    "quest_type": 1,
+    "name": "Forest of Mystery Lv. 3",
+    "difficulty": 0,
+    "sort_order": 3,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 7,
+        "id": 860002,
+        "quantity": 200
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000003,
+      400000023,
+      400000101
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001003,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 430000041,
+    "quest_type": 1,
+    "name": "Forest of Mystery Lv. 4",
+    "difficulty": 0,
+    "sort_order": 4,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 7,
+        "id": 860002,
+        "quantity": 200
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000004,
+      400000024,
+      400000107
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001004,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 430000051,
+    "quest_type": 1,
+    "name": "Forest of Mystery Lv. 5",
+    "difficulty": 0,
+    "sort_order": 5,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 7,
+        "id": 860002,
+        "quantity": 200
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000005,
+      400000025,
+      400000116
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001005,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 430000061,
+    "quest_type": 1,
+    "name": "Forest of Mystery Lv. 6",
+    "difficulty": 0,
+    "sort_order": 6,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 7,
+        "id": 860002,
+        "quantity": 200
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000006,
+      400000026,
+      400000126
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001006,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 430000071,
+    "quest_type": 1,
+    "name": "Forest of Mystery Lv. 7",
+    "difficulty": 0,
+    "sort_order": 7,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 7,
+        "id": 860002,
+        "quantity": 200
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000007,
+      400000027,
+      400000133
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001007,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 430000081,
+    "quest_type": 1,
+    "name": "Forest of Mystery Lv. 8",
+    "difficulty": 0,
+    "sort_order": 8,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 7,
+        "id": 860002,
+        "quantity": 200
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000008,
+      400000028,
+      400000142
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001008,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 430000091,
+    "quest_type": 1,
+    "name": "Forest of Mystery Lv. 9",
+    "difficulty": 0,
+    "sort_order": 9,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 7,
+        "id": 860002,
+        "quantity": 200
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000009,
+      400000029,
+      400000148
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001009,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 430000101,
+    "quest_type": 1,
+    "name": "Forest of Mystery Lv. 10",
+    "difficulty": 0,
+    "sort_order": 10,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 7,
+        "id": 860002,
+        "quantity": 200
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000010,
+      400000030,
+      400000149
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001010,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 440000011,
+    "quest_type": 1,
+    "name": "Treasure Cave",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430001,
+    "stamina": 0,
+    "quest_ticket_id": 821003,
+    "quest_ticket_quantity": 50,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 12,
+        "id": 840001
+      },
+      {
+        "type": 3,
+        "id": 312303
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000051,
+      400000051,
+      400000051,
+      400000051,
+      400000051,
+      400000051,
+      400000051,
+      400000051,
+      400000051,
+      400000051
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 911,
+    "battle_id": 920001011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 440000021,
+    "quest_type": 1,
+    "name": "Treasure Cave Spree",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 430001,
+    "stamina": 0,
+    "quest_ticket_id": 821003,
+    "quest_ticket_quantity": 250,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 12,
+        "id": 840001
+      },
+      {
+        "type": 3,
+        "id": 312303
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000052,
+      400000052,
+      400000052,
+      400000052,
+      400000052,
+      400000052,
+      400000052,
+      400000052,
+      400000052,
+      400000052
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 911,
+    "battle_id": 920001011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 450000011,
+    "quest_type": 1,
+    "name": "Treasure Cave (Gold)",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430001,
+    "stamina": 0,
+    "quest_ticket_id": 821004,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 2,
+        "id": 105001
+      },
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 12,
+        "id": 840002
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000053,
+      400000053,
+      400000053,
+      400000053,
+      400000053,
+      400000053,
+      400000053,
+      400000053,
+      400000053,
+      400000053
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 912,
+    "battle_id": 920001021,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 900000011,
+    "quest_type": 1,
+    "name": "Get diggin'! Mining Caves",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 930036,
+    "stamina": 0,
+    "quest_ticket_id": 821047,
+    "quest_ticket_quantity": 25,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100262
+      },
+      {
+        "type": 16,
+        "id": 204400200
+      },
+      {
+        "type": 17,
+        "id": 308400700
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000060,
+      400000060,
+      400000060,
+      400000060,
+      400000060
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1002,
+    "battle_id": 950006011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 900000021,
+    "quest_type": 1,
+    "name": "Get diggin'! Mining Caves Spree",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 930036,
+    "stamina": 0,
+    "quest_ticket_id": 821047,
+    "quest_ticket_quantity": 50,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100262
+      },
+      {
+        "type": 16,
+        "id": 204400200
+      },
+      {
+        "type": 17,
+        "id": 308400700
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000060,
+      400000060,
+      400000060,
+      400000060,
+      400000060,
+      400000060,
+      400000060,
+      400000060,
+      400000060,
+      400000060
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1002,
+    "battle_id": 950006011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 910000011,
+    "quest_type": 1,
+    "name": "1. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000021,
+    "quest_type": 1,
+    "name": "2. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000031,
+    "quest_type": 1,
+    "name": "3. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 3,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000041,
+    "quest_type": 1,
+    "name": "4. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 4,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000051,
+    "quest_type": 1,
+    "name": "5. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 5,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000061,
+    "quest_type": 1,
+    "name": "6. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 6,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000071,
+    "quest_type": 1,
+    "name": "7. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 7,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000081,
+    "quest_type": 1,
+    "name": "8. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 8,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000091,
+    "quest_type": 1,
+    "name": "9. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 9,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000101,
+    "quest_type": 1,
+    "name": "10. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 10,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 2
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000111,
+    "quest_type": 1,
+    "name": "11. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 11,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013111,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000121,
+    "quest_type": 1,
+    "name": "12. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 12,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013121,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000131,
+    "quest_type": 1,
+    "name": "13. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 13,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013131,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000121
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000141,
+    "quest_type": 1,
+    "name": "14. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 14,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013141,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000131
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000151,
+    "quest_type": 1,
+    "name": "15. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 15,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 4,
+        "id": 304001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013151,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000141
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000161,
+    "quest_type": 1,
+    "name": "16. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 16,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013161,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000171,
+    "quest_type": 1,
+    "name": "17. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 17,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013171,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000161
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000181,
+    "quest_type": 1,
+    "name": "18. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 18,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013181,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000191,
+    "quest_type": 1,
+    "name": "19. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 19,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013191,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000181
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000201,
+    "quest_type": 1,
+    "name": "20. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 20,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102801
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 4,
+        "id": 304001,
+        "quantity": 2
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013201,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000191
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000211,
+    "quest_type": 1,
+    "name": "21. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 21,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102802
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013211,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000221,
+    "quest_type": 1,
+    "name": "22. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 22,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102803
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013221,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000211
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000231,
+    "quest_type": 1,
+    "name": "23. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 23,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102804
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013231,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000221
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000241,
+    "quest_type": 1,
+    "name": "24. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 24,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102805
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013241,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000231
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000251,
+    "quest_type": 1,
+    "name": "25. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 25,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102806
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 4,
+        "id": 305001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013251,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000241
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000261,
+    "quest_type": 1,
+    "name": "26. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 26,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102807
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013261,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000251
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000271,
+    "quest_type": 1,
+    "name": "27. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 27,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102808
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013271,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000261
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000281,
+    "quest_type": 1,
+    "name": "28. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 28,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102809
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013281,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000271
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000291,
+    "quest_type": 1,
+    "name": "29. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 29,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102810
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013291,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000281
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000301,
+    "quest_type": 1,
+    "name": "30. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 30,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102811
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 4,
+        "id": 305001,
+        "quantity": 2
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013301,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000291
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000311,
+    "quest_type": 1,
+    "name": "31. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 31,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102812
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013311,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000301
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000321,
+    "quest_type": 1,
+    "name": "32. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 32,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102813
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013321,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000311
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000331,
+    "quest_type": 1,
+    "name": "33. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 33,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102814
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013331,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000321
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000341,
+    "quest_type": 1,
+    "name": "34. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 34,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102815
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013341,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000331
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000351,
+    "quest_type": 1,
+    "name": "35. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 35,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102816
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013351,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000341
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000361,
+    "quest_type": 1,
+    "name": "36. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 36,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102817
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013361,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000351
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000371,
+    "quest_type": 1,
+    "name": "37. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 37,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102818
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013371,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000361
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000381,
+    "quest_type": 1,
+    "name": "38. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 38,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102819
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013381,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000371
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000391,
+    "quest_type": 1,
+    "name": "39. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 39,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102820
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013391,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000381
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000401,
+    "quest_type": 1,
+    "name": "40. Thwart All Evil!",
+    "difficulty": 0,
+    "sort_order": 40,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102821
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013401,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000391
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000411,
+    "quest_type": 1,
+    "name": "41. Thwart All Evil! (Challenge)",
+    "difficulty": 0,
+    "sort_order": 41,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102822
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013411,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000401
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000421,
+    "quest_type": 1,
+    "name": "42. Thwart All Evil! (Challenge)",
+    "difficulty": 0,
+    "sort_order": 42,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102823
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013421,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000411
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000431,
+    "quest_type": 1,
+    "name": "43. Thwart All Evil! (Challenge)",
+    "difficulty": 0,
+    "sort_order": 43,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102824
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013431,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000421
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000441,
+    "quest_type": 1,
+    "name": "44. Thwart All Evil! (Challenge)",
+    "difficulty": 0,
+    "sort_order": 44,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102825
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013441,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000431
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000451,
+    "quest_type": 1,
+    "name": "45. Thwart All Evil! (Challenge)",
+    "difficulty": 0,
+    "sort_order": 45,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102826
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013451,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000441
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000461,
+    "quest_type": 1,
+    "name": "46. Thwart All Evil! (Challenge)",
+    "difficulty": 0,
+    "sort_order": 46,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102827
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013461,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000451
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000471,
+    "quest_type": 1,
+    "name": "47. Thwart All Evil! (Challenge)",
+    "difficulty": 0,
+    "sort_order": 47,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102828
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 70
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013471,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000461
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000481,
+    "quest_type": 1,
+    "name": "48. Thwart All Evil! (Challenge)",
+    "difficulty": 0,
+    "sort_order": 48,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102829
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 70
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013481,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000471
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000491,
+    "quest_type": 1,
+    "name": "49. Thwart All Evil! (Challenge)",
+    "difficulty": 0,
+    "sort_order": 49,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102830
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 70
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013491,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000481
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 910000501,
+    "quest_type": 1,
+    "name": "50. Thwart All Evil! (Challenge)",
+    "difficulty": 0,
+    "sort_order": 50,
+    "clear_limit": 0,
+    "banner": 901041,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      11102831
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 70
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 976,
+    "battle_id": 910013501,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      910000491
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 1001,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 920000011,
+    "quest_type": 1,
+    "name": "Treasure Cave",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430003,
+    "stamina": 0,
+    "quest_ticket_id": 821012,
+    "quest_ticket_quantity": 50,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 12,
+        "id": 840060
+      },
+      {
+        "type": 3,
+        "id": 310401
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000054,
+      400000054,
+      400000054,
+      400000054,
+      400000054,
+      400000054,
+      400000054,
+      400000054,
+      400000054,
+      400000054
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 927,
+    "battle_id": 920002011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 920000021,
+    "quest_type": 1,
+    "name": "Treasure Cave Spree",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 430003,
+    "stamina": 0,
+    "quest_ticket_id": 821012,
+    "quest_ticket_quantity": 250,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 12,
+        "id": 840060
+      },
+      {
+        "type": 3,
+        "id": 310401
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000055,
+      400000055,
+      400000055,
+      400000055,
+      400000055,
+      400000055,
+      400000055,
+      400000055,
+      400000055,
+      400000055
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 927,
+    "battle_id": 920002011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 920000031,
+    "quest_type": 1,
+    "name": "Treasure Cave (Gold)",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430003,
+    "stamina": 0,
+    "quest_ticket_id": 821013,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 2,
+        "id": 105001
+      },
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 3,
+        "id": 322101
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000056,
+      400000056,
+      400000056,
+      400000056,
+      400000056,
+      400000056,
+      400000056,
+      400000056,
+      400000056,
+      400000056
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 928,
+    "battle_id": 920002021,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 920000041,
+    "quest_type": 1,
+    "name": "Treasure Cave",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430004,
+    "stamina": 0,
+    "quest_ticket_id": 821040,
+    "quest_ticket_quantity": 50,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810007
+      },
+      {
+        "type": 12,
+        "id": 840019
+      },
+      {
+        "type": 3,
+        "id": 230402
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000057,
+      400000057,
+      400000057,
+      400000057,
+      400000057,
+      400000057,
+      400000057,
+      400000057,
+      400000057,
+      400000057
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 984,
+    "battle_id": 920002011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 920000051,
+    "quest_type": 1,
+    "name": "Treasure Cave Spree",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 430004,
+    "stamina": 0,
+    "quest_ticket_id": 821040,
+    "quest_ticket_quantity": 250,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810007
+      },
+      {
+        "type": 12,
+        "id": 840019
+      },
+      {
+        "type": 3,
+        "id": 230402
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000058,
+      400000058,
+      400000058,
+      400000058,
+      400000058,
+      400000058,
+      400000058,
+      400000058,
+      400000058,
+      400000058
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 984,
+    "battle_id": 920002011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 920000061,
+    "quest_type": 1,
+    "name": "Treasure Cave (Gold)",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430004,
+    "stamina": 0,
+    "quest_ticket_id": 821041,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 2,
+        "id": 105001
+      },
+      {
+        "type": 8,
+        "id": 810007
+      },
+      {
+        "type": 12,
+        "id": 840020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000059,
+      400000059,
+      400000059,
+      400000059,
+      400000059,
+      400000059,
+      400000059,
+      400000059,
+      400000059,
+      400000059
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 985,
+    "battle_id": 920002021,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 921105141,
+    "quest_type": 1,
+    "name": "Treasure Cave",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430006,
+    "stamina": 0,
+    "quest_ticket_id": 821070,
+    "quest_ticket_quantity": 50,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 12,
+        "id": 1000840003
+      },
+      {
+        "type": 3,
+        "id": 230402
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000064,
+      400000064,
+      400000064,
+      400000064,
+      400000064,
+      400000064,
+      400000064,
+      400000064,
+      400000064,
+      400000064
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1051,
+    "battle_id": 920002011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 921105261,
+    "quest_type": 1,
+    "name": "Treasure Cave (Gold)",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430006,
+    "stamina": 0,
+    "quest_ticket_id": 821069,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 2,
+        "id": 105001
+      },
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 12,
+        "id": 840003
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000066,
+      400000066,
+      400000066,
+      400000066,
+      400000066,
+      400000066,
+      400000066,
+      400000066,
+      400000066,
+      400000066
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1052,
+    "battle_id": 920002021,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 921111911,
+    "quest_type": 1,
+    "name": "Treasure Cave",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430011,
+    "stamina": 0,
+    "quest_ticket_id": 821072,
+    "quest_ticket_quantity": 50,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 610104
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000073,
+      400000073,
+      400000073,
+      400000073,
+      400000073,
+      400000073,
+      400000073,
+      400000073,
+      400000073,
+      400000073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1119,
+    "battle_id": 920002011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 921112031,
+    "quest_type": 1,
+    "name": "Treasure Cave (Gold)",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430011,
+    "stamina": 0,
+    "quest_ticket_id": 821071,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 2,
+        "id": 105001
+      },
+      {
+        "type": 3,
+        "id": 710202
+      },
+      {
+        "type": 3,
+        "id": 310503
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000075,
+      400000075,
+      400000075,
+      400000075,
+      400000075,
+      400000075,
+      400000075,
+      400000075,
+      400000075,
+      400000075
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1120,
+    "battle_id": 920002021,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 922105151,
+    "quest_type": 1,
+    "name": "Treasure Cave Spree",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 430006,
+    "stamina": 0,
+    "quest_ticket_id": 821070,
+    "quest_ticket_quantity": 250,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 12,
+        "id": 1000840003
+      },
+      {
+        "type": 3,
+        "id": 230402
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000065,
+      400000065,
+      400000065,
+      400000065,
+      400000065,
+      400000065,
+      400000065,
+      400000065,
+      400000065,
+      400000065
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1051,
+    "battle_id": 920002011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 922105261,
+    "quest_type": 1,
+    "name": "Treasure Cave Spree (Gold)",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 430006,
+    "stamina": 0,
+    "quest_ticket_id": 821069,
+    "quest_ticket_quantity": 5,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 2,
+        "id": 105001
+      },
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 12,
+        "id": 840003
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000067,
+      400000067,
+      400000067,
+      400000067,
+      400000067,
+      400000067,
+      400000067,
+      400000067,
+      400000067,
+      400000067
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1052,
+    "battle_id": 920002021,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 922111921,
+    "quest_type": 1,
+    "name": "Treasure Cave Spree",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 430011,
+    "stamina": 0,
+    "quest_ticket_id": 821072,
+    "quest_ticket_quantity": 250,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 610104
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000074,
+      400000074,
+      400000074,
+      400000074,
+      400000074,
+      400000074,
+      400000074,
+      400000074,
+      400000074,
+      400000074
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1119,
+    "battle_id": 920002011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 922112041,
+    "quest_type": 1,
+    "name": "Treasure Cave Spree (Gold)",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 430011,
+    "stamina": 0,
+    "quest_ticket_id": 821071,
+    "quest_ticket_quantity": 5,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 2,
+        "id": 105001
+      },
+      {
+        "type": 3,
+        "id": 710202
+      },
+      {
+        "type": 3,
+        "id": 310503
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000076,
+      400000076,
+      400000076,
+      400000076,
+      400000076,
+      400000076,
+      400000076,
+      400000076,
+      400000076,
+      400000076
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1120,
+    "battle_id": 920002021,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  }
+]

@@ -1,0 +1,6554 @@
+[
+  {
+    "id": 702100001,
+    "name": "Fired Up Ⅳ",
+    "flavor_text": "Attacks' damage increases (large effect).",
+    "special_effect_ids": [
+      802040001
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100002,
+    "name": "Fired Up Ⅲ",
+    "flavor_text": "Attacks' damage increases (medium effect).",
+    "special_effect_ids": [
+      802040002
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100003,
+    "name": "Fired Up Ⅱ",
+    "flavor_text": "Attacks' damage increases (small effect).",
+    "special_effect_ids": [
+      802040003
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100004,
+    "name": "Fired Up Ⅰ",
+    "flavor_text": "Attacks' damage increases (very small effect).",
+    "special_effect_ids": [
+      802040004
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100005,
+    "name": "Weak Point Focus Ⅱ",
+    "flavor_text": "Weak attacks' damage increases (medium effect).",
+    "special_effect_ids": [
+      802040005
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100006,
+    "name": "Overflow",
+    "flavor_text": "OD attacks' damage increases (large effect).",
+    "special_effect_ids": [
+      802040006
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100007,
+    "name": "Deft Barrage",
+    "flavor_text": "Combo attacks' damage increases (large effect).",
+    "special_effect_ids": [
+      802040007
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100008,
+    "name": "Fatal Blow Ⅲ",
+    "flavor_text": "Critical attacks' damage increases (large effect).",
+    "special_effect_ids": [
+      802040008
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100009,
+    "name": "Fatal Blow Ⅱ",
+    "flavor_text": "Critical attacks' damage increases (medium effect).",
+    "special_effect_ids": [
+      802040009
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100010,
+    "name": "Fatal Blow Ⅰ",
+    "flavor_text": "Critical attacks' damage increases (small effect).",
+    "special_effect_ids": [
+      802040010
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100011,
+    "name": "Counter Boost Ⅲ",
+    "flavor_text": "Counterattacks' damage increases (extreme effect).",
+    "special_effect_ids": [
+      802040011
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100012,
+    "name": "Counter Boost Ⅱ",
+    "flavor_text": "Counterattacks' damage increases (very large effect).",
+    "special_effect_ids": [
+      802040012
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100013,
+    "name": "Counter Boost Ⅰ",
+    "flavor_text": "Counterattacks' damage increases (large effect).",
+    "special_effect_ids": [
+      802040013
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100014,
+    "name": "Hardy Wallop Ⅲ",
+    "flavor_text": "[Full HP]<br>Damage increases (large effect).",
+    "special_effect_ids": [
+      802040014
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100015,
+    "name": "Hardy Wallop Ⅱ",
+    "flavor_text": "[Full HP]<br>Damage increases (medium effect).",
+    "special_effect_ids": [
+      802040015
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100016,
+    "name": "Hardy Wallop Ⅰ",
+    "flavor_text": "[Full HP]<br>Damage increases (small effect).",
+    "special_effect_ids": [
+      802040016
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100017,
+    "name": "Desperate Assault Ⅱ",
+    "flavor_text": "[At Critical HP]<br>Damage increases (very large effect).",
+    "special_effect_ids": [
+      802040017
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100018,
+    "name": "Desperate Assault Ⅰ",
+    "flavor_text": "[At Critical HP]<br>Damage increases (large effect).",
+    "special_effect_ids": [
+      802040018
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100019,
+    "name": "Recovery Boost Ⅲ",
+    "flavor_text": "When recovery actions are made, recovery amount increases (large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802040019
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100020,
+    "name": "Recovery Boost Ⅱ",
+    "flavor_text": "When recovery actions are made, recovery amount increases (medium effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802040020
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100021,
+    "name": "Recovery Boost Ⅰ",
+    "flavor_text": "When recovery actions are made, recovery amount increases (small effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802040021
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100022,
+    "name": "Hardy Recovery Ⅲ",
+    "flavor_text": "[Full HP]<br>When recovery actions are made, recovery amount increases (large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802040022
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100023,
+    "name": "Hardy Recovery Ⅱ",
+    "flavor_text": "[Full HP]<br>When recovery actions are made, recovery amount increases (medium effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802040023
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100024,
+    "name": "Hardy Recovery Ⅰ",
+    "flavor_text": "[Full HP]<br>When recovery actions are made, recovery amount increases (small effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802040024
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100025,
+    "name": "Will to Live Ⅱ",
+    "flavor_text": "[At Critical HP]<br>When recovery actions are made, recovery amount increases (very large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802040025
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100026,
+    "name": "Will to Live Ⅰ",
+    "flavor_text": "[At Critical HP]<br>When recovery actions are made, recovery amount increases (large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802040026
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100027,
+    "name": "Attack Focus Ⅲ",
+    "flavor_text": "Skill attacks' accuracy increases (large effect).",
+    "special_effect_ids": [
+      802040027
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100028,
+    "name": "Attack Focus Ⅱ",
+    "flavor_text": "Skill attacks' accuracy increases (medium effect).",
+    "special_effect_ids": [
+      802040028
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100029,
+    "name": "Attack Focus Ⅰ",
+    "flavor_text": "Skill attacks' accuracy increases (small effect).",
+    "special_effect_ids": [
+      802040029
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100030,
+    "name": "Invocation of Spirit Ⅲ",
+    "flavor_text": "Spell attacks' accuracy increases (large effect).",
+    "special_effect_ids": [
+      802040030
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100031,
+    "name": "Invocation of Spirit Ⅱ",
+    "flavor_text": "Spell attacks' accuracy increases (medium effect).",
+    "special_effect_ids": [
+      802040031
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100032,
+    "name": "Invocation of Spirit Ⅰ",
+    "flavor_text": "Spell attacks' accuracy increases (small effect).",
+    "special_effect_ids": [
+      802040032
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100033,
+    "name": "Elemental Focus Ⅲ",
+    "flavor_text": "Weak attacks' accuracy increases (large effect).",
+    "special_effect_ids": [
+      802040033
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100034,
+    "name": "Elemental Focus Ⅱ",
+    "flavor_text": "Weak attacks' accuracy increases (medium effect).",
+    "special_effect_ids": [
+      802040034
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100035,
+    "name": "Elemental Focus Ⅰ",
+    "flavor_text": "Weak attacks' accuracy increases (small effect).",
+    "special_effect_ids": [
+      802040035
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100036,
+    "name": "Skilled Slayer Ⅲ",
+    "flavor_text": "Critical attacks' accuracy increases (very large effect).",
+    "special_effect_ids": [
+      802040036
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100037,
+    "name": "Skilled Slayer Ⅱ",
+    "flavor_text": "Critical attacks' accuracy increases (large effect).",
+    "special_effect_ids": [
+      802040037
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100038,
+    "name": "Skilled Slayer Ⅰ",
+    "flavor_text": "Critical attacks' accuracy increases (medium effect).",
+    "special_effect_ids": [
+      802040038
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100039,
+    "name": "Hardy Aim Ⅱ (Skills)",
+    "flavor_text": "[Full HP]<br>Skill attacks' accuracy increases (large effect).",
+    "special_effect_ids": [
+      802040039
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100040,
+    "name": "Hardy Aim Ⅰ (Skills)",
+    "flavor_text": "[Full HP]<br>Skill attacks' accuracy increases (medium effect).",
+    "special_effect_ids": [
+      802040040
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100041,
+    "name": "Desperate Strike (Skills)",
+    "flavor_text": "[At Critical HP]<br>Skill attacks' accuracy increases (very large effect).",
+    "special_effect_ids": [
+      802040041
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100042,
+    "name": "Hardy Aim Ⅱ (Spells)",
+    "flavor_text": "[Full HP]<br>Spell attacks' accuracy increases (large effect).",
+    "special_effect_ids": [
+      802040042
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100043,
+    "name": "Hardy Aim Ⅰ (Spells)",
+    "flavor_text": "[Full HP]<br>Spell attacks' accuracy increases (medium effect).",
+    "special_effect_ids": [
+      802040043
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100044,
+    "name": "Desperate Strike (Spells)",
+    "flavor_text": "[At Critical HP]<br>Spell attacks' accuracy increases (very large effect).",
+    "special_effect_ids": [
+      802040044
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100045,
+    "name": "Ironwall Defense Ⅲ",
+    "flavor_text": "When attacked, damage will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040045
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100046,
+    "name": "Ironwall Defense Ⅱ",
+    "flavor_text": "When attacked, damage will be reduced (small effect).",
+    "special_effect_ids": [
+      802040046
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100047,
+    "name": "Ironwall Defense Ⅰ",
+    "flavor_text": "When attacked, damage will be reduced (small effect).",
+    "special_effect_ids": [
+      802040047
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100048,
+    "name": "Deflect Counter Ⅱ",
+    "flavor_text": "When hit by counterattacks, damage will be reduced (extreme effect).",
+    "special_effect_ids": [
+      802040048
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100049,
+    "name": "Deflect Counter Ⅰ",
+    "flavor_text": "When hit by counterattacks, damage will be reduced (very large effect).",
+    "special_effect_ids": [
+      802040049
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100050,
+    "name": "Hardy Defense Ⅳ",
+    "flavor_text": "[Full HP]<br>Damage will be reduced (large effect).",
+    "special_effect_ids": [
+      802040050
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100051,
+    "name": "Hardy Defense Ⅲ",
+    "flavor_text": "[Full HP]<br>Damage will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040051
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100052,
+    "name": "Hardy Defense Ⅱ",
+    "flavor_text": "[Full HP]<br>Damage will be reduced (small effect).",
+    "special_effect_ids": [
+      802040052
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100053,
+    "name": "Hardy Defense Ⅰ",
+    "flavor_text": "[Full HP]<br>Damage will be reduced (very small effect).",
+    "special_effect_ids": [
+      802040053
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100054,
+    "name": "Defiant Spirit Ⅱ",
+    "flavor_text": "When hit by Weak attacks, damage will be reduced (large effect).",
+    "special_effect_ids": [
+      802040054
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100055,
+    "name": "Defiant Spirit Ⅰ",
+    "flavor_text": "When hit by Weak attacks, damage will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040055
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100056,
+    "name": "Resilient Mind",
+    "flavor_text": "[At Critical HP]<br>Damage will be reduced (large effect).",
+    "special_effect_ids": [
+      802040056
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100255,
+    "name": "Painstaking Preparation",
+    "flavor_text": "Increases the success rate of causing status changes on target (small effect).",
+    "special_effect_ids": [
+      802040255
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100256,
+    "name": "Misfortunes Doubled",
+    "flavor_text": "When landing a Weak attack, increases the success rate of causing status changes on target (small effect).",
+    "special_effect_ids": [
+      802040256
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100272,
+    "name": "Persevere",
+    "flavor_text": "When attacked and HP reaches 0, returns to 30% of Max HP (Max times: 1).",
+    "special_effect_ids": [
+      802040265
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100273,
+    "name": "Hold Out",
+    "flavor_text": "When attacked and HP reaches 0, returns to 1 HP (Max times: 1).",
+    "special_effect_ids": [
+      802040264
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100274,
+    "name": "Deft Maneuver",
+    "flavor_text": "When being attacked, evades enemy's attack (low chance).",
+    "special_effect_ids": [
+      802040266
+    ],
+    "ability_when": 1,
+    "icon": 4006
+  },
+  {
+    "id": 702100275,
+    "name": "Defensive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a slash Sword skill (medium chance).",
+    "special_effect_ids": [
+      802040267
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100276,
+    "name": "Defensive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a slash G. Sword skill (medium chance).",
+    "special_effect_ids": [
+      802040268
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100277,
+    "name": "Defensive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a slash Axe skill (medium chance).",
+    "special_effect_ids": [
+      802040269
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100278,
+    "name": "Defensive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a blunt Club skill (medium chance).",
+    "special_effect_ids": [
+      802040270
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100279,
+    "name": "Defensive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a blunt M. Arts skill (medium chance).",
+    "special_effect_ids": [
+      802040271
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100280,
+    "name": "Defensive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a blunt Gun skill (medium chance).",
+    "special_effect_ids": [
+      802040272
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100281,
+    "name": "Defensive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a pierce S. Sword skill (medium chance).",
+    "special_effect_ids": [
+      802040273
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100282,
+    "name": "Defensive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a pierce Spear skill (medium chance).",
+    "special_effect_ids": [
+      802040274
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100283,
+    "name": "Defensive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a pierce Bow skill (medium chance).",
+    "special_effect_ids": [
+      802040275
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100284,
+    "name": "Defensive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a blunt Staff skill (medium chance).",
+    "special_effect_ids": [
+      802040276
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100285,
+    "name": "Defensive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a slash Sword skill (low chance).",
+    "special_effect_ids": [
+      802040277
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100286,
+    "name": "Defensive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a slash G. Sword skill (low chance).",
+    "special_effect_ids": [
+      802040278
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100287,
+    "name": "Defensive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a slash Axe skill (low chance).",
+    "special_effect_ids": [
+      802040279
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100288,
+    "name": "Defensive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a blunt Club skill (low chance).",
+    "special_effect_ids": [
+      802040280
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100289,
+    "name": "Defensive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a blunt M. Arts skill (low chance).",
+    "special_effect_ids": [
+      802040281
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100290,
+    "name": "Defensive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a blunt Gun skill (low chance).",
+    "special_effect_ids": [
+      802040282
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100291,
+    "name": "Defensive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a pierce S. Sword skill (low chance).",
+    "special_effect_ids": [
+      802040283
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100292,
+    "name": "Defensive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a pierce Spear skill (low chance).",
+    "special_effect_ids": [
+      802040284
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100293,
+    "name": "Defensive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a pierce Bow skill (low chance).",
+    "special_effect_ids": [
+      802040285
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100294,
+    "name": "Defensive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a blunt Staff skill (low chance).",
+    "special_effect_ids": [
+      802040286
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100295,
+    "name": "Evasive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a slash Sword skill (low chance).",
+    "special_effect_ids": [
+      802040287
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100296,
+    "name": "Evasive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a slash G. Sword skill (low chance).",
+    "special_effect_ids": [
+      802040288
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100297,
+    "name": "Evasive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a slash Axe skill (low chance).",
+    "special_effect_ids": [
+      802040289
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100298,
+    "name": "Evasive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a blunt Club skill (low chance).",
+    "special_effect_ids": [
+      802040290
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100299,
+    "name": "Evasive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a blunt M. Arts skill (low chance).",
+    "special_effect_ids": [
+      802040291
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100300,
+    "name": "Evasive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a blunt Gun skill (low chance).",
+    "special_effect_ids": [
+      802040292
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100301,
+    "name": "Evasive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a pierce S. Sword skill (low chance).",
+    "special_effect_ids": [
+      802040293
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100302,
+    "name": "Evasive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a pierce Spear skill (low chance).",
+    "special_effect_ids": [
+      802040294
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100303,
+    "name": "Evasive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a pierce Bow skill (low chance).",
+    "special_effect_ids": [
+      802040295
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100304,
+    "name": "Evasive Counter Ⅰ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a blunt Staff skill (low chance).",
+    "special_effect_ids": [
+      802040296
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100305,
+    "name": "Act of Devotion",
+    "flavor_text": "Takes an ally's place in being attacked (low chance).",
+    "special_effect_ids": [
+      802040297
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100306,
+    "name": "Unflagging Devotion",
+    "flavor_text": "Takes an ally's place in being attacked, and reduces the damage (very low chance).",
+    "special_effect_ids": [
+      802040298
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100307,
+    "name": "Passive Devotion",
+    "flavor_text": "Takes an ally's place in being attacked, and dodges the attack (very low chance).",
+    "special_effect_ids": [
+      802040299
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100308,
+    "name": "Increased Profits Ⅲ",
+    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum received (large effect/can't stack).",
+    "special_effect_ids": [
+      802040300
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100309,
+    "name": "Increased Profits Ⅱ",
+    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum received (medium effect/can't stack).",
+    "special_effect_ids": [
+      802040301
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100310,
+    "name": "Increased Profits Ⅰ",
+    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum received (small effect/can't stack).",
+    "special_effect_ids": [
+      802040302
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100311,
+    "name": "Rapid Growth Ⅲ",
+    "flavor_text": "[Upon Victory]<br>Increases player's EXP (large effect/can't stack).",
+    "special_effect_ids": [
+      802040303
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100312,
+    "name": "Rapid Growth Ⅱ",
+    "flavor_text": "[Upon Victory]<br>Increases player's EXP (medium effect/can't stack).",
+    "special_effect_ids": [
+      802040304
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100313,
+    "name": "Rapid Growth Ⅰ",
+    "flavor_text": "[Upon Victory]<br>Increases player's EXP (small effect/can't stack).",
+    "special_effect_ids": [
+      802040305
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100314,
+    "name": "Star Pupil Ⅲ",
+    "flavor_text": "[Upon Victory]<br>Increases Styles' enhancement EXP (large effect/can't stack).",
+    "special_effect_ids": [
+      802040306
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100315,
+    "name": "Star Pupil Ⅱ",
+    "flavor_text": "[Upon Victory]<br>Increases Styles' enhancement EXP (medium effect/can't stack).",
+    "special_effect_ids": [
+      802040307
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100316,
+    "name": "Star Pupil Ⅰ",
+    "flavor_text": "[Upon Victory]<br>Increases Styles' enhancement EXP (small effect/can't stack).",
+    "special_effect_ids": [
+      802040308
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100317,
+    "name": "Weak Point Focus Ⅲ",
+    "flavor_text": "Weak attacks' damage increases (large effect).",
+    "special_effect_ids": [
+      802040309
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100319,
+    "name": "Phantom",
+    "flavor_text": "When being attacked, evades enemy's attack (medium chance).",
+    "special_effect_ids": [
+      802040311
+    ],
+    "ability_when": 1,
+    "icon": 4006
+  },
+  {
+    "id": 702100324,
+    "name": "Passionate Devotion",
+    "flavor_text": "Takes an ally's place in being attacked (medium chance).",
+    "special_effect_ids": [
+      802040315
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100332,
+    "name": "Power Charge Ⅱ",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+2).",
+    "special_effect_ids": [
+      802040322
+    ],
+    "ability_when": 1,
+    "icon": 4007
+  },
+  {
+    "id": 702100333,
+    "name": "Power Charge Ⅰ",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+1).",
+    "special_effect_ids": [
+      802040323
+    ],
+    "ability_when": 1,
+    "icon": 4007
+  },
+  {
+    "id": 702100342,
+    "name": "Evasive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a slash Sword skill (medium chance).",
+    "special_effect_ids": [
+      802040332
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100343,
+    "name": "Evasive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a slash G. Sword skill (medium chance).",
+    "special_effect_ids": [
+      802040333
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100344,
+    "name": "Evasive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a slash Axe skill (medium chance).",
+    "special_effect_ids": [
+      802040334
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100345,
+    "name": "Evasive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a blunt Club skill (medium chance).",
+    "special_effect_ids": [
+      802040335
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100346,
+    "name": "Evasive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a blunt M. Arts skill (medium chance).",
+    "special_effect_ids": [
+      802040336
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100347,
+    "name": "Evasive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a blunt Gun skill (medium chance).",
+    "special_effect_ids": [
+      802040337
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100348,
+    "name": "Evasive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a pierce S. Sword skill (medium chance).",
+    "special_effect_ids": [
+      802040338
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100349,
+    "name": "Evasive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a pierce Spear skill (medium chance).",
+    "special_effect_ids": [
+      802040339
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100350,
+    "name": "Evasive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a pierce Bow skill (medium chance).",
+    "special_effect_ids": [
+      802040340
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100351,
+    "name": "Evasive Counter Ⅱ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a blunt Staff skill (medium chance).",
+    "special_effect_ids": [
+      802040341
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100352,
+    "name": "Hardy Wallop Ⅳ",
+    "flavor_text": "[Full HP]<br>Damage increases (very large effect).",
+    "special_effect_ids": [
+      802040342
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100355,
+    "name": "Firm Conviction",
+    "flavor_text": "When attacked and HP reaches 0, returns to 50% of Max HP (Max times: 1).",
+    "special_effect_ids": [
+      802040345
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100356,
+    "name": "Fired Up Ⅴ",
+    "flavor_text": "Attacks' damage increases (very large effect).",
+    "special_effect_ids": [
+      802040346
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100357,
+    "name": "Weak Point Focus Ⅳ",
+    "flavor_text": "Weak attacks' damage increases (very large effect).",
+    "special_effect_ids": [
+      802040347
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100359,
+    "name": "Flame Ward",
+    "flavor_text": "Nullifies attacks which have heat damage. Also counterattacks with a heat fire spell when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).",
+    "special_effect_ids": [
+      802040349
+    ],
+    "ability_when": 1,
+    "icon": 2001
+  },
+  {
+    "id": 702100361,
+    "name": "Flame Amp Ⅱ",
+    "flavor_text": "Heat attacks' damage increases (medium effect).",
+    "special_effect_ids": [
+      802040351
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100363,
+    "name": "Bow Prowess Ⅲ",
+    "flavor_text": "When attacking with bows, damage increases (large effect).",
+    "special_effect_ids": [
+      802040353
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100364,
+    "name": "Bow Prowess Ⅱ",
+    "flavor_text": "When attacking with bows, damage increases (medium effect).",
+    "special_effect_ids": [
+      802040354
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100367,
+    "name": "Frost Ward",
+    "flavor_text": "Nullifies attacks which have cold damage. Also counterattacks with a cold water spell when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).",
+    "special_effect_ids": [
+      802040357
+    ],
+    "ability_when": 1,
+    "icon": 2003
+  },
+  {
+    "id": 702100369,
+    "name": "Frost Amp Ⅱ",
+    "flavor_text": "Cold attacks' damage increases (medium effect).",
+    "special_effect_ids": [
+      802040359
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100371,
+    "name": "Ironwall Defense Ⅳ",
+    "flavor_text": "When attacked, damage will be reduced (large effect).",
+    "special_effect_ids": [
+      802040361
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100373,
+    "name": "Princess Guard",
+    "flavor_text": "Takes an ally's place in being attacked (high chance).",
+    "special_effect_ids": [
+      802040363
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100376,
+    "name": "G. Sword Prowess Ⅱ",
+    "flavor_text": "When attacking with G. Swords, damage increases (medium effect).",
+    "special_effect_ids": [
+      802040366
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100377,
+    "name": "G. Sword Prowess Ⅰ",
+    "flavor_text": "When attacking with G. Swords, damage increases (small effect).",
+    "special_effect_ids": [
+      802040367
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100378,
+    "name": "M. Arts Prowess Ⅲ",
+    "flavor_text": "When attacking with M. Arts, damage increases (large effect).",
+    "special_effect_ids": [
+      802040368
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100379,
+    "name": "M. Arts Prowess Ⅱ",
+    "flavor_text": "When attacking with M. Arts, damage increases (medium effect).",
+    "special_effect_ids": [
+      802040369
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100382,
+    "name": "Shade Amp Ⅱ",
+    "flavor_text": "Shadow attacks' damage increases (medium effect).",
+    "special_effect_ids": [
+      802040372
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100389,
+    "name": "Increased Profits Ⅳ",
+    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum received (very large effect/can't stack).",
+    "special_effect_ids": [
+      802040379
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100392,
+    "name": "Sun Amp Ⅱ",
+    "flavor_text": "Sun attacks' damage increases (medium effect).",
+    "special_effect_ids": [
+      802040382
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100395,
+    "name": "Fortified Wall",
+    "flavor_text": "When attacked, damage will be reduced by 100% (medium chance). ",
+    "special_effect_ids": [
+      802040385
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100434,
+    "name": "Sword Prowess Ⅲ",
+    "flavor_text": "When attacking with swords, damage increases (large effect).",
+    "special_effect_ids": [
+      802040423
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100437,
+    "name": "Axe Prowess Ⅲ",
+    "flavor_text": "When attacking with axes, damage increases (large effect).",
+    "special_effect_ids": [
+      802040426
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100438,
+    "name": "Axe Prowess Ⅱ",
+    "flavor_text": "When attacking with axes, damage increases (medium effect).",
+    "special_effect_ids": [
+      802040427
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100439,
+    "name": "斧の秘訣Ⅰ",
+    "flavor_text": "斧装備時　攻撃の<br>与ダメージが上昇する( 効果小 )",
+    "special_effect_ids": [
+      802040428
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100445,
+    "name": "Gun Prowess Ⅰ",
+    "flavor_text": "When attacking with guns, damage increases (small effect).",
+    "special_effect_ids": [
+      802040434
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100446,
+    "name": "Spear Prowess Ⅲ",
+    "flavor_text": "When attacking with spears, damage increases (large effect).",
+    "special_effect_ids": [
+      802040438
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100447,
+    "name": "Spear Prowess Ⅱ",
+    "flavor_text": "When attacking with spears, damage increases (medium effect).",
+    "special_effect_ids": [
+      802040439
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100456,
+    "name": "Lightning Amp Ⅱ",
+    "flavor_text": "Lightning attacks' damage increases (medium effect).",
+    "special_effect_ids": [
+      802040445
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100458,
+    "name": "Purifying Light",
+    "flavor_text": "Nullifies attacks which have shadow damage. Also counterattacks with Saint Fire when being directly attacked.<br>(Counters using spell Rank 1/Counterattacks will not activate when parry is used in the same turn).<br>Saint Fire: Light Spell/Row of Foes (Sun+Heat) [Critical: Undead/Demon].",
+    "special_effect_ids": [
+      802040447
+    ],
+    "ability_when": 1,
+    "icon": 2010
+  },
+  {
+    "id": 702100459,
+    "name": "Ironwall Defense Ⅴ",
+    "flavor_text": "When attacked, damage will be reduced (very large effect).",
+    "special_effect_ids": [
+      802040448
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100469,
+    "name": "Silver Wall",
+    "flavor_text": "When attacked, damage will be reduced by 100% (Max times: 2).",
+    "special_effect_ids": [
+      802040458
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100470,
+    "name": "Mud Counter",
+    "flavor_text": "When being directly attacked, counterattacks with Mud Spread.<br>(Counters using skill Rank 1).",
+    "special_effect_ids": [
+      802040459
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100474,
+    "name": "Bond of Fire & Ice",
+    "flavor_text": "Increases all surviving allies' cold attacks' damage (small effect).<br>Increases all surviving allies' heat attacks' damage (small effect).",
+    "special_effect_ids": [
+      802040468,
+      802040469
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100480,
+    "name": "Super Fatal Blow",
+    "flavor_text": "Critical attacks' damage increases (extreme effect).",
+    "special_effect_ids": [
+      802040473
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100481,
+    "name": "Dire Offense & Defense",
+    "flavor_text": "When HP is not full, attacks' damage increases (large effect), and damage will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040474,
+      802040475
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100482,
+    "name": "Affection",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with 3 Mistresses (high chance).<br>(Activates using spell Rank 1).",
+    "special_effect_ids": [
+      802040476
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100485,
+    "name": "Frying Pan Whack",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with Frying Pan (high chance).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040478
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100490,
+    "name": "Warcry (Blunt/Sun)",
+    "flavor_text": "Increases all surviving allies' blunt attacks' damage (small effect).<br>Increases all surviving allies' sun attacks' damage (small effect).",
+    "special_effect_ids": [
+      802040483,
+      802040484
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100495,
+    "name": "Defensive Counter Ⅲ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a blunt M. Arts skill (high chance).",
+    "special_effect_ids": [
+      802040488
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100497,
+    "name": "Rose-Gold Pussy Willow",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Cat's Claw (medium chance).<br><br>Counterattack: Cat's Claw<br>Attack/Power: D/Single Foe (Slash)<br>Attack. (Activates using skill Rank 1)<br>Recovers own BP (+3).",
+    "special_effect_ids": [
+      802040490
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100500,
+    "name": "Sensei's Power",
+    "flavor_text": "When all allies are still surviving, own attacks' damage increases (medium effect), and reduces damage for oneself (medium effect). ",
+    "special_effect_ids": [
+      802040493,
+      802040494
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100503,
+    "name": "Counter Shot",
+    "flavor_text": "When being directly attacked, counterattacks with Derringer.<br>(Counters using skill Rank 1).",
+    "special_effect_ids": [
+      802040496
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100508,
+    "name": "Evasive Counter Ⅲ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a pierce S. Sword skill (high chance).",
+    "special_effect_ids": [
+      802040504
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100509,
+    "name": "Superior Zoning",
+    "flavor_text": "Own all-range/ranged attacks' damage increases (medium effect).",
+    "special_effect_ids": [
+      802040501,
+      802040503,
+      802040507
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100511,
+    "name": "Warcry (Slash/Sun)",
+    "flavor_text": "Increases all surviving allies' slash attacks' damage (small effect).<br>Increases all surviving allies' sun attacks' damage (small effect).",
+    "special_effect_ids": [
+      802040502,
+      802040484
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100513,
+    "name": "Over Tension",
+    "flavor_text": "Attacks' damage increases (large effect).<br>Own combo/OD attacks' damage increases (large effect).<br>(An OverDrive Combo attack will receive both buffs).",
+    "special_effect_ids": [
+      802040001,
+      802040007,
+      802040006
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100514,
+    "name": "Guardian",
+    "flavor_text": "Takes an ally's place in being attacked, and reduces the damage (medium chance).",
+    "special_effect_ids": [
+      802040508
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100522,
+    "name": "Battle Tension",
+    "flavor_text": "Attacks' damage increases (large effect).<br><br>[Start of battle]<br>Recovers own BP (+1).",
+    "special_effect_ids": [
+      802040001,
+      802040323
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100523,
+    "name": "Silver Slash",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with Silver Sword (high chance).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040518
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100525,
+    "name": "Power Charge Ⅲ",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+3).",
+    "special_effect_ids": [
+      802040520
+    ],
+    "ability_when": 1,
+    "icon": 4007
+  },
+  {
+    "id": 702100528,
+    "name": "Firestrike Ward",
+    "flavor_text": "Nullifies attacks which have heat damage. Also counterattacks with a heat axe skill when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).",
+    "special_effect_ids": [
+      802040524
+    ],
+    "ability_when": 1,
+    "icon": 1005
+  },
+  {
+    "id": 702100532,
+    "name": "Evasive Counter Ⅲ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a blunt M. Arts skill (high chance).",
+    "special_effect_ids": [
+      802040528
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100536,
+    "name": "希望の歌",
+    "flavor_text": "味方が全員生存している時<br>味方全体の与ダメージが上昇( 効果小 )し、かつ、味方全体への被ダメージを軽減( 効果小 )する",
+    "special_effect_ids": [
+      802040530,
+      802040531
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100539,
+    "name": "戦端の銅鑼",
+    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、どら鳴らし+でカウンター攻撃する( 確率大 )<br>( 技Rank1で発動 )",
+    "special_effect_ids": [
+      802040535
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100619,
+    "name": "Warcry (Slash/Blunt)",
+    "flavor_text": "Increases all surviving allies' slash attacks' damage (small effect).<br>Increases all surviving allies' blunt attacks' damage (small effect).",
+    "special_effect_ids": [
+      802040502,
+      802040483
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100650,
+    "name": "Scrum Guard",
+    "flavor_text": "When all allies are still surviving, reduces damage for all allies (medium effect).",
+    "special_effect_ids": [
+      802040663
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100657,
+    "name": "Evasive Thrust",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Dual Thrust (high chance).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040674
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100659,
+    "name": "Conceal",
+    "flavor_text": "When all allies are still surviving, evades attacks towards self (very high chance).",
+    "special_effect_ids": [
+      802040676
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100660,
+    "name": "Pretty Step",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Pretty Hit (high chance).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040677
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100668,
+    "name": "Bulwark",
+    "flavor_text": "When attacked, damage will be reduced (extreme effect) (Max times: 3).<br>*Only activates when hit by an attack.",
+    "special_effect_ids": [
+      802040683
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100672,
+    "name": "Robust Tension",
+    "flavor_text": "Attacks' damage increases (large effect).<br>When HP is full, damage increases further (medium effect).",
+    "special_effect_ids": [
+      802040001,
+      802040015
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702200060,
+    "name": "Self-Regeneration Ⅲ",
+    "flavor_text": "[Start of round]<br>Recovers own HP (medium chance/large effect).",
+    "special_effect_ids": [
+      802040060
+    ],
+    "ability_when": 2,
+    "icon": 4007
+  },
+  {
+    "id": 702200061,
+    "name": "Self-Regeneration Ⅱ",
+    "flavor_text": "[Start of round]<br>Recovers own HP (medium chance/medium effect).",
+    "special_effect_ids": [
+      802040061
+    ],
+    "ability_when": 2,
+    "icon": 4007
+  },
+  {
+    "id": 702200062,
+    "name": "Self-Regeneration Ⅰ",
+    "flavor_text": "[Start of round]<br>Recovers own HP (medium chance/small effect).",
+    "special_effect_ids": [
+      802040062
+    ],
+    "ability_when": 2,
+    "icon": 4007
+  },
+  {
+    "id": 702200236,
+    "name": "Paralyzing Agent",
+    "flavor_text": "[Start of round] Inflicts paralysis on a random enemy (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030231
+    ],
+    "ability_when": 2,
+    "icon": 3004
+  },
+  {
+    "id": 702200237,
+    "name": "Tranquilizer",
+    "flavor_text": "[Start of round]<br>Inflicts sleep on a random enemy (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030232
+    ],
+    "ability_when": 2,
+    "icon": 3005
+  },
+  {
+    "id": 702200238,
+    "name": "Charming Wink",
+    "flavor_text": "[Start of round]<br>Inflicts charm on a random enemy (low chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030235
+    ],
+    "ability_when": 2,
+    "icon": 3007
+  },
+  {
+    "id": 702200239,
+    "name": "Baffler",
+    "flavor_text": "[Start of round]<br>Inflicts confusion on a random enemy (low chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030234
+    ],
+    "ability_when": 2,
+    "icon": 3006
+  },
+  {
+    "id": 702200240,
+    "name": "Lull",
+    "flavor_text": "[Start of round]<br>Inflicts sleep on a random enemy (low chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030232
+    ],
+    "ability_when": 2,
+    "icon": 3005
+  },
+  {
+    "id": 702200241,
+    "name": "Shocker",
+    "flavor_text": "[Start of round]<br>Inflicts stun on a random enemy (low chance).",
+    "special_effect_ids": [
+      802030230
+    ],
+    "ability_when": 2,
+    "icon": 3003
+  },
+  {
+    "id": 702200257,
+    "name": "Attention Grabber Ⅱ",
+    "flavor_text": "[Start of round]<br>Has oneself enter a taunt stance (medium effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040533
+    ],
+    "ability_when": 2,
+    "icon": 4009
+  },
+  {
+    "id": 702200258,
+    "name": "Attention Grabber Ⅰ",
+    "flavor_text": "[Start of round]<br>Has oneself enter a taunt stance (small effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040257
+    ],
+    "ability_when": 2,
+    "icon": 4009
+  },
+  {
+    "id": 702200259,
+    "name": "Hog the Spotlight",
+    "flavor_text": "[Start of round]<br>Has oneself enter a taunt stance (medium chance/medium effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040533
+    ],
+    "ability_when": 2,
+    "icon": 4009
+  },
+  {
+    "id": 702200266,
+    "name": "Inconspicuous Ⅱ",
+    "flavor_text": "[Start of round]<br>Has oneself enter a stealth stance (medium effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040262
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 702200267,
+    "name": "Inconspicuous Ⅰ",
+    "flavor_text": "[Start of round]<br>Has oneself enter a stealth stance (small effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040263
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 702200268,
+    "name": "Misdirection",
+    "flavor_text": "[Start of round]<br>Has oneself enter a stealth stance (medium chance/medium effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040262
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 702200331,
+    "name": "Attention Grabber Ⅳ",
+    "flavor_text": "[Start of round]<br>Has oneself enter a taunt stance (very large effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040320
+    ],
+    "ability_when": 2,
+    "icon": 4009
+  },
+  {
+    "id": 702200358,
+    "name": "Rock Solid",
+    "flavor_text": "[Start of round]<br>When attacked, damage will be reduced (extreme effect/1 turn(s)).",
+    "special_effect_ids": [
+      802040348
+    ],
+    "ability_when": 2,
+    "icon": 4002
+  },
+  {
+    "id": 702200366,
+    "name": "WIL Inhibitor Ⅱ",
+    "flavor_text": "[Start of round]<br>Reduces all enemies' WIL (medium effect).",
+    "special_effect_ids": [
+      802010356
+    ],
+    "ability_when": 2,
+    "icon": 4003
+  },
+  {
+    "id": 702200372,
+    "name": "Engage Ⅲ",
+    "flavor_text": "[Start of round]<br>Attacks' damage increases (very large effect/1 turn(s)).",
+    "special_effect_ids": [
+      802040362
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 702200374,
+    "name": "AGI Inhibitor Ⅱ",
+    "flavor_text": "[Start of round]<br>Reduces all enemies' AGI (medium effect).",
+    "special_effect_ids": [
+      802010364
+    ],
+    "ability_when": 2,
+    "icon": 4003
+  },
+  {
+    "id": 702200394,
+    "name": "Imperial Guardian",
+    "flavor_text": "[Start of round]<br>Grants all surviving allies a defense boost (medium effect/1 turn(s)).",
+    "special_effect_ids": [
+      802040384
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 702200396,
+    "name": "STR Well Ⅲ",
+    "flavor_text": "[Start of round]<br>Increases own STR (large effect).",
+    "special_effect_ids": [
+      802010386
+    ],
+    "ability_when": 2,
+    "icon": 4001
+  },
+  {
+    "id": 702200398,
+    "name": "DEX Well Ⅲ",
+    "flavor_text": "[Start of round]<br>Increases own DEX (large effect).",
+    "special_effect_ids": [
+      802010388
+    ],
+    "ability_when": 2,
+    "icon": 4001
+  },
+  {
+    "id": 702200400,
+    "name": "INT Well Ⅲ",
+    "flavor_text": "[Start of round]<br>Increases own INT (large effect).",
+    "special_effect_ids": [
+      802010390
+    ],
+    "ability_when": 2,
+    "icon": 4001
+  },
+  {
+    "id": 702200401,
+    "name": "WIL Well Ⅲ",
+    "flavor_text": "[Start of round]<br>Increases own WIL (large effect).",
+    "special_effect_ids": [
+      802010391
+    ],
+    "ability_when": 2,
+    "icon": 4001
+  },
+  {
+    "id": 702200404,
+    "name": "Spurn Ⅳ (STR)",
+    "flavor_text": "[Start of round]<br>Reduces a random enemy's STR (very large effect).",
+    "special_effect_ids": [
+      802010394
+    ],
+    "ability_when": 2,
+    "icon": 4003
+  },
+  {
+    "id": 702200405,
+    "name": "Spurn Ⅳ (END)",
+    "flavor_text": "[Start of round]<br>Reduces a random enemy's END (very large effect).",
+    "special_effect_ids": [
+      802010395
+    ],
+    "ability_when": 2,
+    "icon": 4003
+  },
+  {
+    "id": 702200408,
+    "name": "Spurn Ⅳ (INT)",
+    "flavor_text": "[Start of round]<br>Reduces a random enemy's INT (very large effect).",
+    "special_effect_ids": [
+      802010398
+    ],
+    "ability_when": 2,
+    "icon": 4003
+  },
+  {
+    "id": 702200409,
+    "name": "Spurn Ⅳ (WIL)",
+    "flavor_text": "[Start of round]<br>Reduces a random enemy's WIL (very large effect).",
+    "special_effect_ids": [
+      802010399
+    ],
+    "ability_when": 2,
+    "icon": 4003
+  },
+  {
+    "id": 702200461,
+    "name": "END Inhibitor Ⅱ",
+    "flavor_text": "[Start of round]<br>Reduces all enemies' END (large effect).",
+    "special_effect_ids": [
+      802010449
+    ],
+    "ability_when": 2,
+    "icon": 4003
+  },
+  {
+    "id": 702200462,
+    "name": "Viral Paralysis",
+    "flavor_text": "[Start of round]<br>Inflicts paralysis on all enemies (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030453
+    ],
+    "ability_when": 2,
+    "icon": 3004
+  },
+  {
+    "id": 702200463,
+    "name": "Viral Sleep",
+    "flavor_text": "[Start of round]<br>Inflicts sleep on all enemies (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030454
+    ],
+    "ability_when": 2,
+    "icon": 3005
+  },
+  {
+    "id": 702200464,
+    "name": "Viral Charm",
+    "flavor_text": "[Start of round]<br>Inflicts charm on all enemies (low chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030457
+    ],
+    "ability_when": 2,
+    "icon": 3007
+  },
+  {
+    "id": 702200467,
+    "name": "Viral Stun",
+    "flavor_text": "[Start of round]<br>Inflicts stun on all enemies (medium chance).",
+    "special_effect_ids": [
+      802030452
+    ],
+    "ability_when": 2,
+    "icon": 3003
+  },
+  {
+    "id": 702200475,
+    "name": "Vital WIL",
+    "flavor_text": "[Start of round]<br>Increases all surviving allies' WIL (medium effect).",
+    "special_effect_ids": [
+      802010465
+    ],
+    "ability_when": 2,
+    "icon": 4001
+  },
+  {
+    "id": 702200477,
+    "name": "DEX Well Ⅱ",
+    "flavor_text": "[Start of round]<br>Increases own DEX (medium effect).",
+    "special_effect_ids": [
+      802010470
+    ],
+    "ability_when": 2,
+    "icon": 4001
+  },
+  {
+    "id": 702200483,
+    "name": "Seasoned Reflex",
+    "flavor_text": "[Start of round]<br>Has oneself enter a stealth stance (medium effect/4 turn(s)).<br>Increases own DEX (medium effect).",
+    "special_effect_ids": [
+      802040262,
+      802010470
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 702200491,
+    "name": "Captain",
+    "flavor_text": "[Start of round]<br>Has oneself enter a taunt stance (very small effect/4 turn(s)).<br>Increases own STR (large effect).",
+    "special_effect_ids": [
+      802040258,
+      802010386
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 702200494,
+    "name": "Viral Poison",
+    "flavor_text": "[Start of round]<br>Inflicts poison on all enemies (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030450
+    ],
+    "ability_when": 2,
+    "icon": 3001
+  },
+  {
+    "id": 702200620,
+    "name": "Vital INT",
+    "flavor_text": "[Start of round]<br>Increases all surviving allies' INT (medium effect).",
+    "special_effect_ids": [
+      802010626
+    ],
+    "ability_when": 2,
+    "icon": 4001
+  },
+  {
+    "id": 702200629,
+    "name": "Vital END",
+    "flavor_text": "[Start of round]<br>Increases all surviving allies' END (medium effect).",
+    "special_effect_ids": [
+      802010640
+    ],
+    "ability_when": 2,
+    "icon": 4001
+  },
+  {
+    "id": 702200654,
+    "name": "DEX Well Ⅳ",
+    "flavor_text": "[Start of round]<br>Increases own DEX (very large effect).",
+    "special_effect_ids": [
+      802010671
+    ],
+    "ability_when": 2,
+    "icon": 4001
+  },
+  {
+    "id": 702200655,
+    "name": "Vital DEX",
+    "flavor_text": "[Start of round]<br>Increases all surviving allies' DEX (medium effect).",
+    "special_effect_ids": [
+      802010672
+    ],
+    "ability_when": 2,
+    "icon": 4001
+  },
+  {
+    "id": 702200662,
+    "name": "Blunt Clash",
+    "flavor_text": "[Start of round]<br>Grants all surviving allies a blunt attack boost (medium effect/3 turn(s)).",
+    "special_effect_ids": [
+      802040680
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 702300063,
+    "name": "Breath of Life Ⅲ",
+    "flavor_text": "[Start of turn]<br>Recovers own HP (medium chance/medium effect).",
+    "special_effect_ids": [
+      802040061
+    ],
+    "ability_when": 3,
+    "icon": 4007
+  },
+  {
+    "id": 702300064,
+    "name": "Breath of Life Ⅱ",
+    "flavor_text": "[Start of turn]<br>Recovers own HP (medium chance/small effect).",
+    "special_effect_ids": [
+      802040062
+    ],
+    "ability_when": 3,
+    "icon": 4007
+  },
+  {
+    "id": 702300065,
+    "name": "Breath of Life Ⅰ",
+    "flavor_text": "[Start of turn]<br>Recovers own HP (low chance/small effect).",
+    "special_effect_ids": [
+      802040062
+    ],
+    "ability_when": 3,
+    "icon": 4007
+  },
+  {
+    "id": 702300078,
+    "name": "Activate Antibodies Ⅱ",
+    "flavor_text": "[Start of turn]<br>Cures all status ailments of a random surviving ally (medium chance).",
+    "special_effect_ids": [
+      802040071
+    ],
+    "ability_when": 3,
+    "icon": 4008
+  },
+  {
+    "id": 702300079,
+    "name": "Activate Antibodies Ⅰ",
+    "flavor_text": "[Start of turn]<br>Cures all status ailments of a random surviving ally (low chance).",
+    "special_effect_ids": [
+      802040071
+    ],
+    "ability_when": 3,
+    "icon": 4008
+  },
+  {
+    "id": 702300242,
+    "name": "Stagger",
+    "flavor_text": "[Start of turn]<br>Inflicts stun on a random enemy (medium chance).",
+    "special_effect_ids": [
+      802030230
+    ],
+    "ability_when": 3,
+    "icon": 3003
+  },
+  {
+    "id": 702300243,
+    "name": "Poison Dart",
+    "flavor_text": "[Start of turn]<br>Inflicts poison on a random enemy (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030228
+    ],
+    "ability_when": 3,
+    "icon": 3001
+  },
+  {
+    "id": 702300244,
+    "name": "Subtle Poison",
+    "flavor_text": "[Start of turn]<br>Inflicts poison on a random enemy (low chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030228
+    ],
+    "ability_when": 3,
+    "icon": 3001
+  },
+  {
+    "id": 702300260,
+    "name": "Master of Insults",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a taunt stance (medium effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040533
+    ],
+    "ability_when": 3,
+    "icon": 4009
+  },
+  {
+    "id": 702300261,
+    "name": "Hey! Over Here!",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a taunt stance (medium chance/medium effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040533
+    ],
+    "ability_when": 3,
+    "icon": 4009
+  },
+  {
+    "id": 702300262,
+    "name": "Imposing Aura",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a taunt stance (low chance/medium effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040533
+    ],
+    "ability_when": 3,
+    "icon": 4009
+  },
+  {
+    "id": 702300269,
+    "name": "Silence Incarnate Ⅲ",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a stealth stance (medium effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040262
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300270,
+    "name": "Silence Incarnate Ⅱ",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a stealth stance (medium chance/medium effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040262
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300271,
+    "name": "Silence Incarnate Ⅰ",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a stealth stance (low chance/medium effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040262
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300320,
+    "name": "Punishing Breath",
+    "flavor_text": "[Start of turn]<br>Recovers own BP (medium chance/+1).",
+    "special_effect_ids": [
+      802040312
+    ],
+    "ability_when": 3,
+    "icon": 4007
+  },
+  {
+    "id": 702300321,
+    "name": "Raring to Fight",
+    "flavor_text": "[Start of turn]<br>Increases own STR (medium chance/large effect).",
+    "special_effect_ids": [
+      802010313
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300326,
+    "name": "Piercing Decree",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies \"Hearsay (Pierce)\" (medium chance/2 turn(s)).",
+    "special_effect_ids": [
+      802040317
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300327,
+    "name": "Attune",
+    "flavor_text": "[Start of turn]<br>Increases own DEX (medium chance/large effect).",
+    "special_effect_ids": [
+      802010318
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300328,
+    "name": "Quickening Magic",
+    "flavor_text": "[Start of turn]<br>Increases own INT (medium chance/large effect).",
+    "special_effect_ids": [
+      802010319
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300388,
+    "name": "Slashing Decree",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies \"Hearsay (Slash)\" (medium chance/2 turn(s)).",
+    "special_effect_ids": [
+      802040378
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300473,
+    "name": "Blunt Decree",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies \"Hearsay (Blunt)\" (medium chance/2 turn(s)).",
+    "special_effect_ids": [
+      802040462
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300478,
+    "name": "Showtime",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies an attack boost (small effect/1 turn(s)). (Max times: 3).",
+    "special_effect_ids": [
+      802040471
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300479,
+    "name": "Champion of Insults",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a taunt stance (large effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040472
+    ],
+    "ability_when": 3,
+    "icon": 4009
+  },
+  {
+    "id": 702300492,
+    "name": "Rejuvenate (STR/AGI)",
+    "flavor_text": "[Start of turn]<br>Increases own STR/AGI (medium chance/large effect).",
+    "special_effect_ids": [
+      802010500,
+      802010486
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300498,
+    "name": "Rejuvenate (INT/END)",
+    "flavor_text": "[Start of turn]<br>Increases own INT/END (medium chance/large effect).",
+    "special_effect_ids": [
+      802010505,
+      802010491
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300499,
+    "name": "Rejuvenate (INT/WIL)",
+    "flavor_text": "[Start of turn]<br>Increases own INT/WIL (medium chance/large effect).",
+    "special_effect_ids": [
+      802010506,
+      802010492
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300515,
+    "name": "Unparalleled Magic",
+    "flavor_text": "[Start of turn]<br>Increases own INT (medium effect), and grants oneself a defense boost (very large effect/1 turn(s)).",
+    "special_effect_ids": [
+      802040509,
+      802010510
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300517,
+    "name": "Sun Decree",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies \"Hearsay (Sun)\" (medium chance/2 turn(s)).",
+    "special_effect_ids": [
+      802040513
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300518,
+    "name": "Silent Hunter",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a stealth stance (small effect/4 turn(s)), and recovers own HP (very small effect).",
+    "special_effect_ids": [
+      802040263,
+      802040517
+    ],
+    "ability_when": 3,
+    "icon": 4007
+  },
+  {
+    "id": 702300519,
+    "name": "Ardent Spirit",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies an attack boost (high chance/very large effect/1 turn(s)).",
+    "special_effect_ids": [
+      802040514
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300534,
+    "name": "Heal Link",
+    "flavor_text": "[Start of turn]<br>Recovers own and 1 random surviving ally's HP (medium chance/medium effect).",
+    "special_effect_ids": [
+      802040061,
+      802040529
+    ],
+    "ability_when": 3,
+    "icon": 4007
+  },
+  {
+    "id": 702300543,
+    "name": "Breath of Life Ⅳ",
+    "flavor_text": "[Start of turn]<br>Recovers own HP (medium chance/large effect).",
+    "special_effect_ids": [
+      802040060
+    ],
+    "ability_when": 3,
+    "icon": 4007
+  },
+  {
+    "id": 702300661,
+    "name": "Helping Hand",
+    "flavor_text": "[Start of turn]<br>Grants a random surviving ally an attack boost (medium effect/2 turn(s)).<br>Grants a random surviving ally a defense boost (medium effect/2 turn(s)).",
+    "special_effect_ids": [
+      802040678,
+      802040679
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300663,
+    "name": "Breath of Vitality",
+    "flavor_text": "[Start of turn]<br>Has a high chance to:<br>Recover own HP (small effect) and recover own BP (+1). ",
+    "special_effect_ids": [
+      802040681,
+      802040312
+    ],
+    "ability_when": 3,
+    "icon": 4007
+  },
+  {
+    "id": 702300669,
+    "name": "Energize (DEX/END)",
+    "flavor_text": "[Start of turn]<br>Increases own DEX/END (medium effect).",
+    "special_effect_ids": [
+      802010684,
+      802010657
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702400318,
+    "name": "Detox",
+    "flavor_text": "[End of turn]<br>Cures oneself from all status ailments.",
+    "special_effect_ids": [
+      802040310
+    ],
+    "ability_when": 4,
+    "icon": 4008
+  },
+  {
+    "id": 702400390,
+    "name": "Life Cycle",
+    "flavor_text": "[End of turn]<br>When knocked unconscious, recovers own HP (very small effect).<br>(Will not activate when knocked unconscious by poison damage).",
+    "special_effect_ids": [
+      802040380
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
+    "id": 702400471,
+    "name": "Kingship",
+    "flavor_text": "[End of Turn]<br>Recovers own BP (+1).",
+    "special_effect_ids": [
+      802040460
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
+    "id": 702400489,
+    "name": "Healing Favor",
+    "flavor_text": "[End of turn]<br>Recovers all surviving allies' HP (medium chance/very small effect).",
+    "special_effect_ids": [
+      802040482
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
+    "id": 702400501,
+    "name": "Proper Posture",
+    "flavor_text": "[End of Turn]<br>Recovers own HP (very small effect), and removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "special_effect_ids": [
+      802040495,
+      802040497
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
+    "id": 702400666,
+    "name": "Detox Heal",
+    "flavor_text": "[End of turn]<br>Cures oneself from all status ailments.<br>Recovers own HP (very small effect).",
+    "special_effect_ids": [
+      802040310,
+      802010689
+    ],
+    "ability_when": 4,
+    "icon": 4008
+  },
+  {
+    "id": 702600057,
+    "name": "Glimmer of Hope",
+    "flavor_text": "When attacked and HP reaches 0, recovers a surviving ally's HP (large effect).",
+    "special_effect_ids": [
+      802040057
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600058,
+    "name": "Dare to Hope Ⅱ",
+    "flavor_text": "When attacked and HP reaches 0, recovers all surviving allies' HP (large effect).",
+    "special_effect_ids": [
+      802040058
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600059,
+    "name": "Dare to Hope Ⅰ",
+    "flavor_text": "When attacked and HP reaches 0, recovers all surviving allies' HP (medium effect).",
+    "special_effect_ids": [
+      802040059
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600066,
+    "name": "Draining Attack Ⅲ",
+    "flavor_text": "When landing an attack, recovers own HP (medium chance/medium effect).",
+    "special_effect_ids": [
+      802040063
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600067,
+    "name": "Draining Attack Ⅱ",
+    "flavor_text": "When landing an attack, recovers own HP (medium chance/small effect).",
+    "special_effect_ids": [
+      802040064
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600068,
+    "name": "Draining Attack Ⅰ",
+    "flavor_text": "When landing an attack, recovers own HP (low chance/small effect).",
+    "special_effect_ids": [
+      802040064
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600069,
+    "name": "Life Siphon Ⅲ",
+    "flavor_text": "When landing an attack that defeats the target, recovers own HP (small effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802040065
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600070,
+    "name": "Life Siphon Ⅱ",
+    "flavor_text": "When landing an attack that defeats the target, recovers own HP (medium chance/small effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802040065
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600071,
+    "name": "Life Siphon Ⅰ",
+    "flavor_text": "When landing an attack that defeats the target, recovers own HP (low chance/small effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802040065
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600072,
+    "name": "Self-Improvement",
+    "flavor_text": "When landing an attack, recovers own BP (medium chance/+1).",
+    "special_effect_ids": [
+      802040066
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600073,
+    "name": "Personal Discovery",
+    "flavor_text": "When landing a Weak attack, recovers own BP (medium chance/+1).",
+    "special_effect_ids": [
+      802040067
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600074,
+    "name": "Death's Lesson",
+    "flavor_text": "When landing an attack that defeats the target, recovers own BP (low chance/only 1 BP will be recovered even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802040068
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600075,
+    "name": "Painful Lesson Ⅱ",
+    "flavor_text": "When being attacked, recovers own BP (medium chance/+1).",
+    "special_effect_ids": [
+      802040069
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600076,
+    "name": "Painful Lesson Ⅰ",
+    "flavor_text": "When being attacked, recovers own BP (low chance/+1).",
+    "special_effect_ids": [
+      802040069
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600077,
+    "name": "Defense Lesson",
+    "flavor_text": "When attacked by an attack that would cause Resist, recovers own BP (medium chance/+1).",
+    "special_effect_ids": [
+      802040070
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600080,
+    "name": "Adrenaline Ⅱ",
+    "flavor_text": "When landing an attack, one's own status ailments are all cured (medium chance).",
+    "special_effect_ids": [
+      802040073
+    ],
+    "ability_when": 6,
+    "icon": 4008
+  },
+  {
+    "id": 702600081,
+    "name": "Adrenaline Ⅰ",
+    "flavor_text": "When landing an attack, one's own status ailments are all cured (low chance).",
+    "special_effect_ids": [
+      802040073
+    ],
+    "ability_when": 6,
+    "icon": 4008
+  },
+  {
+    "id": 702600082,
+    "name": "Prayer of Devotion",
+    "flavor_text": "When attacked and HP reaches 0, cures all surviving allies' status ailments.",
+    "special_effect_ids": [
+      802040074
+    ],
+    "ability_when": 6,
+    "icon": 4008
+  },
+  {
+    "id": 702600083,
+    "name": "Fighting Spirit Ⅱ (STR)",
+    "flavor_text": "When landing an attack, increases own STR (medium chance/large effect).",
+    "special_effect_ids": [
+      802010075
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600084,
+    "name": "Fighting Spirit Ⅱ (END)",
+    "flavor_text": "When landing an attack, increases own END (medium chance/large effect).",
+    "special_effect_ids": [
+      802010078
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600085,
+    "name": "Fighting Spirit Ⅱ (DEX)",
+    "flavor_text": "When landing an attack, increases own DEX (medium chance/large effect).",
+    "special_effect_ids": [
+      802010081
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600086,
+    "name": "Fighting Spirit Ⅱ (AGI)",
+    "flavor_text": "When landing an attack, increases own AGI (medium chance/large effect).",
+    "special_effect_ids": [
+      802010084
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600087,
+    "name": "Fighting Spirit Ⅱ (INT)",
+    "flavor_text": "When landing an attack, increases own INT (medium chance/large effect).",
+    "special_effect_ids": [
+      802010087
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600088,
+    "name": "Fighting Spirit Ⅱ (WIL)",
+    "flavor_text": "When landing an attack, increases own WIL (medium chance/large effect).",
+    "special_effect_ids": [
+      802010090
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600089,
+    "name": "Fighting Spirit Ⅱ (LOV)",
+    "flavor_text": "When landing an attack, increases own LOV (medium chance/large effect)",
+    "special_effect_ids": [
+      802010093
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600090,
+    "name": "Fighting Spirit Ⅱ (CHA)",
+    "flavor_text": "When landing an attack, increases own CHA (medium chance/large effect).",
+    "special_effect_ids": [
+      802010096
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600091,
+    "name": "Immunity Ⅱ (Poison)",
+    "flavor_text": "When landing an attack, increases own poison resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020099
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600092,
+    "name": "Immunity Ⅱ (Darkness)",
+    "flavor_text": "When landing an attack, increases own darkness resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020102
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600093,
+    "name": "Immunity Ⅱ (Stun)",
+    "flavor_text": "When landing an attack, increases own stun resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020105
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600094,
+    "name": "Immunity Ⅱ (Paralysis)",
+    "flavor_text": "When landing an attack, increases own paralysis resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020108
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600095,
+    "name": "Immunity Ⅱ (Sleep)",
+    "flavor_text": "When landing an attack, increases own sleep resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020111
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600096,
+    "name": "Immunity Ⅱ (Petrification)",
+    "flavor_text": "When landing an attack, increases own petrification resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020114
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600097,
+    "name": "Immunity Ⅱ (Confusion)",
+    "flavor_text": "When landing an attack, increases own confusion resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020117
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600098,
+    "name": "Immunity Ⅱ (Charm)",
+    "flavor_text": "When landing an attack, increases own charm resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020120
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600099,
+    "name": "Immunity Ⅱ (Berserk)",
+    "flavor_text": "When landing an attack, increases own berserk resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020123
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600100,
+    "name": "Fighting Spirit Ⅰ (STR)",
+    "flavor_text": "When landing an attack, increases own STR (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010077
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600101,
+    "name": "Fighting Spirit Ⅰ (END)",
+    "flavor_text": "When landing an attack, increases own END (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010080
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600102,
+    "name": "Fighting Spirit Ⅰ (DEX)",
+    "flavor_text": "When landing an attack, increases own DEX (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010083
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600103,
+    "name": "Fighting Spirit Ⅰ (AGI)",
+    "flavor_text": "When landing an attack, increases own AGI (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010086
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600104,
+    "name": "Fighting Spirit Ⅰ (INT)",
+    "flavor_text": "When landing an attack, increases own INT (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010089
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600105,
+    "name": "Fighting Spirit Ⅰ (WIL)",
+    "flavor_text": "When landing an attack, increases own WIL (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010092
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600106,
+    "name": "Fighting Spirit Ⅰ (LOV)",
+    "flavor_text": "When landing an attack, increases own LOV (medium chance/medium effect)",
+    "special_effect_ids": [
+      802010095
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600107,
+    "name": "Fighting Spirit Ⅰ (CHA)",
+    "flavor_text": "When landing an attack, increases own CHA (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010098
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600108,
+    "name": "Immunity Ⅰ (Poison)",
+    "flavor_text": "When landing an attack, increases own poison resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020101
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600109,
+    "name": "Immunity Ⅰ (Darkness)",
+    "flavor_text": "When landing an attack, increases own darkness resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020104
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600110,
+    "name": "Immunity Ⅰ (Stun)",
+    "flavor_text": "When landing an attack, increases own stun resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020107
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600111,
+    "name": "Immunity Ⅰ (Paralysis)",
+    "flavor_text": "When landing an attack, increases own paralysis resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020110
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600112,
+    "name": "Immunity Ⅰ (Sleep)",
+    "flavor_text": "When landing an attack, increases own sleep resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020113
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600113,
+    "name": "Immunity Ⅰ (Petrification)",
+    "flavor_text": "When landing an attack, increases own petrification resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020116
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600114,
+    "name": "Immunity Ⅰ (Confusion)",
+    "flavor_text": "When landing an attack, increases own confusion resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020119
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600115,
+    "name": "Immunity Ⅰ (Charm)",
+    "flavor_text": "When landing an attack, increases own charm resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020122
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600116,
+    "name": "Immunity Ⅰ (Berserk)",
+    "flavor_text": "When landing an attack, increases own berserk resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020125
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600117,
+    "name": "Fighting Instinct (STR)",
+    "flavor_text": "When landing an attack, increases own STR (low chance/medium effect).",
+    "special_effect_ids": [
+      802010077
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600118,
+    "name": "Fighting Instinct (END)",
+    "flavor_text": "When landing an attack, increases own END (low chance/medium effect).",
+    "special_effect_ids": [
+      802010080
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600119,
+    "name": "Fighting Instinct (DEX)",
+    "flavor_text": "When landing an attack, increases own DEX (low chance/medium effect).",
+    "special_effect_ids": [
+      802010083
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600120,
+    "name": "Fighting Instinct (AGI)",
+    "flavor_text": "When landing an attack, increases own AGI (low chance/medium effect).",
+    "special_effect_ids": [
+      802010086
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600121,
+    "name": "Fighting Instinct (INT)",
+    "flavor_text": "When landing an attack, increases own INT (low chance/medium effect).",
+    "special_effect_ids": [
+      802010089
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600122,
+    "name": "Fighting Instinct (WIL)",
+    "flavor_text": "When landing an attack, increases own WIL (low chance/medium effect).",
+    "special_effect_ids": [
+      802010092
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600123,
+    "name": "Fighting Instinct (LOV)",
+    "flavor_text": "When landing an attack, increases own LOV (low chance/medium effect)",
+    "special_effect_ids": [
+      802010095
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600124,
+    "name": "Fighting Instinct (CHA)",
+    "flavor_text": "When landing an attack, increases own CHA (low chance/medium effect).",
+    "special_effect_ids": [
+      802010098
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600125,
+    "name": "Protection (Poison)",
+    "flavor_text": "When landing an attack, increases own poison resistance (low chance/medium effect).",
+    "special_effect_ids": [
+      802020101
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600126,
+    "name": "Protection (Darkness)",
+    "flavor_text": "When landing an attack, increases own darkness resistance (low chance/medium effect).",
+    "special_effect_ids": [
+      802020104
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600127,
+    "name": "Protection (Stun)",
+    "flavor_text": "When landing an attack, increases own stun resistance (low chance/medium effect).",
+    "special_effect_ids": [
+      802020107
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600128,
+    "name": "Protection (Paralysis)",
+    "flavor_text": "When landing an attack, increases own paralysis resistance (low chance/medium effect).",
+    "special_effect_ids": [
+      802020110
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600129,
+    "name": "Protection (Sleep)",
+    "flavor_text": "When landing an attack, increases own sleep resistance (low chance/medium effect).",
+    "special_effect_ids": [
+      802020113
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600130,
+    "name": "Protection (Petrification)",
+    "flavor_text": "When landing an attack, increases own petrification resistance (low chance/medium effect).",
+    "special_effect_ids": [
+      802020116
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600131,
+    "name": "Protection (Confusion)",
+    "flavor_text": "When landing an attack, increases own confusion resistance (low chance/medium effect).",
+    "special_effect_ids": [
+      802020119
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600132,
+    "name": "Protection (Charm)",
+    "flavor_text": "When landing an attack, increases own charm resistance (low chance/medium effect).",
+    "special_effect_ids": [
+      802020122
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600133,
+    "name": "Protection (Berserk)",
+    "flavor_text": "When landing an attack, increases own berserk resistance (low chance/medium effect).",
+    "special_effect_ids": [
+      802020125
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600134,
+    "name": "Ferocity Ⅰ (STR)",
+    "flavor_text": "When landing an attack that defeats the target, increases own STR (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010128
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600135,
+    "name": "Ferocity Ⅰ (END)",
+    "flavor_text": "When landing an attack that defeats the target, increases own END (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010131
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600136,
+    "name": "Ferocity Ⅰ (DEX)",
+    "flavor_text": "When landing an attack that defeats the target, increases own DEX (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010134
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600137,
+    "name": "Ferocity Ⅰ (AGI)",
+    "flavor_text": "When landing an attack that defeats the target, increases own AGI (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010137
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600138,
+    "name": "Ferocity Ⅰ (INT)",
+    "flavor_text": "When landing an attack that defeats the target, increases own INT (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010140
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600139,
+    "name": "Ferocity Ⅰ (WIL)",
+    "flavor_text": "When landing an attack that defeats the target, increases own WIL (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010143
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600140,
+    "name": "Ferocity Ⅰ (LOV)",
+    "flavor_text": "When landing an attack that defeats the target, increases own LOV (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010146
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600141,
+    "name": "Ferocity Ⅰ (CHA)",
+    "flavor_text": "When landing an attack that defeats the target, increases own CHA (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010149
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600142,
+    "name": "Guts Ⅰ (Poison)",
+    "flavor_text": "When landing an attack that defeats the target, increases own poison resistance (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020152
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600143,
+    "name": "Guts Ⅰ (Darkness)",
+    "flavor_text": "When landing an attack that defeats the target, increases own darkness resistance (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020155
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600144,
+    "name": "Guts Ⅰ (Stun)",
+    "flavor_text": "When landing an attack that defeats the target, increases own stun resistance (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020158
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600145,
+    "name": "Guts Ⅰ (Paralysis)",
+    "flavor_text": "When landing an attack that defeats the target, increases own paralysis resistance (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020161
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600146,
+    "name": "Guts Ⅰ (Sleep)",
+    "flavor_text": "When landing an attack that defeats the target, increases own sleep resistance (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020164
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600147,
+    "name": "Guts Ⅰ (Petrification)",
+    "flavor_text": "When landing an attack that defeats the target, increases own petrification resistance (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020167
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600148,
+    "name": "Guts Ⅰ (Confusion)",
+    "flavor_text": "When landing an attack that defeats the target, increases own confusion resistance (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020170
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600149,
+    "name": "Guts Ⅰ (Charm)",
+    "flavor_text": "When landing an attack that defeats the target, increases own charm resistance (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020173
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600150,
+    "name": "Guts Ⅰ (Berserk)",
+    "flavor_text": "When landing an attack that defeats the target, increases own berserk resistance (medium effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020176
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600151,
+    "name": "Ferocity Ⅱ (STR)",
+    "flavor_text": "When landing an attack that defeats the target, increases own STR (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010127
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600152,
+    "name": "Ferocity Ⅱ (END)",
+    "flavor_text": "When landing an attack that defeats the target, increases own END (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010130
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600153,
+    "name": "Ferocity Ⅱ (DEX)",
+    "flavor_text": "When landing an attack that defeats the target, increases own DEX (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010133
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600154,
+    "name": "Ferocity Ⅱ (AGI)",
+    "flavor_text": "When landing an attack that defeats the target, increases own AGI (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010136
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600155,
+    "name": "Ferocity Ⅱ (INT)",
+    "flavor_text": "When landing an attack that defeats the target, increases own INT (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010139
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600156,
+    "name": "Ferocity Ⅱ (WIL)",
+    "flavor_text": "When landing an attack that defeats the target, increases own WIL (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010142
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600157,
+    "name": "Ferocity Ⅱ (LOV)",
+    "flavor_text": "When landing an attack that defeats the target, increases own LOV (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010145
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600158,
+    "name": "Ferocity Ⅱ (CHA)",
+    "flavor_text": "When landing an attack that defeats the target, increases own CHA (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010148
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600159,
+    "name": "Guts Ⅱ (Poison)",
+    "flavor_text": "When landing an attack that defeats the target, increases own poison resistance (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020151
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600160,
+    "name": "Guts Ⅱ (Darkness)",
+    "flavor_text": "When landing an attack that defeats the target, increases own darkness resistance (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020154
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600161,
+    "name": "Guts Ⅱ (Stun)",
+    "flavor_text": "When landing an attack that defeats the target, increases own stun resistance (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020157
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600162,
+    "name": "Guts Ⅱ (Paralysis)",
+    "flavor_text": "When landing an attack that defeats the target, increases own paralysis resistance (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020160
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600163,
+    "name": "Guts Ⅱ (Sleep)",
+    "flavor_text": "When landing an attack that defeats the target, increases own sleep resistance (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020163
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600164,
+    "name": "Guts Ⅱ (Petrification)",
+    "flavor_text": "When landing an attack that defeats the target, increases own petrification resistance (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020166
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600165,
+    "name": "Guts Ⅱ (Confusion)",
+    "flavor_text": "When landing an attack that defeats the target, increases own confusion resistance (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020169
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600166,
+    "name": "Guts Ⅱ (Charm)",
+    "flavor_text": "When landing an attack that defeats the target, increases own charm resistance (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020172
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600167,
+    "name": "Guts Ⅱ (Berserk)",
+    "flavor_text": "When landing an attack that defeats the target, increases own berserk resistance (medium chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020175
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600168,
+    "name": "Battle Mania (STR)",
+    "flavor_text": "When landing an attack that defeats the target, increases own STR (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010127
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600169,
+    "name": "Battle Mania (END)",
+    "flavor_text": "When landing an attack that defeats the target, increases own END (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010130
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600170,
+    "name": "Battle Mania (DEX)",
+    "flavor_text": "When landing an attack that defeats the target, increases own DEX (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010133
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600171,
+    "name": "Battle Mania (AGI)",
+    "flavor_text": "When landing an attack that defeats the target, increases own AGI (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010136
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600172,
+    "name": "Battle Mania (INT)",
+    "flavor_text": "When landing an attack that defeats the target, increases own INT (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010139
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600173,
+    "name": "Battle Mania (WIL)",
+    "flavor_text": "When landing an attack that defeats the target, increases own WIL (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010142
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600174,
+    "name": "Battle Mania (LOV)",
+    "flavor_text": "When landing an attack that defeats the target, increases own LOV (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010145
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600175,
+    "name": "Battle Mania (CHA)",
+    "flavor_text": "When landing an attack that defeats the target, increases own CHA (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802010148
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600176,
+    "name": "Boon of Purity (Poison)",
+    "flavor_text": "When landing an attack that defeats the target, increases own poison resistance (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020151
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600177,
+    "name": "Boon of Purity (Darkness)",
+    "flavor_text": "When landing an attack that defeats the target, increases own darkness resistance (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020154
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600178,
+    "name": "Boon of Purity (Stun)",
+    "flavor_text": "When landing an attack that defeats the target, increases own stun resistance (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020157
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600179,
+    "name": "Boon of Purity (Paralysis)",
+    "flavor_text": "When landing an attack that defeats the target, increases own paralysis resistance (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020160
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600180,
+    "name": "Boon of Purity (Sleep)",
+    "flavor_text": "When landing an attack that defeats the target, increases own sleep resistance (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020163
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600181,
+    "name": "Boon of Purity (Petrification)",
+    "flavor_text": "When landing an attack that defeats the target, increases own petrification resistance (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020166
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600182,
+    "name": "Boon of Purity (Confusion)",
+    "flavor_text": "When landing an attack that defeats the target, increases own confusion resistance (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020169
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600183,
+    "name": "Boon of Purity (Charm)",
+    "flavor_text": "When landing an attack that defeats the target, increases own charm resistance (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020172
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600184,
+    "name": "Boon of Purity (Berserk)",
+    "flavor_text": "When landing an attack that defeats the target, increases own berserk resistance (low chance/large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802020175
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600185,
+    "name": "Enervate Ⅲ (STR)",
+    "flavor_text": "When landing an attack, reduces target's STR (medium chance/large effect).",
+    "special_effect_ids": [
+      802010177
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600186,
+    "name": "Enervate Ⅲ (END)",
+    "flavor_text": "When landing an attack, reduces target's END (medium chance/large effect).",
+    "special_effect_ids": [
+      802010180
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600187,
+    "name": "Enervate Ⅲ (DEX)",
+    "flavor_text": "When landing an attack, reduces target's DEX (medium chance/large effect).",
+    "special_effect_ids": [
+      802010183
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600188,
+    "name": "Enervate Ⅲ (AGI)",
+    "flavor_text": "When landing an attack, reduces target's AGI (medium chance/large effect).",
+    "special_effect_ids": [
+      802010186
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600189,
+    "name": "Enervate Ⅲ (INT)",
+    "flavor_text": "When landing an attack, reduces target's INT (medium chance/large effect).",
+    "special_effect_ids": [
+      802010189
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600190,
+    "name": "Enervate Ⅲ (WIL)",
+    "flavor_text": "When landing an attack, reduces target's WIL (medium chance/large effect).",
+    "special_effect_ids": [
+      802010192
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600191,
+    "name": "Enervate Ⅲ (LOV)",
+    "flavor_text": "When landing an attack, reduces target's LOV (medium chance/large effect).",
+    "special_effect_ids": [
+      802010195
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600192,
+    "name": "Enervate Ⅲ (CHA)",
+    "flavor_text": "When landing an attack, reduces target's CHA (medium chance/large effect).",
+    "special_effect_ids": [
+      802010198
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600193,
+    "name": "Immunity Down Ⅲ (Poison)",
+    "flavor_text": "When landing an attack, reduces target's poison resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020201
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600194,
+    "name": "Immunity Down Ⅲ (Dk.)",
+    "flavor_text": "When landing an attack, reduces target's darkness resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020204
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600195,
+    "name": "Immunity Down Ⅲ (Stun)",
+    "flavor_text": "When landing an attack, reduces target's stun resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020207
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600196,
+    "name": "Immunity Down Ⅲ (Par.)",
+    "flavor_text": "When landing an attack, reduces target's paralysis resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020210
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600197,
+    "name": "Immunity Down Ⅲ (Sleep)",
+    "flavor_text": "When landing an attack, reduces target's sleep resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020213
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600198,
+    "name": "Immunity Down Ⅲ (Petr.)",
+    "flavor_text": "When landing an attack, reduces target's petrification resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020216
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600199,
+    "name": "Immunity Down Ⅲ (Conf.)",
+    "flavor_text": "When landing an attack, reduces target's confusion resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020219
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600200,
+    "name": "Immunity Down Ⅲ (Charm)",
+    "flavor_text": "When landing an attack, reduces target's charm resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020222
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600201,
+    "name": "Immunity Down Ⅲ (Bsrk.)",
+    "flavor_text": "When landing an attack, reduces target's berserk resistance (medium chance/large effect).",
+    "special_effect_ids": [
+      802020225
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600202,
+    "name": "Enervate Ⅱ (STR)",
+    "flavor_text": "When landing an attack, reduces target's STR (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010178
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600203,
+    "name": "Enervate Ⅱ (END)",
+    "flavor_text": "When landing an attack, reduces target's END (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010181
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600204,
+    "name": "Enervate Ⅱ (DEX)",
+    "flavor_text": "When landing an attack, reduces target's DEX (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010184
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600205,
+    "name": "Enervate Ⅱ (AGI)",
+    "flavor_text": "When landing an attack, reduces target's AGI (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010187
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600206,
+    "name": "Enervate Ⅱ (INT)",
+    "flavor_text": "When landing an attack, reduces target's INT (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010190
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600207,
+    "name": "Enervate Ⅱ (WIL)",
+    "flavor_text": "When landing an attack, reduces target's WIL (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010193
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600208,
+    "name": "Enervate Ⅱ (LOV)",
+    "flavor_text": "When landing an attack, reduces target's LOV (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010196
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600209,
+    "name": "Enervate Ⅱ (CHA)",
+    "flavor_text": "When landing an attack, reduces target's CHA (medium chance/medium effect).",
+    "special_effect_ids": [
+      802010199
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600210,
+    "name": "Immunity Down Ⅱ (Poison)",
+    "flavor_text": "When landing an attack, reduces target's poison resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020202
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600211,
+    "name": "Immunity Down Ⅱ (Dk.)",
+    "flavor_text": "When landing an attack, reduces target's darkness resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020205
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600212,
+    "name": "Immunity Down Ⅱ (Stun)",
+    "flavor_text": "When landing an attack, reduces target's stun resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020208
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600213,
+    "name": "Immunity Down Ⅱ (Par.)",
+    "flavor_text": "When landing an attack, reduces target's paralysis resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020211
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600214,
+    "name": "Immunity Down Ⅱ (Sleep)",
+    "flavor_text": "When landing an attack, reduces target's sleep resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020214
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600215,
+    "name": "Immunity Down Ⅱ (Petr.)",
+    "flavor_text": "When landing an attack, reduces target's petrification resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020217
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600216,
+    "name": "Immunity Down Ⅱ (Conf.)",
+    "flavor_text": "When landing an attack, reduces target's confusion resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020220
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600217,
+    "name": "Immunity Down Ⅱ (Charm)",
+    "flavor_text": "When landing an attack, reduces target's charm resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020223
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600218,
+    "name": "Immunity Down Ⅱ (Bsrk.)",
+    "flavor_text": "When landing an attack, reduces target's berserk resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020226
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600219,
+    "name": "Enervate Ⅰ (STR)",
+    "flavor_text": "When landing an attack, reduces target's STR (medium chance/small effect).",
+    "special_effect_ids": [
+      802010179
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600220,
+    "name": "Enervate Ⅰ (END)",
+    "flavor_text": "When landing an attack, reduces target's END (medium chance/small effect).",
+    "special_effect_ids": [
+      802010182
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600221,
+    "name": "Enervate Ⅰ (DEX)",
+    "flavor_text": "When landing an attack, reduces target's DEX (medium chance/small effect).",
+    "special_effect_ids": [
+      802010185
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600222,
+    "name": "Enervate Ⅰ (AGI)",
+    "flavor_text": "When landing an attack, reduces target's AGI (medium chance/small effect).",
+    "special_effect_ids": [
+      802010188
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600223,
+    "name": "Enervate Ⅰ (INT)",
+    "flavor_text": "When landing an attack, reduces target's INT (medium chance/small effect).",
+    "special_effect_ids": [
+      802010191
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600224,
+    "name": "Enervate Ⅰ (WIL)",
+    "flavor_text": "When landing an attack, reduces target's WIL (medium chance/small effect).",
+    "special_effect_ids": [
+      802010194
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600225,
+    "name": "Enervate Ⅰ (LOV)",
+    "flavor_text": "When landing an attack, reduces target's LOV (medium chance/small effect).",
+    "special_effect_ids": [
+      802010197
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600226,
+    "name": "Enervate Ⅰ (CHA)",
+    "flavor_text": "When landing an attack, reduces target's CHA (medium chance/small effect).",
+    "special_effect_ids": [
+      802010200
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600227,
+    "name": "Immunity Down Ⅰ (Poison)",
+    "flavor_text": "When landing an attack, reduces target's poison resistance (medium chance/small effect).",
+    "special_effect_ids": [
+      802020203
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600228,
+    "name": "Immunity Down Ⅰ (Dk.)",
+    "flavor_text": "When landing an attack, reduces target's darkness resistance (medium chance/small effect).",
+    "special_effect_ids": [
+      802020206
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600229,
+    "name": "Immunity Down Ⅰ (Stun)",
+    "flavor_text": "When landing an attack, reduces target's stun resistance (medium chance/small effect).",
+    "special_effect_ids": [
+      802020209
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600230,
+    "name": "Immunity Down Ⅰ (Par.)",
+    "flavor_text": "When landing an attack, reduces target's paralysis resistance (medium chance/small effect).",
+    "special_effect_ids": [
+      802020212
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600231,
+    "name": "Immunity Down Ⅰ (Sleep)",
+    "flavor_text": "When landing an attack, reduces target's sleep resistance (medium chance/small effect).",
+    "special_effect_ids": [
+      802020215
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600232,
+    "name": "Immunity Down Ⅰ (Petr.)",
+    "flavor_text": "When landing an attack, reduces target's petrification resistance (medium chance/small effect).",
+    "special_effect_ids": [
+      802020218
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600233,
+    "name": "Immunity Down Ⅰ (Conf.)",
+    "flavor_text": "When landing an attack, reduces target's confusion resistance (medium chance/small effect).",
+    "special_effect_ids": [
+      802020221
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600234,
+    "name": "Immunity Down Ⅰ (Charm)",
+    "flavor_text": "When landing an attack, reduces target's charm resistance (medium chance/small effect).",
+    "special_effect_ids": [
+      802020224
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600235,
+    "name": "Immunity Down Ⅰ (Bsrk.)",
+    "flavor_text": "When landing an attack, reduces target's berserk resistance (medium chance/small effect).",
+    "special_effect_ids": [
+      802020227
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600245,
+    "name": "Stunning Blow",
+    "flavor_text": "When landing an attack, inflicts stun on target (medium chance).",
+    "special_effect_ids": [
+      802030239
+    ],
+    "ability_when": 6,
+    "icon": 3003
+  },
+  {
+    "id": 702600246,
+    "name": "Corroding Poison",
+    "flavor_text": "When landing an attack, inflicts poison on target (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030237
+    ],
+    "ability_when": 6,
+    "icon": 3001
+  },
+  {
+    "id": 702600247,
+    "name": "Gnawing Paralysis",
+    "flavor_text": "When landing an attack, inflicts paralysis on target (low chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030240
+    ],
+    "ability_when": 6,
+    "icon": 3004
+  },
+  {
+    "id": 702600248,
+    "name": "Gnawing Sleep",
+    "flavor_text": "When landing an attack, inflicts sleep on target (low chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030241
+    ],
+    "ability_when": 6,
+    "icon": 3005
+  },
+  {
+    "id": 702600249,
+    "name": "Gnawing Poison",
+    "flavor_text": "When landing an attack, inflicts poison on target (low chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030237
+    ],
+    "ability_when": 6,
+    "icon": 3001
+  },
+  {
+    "id": 702600250,
+    "name": "Confusing Curse",
+    "flavor_text": "When attacked and HP reaches 0, inflicts confusion on a random enemy (4 turn(s)).",
+    "special_effect_ids": [
+      802030252
+    ],
+    "ability_when": 6,
+    "icon": 3006
+  },
+  {
+    "id": 702600251,
+    "name": "Petrifying Curse",
+    "flavor_text": "When attacked and HP reaches 0, inflicts petrification on a random enemy (4 turn(s)).",
+    "special_effect_ids": [
+      802030251
+    ],
+    "ability_when": 6,
+    "icon": 3009
+  },
+  {
+    "id": 702600252,
+    "name": "Paralyzing Curse",
+    "flavor_text": "When attacked and HP reaches 0, inflicts paralysis on a random enemy (4 turn(s)).",
+    "special_effect_ids": [
+      802030249
+    ],
+    "ability_when": 6,
+    "icon": 3004
+  },
+  {
+    "id": 702600253,
+    "name": "Sleeping Curse",
+    "flavor_text": "When attacked and HP reaches 0, inflicts sleep on a random enemy (4 turn(s)).",
+    "special_effect_ids": [
+      802030250
+    ],
+    "ability_when": 6,
+    "icon": 3005
+  },
+  {
+    "id": 702600254,
+    "name": "Stunning Curse",
+    "flavor_text": "When attacked and HP reaches 0, inflicts stun on a random enemy.",
+    "special_effect_ids": [
+      802030248
+    ],
+    "ability_when": 6,
+    "icon": 3003
+  },
+  {
+    "id": 702600263,
+    "name": "Taunt Master Ⅱ",
+    "flavor_text": "When landing an attack, has oneself enter a taunt stance (medium chance/large effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040259
+    ],
+    "ability_when": 6,
+    "icon": 4009
+  },
+  {
+    "id": 702600264,
+    "name": "Taunt Master Ⅲ",
+    "flavor_text": "When landing an attack, has oneself enter a taunt stance (low chance/very large effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040534
+    ],
+    "ability_when": 6,
+    "icon": 4009
+  },
+  {
+    "id": 702600265,
+    "name": "Taunt Master Ⅰ",
+    "flavor_text": "When landing an attack, has oneself enter a taunt stance (low chance/medium effect/4 turn(s)).",
+    "special_effect_ids": [
+      802040260
+    ],
+    "ability_when": 6,
+    "icon": 4009
+  },
+  {
+    "id": 702600322,
+    "name": "Caustic Confusion",
+    "flavor_text": "When landing an attack, inflicts confusion on target (low chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030243
+    ],
+    "ability_when": 6,
+    "icon": 3006
+  },
+  {
+    "id": 702600325,
+    "name": "Inherited Emotion",
+    "flavor_text": "When recovery actions are made, increases own STR (large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802040316
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600334,
+    "name": "Fighting Spirit Ⅲ (STR)",
+    "flavor_text": "When landing an attack, increases own STR (medium chance/very large effect).",
+    "special_effect_ids": [
+      802010324
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600353,
+    "name": "Invigorate",
+    "flavor_text": "When landing an attack, recovers own BP (high chance/+1).",
+    "special_effect_ids": [
+      802040066
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600419,
+    "name": "STR Surge Ⅱ",
+    "flavor_text": "When landing a Weak attack, increases own STR (medium effect).",
+    "special_effect_ids": [
+      802010408
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600426,
+    "name": "STR Surge Ⅲ",
+    "flavor_text": "When landing a Weak attack, increases own STR (large effect).",
+    "special_effect_ids": [
+      802010415
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600428,
+    "name": "DEX Surge Ⅲ",
+    "flavor_text": "When landing a Weak attack, increases own DEX (large effect).",
+    "special_effect_ids": [
+      802010417
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600460,
+    "name": "Absorbing Fury",
+    "flavor_text": "When landing an attack, recovers own HP (high chance/medium effect).",
+    "special_effect_ids": [
+      802040063
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600468,
+    "name": "Natural Harmony",
+    "flavor_text": "When landing an attack with Blizzard, Scattered Petals will be activated (medium chance).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040461
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600472,
+    "name": "Vampire Link",
+    "flavor_text": "When landing an attack, recovers own and 1 random surviving ally's HP (medium chance/medium effect).",
+    "special_effect_ids": [
+      802040063,
+      802040463
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600476,
+    "name": "Hermit's Teaching",
+    "flavor_text": "When recovery actions are made, increases target's INT and WIL (large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802010466,
+      802010467
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600484,
+    "name": "Immunity Down Ⅱ (Unc.)",
+    "flavor_text": "When landing an attack, reduces target's unconsciousness resistance (medium chance/medium effect).",
+    "special_effect_ids": [
+      802020477
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 702600486,
+    "name": "Charging Lesson",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect).<br>When landing an attack that defeats the target, recovers own BP (only 1 BP will be recovered even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802040479,
+      802040485
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600487,
+    "name": "Pursuing Blade",
+    "flavor_text": "When landing an attack with Cross Break, Sword Breath will be activated.<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040480
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600488,
+    "name": "Attack Rhythm",
+    "flavor_text": "When landing an attack, increases own STR (large effect).",
+    "special_effect_ids": [
+      802010075
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600504,
+    "name": "30-Year Grave Knight",
+    "flavor_text": "When landing an attack, increases own DEX (medium chance/very large effect), and recovers own BP (+1).",
+    "special_effect_ids": [
+      802010326,
+      802040066
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600505,
+    "name": "Prism Soul",
+    "flavor_text": "When landing an attack, increases own STR and AGI (medium chance/very large effect).",
+    "special_effect_ids": [
+      802010324,
+      802010327
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600506,
+    "name": "Feminine Scent",
+    "flavor_text": "When landing an attack, recovers own HP (medium chance/medium effect), and recovers own BP (+1).",
+    "special_effect_ids": [
+      802040063,
+      802040066
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600507,
+    "name": "Fluke",
+    "flavor_text": "When landing an attack with Timekill or Creator's Power, Fiat Lux will be activated (medium chance).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040498,
+      802040499
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600520,
+    "name": "Draining Attack Ⅳ",
+    "flavor_text": "When landing an attack, recovers own HP (medium chance/large effect).",
+    "special_effect_ids": [
+      802040515
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600521,
+    "name": "Piercing Pursuit",
+    "flavor_text": "When landing an attack with X Thrust, Roll Pierce will be activated 2 times.<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040464,
+      802040516
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600530,
+    "name": "Enervate Ⅳ (STR)",
+    "flavor_text": "When landing an attack, reduces target's STR (medium chance/very large effect).",
+    "special_effect_ids": [
+      802010526
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600531,
+    "name": "Enervate Ⅳ (INT)",
+    "flavor_text": "When landing an attack, reduces target's INT (medium chance/very large effect).",
+    "special_effect_ids": [
+      802010527
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600535,
+    "name": "石化の蚕食",
+    "flavor_text": "攻撃命中時<br>対象を石化させる( 確率中/効果5ターン )",
+    "special_effect_ids": [
+      802030538
+    ],
+    "ability_when": 6,
+    "icon": 3009
+  },
+  {
+    "id": 702600621,
+    "name": "Essence Absorption",
+    "flavor_text": "When landing an attack that defeats the target, recovers own HP (medium effect/recovery amount will not be affected even if multiple targets are defeated), and recovers own BP (only 3 BP will be recovered even if multiple targets are defeated).",
+    "special_effect_ids": [
+      802040628,
+      802040627
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600622,
+    "name": "Searing Gambit",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, Bluefire Fang will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Bluefire Fang, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "special_effect_ids": [
+      802040630,
+      802040631,
+      802040632
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600658,
+    "name": "Bebop",
+    "flavor_text": "When landing an attack, has a high chance to:<br>Increase own AGI (very large effect) and have oneself enter a taunt stance (very large effect/4 turn(s)).",
+    "special_effect_ids": [
+      802010675,
+      802040534
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 703100001,
+    "name": "[Weapon Holy Stone] Power+",
+    "flavor_text": "Attacks' damage increases.",
+    "special_effect_ids": [
+      803040001
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100002,
+    "name": "[Weapon Holy Stone] Weak Point+",
+    "flavor_text": "Weak attacks' damage increases.",
+    "special_effect_ids": [
+      803040002
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100003,
+    "name": "[Weapon Holy Stone] OverDrive Power+",
+    "flavor_text": "OD attacks' damage increases.",
+    "special_effect_ids": [
+      803040003
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100004,
+    "name": "[Weapon Holy Stone] Combo+",
+    "flavor_text": "Combo attacks' damage increases.",
+    "special_effect_ids": [
+      803040004
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100005,
+    "name": "[Weapon Holy Stone] Critical+",
+    "flavor_text": "Critical attacks' damage increases.",
+    "special_effect_ids": [
+      803040005
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100006,
+    "name": "[Weapon Holy Stone] Sword+",
+    "flavor_text": "When attacking with swords, damage increases.",
+    "special_effect_ids": [
+      803040006
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100007,
+    "name": "[Weapon Holy Stone] G. Sword+",
+    "flavor_text": "When attacking with G. Swords, damage increases.",
+    "special_effect_ids": [
+      803040007
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100008,
+    "name": "[Weapon Holy Stone] Axe+",
+    "flavor_text": "When attacking with axes, damage increases.",
+    "special_effect_ids": [
+      803040008
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100009,
+    "name": "[Weapon Holy Stone] Club+",
+    "flavor_text": "When attacking with clubs, damage increases.",
+    "special_effect_ids": [
+      803040009
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100010,
+    "name": "[Weapon Holy Stone] M. Arts+",
+    "flavor_text": "When attacking with M. Arts, damage increases.",
+    "special_effect_ids": [
+      803040010
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100011,
+    "name": "[Weapon Holy Stone] Gun+",
+    "flavor_text": "When attacking with guns, damage increases.",
+    "special_effect_ids": [
+      803040011
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100012,
+    "name": "[Weapon Holy Stone] S. Sword+",
+    "flavor_text": "When attacking with S. Swords, damage increases.",
+    "special_effect_ids": [
+      803040012
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100013,
+    "name": "[Weapon Holy Stone] Spear+",
+    "flavor_text": "When attacking with spears, damage increases.",
+    "special_effect_ids": [
+      803040013
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100014,
+    "name": "[Weapon Holy Stone] Bow+",
+    "flavor_text": "When attacking with bows, damage increases.",
+    "special_effect_ids": [
+      803040014
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100015,
+    "name": "[Weapon Holy Stone] Staff+",
+    "flavor_text": "When attacking with staves, damage increases.",
+    "special_effect_ids": [
+      803040015
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100016,
+    "name": "[Weapon Holy Stone] Slash+",
+    "flavor_text": "Slash attacks' damage increases.",
+    "special_effect_ids": [
+      803040016
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100017,
+    "name": "[Weapon Holy Stone] Blunt+",
+    "flavor_text": "Blunt attacks' damage increases.",
+    "special_effect_ids": [
+      803040017
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100018,
+    "name": "[Weapon Holy Stone] Pierce+",
+    "flavor_text": "Pierce attacks' damage increases.",
+    "special_effect_ids": [
+      803040018
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100019,
+    "name": "[Weapon Holy Stone] Heat+",
+    "flavor_text": "Heat attacks' damage increases.",
+    "special_effect_ids": [
+      803040019
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100020,
+    "name": "[Weapon Holy Stone] Cold+",
+    "flavor_text": "Cold attacks' damage increases.",
+    "special_effect_ids": [
+      803040020
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100021,
+    "name": "[Weapon Holy Stone] Lightning+",
+    "flavor_text": "Lightning attacks' damage increases.",
+    "special_effect_ids": [
+      803040021
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100022,
+    "name": "[Weapon Holy Stone] Sun+",
+    "flavor_text": "Sun attacks' damage increases.",
+    "special_effect_ids": [
+      803040022
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100023,
+    "name": "[Weapon Holy Stone] Shadow+",
+    "flavor_text": "Shadow attacks' damage increases.",
+    "special_effect_ids": [
+      803040023
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100024,
+    "name": "[Weapon Holy Stone] Full HP+",
+    "flavor_text": "[Full HP]<br>Damage increases.",
+    "special_effect_ids": [
+      803040024
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100025,
+    "name": "[Weapon Holy Stone] Critical HP+",
+    "flavor_text": "[At Critical HP]<br>Damage increases.",
+    "special_effect_ids": [
+      803040025
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100026,
+    "name": "[Weapon Holy Stone] Recovery+",
+    "flavor_text": "When recovery actions are made, recovery amount increases.<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      803040026
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100027,
+    "name": "[Weapon Holy Stone] Accuracy+",
+    "flavor_text": "Attacks' accuracy increases.",
+    "special_effect_ids": [
+      803040027
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100036,
+    "name": "[Armor Holy Stone] Abate (All)",
+    "flavor_text": "When attacked, damage will be reduced.",
+    "special_effect_ids": [
+      803040036
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100037,
+    "name": "[Armor Holy Stone] Abate (Slash)",
+    "flavor_text": "When hit by slash attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040037
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100038,
+    "name": "[Armor Holy Stone] Abate (Blunt)",
+    "flavor_text": "When hit by blunt attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040038
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100039,
+    "name": "[Armor Holy Stone] Abate (Pierce)",
+    "flavor_text": "When hit by pierce attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040039
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100040,
+    "name": "[Armor Holy Stone] Abate (Heat)",
+    "flavor_text": "When hit by heat attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040040
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100041,
+    "name": "[Armor Holy Stone] Abate (Cold)",
+    "flavor_text": "When hit by cold attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040041
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100042,
+    "name": "[Armor Holy Stone] Abate (Lightning)",
+    "flavor_text": "When hit by lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040042
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100043,
+    "name": "[Armor Holy Stone] Abate (Sun)",
+    "flavor_text": "When hit by sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040043
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100044,
+    "name": "[Armor Holy Stone] Abate (Shadow)",
+    "flavor_text": "When hit by shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040044
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100045,
+    "name": "[Armor Holy Stone] Abate (Slash/Blunt)",
+    "flavor_text": "When hit by slash or blunt attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040045
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100046,
+    "name": "[Armor Holy Stone] Abate (Slash/Pierce)",
+    "flavor_text": "When hit by slash or pierce attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040046
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100047,
+    "name": "[Armor Holy Stone] Abate (Slash/Heat)",
+    "flavor_text": "When hit by slash or heat attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040047
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100048,
+    "name": "[Armor Holy Stone] Abate (Slash/Cold)",
+    "flavor_text": "When hit by slash or cold attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040048
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100049,
+    "name": "[Armor Holy Stone] Abate (Slash/Lightning)",
+    "flavor_text": "When hit by slash or lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040049
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100050,
+    "name": "[Armor Holy Stone] Abate (Slash/Sun)",
+    "flavor_text": "When hit by slash or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040050
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100051,
+    "name": "[Armor Holy Stone] Abate (Slash/Shadow)",
+    "flavor_text": "When hit by slash or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040051
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100052,
+    "name": "[Armor Holy Stone] Abate (Blunt/Pierce)",
+    "flavor_text": "When hit by blunt or pierce attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040052
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100053,
+    "name": "[Armor Holy Stone] Abate (Blunt/Heat)",
+    "flavor_text": "When hit by blunt or heat attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040053
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100054,
+    "name": "[Armor Holy Stone] Abate (Blunt/Cold)",
+    "flavor_text": "When hit by blunt or cold attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040054
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100055,
+    "name": "[Armor Holy Stone] Abate (Blunt/Lightning)",
+    "flavor_text": "When hit by blunt or lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040055
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100056,
+    "name": "[Armor Holy Stone] Abate (Blunt/Sun)",
+    "flavor_text": "When hit by blunt or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040056
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100057,
+    "name": "[Armor Holy Stone] Abate (Blunt/Shadow)",
+    "flavor_text": "When hit by blunt or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040057
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100058,
+    "name": "[Armor Holy Stone] Abate (Pierce/Heat)",
+    "flavor_text": "When hit by pierce or heat attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040058
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100059,
+    "name": "[Armor Holy Stone] Abate (Pierce/Cold)",
+    "flavor_text": "When hit by pierce or cold attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040059
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100060,
+    "name": "[Armor Holy Stone] Abate (Pierce/Lightning)",
+    "flavor_text": "When hit by pierce or lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040060
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100061,
+    "name": "[Armor Holy Stone] Abate (Pierce/Sun)",
+    "flavor_text": "When hit by pierce or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040061
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100062,
+    "name": "[Armor Holy Stone] Abate (Pierce/Shadow)",
+    "flavor_text": "When hit by pierce or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040062
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100063,
+    "name": "[Armor Holy Stone] Abate (Heat/Cold)",
+    "flavor_text": "When hit by heat or cold attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040063
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100064,
+    "name": "[Armor Holy Stone] Abate (Heat/Lightning)",
+    "flavor_text": "When hit by heat or lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040064
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100065,
+    "name": "[Armor Holy Stone] Abate (Heat/Sun)",
+    "flavor_text": "When hit by heat or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040065
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100066,
+    "name": "[Armor Holy Stone] Abate (Heat/Shadow)",
+    "flavor_text": "When hit by heat or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040066
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100067,
+    "name": "[Armor Holy Stone] Abate (Cold/Lightning)",
+    "flavor_text": "When hit by cold or lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040067
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100068,
+    "name": "[Armor Holy Stone] Abate (Cold/Sun)",
+    "flavor_text": "When hit by cold or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040068
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100069,
+    "name": "[Armor Holy Stone] Abate (Cold/Shadow)",
+    "flavor_text": "When hit by cold or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040069
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100070,
+    "name": "[Armor Holy Stone] Abate (Lightning/Sun)",
+    "flavor_text": "When hit by lightning or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040070
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100071,
+    "name": "[Armor Holy Stone] Abate (Lightning/Shadow)",
+    "flavor_text": "When hit by lightning or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040071
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100072,
+    "name": "[Armor Holy Stone] Abate (Sun/Shadow)",
+    "flavor_text": "When hit by sun or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040072
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100073,
+    "name": "[Armor Holy Stone] Abate (Full HP)",
+    "flavor_text": "[Full HP]<br>Damage will be reduced.",
+    "special_effect_ids": [
+      803040073
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100075,
+    "name": "[Armor Holy Stone] Abate (Critical HP)",
+    "flavor_text": "[At Critical HP]<br>Damage will be reduced.",
+    "special_effect_ids": [
+      803040075
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100076,
+    "name": "[Gear Holy Stone] Abate (All)",
+    "flavor_text": "When attacked, damage will be reduced.",
+    "special_effect_ids": [
+      803040036
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100077,
+    "name": "[Gear Holy Stone] Abate (Slash)",
+    "flavor_text": "When hit by slash attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040037
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100078,
+    "name": "[Gear Holy Stone] Abate (Blunt)",
+    "flavor_text": "When hit by blunt attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040038
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100079,
+    "name": "[Gear Holy Stone] Abate (Pierce)",
+    "flavor_text": "When hit by pierce attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040039
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100080,
+    "name": "[Gear Holy Stone] Abate (Heat)",
+    "flavor_text": "When hit by heat attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040040
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100081,
+    "name": "[Gear Holy Stone] Abate (Cold)",
+    "flavor_text": "When hit by cold attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040041
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100082,
+    "name": "[Gear Holy Stone] Abate (Lightning)",
+    "flavor_text": "When hit by lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040042
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100083,
+    "name": "[Gear Holy Stone] Abate (Sun)",
+    "flavor_text": "When hit by sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040043
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100084,
+    "name": "[Gear Holy Stone] Abate (Shadow)",
+    "flavor_text": "When hit by shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040044
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100085,
+    "name": "[Gear Holy Stone] Abate (Slash/Blunt)",
+    "flavor_text": "When hit by slash or blunt attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040045
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100086,
+    "name": "[Gear Holy Stone] Abate (Slash/Pierce)",
+    "flavor_text": "When hit by slash or pierce attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040046
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100087,
+    "name": "[Gear Holy Stone] Abate (Slash/Heat)",
+    "flavor_text": "When hit by slash or heat attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040047
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100088,
+    "name": "[Gear Holy Stone] Abate (Slash/Cold)",
+    "flavor_text": "When hit by slash or cold attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040048
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100089,
+    "name": "[Gear Holy Stone] Abate (Slash/Lightning)",
+    "flavor_text": "When hit by slash or lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040049
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100090,
+    "name": "[Gear Holy Stone] Abate (Slash/Sun)",
+    "flavor_text": "When hit by slash or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040050
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100091,
+    "name": "[Gear Holy Stone] Abate (Slash/Shadow)",
+    "flavor_text": "When hit by slash or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040051
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100092,
+    "name": "[Gear Holy Stone] Abate (Blunt/Pierce)",
+    "flavor_text": "When hit by blunt or pierce attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040052
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100093,
+    "name": "[Gear Holy Stone] Abate (Blunt/Heat)",
+    "flavor_text": "When hit by blunt or heat attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040053
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100094,
+    "name": "[Gear Holy Stone] Abate (Blunt/Cold)",
+    "flavor_text": "When hit by blunt or cold attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040054
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100095,
+    "name": "[Gear Holy Stone] Abate (Blunt/Lightning)",
+    "flavor_text": "When hit by blunt or lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040055
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100096,
+    "name": "[Gear Holy Stone] Abate (Blunt/Sun)",
+    "flavor_text": "When hit by blunt or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040056
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100097,
+    "name": "[Gear Holy Stone] Abate (Blunt/Shadow)",
+    "flavor_text": "When hit by blunt or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040057
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100098,
+    "name": "[Gear Holy Stone] Abate (Pierce/Heat)",
+    "flavor_text": "When hit by pierce or heat attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040058
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100099,
+    "name": "[Gear Holy Stone] Abate (Pierce/Cold)",
+    "flavor_text": "When hit by pierce or cold attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040059
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100100,
+    "name": "[Gear Holy Stone] Abate (Pierce/Lightning)",
+    "flavor_text": "When hit by pierce or lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040060
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100101,
+    "name": "[Gear Holy Stone] Abate (Pierce/Sun)",
+    "flavor_text": "When hit by pierce or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040061
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100102,
+    "name": "[Gear Holy Stone] Abate (Pierce/Shadow)",
+    "flavor_text": "When hit by pierce or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040062
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100103,
+    "name": "[Gear Holy Stone] Abate (Heat/Cold)",
+    "flavor_text": "When hit by heat or cold attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040063
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100104,
+    "name": "[Gear Holy Stone] Abate (Heat/Lightning)",
+    "flavor_text": "When hit by heat or lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040064
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100105,
+    "name": "[Gear Holy Stone] Abate (Heat/Sun)",
+    "flavor_text": "When hit by heat or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040065
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100106,
+    "name": "[Gear Holy Stone] Abate (Heat/Shadow)",
+    "flavor_text": "When hit by heat or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040066
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100107,
+    "name": "[Gear Holy Stone] Abate (Cold/Lightning)",
+    "flavor_text": "When hit by cold or lightning attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040067
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100108,
+    "name": "[Gear Holy Stone] Abate (Cold/Sun)",
+    "flavor_text": "When hit by cold or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040068
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100109,
+    "name": "[Gear Holy Stone] Abate (Cold/Shadow)",
+    "flavor_text": "When hit by cold or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040069
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100110,
+    "name": "[Gear Holy Stone] Abate (Lightning/Sun)",
+    "flavor_text": "When hit by lightning or sun attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040070
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100111,
+    "name": "[Gear Holy Stone] Abate (Lightning/Shadow)",
+    "flavor_text": "When hit by lightning or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040071
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100112,
+    "name": "[Gear Holy Stone] Abate (Sun/Shadow)",
+    "flavor_text": "When hit by sun or shadow attacks, damage will be reduced.",
+    "special_effect_ids": [
+      803040072
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 703100113,
+    "name": "[Gear Holy Stone] Abate (Full HP)",
+    "flavor_text": "[Full HP]<br>Damage will be reduced.",
+    "special_effect_ids": [
+      803040073
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703100114,
+    "name": "[Gear Holy Stone] Abate (Critical HP)",
+    "flavor_text": "[At Critical HP]<br>Damage will be reduced.",
+    "special_effect_ids": [
+      803040075
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 703600028,
+    "name": "[Weapon Holy Stone] Poison Res Down",
+    "flavor_text": "When landing an attack, reduces target's poison resistance (medium chance).",
+    "special_effect_ids": [
+      803020028
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 703600029,
+    "name": "[Weapon Holy Stone] Darkness Res Down",
+    "flavor_text": "When landing an attack, reduces target's darkness resistance (medium chance).",
+    "special_effect_ids": [
+      803020029
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 703600030,
+    "name": "[Weapon Holy Stone] Stun Res Down",
+    "flavor_text": "When landing an attack, reduces target's stun resistance (medium chance).",
+    "special_effect_ids": [
+      803020030
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 703600031,
+    "name": "[Weapon Holy Stone] Paralysis Res Down",
+    "flavor_text": "When landing an attack, reduces target's paralysis resistance (medium chance).",
+    "special_effect_ids": [
+      803020031
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 703600032,
+    "name": "[Weapon Holy Stone] Sleep Res Down",
+    "flavor_text": "When landing an attack, reduces target's sleep resistance (medium chance).",
+    "special_effect_ids": [
+      803020032
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 703600033,
+    "name": "[Weapon Holy Stone] Petrification Res Down",
+    "flavor_text": "When landing an attack, reduces target's petrification resistance (medium chance).",
+    "special_effect_ids": [
+      803020033
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 703600034,
+    "name": "[Weapon Holy Stone] Confusion Res Down",
+    "flavor_text": "When landing an attack, reduces target's confusion resistance (medium chance).",
+    "special_effect_ids": [
+      803020034
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 703600035,
+    "name": "[Weapon Holy Stone] Charm Res Down",
+    "flavor_text": "When landing an attack, reduces target's charm resistance (medium chance).",
+    "special_effect_ids": [
+      803020035
+    ],
+    "ability_when": 6,
+    "icon": 4004
+  },
+  {
+    "id": 708100001,
+    "name": "Counter",
+    "flavor_text": "When being directly attacked, launches a counterattack (medium chance).",
+    "special_effect_ids": [
+      808040001
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 708100002,
+    "name": "Sleep",
+    "flavor_text": "[Start of battle]<br>Has oneself enter a sleep stance (5 turn(s)).",
+    "special_effect_ids": [
+      808030002
+    ],
+    "ability_when": 1,
+    "icon": 3005
+  },
+  {
+    "id": 708100007,
+    "name": "Act of Devotion",
+    "flavor_text": "Takes an ally's place in being attacked.",
+    "special_effect_ids": [
+      808040007
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 708100010,
+    "name": "Sleep",
+    "flavor_text": "[Start of battle]<br>Has oneself enter a sleep stance (99 turn(s)).",
+    "special_effect_ids": [
+      808030010
+    ],
+    "ability_when": 1,
+    "icon": 3005
+  },
+  {
+    "id": 708100019,
+    "name": "Weak Point Focus Ⅱ",
+    "flavor_text": "Weak attacks' damage increases (medium effect).",
+    "special_effect_ids": [
+      808040019
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 708100021,
+    "name": "Carapace",
+    "flavor_text": "When attacked, damage will be reduced (medium chance/large effect).",
+    "special_effect_ids": [
+      808040021
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 708100028,
+    "name": "Self-immolation",
+    "flavor_text": "Nullifies attacks which have heat damage. Also counterattacks with a heat attack when being directly attacked.",
+    "special_effect_ids": [
+      808040029
+    ],
+    "ability_when": 1,
+    "icon": 2001
+  },
+  {
+    "id": 708100044,
+    "name": "Self Contamination",
+    "flavor_text": "[Start of battle]<br>Inflicts poison on oneself (10 turn(s)).",
+    "special_effect_ids": [
+      808030047
+    ],
+    "ability_when": 1,
+    "icon": 3001
+  },
+  {
+    "id": 708100047,
+    "name": "Defiance",
+    "flavor_text": "[Start of battle]<br>Inflicts charm on oneself (10 turn(s)).",
+    "special_effect_ids": [
+      808030050
+    ],
+    "ability_when": 1,
+    "icon": 3007
+  },
+  {
+    "id": 708100053,
+    "name": "War Gong",
+    "flavor_text": "[Start of battle]<br>Recovers all surviving enemies' BP to 20.",
+    "special_effect_ids": [
+      808040056
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 708300012,
+    "name": "Reinforce (STR)",
+    "flavor_text": "[Start of turn]<br>Increases own STR (large effect).",
+    "special_effect_ids": [
+      808010012
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 708300015,
+    "name": "Elemental Salvo",
+    "flavor_text": "[Start of turn]<br>Increases own AGI (medium chance/large effect).",
+    "special_effect_ids": [
+      808010015
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 708300016,
+    "name": "Elemental Blessing",
+    "flavor_text": "[Start of turn]<br>Increases own INT (medium chance/large effect).",
+    "special_effect_ids": [
+      808010016
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 708300017,
+    "name": "Elemental Ward",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' INT (medium chance/large effect).",
+    "special_effect_ids": [
+      808010017
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 708300025,
+    "name": "Warcry",
+    "flavor_text": "[Start of turn]<br>Grants a random surviving ally an attack boost (extreme effect/1 turn(s)).",
+    "special_effect_ids": [
+      808040026
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 708300057,
+    "name": "瘴気",
+    "flavor_text": "[ターン開始時] <br>敵生存者全体の精神と愛と魅力を低下させる( 効果極大 )",
+    "special_effect_ids": [
+      808010062,
+      808010063,
+      808010064
+    ],
+    "ability_when": 3,
+    "icon": 4003
+  },
+  {
+    "id": 708400052,
+    "name": "Regen",
+    "flavor_text": "[End of turn]<br>Recovers own HP (large effect).",
+    "special_effect_ids": [
+      808040055
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
+    "id": 708400054,
+    "name": "Bring It On",
+    "flavor_text": "[End of turn]<br>Recovers all surviving enemies' BP to 20.",
+    "special_effect_ids": [
+      808040057
+    ],
+    "ability_when": 4,
+    "icon": 4010
+  },
+  {
+    "id": 708400056,
+    "name": "Purify",
+    "flavor_text": "[End of Turn]<br>Removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "special_effect_ids": [
+      809040274,
+      809040276
+    ],
+    "ability_when": 4,
+    "icon": 4010
+  },
+  {
+    "id": 708600003,
+    "name": "Unbreakable IV (STR)",
+    "flavor_text": "When attacked by an attack that would cause Resist, increases own STR (very extreme effect).",
+    "special_effect_ids": [
+      808010003
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 708600004,
+    "name": "Unbreakable IV (END)",
+    "flavor_text": "When attacked by an attack that would cause Resist, increases own END (very extreme effect).",
+    "special_effect_ids": [
+      808010004
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 708600005,
+    "name": "Mastermind IV (STR)",
+    "flavor_text": "When landing a Weak attack, increases own STR (very extreme effect).",
+    "special_effect_ids": [
+      808010005
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 708600006,
+    "name": "Mastermind IV (END)",
+    "flavor_text": "When landing a Weak attack, increases own END (very extreme effect).",
+    "special_effect_ids": [
+      808010006
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 708600008,
+    "name": "Unbreakable IV (WIL)",
+    "flavor_text": "When attacked by an attack that would cause Resist, increases own WIL (very extreme effect).",
+    "special_effect_ids": [
+      808010008
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 708600009,
+    "name": "Mastermind IV (WIL)",
+    "flavor_text": "When landing a Weak attack, increases own WIL (very extreme effect).",
+    "special_effect_ids": [
+      808010009
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 708600018,
+    "name": "Fighting Spirit Ⅱ (INT)",
+    "flavor_text": "When landing an attack, increases own INT (medium chance/large effect).",
+    "special_effect_ids": [
+      808010018
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 708600020,
+    "name": "Enervate Ⅲ (WIL)",
+    "flavor_text": "When landing an attack, reduces target's WIL (medium chance/large effect).",
+    "special_effect_ids": [
+      808010020
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 708600022,
+    "name": "Draining Attack Ⅲ",
+    "flavor_text": "When landing an attack, recovers own HP (medium chance/medium effect).",
+    "special_effect_ids": [
+      808040023
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 708600023,
+    "name": "Enervate Ⅲ (END)",
+    "flavor_text": "When landing an attack, reduces target's END (medium chance/large effect).",
+    "special_effect_ids": [
+      808010022
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 708600026,
+    "name": "Fighting Spirit Ⅱ (END)",
+    "flavor_text": "When landing an attack, increases own END (medium chance/large effect).",
+    "special_effect_ids": [
+      808010027
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 708600027,
+    "name": "Ferocity Ⅱ (END)",
+    "flavor_text": "When landing an attack that defeats the target, increases own END (medium chance/large effect).",
+    "special_effect_ids": [
+      802010130
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 708600036,
+    "name": "Falter",
+    "flavor_text": "When attacked and HP reaches 0, stuns all surviving allies.",
+    "special_effect_ids": [
+      808040039
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 708600050,
+    "name": "Dispersed Vigor",
+    "flavor_text": "When attacked and HP reaches 0, recovers BP (+5) for all enemies.",
+    "special_effect_ids": [
+      808040053
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 750100529,
+    "name": "Pre-Action Defense Boost + Action Order Down",
+    "flavor_text": "Grants a defense boost (very large effect) before an action is made.<br>Decreases action order value (medium effect).",
+    "special_effect_ids": [
+      850040525,
+      850040523
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 1702100001,
+    "name": "Warcry (Slash/Lightning)",
+    "flavor_text": "Increases all surviving allies' slash attacks' damage (small effect).<br>Increases all surviving allies' lightning attacks' damage (small effect).",
+    "special_effect_ids": [
+      802040502,
+      1802040446
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 1702100002,
+    "name": "Sentinel of Hope",
+    "flavor_text": "When all allies are still surviving, reduces damage for all allies (medium effect).",
+    "special_effect_ids": [
+      1802040003
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 1702100003,
+    "name": "Silver Wall",
+    "flavor_text": "When attacked, damage will be reduced by 100% (Max times: 3).<br>*Only activates when hit by an attack.",
+    "special_effect_ids": [
+      1802040008
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 1702100004,
+    "name": "Gleaming Light",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Gleaming Slash (medium chance).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1802040009
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 1702100005,
+    "name": "Icy Wrath",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Glacial Sword (medium chance).<br><br>Counterattack: Glacial Sword<br>G. Sword skill/Attack/Power: D/Single Foe (Slash+Cold)<br>Attack. (Activates using skill Rank 1)",
+    "special_effect_ids": [
+      1802040015
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 1702100006,
+    "name": "Midsummer Days",
+    "flavor_text": "When HP is full, attacks' damage increases (large effect).<br><br>[Start of battle]<br>Recovers own BP (+2).",
+    "special_effect_ids": [
+      802040014,
+      802040322
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 1702200002,
+    "name": "Cover of Night",
+    "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
+    "special_effect_ids": [
+      1802040001
+    ],
+    "ability_when": 2,
+    "icon": 4006
+  },
+  {
+    "id": 1702200003,
+    "name": "Engage Ⅱ",
+    "flavor_text": "[Start of round]<br>Attacks' damage increases (large effect/1 turn(s)).",
+    "special_effect_ids": [
+      1802040362
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 1702200004,
+    "name": "END Inhibitor Ⅳ",
+    "flavor_text": "[Start of round]<br>Reduces all enemies' END (very large effect).",
+    "special_effect_ids": [
+      1802010001
+    ],
+    "ability_when": 2,
+    "icon": 4003
+  },
+  {
+    "id": 1702300001,
+    "name": "Lightning Blitz",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies a lightning attack boost (medium effect/1 turn(s)). (Max times: 3).",
+    "special_effect_ids": [
+      1802040445
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300002,
+    "name": "Link of Gallantry",
+    "flavor_text": "[Start of turn]<br>Grants oneself and 1 random surviving ally an attack boost (large effect/1 turn(s)).",
+    "special_effect_ids": [
+      1802040004,
+      1802040005
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300003,
+    "name": "Piercing Blitz",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies a pierce attack boost (medium effect/1 turn(s)). (Max times: 3).",
+    "special_effect_ids": [
+      1802040006
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300004,
+    "name": "One Fell Swoop",
+    "flavor_text": "[Start of turn]<br>Grants oneself an attack boost (very large effect/1 turn(s)). (Max times: 3).",
+    "special_effect_ids": [
+      802040362
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300005,
+    "name": "Untouchable Beauty",
+    "flavor_text": "[Start of turn]<br>Has a medium chance to:<br>Have oneself enter an evasive stance (1 turn(s)).<br>And recover own HP (small effect).",
+    "special_effect_ids": [
+      802040624,
+      802040062
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300006,
+    "name": "Blunt Blitz",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies a blunt attack boost (medium effect/1 turn(s)). (Max times: 3).",
+    "special_effect_ids": [
+      1802040016
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702600001,
+    "name": "Insidious Charm",
+    "flavor_text": "When landing an attack, inflicts charm on target (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030244
+    ],
+    "ability_when": 6,
+    "icon": 3007
+  },
+  {
+    "id": 1702600002,
+    "name": "Gnawing Confusion",
+    "flavor_text": "When landing an attack, inflicts confusion on target (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030243
+    ],
+    "ability_when": 6,
+    "icon": 3006
+  },
+  {
+    "id": 1702600003,
+    "name": "Crazy Fuse",
+    "flavor_text": "When landing an attack with Proton Rocket, Submachine Gun will be activated.<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1802040002
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 1702600004,
+    "name": "Spirited Song",
+    "flavor_text": "When being attacked, increases own STR (large effect).",
+    "special_effect_ids": [
+      1802010002
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 1702600005,
+    "name": "Moon Shower",
+    "flavor_text": "When landing an attack, has a high chance to:<br>Recover own HP (small effect).<br>And increase own STR/AGI (medium effect).",
+    "special_effect_ids": [
+      1802040010,
+      1802010003,
+      1802010004
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 1702600006,
+    "name": "Double Echo",
+    "flavor_text": "When landing an attack with either a Normal Attack, Derringer, Electric Pierce, or Bolt Thrower, has a medium chance to:<br>Activate the same skill again (Activates using skill Rank 1) and recover own BP (+1).<br>*The skill activated by this ability will not activate another attack.",
+    "special_effect_ids": [
+      1802040011,
+      1802040012,
+      1802040013,
+      1802040014
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 1708100001,
+    "name": "Carapace",
+    "flavor_text": "When attacked, damage will be reduced by 100% (Max times: 3).<br>*Only activates when hit by an attack.",
+    "special_effect_ids": [
+      1808040001
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 1708100002,
+    "name": "Carapace",
+    "flavor_text": "When attacked, damage will be reduced by 100% (Max times: 5).<br>*Only activates when hit by an attack.",
+    "special_effect_ids": [
+      1808040002
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 1708100003,
+    "name": "Carapace",
+    "flavor_text": "When attacked, damage will be reduced by 100% (Max times: 10).<br>*Only activates when hit by an attack.",
+    "special_effect_ids": [
+      1808040003
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 1708600001,
+    "name": "Breath of the Void",
+    "flavor_text": "When landing an attack that defeats the target, removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "special_effect_ids": [
+      1808040004,
+      1808040005
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 1708600003,
+    "name": "Ferocity Ⅳ (INT)",
+    "flavor_text": "When landing an attack that defeats the target, increases own INT (large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      1808010002
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 1708600004,
+    "name": "Ferocity Ⅳ (AGI)",
+    "flavor_text": "When landing an attack that defeats the target, increases own AGI (large effect/recovery amount will not be affected even if multiple targets are defeated).",
+    "special_effect_ids": [
+      1808010003
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 1708600005,
+    "name": "Fighting Spirit Ⅱ (AGI)",
+    "flavor_text": "When landing an attack, increases own AGI (medium chance/large effect).",
+    "special_effect_ids": [
+      1808010004
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  }
+]

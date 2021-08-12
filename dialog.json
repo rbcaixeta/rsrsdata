@@ -1,0 +1,1496 @@
+[
+  {
+    "id": 1,
+    "name": "Formation_EquipmentChange_Complete",
+    "title": "Equipment Changed",
+    "text": "Equipment has been changed.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 2,
+    "name": "Formation_InputText_Ng",
+    "title": "Error",
+    "text": "Contains invalid characters.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 3,
+    "name": "Formation_InputText_Max",
+    "title": "Error",
+    "text": "You have exceeded the character limit.<br>Please enter no more than 10 characters.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 4,
+    "name": "Formation_EquipmentChange_Confirm",
+    "title": "Confirm",
+    "text": "The equipment you selected is already equipped to another character.<br>Equip it to this character?",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Equip"
+  },
+  {
+    "id": 5,
+    "name": "Formation_SkillRemove_Complete",
+    "title": "Confirm",
+    "text": "A different character's Style was selected; inherited skill/spell has been removed.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 6,
+    "name": "Formation_SameCharacter_Confirm",
+    "title": "Confirm",
+    "text": "This character has already been selected.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 7,
+    "name": "Formation_WeaponRemove_Complete",
+    "title": "Confirm",
+    "text": "A style with a different weapon type was selected; weapon has been unequipped.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 8,
+    "name": "Smith_EquipmentSale_Shortage",
+    "title": "Confirm",
+    "text": "No applicable equipment.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 9,
+    "name": "Smith_MaterialChange_impossible",
+    "title": "Confirm",
+    "text": "This material cannot be converted.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 10,
+    "name": "Training_Food_Shortage",
+    "title": "Not Enough Energy",
+    "text": "You're out of energy.<br>Please replenish your energy to continue training.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Replenish"
+  },
+  {
+    "id": 11,
+    "name": "Training_Food_Max",
+    "title": "Replenishment Limit",
+    "text": "You can't replenish any more energy.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 13,
+    "name": "Load_Dl_Shortage",
+    "title": "Error",
+    "text": "You don't have enough storage space for this download.<br>Please check your device storage.<br>*Select \"Retry\" to restart the download.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Retry"
+  },
+  {
+    "id": 14,
+    "name": "Present_Receipt_Deadline",
+    "title": "Expired",
+    "text": "Time limit has passed.<br>Unable to receive items.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 15,
+    "name": "Player_InputText_Ng",
+    "title": "Error",
+    "text": "Contains invalid characters.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 16,
+    "name": "Daily_Frequency_Max",
+    "title": "Extra Attempt Limit",
+    "text": "You have reached the maximum number of attempts.<br>Please try again tomorrow.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 17,
+    "name": "Shop_StaminaRecover_Max",
+    "title": "Recover Stamina",
+    "text": "Stamina is full.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 18,
+    "name": "Shop_Buy_Deadline",
+    "title": "Purchase Error",
+    "text": "Purchase period for this product has ended.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 19,
+    "name": "Shop_Renew_Complete",
+    "title": "Items Updated",
+    "text": "Updated the item list.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 20,
+    "name": "Shop_Profile_Ng",
+    "title": "Set date of birth",
+    "text": "Invalid month or year",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 21,
+    "name": "Shop_Profile_Complete",
+    "title": "Set date of birth",
+    "text": "Date of birth has been set.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 22,
+    "name": "Shop_BuyCancel_Complete",
+    "title": "Purchase Canceled",
+    "text": "Purchase has been canceled.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 23,
+    "name": "Shop_StaminaRecover_impossible",
+    "title": "Recover Stamina",
+    "text": "You have reached the recovery limit.<br>You cannot recover any more.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 24,
+    "name": "Gacha_Jewel_Shortage",
+    "title": "Not Enough Jewels",
+    "text": "Not enough paid jewels to perform this summon.<br>Would you like to purchase more jewels?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 25,
+    "name": "Option_DataDelete_Complete",
+    "title": "Data Successfully Deleted",
+    "text": "Data deleted.<br>Data restoration will begin after returning to the title screen.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 26,
+    "name": "Option_Scenario_Confirm",
+    "title": "Download All Data",
+    "text": "Downloading all game data at once will allow for a better game experience.<br>Would you like to download all game data now?<br>*We recommend using a Wi-Fi connection for this download.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Download"
+  },
+  {
+    "id": 27,
+    "name": "Option_DataRepair_Confirm",
+    "title": "Restore Data",
+    "text": "If the data saved on your device is corrupted, it may cause problems including the inability to progress.<br>Deleting game data and redownloading the game will often solve the issue.<br>You can continue playing from your current state of progress after restoring the game data.<br>Would you like to restore your data?<br><br><br>*We recommend using a Wi-Fi connection for this download.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Restore"
+  },
+  {
+    "id": 28,
+    "name": "Drama_Skip_Confirm",
+    "title": "Confirm",
+    "text": "Skip this scene?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 29,
+    "name": "Tutorial_Dl_Complete",
+    "title": "Tutorial Data Download Complete",
+    "text": "Tutorial Data download is complete.<br>Press the START button to start the game.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "START"
+  },
+  {
+    "id": 30,
+    "name": "Tutorial_InputText_Shortage",
+    "title": "Error",
+    "text": "Please enter your player name.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 31,
+    "name": "Tutorial_Skip_Confirm",
+    "title": "Confirm",
+    "text": "Would you like a tour of Vanguard?",
+    "dialog_type": 2,
+    "button2": "Skip",
+    "button1": "Sure"
+  },
+  {
+    "id": 32,
+    "name": "Common_Update_Confirm",
+    "title": "Confirm",
+    "text": "You must update the application to play the game.<br>(Press OK to go to the Store.)",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 33,
+    "name": "Common_Battle_Confirm",
+    "title": "Confirm",
+    "text": "There is a suspended battle.<br>Would you like to resume the battle?",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Resume"
+  },
+  {
+    "id": 34,
+    "name": "Common_Maintenance_Confirm",
+    "title": "Confirm",
+    "text": "Currently under maintenance.<br>Returning to title screen.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 35,
+    "name": "Common_Event_Deadline",
+    "title": "Error",
+    "text": "Event currently unavailable.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 36,
+    "name": "Tutorial_InputText_Ng",
+    "title": "Error",
+    "text": "Contains invalid characters.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 37,
+    "name": "Tutorial_InputText_Max",
+    "title": "Error",
+    "text": "You have exceeded the character limit.<br>Please enter no more than 10 characters.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 38,
+    "name": "Trialquest_Renew_Result",
+    "title": "Results Reset",
+    "text": "Your completion status for the Spiral Corridor has been reset because the monthly reset date has passed.<br>*Certain floors may be completed automatically depending on your progress in the previous month.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 39,
+    "name": "Battle_Retire_Confirm",
+    "title": "Confirm",
+    "text": "If you retreat, you will fail the quest.<br>Retreat?<br>*You will lose all skills and ranks gained from this battle.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Retreat"
+  },
+  {
+    "id": 40,
+    "name": "Battle_Retire_impossible",
+    "title": "Confirm",
+    "text": "You cannot retreat from a battle whose outcome has already been decided.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 41,
+    "name": "Battle_Expired_impossible",
+    "title": "Confirm",
+    "text": "Availability period for this battle has ended.<br>Returning to Home screen.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 42,
+    "name": "Load_Connect_impossible",
+    "title": "Network Error",
+    "text": "Disconnected from the server.<br>Returning to title screen.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 43,
+    "name": "Present_StaminaRecover_Max",
+    "title": "Claim Limit",
+    "text": "Your inventory is full.<br>You cannot recover any more stamina.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 44,
+    "name": "Shop_Jewel_Shortage",
+    "title": "Not Enough Jewels",
+    "text": "Not enough jewels.<br>Would you like to purchase more jewels?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 45,
+    "name": "Quest_Hard_Open",
+    "title": "Quest Unlocked",
+    "text": "Hard difficulty has been unlocked.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 46,
+    "name": "Quest_VeryHard_Open",
+    "title": "Quest Unlocked",
+    "text": "Very hard difficulty has been unlocked.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 47,
+    "name": "Shop_Buy_Cancel",
+    "title": "Purchase Failed",
+    "text": "Purchase has been canceled.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 48,
+    "name": "Quest_Remuneration_Transfer",
+    "title": "Transfer Items",
+    "text": "Item inventory is full.<br>Additional items have been sent<br>to your Present Box.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 49,
+    "name": "Shop_Aurum_Max",
+    "title": "Inventory Limit Exceeded",
+    "text": "This sale will exceed your max aurum limit.<br>Would you still like to proceed?<br>*Aurum over the limit will be lost.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Sell"
+  },
+  {
+    "id": 50,
+    "name": "Shop_Item_Max",
+    "title": "Inventory Limit Exceeded",
+    "text": "This sale will exceed your max White Crystal limit.<br>Would you still like to proceed?<br>*White Crystals over the limit will be lost.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Sell"
+  },
+  {
+    "id": 51,
+    "name": "Starting_Inheriting_Complete",
+    "title": "Data successfully transferred",
+    "text": "Player was imported<br>from linked Facebook account.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 52,
+    "name": "Quest_Remuneration_Extinction",
+    "title": "Confirm",
+    "text": "Items exceeding the inventory limit have been deleted.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 53,
+    "name": "Item_IllegalOperation_Cancel",
+    "title": "Confirm",
+    "text": "Sale failed: unauthorized action detected.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 54,
+    "name": "Shop_Jewel_Max",
+    "title": "Max Paid Jewels",
+    "text": "Cannot purchase jewels;<br>doing so would exceed the maximum paid jewel limit.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
+    "id": 55,
+    "name": "Shop_Jewel_impossible",
+    "title": "Maximum Jewel Limit",
+    "text": "Jewel Limit Exceeded<br>Cannot purchase jewels.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
+    "id": 56,
+    "name": "Shop_Frequency_Max",
+    "title": "Purchase Error",
+    "text": "The maximum number of purchases has passed,<br>so some items may not have been sent to you.<br>If you have confirmed that any items were not properly delivered,<br>please contact us via Menu>Contact Us.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 57,
+    "name": "Item_Frequency_Max",
+    "title": "Purchase Error",
+    "text": "Your item inventory is full,<br>so some items may not have been sent to you.<br>If you have confirmed that any items were not properly delivered,<br>please contact us via Menu>Contact Us.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 58,
+    "name": "Shop_Expired_Deadline",
+    "title": "Purchase Error",
+    "text": "The designated purchase period has passed,<br>so some items may not have been sent to you.<br>If you have confirmed that any items were not properly delivered,<br>please contact us via Menu>Contact Us.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 59,
+    "name": "Training_Renew_Max",
+    "title": "Energy Limit Exceeded",
+    "text": "You can't replenish energy over the limit.<br>Are you sure you want to continue?",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Replenish"
+  },
+  {
+    "id": 60,
+    "name": "Option_Inheriting_Cancel",
+    "title": "Remove Data Link",
+    "text": "Are you sure you want to unlink from your Game Center account?",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Unlink"
+  },
+  {
+    "id": 61,
+    "name": "Starting_IllegalOperation_Result",
+    "title": "News",
+    "text": "We have detected a Terms of Service violation. Your account has been suspended. For more information please contact customer service from the Contact Us page at the bottom of the title screen.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 62,
+    "name": "Load_Connect_Result",
+    "title": "Download Error",
+    "text": "An error occured during download.<br>Return to the title screen<br>or please try again with a better connection.",
+    "dialog_type": 2,
+    "button2": "Back to title",
+    "button1": "Retry"
+  },
+  {
+    "id": 63,
+    "name": "Load_Connect_Confirm",
+    "title": "Download Error",
+    "text": "Download error occurred,<br>please move to somewhere with better Wi-Fi then try again.",
+    "dialog_type": 2,
+    "button2": "Back to title",
+    "button1": "Retry"
+  },
+  {
+    "id": 64,
+    "name": "Option_Dl_Complete",
+    "title": "Download All Data",
+    "text": "The latest data has been downloaded.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 65,
+    "name": "Quest_Expired_Attention",
+    "title": "Expired",
+    "text": "Quest availability period<br>has ended.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 66,
+    "name": "Item_IllegalOperation_Attention",
+    "title": "Confirm Sale",
+    "text": "Cannot sell items<br>that have been locked.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
+    "id": 67,
+    "name": "Item_Cancel_Ng",
+    "title": "Confirm Sale",
+    "text": "Cannot sell items<br>that are equipped.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
+    "id": 68,
+    "name": "Shop_BuyCancel_Ng",
+    "title": "Unknown Error",
+    "text": "An unknown error has occured.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 69,
+    "name": "Expedition_SameCharacter_Ng",
+    "title": "Character Selected",
+    "text": "This character has already been selected.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 70,
+    "name": "Common_Expired_Attention",
+    "title": "Date Changed",
+    "text": "The date has changed.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 71,
+    "name": "Common_Renew_Complete",
+    "title": "Missions Updated",
+    "text": "Missions have been updated.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 72,
+    "name": "Common_Expired_Confirm",
+    "title": "Expired",
+    "text": "Mission availablity period has ended.<br>Returning to Home screen.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 73,
+    "name": "Item_Expired_Deadline",
+    "title": "Expiration Date Error",
+    "text": "This item is expired.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 74,
+    "name": "Training_Possession_Max",
+    "title": "Style Piece Inventory Full",
+    "text": "Your Style Piece inventory space is full. Some Style Pieces have been sent to your Present Box.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 75,
+    "name": "Gacha_Possession_Max",
+    "title": "Inventory Limit Exceeded",
+    "text": "Items over the inventory limit have been sent to your Present Box.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 76,
+    "name": "Battle_Retire_Confirm2",
+    "title": "Confirm",
+    "text": "If you retreat, you will fail the quest.<br>Retreat?",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Retreat"
+  },
+  {
+    "id": 77,
+    "name": "Battle_Expired_Attention",
+    "title": "Expired",
+    "text": "The date has changed.<br>Returning to Home screen.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 78,
+    "name": "Shop_Buy_Max",
+    "title": "Purchase Limit Exceeded",
+    "text": "Cannot purchase, as doing so will exceed the purchase limit.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 79,
+    "name": "Dress_up_Set_Done",
+    "title": "Skin Applied",
+    "text": "Character Skin has been applied.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 80,
+    "name": "Dress_up_Reset_Choice",
+    "title": "Reset Skins",
+    "text": "Reset current skin settings?",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Reset"
+  },
+  {
+    "id": 81,
+    "name": "Dress_up_Reset_Done",
+    "title": "Skins Reset",
+    "text": "Current skins have been reset.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 82,
+    "name": "Shop_WhiteCrystal_Max",
+    "title": "White Crystal Limit Exceeded",
+    "text": "This sale will exceed your<br>White Crystal limit.<br>Would you still like to proceed?<br>*White Crystals over the limit will be sent to<br>your Present Box.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Sell"
+  },
+  {
+    "id": 83,
+    "name": "Smith_HolyStoneStrengthen_Remove",
+    "title": "Confirm Holy Stone Removal",
+    "text": "Holy Stone(s) in consumed equipment has been removed.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 84,
+    "name": "Smith_HolyStoneSale_Remove",
+    "title": "Confirm Holy Stone Removal",
+    "text": "Holy Stone(s) in sold equipment has been removed.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 85,
+    "name": "Option_Resolution_Change",
+    "title": "Screen Resolution Changed",
+    "text": "New screen resolution will be applied after the game restarts.<br>After pressing OK, the game will return to the title screen and restart.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 86,
+    "name": "Formation_InputText_Shortage",
+    "title": "Error",
+    "text": "Please enter a party name.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 87,
+    "name": "Present_Item_Max",
+    "title": "Claim Limit",
+    "text": "Your inventory is full.<br>You cannot receive any more presents.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 88,
+    "name": "Quest_StaminaRecover_Confirm",
+    "title": "Insufficient Stamina",
+    "text": "You don't have enough stamina.<br>Recover stamina?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 89,
+    "name": "Quest_Renew_Confirm",
+    "title": "Update Content",
+    "text": "A new content update is available.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 90,
+    "name": "Quest_Expired_Deadline",
+    "title": "Expired",
+    "text": "The quest has expired.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 91,
+    "name": "Daily_Frequency_Complete",
+    "title": "Increase Attempt Limit",
+    "text": "Attempt limit increased by 1.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 92,
+    "name": "Daily_Jewel_Shortage",
+    "title": "Not Enough Jewels",
+    "text": "You don't have enough jewels.<br>Purchase more?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 93,
+    "name": "Option_DataRepair_Complete",
+    "title": "Data Restoration Complete",
+    "text": "Your data has been successfully restored.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 94,
+    "name": "Option_Dl_Confirm",
+    "title": "Download Complete",
+    "text": "All data has been downloaded.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 95,
+    "name": "Shop_Possession_Max",
+    "title": "Purchase Error",
+    "text": "Unable to complete purchase.<br>Your inventory is full.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 96,
+    "name": "Shop_Renew_Shortage",
+    "title": "Not Enough Jewels",
+    "text": "You don't have enough jewels to update items.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 97,
+    "name": "Shop_MonthlyAmount_Max",
+    "title": "Monthly Spending Limit Exceeded",
+    "text": "Monthly spending limit exceeded.<br>Unable to complete purchase.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Yes"
+  },
+  {
+    "id": 98,
+    "name": "Shop_EquipmentSpace_impossible",
+    "title": "Inventory Expansion Failed",
+    "text": "Failed to expand inventory.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
+    "id": 99,
+    "name": "Shop_Exchange_Deadline",
+    "title": "Shop Expired",
+    "text": "The Exchange shop has expired.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 100,
+    "name": "Shop_Connect_impossible",
+    "title": "Error",
+    "text": "Failed to connect.<br>Check your connection and try again.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
+    "id": 101,
+    "name": "Shop_ConnectStaminaRecover_impossible",
+    "title": "Stamina Recovery Error",
+    "text": "Failed to connect. Unable to recover stamina.<br>Check your connection and try again.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
+    "id": 102,
+    "name": "Expedition_SameCharacter_Confirm",
+    "title": "Character Selected",
+    "text": "This character has already been selected.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 103,
+    "name": "Expedition_Area_Open",
+    "title": "New Area Unlocked",
+    "text": "A new Expedition destination has been unlocked!",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 104,
+    "name": "Dojo_AwakeningSkill_Max",
+    "title": "Failed to Awaken Skills/Spells",
+    "text": "You have reached the skill/spell awakening limit. You cannot awaken it any more.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 105,
+    "name": "Training_Already_Confirm",
+    "title": "Cannot Be Selected",
+    "text": "Cannot select a currently training character",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 106,
+    "name": "Training_Jewel_Shortage",
+    "title": "Expand Training Slots",
+    "text": "You don't have enough jewels<br>for this purchase.<br><br>Would you like to purchase more jewels?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 107,
+    "name": "Training_StyleChange_Confirm",
+    "title": "Change Style to Train",
+    "text": "The countdown will reset<br>if you change styles.<br>Would you like to proceed?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 108,
+    "name": "Training_StyleChange_Remove",
+    "title": "Cancel Training",
+    "text": "Removing this style from your party<br>will reset the countdown.<br>Would you like to proceed?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 109,
+    "name": "Gacha_Expired_Deadline",
+    "title": "Expired",
+    "text": "Summon has expired.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 110,
+    "name": "Shop_Jewel_Attention",
+    "title": "Not Enough Jewels",
+    "text": "You don't have enough jewels.<br>Inventory cannot be expanded.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 111,
+    "name": "TotalWar_Character_Shortage",
+    "title": "Unable to Join",
+    "text": "Participation requires 9 characters.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 112,
+    "name": "TotalWar_Retire_Confirm",
+    "title": "Confirm Retreat",
+    "text": "Do you wish to retreat from the Robin Cup?<br>* Rewards already earned will not be lost.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Retreat"
+  },
+  {
+    "id": 113,
+    "name": "CharacterList_SkillBP_impossible",
+    "title": "Confirm",
+    "text": "Cannot customize BP;<br>selected skills/spells not yet awakened.<br>You can customize the BP spent<br>for skills/spells that have been awakened when selecting Full-power AUTO.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 114,
+    "name": "CharacterList_SkillBP_Confirm",
+    "title": "BP Cost Changed",
+    "text": "BP setting has been applied.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 115,
+    "name": "Smith_HolyStoneSale_Shortage",
+    "title": "Confirm",
+    "text": "You don't have this item.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
+    "id": 116,
+    "name": "Smith_HolyStoneChange_Confirm",
+    "title": "Confirm",
+    "text": "This Holy Stone is already in use.<br>Use it on this piece of equipment instead?",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Set"
+  },
+  {
+    "id": 117,
+    "name": "Starting_Connection_impossible",
+    "title": "Error",
+    "text": "This service is not available.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 118,
+    "name": "Starting_Connection_Attention",
+    "title": "Data Link",
+    "text": "This account already has linked play data.<br>Would you like to link to this account?<br>* The current play data will be overwritten.",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 119,
+    "name": "Starting_Connection_Confirm",
+    "title": "Confirm Data Link",
+    "text": "Please select \"New Game\"<br>to start a new game from the beginning.<br>If you have play data to transfer,<br>please select \"Data Link\".<br><br>Play data can be linked even after<br>a \"New Game\" has started.",
+    "dialog_type": 2,
+    "button2": "New Game",
+    "button1": "Data Link"
+  },
+  {
+    "id": 120,
+    "name": "Starting_Retire_Confirm",
+    "title": "Confirm",
+    "text": "Would you like to quit the game?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 121,
+    "name": "Load_MemoryCapacity_Shortage",
+    "title": "Warning",
+    "text": "Insufficient storage. You may not <br>be able to play the game normally.<br>Would you like to continue downloading?",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Run"
+  },
+  {
+    "id": 122,
+    "name": "Common_Connect_Confirm",
+    "title": "Connection Error",
+    "text": "Failed to connect.<br>Retry?",
+    "dialog_type": 2,
+    "button2": "Back to title",
+    "button1": "Retry"
+  },
+  {
+    "id": 123,
+    "name": "Shop_Buy_Restriction",
+    "title": "Jewel Purchase Limit",
+    "text": "Jewels cannot be purchased on your account.<br>Please contact us for more details.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 124,
+    "name": "Player_InputText_Max",
+    "title": "Error",
+    "text": "You have exceeded the character limit.<br>Please enter no more than 30 characters.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 125,
+    "name": "Player_InputText_Min",
+    "title": "Error",
+    "text": "Please enter text.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 126,
+    "name": "Player_Id_Copy",
+    "title": "Confirm",
+    "text": "Player ID copied to clipboard.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 127,
+    "name": "Advertisement_Setting_Complete",
+    "title": "Ad Settings Changed",
+    "text": "Changed ad settings will be applied after the game restarts.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 128,
+    "name": "BattleFes_Renew_Result",
+    "title": "Results Reset",
+    "text": "Your completion status for the Zweig Battle Coliseum has been reset because the weekly reset date has passed.<br>*Certain stages may be completed automatically depending on your progress in the previous week.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 129,
+    "name": "Quest_Remuneration_Unlockable",
+    "title": "Cannot Be Locked",
+    "text": "The object has been sent to the Present Box,<br>so it can't be locked.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 130,
+    "name": "Advertisement_VideoPlayback_Ng",
+    "title": "Confirm",
+    "text": "There are no videos available at the moment. Please try again later.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 131,
+    "name": "Guild_Jewel_Shortage",
+    "title": "Not Enough Jewels",
+    "text": "Not enough jewels.<br>Would you like to purchase more jewels?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 132,
+    "name": "Guild_Establishment_Complete",
+    "title": "Create Guild",
+    "text": "Created a guild.<br>Jumping to Guild Top page.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 133,
+    "name": "Guild_InputText_Ng",
+    "title": "Error",
+    "text": "Contains invalid characters.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 134,
+    "name": "Guild_MissionExpired_Confirm",
+    "title": "Confirm",
+    "text": "The event period for this mission has ended.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 135,
+    "name": "Guild_EntryRequest_Belonged",
+    "title": "Application Result",
+    "text": "You are already a member of this guild.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 136,
+    "name": "Guild_EntryRequest_Reject",
+    "title": "Application Result",
+    "text": "This guild is not accepting applications.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 137,
+    "name": "Guild_EntryRequest_AlreadyDone",
+    "title": "Application Result",
+    "text": "You have already applied to join.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 138,
+    "name": "Guild_EntryRequest_Downtime",
+    "title": "Application Result",
+    "text": "Cannot request to join another guild within 24 hours of leaving one.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 139,
+    "name": "Guild_EntryRequest_Extinction",
+    "title": "Application Result",
+    "text": "Cannot request to join because this guild has disbanded.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 140,
+    "name": "Guild_Join_Belonged",
+    "title": "Join Result",
+    "text": "You are already a member of this guild.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 141,
+    "name": "Guild_Join_Reject",
+    "title": "Join Result",
+    "text": "This guild is not recruiting.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 142,
+    "name": "Guild_Join_Downtime",
+    "title": "Join Result",
+    "text": "Cannot join another guild within 24 hours of leaving one.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 143,
+    "name": "Guild_Join_Extinction",
+    "title": "Join Result",
+    "text": "Cannot join because this guild has disbanded.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 144,
+    "name": "Guild_EntryCancel_Approve",
+    "title": "Cancel Application for Guild",
+    "text": "Cannot cancel because your application was already approved.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 145,
+    "name": "Guild_EntryCancel_Reject",
+    "title": "Cancel Application for Guild",
+    "text": "Your application was declined.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 146,
+    "name": "Guild_Edit_Success",
+    "title": "Guild Settings",
+    "text": "Guild settings saved.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 147,
+    "name": "Guild_EntryAll_Confirm",
+    "title": "Reject All Applications",
+    "text": "Are you sure you want to reject all applications to join the guild?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 148,
+    "name": "Guild_EntryRequest_Ng",
+    "title": "Approval Error",
+    "text": "The application to join the guild was cancelled.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 149,
+    "name": "Guild_EntryAll_Complete",
+    "title": "Reject All Applications Result",
+    "text": "Rejected all applications to join the guild.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 150,
+    "name": "Guild_SubMaster_Ng",
+    "title": "Sub-leader Promotion",
+    "text": "There can be up to three sub-leaders.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 151,
+    "name": "Guild_Ranking_Confirm",
+    "title": "Confirm",
+    "text": "Cannot acquire ranking at this time.<br>Try again later.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 152,
+    "name": "Guild_dissolution_Confirm",
+    "title": "Guild Info",
+    "text": "This guild has already disbanded.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 153,
+    "name": "Guild_Expulsion_Confirm",
+    "title": "Confirm",
+    "text": "You have been expelled from the guild.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 154,
+    "name": "Guild_NoAuthority_Confirm",
+    "title": "Confirm",
+    "text": "You are not authorized to perform this action.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 155,
+    "name": "Guild_NonExistencePlayer_Confirm",
+    "title": "Confirm",
+    "text": "This player does not exist in any guild.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 156,
+    "name": "Guild_Renew_Confirm",
+    "title": "Confirm",
+    "text": "Guild info updated.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 157,
+    "name": "Guild_Edit_Restriction",
+    "title": "Confirm",
+    "text": "Guild info updated.<br>Returning to Guild Top page.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 158,
+    "name": "GuildChat_Expulsion_Confirm",
+    "title": "Confirm",
+    "text": "Cannot view the chat window<br>because you left the guild.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 159,
+    "name": "GuildChat_InputText_Ng",
+    "title": "Posting Error",
+    "text": "Could not post to chat because<br>message contains inappropriate language.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 160,
+    "name": "GuildChat_Connect_Confirm",
+    "title": "Connection Error",
+    "text": "Failed to connect.<br>Please try again later.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
+    "id": 161,
+    "name": "Guild_Join_Change",
+    "title": "Confirm",
+    "text": "Guild now requires approval before joining.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 162,
+    "name": "PartyGroup_InputText_Shortage",
+    "title": "Error",
+    "text": "Please enter a group name.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 164,
+    "name": "Guild_Edit_Shortage",
+    "title": "Guild Settings",
+    "text": "Changes other than Guild Name will be saved due to insufficient aurum.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 165,
+    "name": "Battle_Retry_Confirm",
+    "title": "Confirm Restart",
+    "text": "Restart?<br>Restarting means retreating from the quest and starting all over again.<br>*You will lose all skills and ranks gained from this battle.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Restart"
+  },
+  {
+    "id": 166,
+    "name": "Battle_Retry_Confirm2",
+    "title": "Confirm Restart",
+    "text": "Restart?<br>Restarting means retreating from the quest and starting all over again.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Restart"
+  },
+  {
+    "id": 167,
+    "name": "Battle_RetireOrRetry_Confirm",
+    "title": "Confirm",
+    "text": "If you retreat, you will fail the quest.<br>Restarting means retreating from the quest and starting all over again.<br>*You will lose all skills and ranks gained from this battle.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Retreat"
+  },
+  {
+    "id": 168,
+    "name": "Battle_RetireOrRetry_Confirm2",
+    "title": "Confirm",
+    "text": "If you retreat, you will fail the quest.<br>Restarting means retreating from the quest and starting all over again.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Retreat"
+  }
+]

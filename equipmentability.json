@@ -1,0 +1,2036 @@
+[
+  {
+    "id": 10001,
+    "ability_id": 703100001,
+    "name": "Power+",
+    "sort_order": 10001,
+    "flavor_texts": [
+      "[Weapon Holy Stone] Always - Increases damage dealt to enemies by 1%",
+      "[Weapon Holy Stone] Always - Increases damage dealt to enemies by 2%",
+      "[Weapon Holy Stone] Always - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] Always - Increases damage dealt to enemies by 4%",
+      "[Weapon Holy Stone] Always - Increases damage dealt to enemies by 5%",
+      "[Weapon Holy Stone] Always - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] Always - Increases damage dealt to enemies by 7%",
+      "[Weapon Holy Stone] Always - Increases damage dealt to enemies by 8%",
+      "[Weapon Holy Stone] Always - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] Always - Increases damage dealt to enemies by 10%"
+    ]
+  },
+  {
+    "id": 10002,
+    "ability_id": 703100002,
+    "name": "Weak Point+",
+    "sort_order": 10002,
+    "flavor_texts": [
+      "[Weapon Holy Stone] Always - Increases damage by 1.5% when enemy is weak against attack element",
+      "[Weapon Holy Stone] Always - Increases damage by 3% when enemy is weak against attack element",
+      "[Weapon Holy Stone] Always - Increases damage by 4.5% when enemy is weak against attack element",
+      "[Weapon Holy Stone] Always - Increases damage by 6% when enemy is weak against attack element",
+      "[Weapon Holy Stone] Always - Increases damage by 7.5% when enemy is weak against attack element",
+      "[Weapon Holy Stone] Always - Increases damage by 9% when enemy is weak against attack element",
+      "[Weapon Holy Stone] Always - Increases damage by 10.5% when enemy is weak against attack element",
+      "[Weapon Holy Stone] Always - Increases damage by 12% when enemy is weak against attack element",
+      "[Weapon Holy Stone] Always - Increases damage by 13.5% when enemy is weak against attack element",
+      "[Weapon Holy Stone] Always - Increases damage by 15% when enemy is weak against attack element"
+    ]
+  },
+  {
+    "id": 10003,
+    "ability_id": 703100003,
+    "name": "OverDrive Power+",
+    "sort_order": 10003,
+    "flavor_texts": [
+      "[Weapon Holy Stone] Always - Increases damage dealt by OverDrive attacks by 1%",
+      "[Weapon Holy Stone] Always - Increases damage dealt by OverDrive attacks by 2%",
+      "[Weapon Holy Stone] Always - Increases damage dealt by OverDrive attacks by 3%",
+      "[Weapon Holy Stone] Always - Increases damage dealt by OverDrive attacks by 4%",
+      "[Weapon Holy Stone] Always - Increases damage dealt by OverDrive attacks by 5%",
+      "[Weapon Holy Stone] Always - Increases damage dealt by OverDrive attacks by 6%",
+      "[Weapon Holy Stone] Always - Increases damage dealt by OverDrive attacks by 7%",
+      "[Weapon Holy Stone] Always - Increases damage dealt by OverDrive attacks by 8%",
+      "[Weapon Holy Stone] Always - Increases damage dealt by OverDrive attacks by 9%",
+      "[Weapon Holy Stone] Always - Increases damage dealt by OverDrive attacks by 10%"
+    ]
+  },
+  {
+    "id": 10004,
+    "ability_id": 703100004,
+    "name": "Combo+",
+    "sort_order": 10004,
+    "flavor_texts": [
+      "[Weapon Holy Stone] Always - Increases damage dealt in combo attacks by 1%",
+      "[Weapon Holy Stone] Always - Increases damage dealt in combo attacks by 2%",
+      "[Weapon Holy Stone] Always - Increases damage dealt in combo attacks by 3%",
+      "[Weapon Holy Stone] Always - Increases damage dealt in combo attacks by 4%",
+      "[Weapon Holy Stone] Always - Increases damage dealt in combo attacks by 5%",
+      "[Weapon Holy Stone] Always - Increases damage dealt in combo attacks by 6%",
+      "[Weapon Holy Stone] Always - Increases damage dealt in combo attacks by 7%",
+      "[Weapon Holy Stone] Always - Increases damage dealt in combo attacks by 8%",
+      "[Weapon Holy Stone] Always - Increases damage dealt in combo attacks by 9%",
+      "[Weapon Holy Stone] Always - Increases damage dealt in combo attacks by 10%"
+    ]
+  },
+  {
+    "id": 10005,
+    "ability_id": 703100005,
+    "name": "Critical+",
+    "sort_order": 10005,
+    "flavor_texts": [
+      "[Weapon Holy Stone] Always - Increases damage of critical attacks by 2%",
+      "[Weapon Holy Stone] Always - Increases damage of critical attacks by 4%",
+      "[Weapon Holy Stone] Always - Increases damage of critical attacks by 6%",
+      "[Weapon Holy Stone] Always - Increases damage of critical attacks by 8%",
+      "[Weapon Holy Stone] Always - Increases damage of critical attacks by 10%",
+      "[Weapon Holy Stone] Always - Increases damage of critical attacks by 12%",
+      "[Weapon Holy Stone] Always - Increases damage of critical attacks by 14%",
+      "[Weapon Holy Stone] Always - Increases damage of critical attacks by 16%",
+      "[Weapon Holy Stone] Always - Increases damage of critical attacks by 18%",
+      "[Weapon Holy Stone] Always - Increases damage of critical attacks by 20%"
+    ]
+  },
+  {
+    "id": 10006,
+    "ability_id": 703100006,
+    "name": "Sword+",
+    "sort_order": 10006,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When Sword is Equipped - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] When Sword is Equipped - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] When Sword is Equipped - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] When Sword is Equipped - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When Sword is Equipped - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] When Sword is Equipped - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] When Sword is Equipped - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] When Sword is Equipped - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] When Sword is Equipped - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] When Sword is Equipped - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10007,
+    "ability_id": 703100007,
+    "name": "G. Sword+",
+    "sort_order": 10007,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When G. Sword is Equipped - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] When G. Sword is Equipped - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] When G. Sword is Equipped - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] When G. Sword is Equipped - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When G. Sword is Equipped - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] When G. Sword is Equipped - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] When G. Sword is Equipped - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] When G. Sword is Equipped - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] When G. Sword is Equipped - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] When G. Sword is Equipped - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10008,
+    "ability_id": 703100008,
+    "name": "Axe+",
+    "sort_order": 10008,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When Axe is Equipped - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] When Axe is Equipped - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] When Axe is Equipped - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] When Axe is Equipped - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When Axe is Equipped - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] When Axe is Equipped - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] When Axe is Equipped - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] When Axe is Equipped - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] When Axe is Equipped - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] When Axe is Equipped - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10009,
+    "ability_id": 703100009,
+    "name": "Club+",
+    "sort_order": 10009,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When Club is Equipped - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] When Club is Equipped - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] When Club is Equipped - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] When Club is Equipped - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When Club is Equipped - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] When Club is Equipped - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] When Club is Equipped - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] When Club is Equipped - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] When Club is Equipped - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] When Club is Equipped - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10010,
+    "ability_id": 703100010,
+    "name": "M. Arts+",
+    "sort_order": 10010,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When M. Arts is Equipped - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] When M. Arts is Equipped - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] When M. Arts is Equipped - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] When M. Arts is Equipped - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When M. Arts is Equipped - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] When M. Arts is Equipped - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] When M. Arts is Equipped - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] When M. Arts is Equipped - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] When M. Arts is Equipped - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] When M. Arts is Equipped - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10011,
+    "ability_id": 703100011,
+    "name": "Gun+",
+    "sort_order": 10011,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When Gun is Equipped - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] When Gun is Equipped - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] When Gun is Equipped - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] When Gun is Equipped - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When Gun is Equipped - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] When Gun is Equipped - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] When Gun is Equipped - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] When Gun is Equipped - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] When Gun is Equipped - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] When Gun is Equipped - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10012,
+    "ability_id": 703100012,
+    "name": "S. Sword+",
+    "sort_order": 10012,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When S. Sword is Equipped - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] When S. Sword is Equipped - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] When S. Sword is Equipped - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] When S. Sword is Equipped - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When S. Sword is Equipped - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] When S. Sword is Equipped - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] When S. Sword is Equipped - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] When S. Sword is Equipped - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] When S. Sword is Equipped - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] When S. Sword is Equipped - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10013,
+    "ability_id": 703100013,
+    "name": "Spear+",
+    "sort_order": 10013,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When Spear is Equipped - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] When Spear is Equipped - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] When Spear is Equipped - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] When Spear is Equipped - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When Spear is Equipped - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] When Spear is Equipped - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] When Spear is Equipped - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] When Spear is Equipped - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] When Spear is Equipped - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] When Spear is Equipped - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10014,
+    "ability_id": 703100014,
+    "name": "Bow+",
+    "sort_order": 10014,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When Bow is Equipped - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] When Bow is Equipped - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] When Bow is Equipped - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] When Bow is Equipped - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When Bow is Equipped - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] When Bow is Equipped - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] When Bow is Equipped - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] When Bow is Equipped - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] When Bow is Equipped - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] When Bow is Equipped - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10015,
+    "ability_id": 703100015,
+    "name": "Staff+",
+    "sort_order": 10015,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When Staff is Equipped - Increases damage dealt to enemies by 1%",
+      "[Weapon Holy Stone] When Staff is Equipped - Increases damage dealt to enemies by 2%",
+      "[Weapon Holy Stone] When Staff is Equipped - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] When Staff is Equipped - Increases damage dealt to enemies by 4%",
+      "[Weapon Holy Stone] When Staff is Equipped - Increases damage dealt to enemies by 5%",
+      "[Weapon Holy Stone] When Staff is Equipped - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When Staff is Equipped - Increases damage dealt to enemies by 7%",
+      "[Weapon Holy Stone] When Staff is Equipped - Increases damage dealt to enemies by 8%",
+      "[Weapon Holy Stone] When Staff is Equipped - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] When Staff is Equipped - Increases damage dealt to enemies by 10%"
+    ]
+  },
+  {
+    "id": 10016,
+    "ability_id": 703100016,
+    "name": "Slash+",
+    "sort_order": 10016,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Slash Attacks - Increases damage dealt to enemies by 1%",
+      "[Weapon Holy Stone] On Slash Attacks - Increases damage dealt to enemies by 2%",
+      "[Weapon Holy Stone] On Slash Attacks - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] On Slash Attacks - Increases damage dealt to enemies by 4%",
+      "[Weapon Holy Stone] On Slash Attacks - Increases damage dealt to enemies by 5%",
+      "[Weapon Holy Stone] On Slash Attacks - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] On Slash Attacks - Increases damage dealt to enemies by 7%",
+      "[Weapon Holy Stone] On Slash Attacks - Increases damage dealt to enemies by 8%",
+      "[Weapon Holy Stone] On Slash Attacks - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] On Slash Attacks - Increases damage dealt to enemies by 10%"
+    ]
+  },
+  {
+    "id": 10017,
+    "ability_id": 703100017,
+    "name": "Blunt+",
+    "sort_order": 10017,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Blunt Attacks - Increases damage dealt to enemies by 1%",
+      "[Weapon Holy Stone] On Blunt Attacks - Increases damage dealt to enemies by 2%",
+      "[Weapon Holy Stone] On Blunt Attacks - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] On Blunt Attacks - Increases damage dealt to enemies by 4%",
+      "[Weapon Holy Stone] On Blunt Attacks - Increases damage dealt to enemies by 5%",
+      "[Weapon Holy Stone] On Blunt Attacks - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] On Blunt Attacks - Increases damage dealt to enemies by 7%",
+      "[Weapon Holy Stone] On Blunt Attacks - Increases damage dealt to enemies by 8%",
+      "[Weapon Holy Stone] On Blunt Attacks - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] On Blunt Attacks - Increases damage dealt to enemies by 10%"
+    ]
+  },
+  {
+    "id": 10018,
+    "ability_id": 703100018,
+    "name": "Pierce+",
+    "sort_order": 10018,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Pierce Attacks - Increases damage dealt to enemies by 1%",
+      "[Weapon Holy Stone] On Pierce Attacks - Increases damage dealt to enemies by 2%",
+      "[Weapon Holy Stone] On Pierce Attacks - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] On Pierce Attacks - Increases damage dealt to enemies by 4%",
+      "[Weapon Holy Stone] On Pierce Attacks - Increases damage dealt to enemies by 5%",
+      "[Weapon Holy Stone] On Pierce Attacks - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] On Pierce Attacks - Increases damage dealt to enemies by 7%",
+      "[Weapon Holy Stone] On Pierce Attacks - Increases damage dealt to enemies by 8%",
+      "[Weapon Holy Stone] On Pierce Attacks - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] On Pierce Attacks - Increases damage dealt to enemies by 10%"
+    ]
+  },
+  {
+    "id": 10019,
+    "ability_id": 703100019,
+    "name": "Heat+",
+    "sort_order": 10019,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Heat Attacks - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] On Heat Attacks - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] On Heat Attacks - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] On Heat Attacks - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] On Heat Attacks - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] On Heat Attacks - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] On Heat Attacks - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] On Heat Attacks - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] On Heat Attacks - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] On Heat Attacks - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10020,
+    "ability_id": 703100020,
+    "name": "Cold+",
+    "sort_order": 10020,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Cold Attacks - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] On Cold Attacks - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] On Cold Attacks - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] On Cold Attacks - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] On Cold Attacks - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] On Cold Attacks - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] On Cold Attacks - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] On Cold Attacks - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] On Cold Attacks - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] On Cold Attacks - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10021,
+    "ability_id": 703100021,
+    "name": "Lightning+",
+    "sort_order": 10021,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Lightning Attacks - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] On Lightning Attacks - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] On Lightning Attacks - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] On Lightning Attacks - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] On Lightning Attacks - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] On Lightning Attacks - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] On Lightning Attacks - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] On Lightning Attacks - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] On Lightning Attacks - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] On Lightning Attacks - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10022,
+    "ability_id": 703100022,
+    "name": "Sun+",
+    "sort_order": 10022,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Sun Attacks - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] On Sun Attacks - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] On Sun Attacks - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] On Sun Attacks - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] On Sun Attacks - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] On Sun Attacks - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] On Sun Attacks - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] On Sun Attacks - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] On Sun Attacks - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] On Sun Attacks - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10023,
+    "ability_id": 703100023,
+    "name": "Shadow+",
+    "sort_order": 10023,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Shadow Attacks - Increases damage dealt to enemies by 1.5%",
+      "[Weapon Holy Stone] On Shadow Attacks - Increases damage dealt to enemies by 3%",
+      "[Weapon Holy Stone] On Shadow Attacks - Increases damage dealt to enemies by 4.5%",
+      "[Weapon Holy Stone] On Shadow Attacks - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] On Shadow Attacks - Increases damage dealt to enemies by 7.5%",
+      "[Weapon Holy Stone] On Shadow Attacks - Increases damage dealt to enemies by 9%",
+      "[Weapon Holy Stone] On Shadow Attacks - Increases damage dealt to enemies by 10.5%",
+      "[Weapon Holy Stone] On Shadow Attacks - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] On Shadow Attacks - Increases damage dealt to enemies by 13.5%",
+      "[Weapon Holy Stone] On Shadow Attacks - Increases damage dealt to enemies by 15%"
+    ]
+  },
+  {
+    "id": 10024,
+    "ability_id": 703100024,
+    "name": "Full HP+",
+    "sort_order": 10024,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When HP is Full - Increases damage dealt to enemies by 2%",
+      "[Weapon Holy Stone] When HP is Full - Increases damage dealt to enemies by 4%",
+      "[Weapon Holy Stone] When HP is Full - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When HP is Full - Increases damage dealt to enemies by 8%",
+      "[Weapon Holy Stone] When HP is Full - Increases damage dealt to enemies by 10%",
+      "[Weapon Holy Stone] When HP is Full - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] When HP is Full - Increases damage dealt to enemies by 14%",
+      "[Weapon Holy Stone] When HP is Full - Increases damage dealt to enemies by 16%",
+      "[Weapon Holy Stone] When HP is Full - Increases damage dealt to enemies by 18%",
+      "[Weapon Holy Stone] When HP is Full - Increases damage dealt to enemies by 20%"
+    ]
+  },
+  {
+    "id": 10025,
+    "ability_id": 703100025,
+    "name": "Critical HP+",
+    "sort_order": 10025,
+    "flavor_texts": [
+      "[Weapon Holy Stone] When HP is Critically Low - Increases damage dealt to enemies by 2%",
+      "[Weapon Holy Stone] When HP is Critically Low - Increases damage dealt to enemies by 4%",
+      "[Weapon Holy Stone] When HP is Critically Low - Increases damage dealt to enemies by 6%",
+      "[Weapon Holy Stone] When HP is Critically Low - Increases damage dealt to enemies by 8%",
+      "[Weapon Holy Stone] When HP is Critically Low - Increases damage dealt to enemies by 10%",
+      "[Weapon Holy Stone] When HP is Critically Low - Increases damage dealt to enemies by 12%",
+      "[Weapon Holy Stone] When HP is Critically Low - Increases damage dealt to enemies by 14%",
+      "[Weapon Holy Stone] When HP is Critically Low - Increases damage dealt to enemies by 16%",
+      "[Weapon Holy Stone] When HP is Critically Low - Increases damage dealt to enemies by 18%",
+      "[Weapon Holy Stone] When HP is Critically Low - Increases damage dealt to enemies by 20%"
+    ]
+  },
+  {
+    "id": 10026,
+    "ability_id": 703100026,
+    "name": "Recovery+",
+    "sort_order": 10026,
+    "flavor_texts": [
+      "[Weapon Holy Stone] Always - Increases HP recovered with healing spells by 1.5%",
+      "[Weapon Holy Stone] Always - Increases HP recovered with healing spells by 3%",
+      "[Weapon Holy Stone] Always - Increases HP recovered with healing spells by 4.5%",
+      "[Weapon Holy Stone] Always - Increases HP recovered with healing spells by 6%",
+      "[Weapon Holy Stone] Always - Increases HP recovered with healing spells by 7.5%",
+      "[Weapon Holy Stone] Always - Increases HP recovered with healing spells by 9%",
+      "[Weapon Holy Stone] Always - Increases HP recovered with healing spells by 10.5%",
+      "[Weapon Holy Stone] Always - Increases HP recovered with healing spells by 12%",
+      "[Weapon Holy Stone] Always - Increases HP recovered with healing spells by 13.5%",
+      "[Weapon Holy Stone] Always - Increases HP recovered with healing spells by 15%"
+    ]
+  },
+  {
+    "id": 10027,
+    "ability_id": 703100027,
+    "name": "Accuracy+",
+    "sort_order": 10027,
+    "flavor_texts": [
+      "[Weapon Holy Stone] Always - Increases accuracy of Skill attacks by 2%",
+      "[Weapon Holy Stone] Always - Increases accuracy of Skill attacks by 4%",
+      "[Weapon Holy Stone] Always - Increases accuracy of Skill attacks by 6%",
+      "[Weapon Holy Stone] Always - Increases accuracy of Skill attacks by 8%",
+      "[Weapon Holy Stone] Always - Increases accuracy of Skill attacks by 10%",
+      "[Weapon Holy Stone] Always - Increases accuracy of Skill attacks by 12%",
+      "[Weapon Holy Stone] Always - Increases accuracy of Skill attacks by 14%",
+      "[Weapon Holy Stone] Always - Increases accuracy of Skill attacks by 16%",
+      "[Weapon Holy Stone] Always - Increases accuracy of Skill attacks by 18%",
+      "[Weapon Holy Stone] Always - Increases accuracy of Skill attacks by 20%"
+    ]
+  },
+  {
+    "id": 10028,
+    "ability_id": 703600028,
+    "name": "Poison Res ↓",
+    "sort_order": 10028,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Poison Resistance by 2%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Poison Resistance by 4%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Poison Resistance by 6%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Poison Resistance by 8%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Poison Resistance by 10%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Poison Resistance by 12%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Poison Resistance by 14%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Poison Resistance by 16%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Poison Resistance by 18%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Poison Resistance by 20%"
+    ]
+  },
+  {
+    "id": 10029,
+    "ability_id": 703600029,
+    "name": "Darkness Res ↓",
+    "sort_order": 10029,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Darkness Resistance by 2%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Darkness Resistance by 4%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Darkness Resistance by 6%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Darkness Resistance by 8%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Darkness Resistance by 10%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Darkness Resistance by 12%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Darkness Resistance by 14%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Darkness Resistance by 16%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Darkness Resistance by 18%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Darkness Resistance by 20%"
+    ]
+  },
+  {
+    "id": 10030,
+    "ability_id": 703600030,
+    "name": "Stun Res ↓",
+    "sort_order": 10030,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Stun Resistance by 2%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Stun Resistance by 4%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Stun Resistance by 6%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Stun Resistance by 8%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Stun Resistance by 10%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Stun Resistance by 12%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Stun Resistance by 14%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Stun Resistance by 16%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Stun Resistance by 18%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Stun Resistance by 20%"
+    ]
+  },
+  {
+    "id": 10031,
+    "ability_id": 703600031,
+    "name": "Paralysis Res ↓",
+    "sort_order": 10031,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Paralysis Resistance by 2%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Paralysis Resistance by 4%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Paralysis Resistance by 6%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Paralysis Resistance by 8%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Paralysis Resistance by 10%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Paralysis Resistance by 12%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Paralysis Resistance by 14%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Paralysis Resistance by 16%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Paralysis Resistance by 18%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Paralysis Resistance by 20%"
+    ]
+  },
+  {
+    "id": 10032,
+    "ability_id": 703600032,
+    "name": "Sleep Res ↓",
+    "sort_order": 10032,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Sleep Resistance by 2%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Sleep Resistance by 4%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Sleep Resistance by 6%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Sleep Resistance by 8%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Sleep Resistance by 10%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Sleep Resistance by 12%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Sleep Resistance by 14%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Sleep Resistance by 16%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Sleep Resistance by 18%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Sleep Resistance by 20%"
+    ]
+  },
+  {
+    "id": 10033,
+    "ability_id": 703600033,
+    "name": "Petrification Res ↓",
+    "sort_order": 10033,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Petrification Resistance by 2%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Petrification Resistance by 4%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Petrification Resistance by 6%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Petrification Resistance by 8%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Petrification Resistance by 10%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Petrification Resistance by 12%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Petrification Resistance by 14%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Petrification Resistance by 16%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Petrification Resistance by 18%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Petrification Resistance by 20%"
+    ]
+  },
+  {
+    "id": 10034,
+    "ability_id": 703600034,
+    "name": "Confusion Res ↓",
+    "sort_order": 10034,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Confusion Resistance by 2%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Confusion Resistance by 4%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Confusion Resistance by 6%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Confusion Resistance by 8%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Confusion Resistance by 10%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Confusion Resistance by 12%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Confusion Resistance by 14%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Confusion Resistance by 16%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Confusion Resistance by 18%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Confusion Resistance by 20%"
+    ]
+  },
+  {
+    "id": 10035,
+    "ability_id": 703600035,
+    "name": "Charm Res ↓",
+    "sort_order": 10035,
+    "flavor_texts": [
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Charm Resistance by 2%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Charm Resistance by 4%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Charm Resistance by 6%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Charm Resistance by 8%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Charm Resistance by 10%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Charm Resistance by 12%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Charm Resistance by 14%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Charm Resistance by 16%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Charm Resistance by 18%",
+      "[Weapon Holy Stone] On Attack/Medium Chance - Decreases target's Charm Resistance by 20%"
+    ]
+  },
+  {
+    "id": 20001,
+    "ability_id": 703100036,
+    "name": "Abate (All)",
+    "sort_order": 20001,
+    "flavor_texts": [
+      "[Armor Holy Stone] Always: Reduces damage taken by 1%",
+      "[Armor Holy Stone] Always: Reduces damage taken by 2%",
+      "[Armor Holy Stone] Always: Reduces damage taken by 3%",
+      "[Armor Holy Stone] Always: Reduces damage taken by 4%",
+      "[Armor Holy Stone] Always: Reduces damage taken by 5%",
+      "[Armor Holy Stone] Always: Reduces damage taken by 6%",
+      "[Armor Holy Stone] Always: Reduces damage taken by 7%",
+      "[Armor Holy Stone] Always: Reduces damage taken by 8%",
+      "[Armor Holy Stone] Always: Reduces damage taken by 9%",
+      "[Armor Holy Stone] Always: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20002,
+    "ability_id": 703100037,
+    "name": "Abate (Slash)",
+    "sort_order": 20002,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by slash attacks: Reduces damage taken by 1.5%",
+      "[Armor Holy Stone] When damaged by slash attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by slash attacks: Reduces damage taken by 4.5%",
+      "[Armor Holy Stone] When damaged by slash attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by slash attacks: Reduces damage taken by 7.5%",
+      "[Armor Holy Stone] When damaged by slash attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by slash attacks: Reduces damage taken by 10.5%",
+      "[Armor Holy Stone] When damaged by slash attacks: Reduces damage taken by 12%",
+      "[Armor Holy Stone] When damaged by slash attacks: Reduces damage taken by 13.5%",
+      "[Armor Holy Stone] When damaged by slash attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 20003,
+    "ability_id": 703100038,
+    "name": "Abate (Blunt)",
+    "sort_order": 20003,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by blunt attacks: Reduces damage taken by 1.5%",
+      "[Armor Holy Stone] When damaged by blunt attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by blunt attacks: Reduces damage taken by 4.5%",
+      "[Armor Holy Stone] When damaged by blunt attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by blunt attacks: Reduces damage taken by 7.5%",
+      "[Armor Holy Stone] When damaged by blunt attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by blunt attacks: Reduces damage taken by 10.5%",
+      "[Armor Holy Stone] When damaged by blunt attacks: Reduces damage taken by 12%",
+      "[Armor Holy Stone] When damaged by blunt attacks: Reduces damage taken by 13.5%",
+      "[Armor Holy Stone] When damaged by blunt attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 20004,
+    "ability_id": 703100039,
+    "name": "Abate (Pierce)",
+    "sort_order": 20004,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by pierce attacks: Reduces damage taken by 1.5%",
+      "[Armor Holy Stone] When damaged by pierce attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by pierce attacks: Reduces damage taken by 4.5%",
+      "[Armor Holy Stone] When damaged by pierce attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by pierce attacks: Reduces damage taken by 7.5%",
+      "[Armor Holy Stone] When damaged by pierce attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by pierce attacks: Reduces damage taken by 10.5%",
+      "[Armor Holy Stone] When damaged by pierce attacks: Reduces damage taken by 12%",
+      "[Armor Holy Stone] When damaged by pierce attacks: Reduces damage taken by 13.5%",
+      "[Armor Holy Stone] When damaged by pierce attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 20005,
+    "ability_id": 703100040,
+    "name": "Abate (Heat)",
+    "sort_order": 20005,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by heat attacks: Reduces damage taken by 1.5%",
+      "[Armor Holy Stone] When damaged by heat attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by heat attacks: Reduces damage taken by 4.5%",
+      "[Armor Holy Stone] When damaged by heat attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by heat attacks: Reduces damage taken by 7.5%",
+      "[Armor Holy Stone] When damaged by heat attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by heat attacks: Reduces damage taken by 10.5%",
+      "[Armor Holy Stone] When damaged by heat attacks: Reduces damage taken by 12%",
+      "[Armor Holy Stone] When damaged by heat attacks: Reduces damage taken by 13.5%",
+      "[Armor Holy Stone] When damaged by heat attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 20006,
+    "ability_id": 703100041,
+    "name": "Abate (Cold)",
+    "sort_order": 20006,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by cold attacks: Reduces damage taken by 1.5%",
+      "[Armor Holy Stone] When damaged by cold attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by cold attacks: Reduces damage taken by 4.5%",
+      "[Armor Holy Stone] When damaged by cold attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by cold attacks: Reduces damage taken by 7.5%",
+      "[Armor Holy Stone] When damaged by cold attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by cold attacks: Reduces damage taken by 10.5%",
+      "[Armor Holy Stone] When damaged by cold attacks: Reduces damage taken by 12%",
+      "[Armor Holy Stone] When damaged by cold attacks: Reduces damage taken by 13.5%",
+      "[Armor Holy Stone] When damaged by cold attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 20007,
+    "ability_id": 703100042,
+    "name": "Abate (Lightning)",
+    "sort_order": 20007,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by lightning attacks: Reduces damage taken by 1.5%",
+      "[Armor Holy Stone] When damaged by lightning attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by lightning attacks: Reduces damage taken by 4.5%",
+      "[Armor Holy Stone] When damaged by lightning attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by lightning attacks: Reduces damage taken by 7.5%",
+      "[Armor Holy Stone] When damaged by lightning attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by lightning attacks: Reduces damage taken by 10.5%",
+      "[Armor Holy Stone] When damaged by lightning attacks: Reduces damage taken by 12%",
+      "[Armor Holy Stone] When damaged by lightning attacks: Reduces damage taken by 13.5%",
+      "[Armor Holy Stone] When damaged by lightning attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 20008,
+    "ability_id": 703100043,
+    "name": "Abate (Sun)",
+    "sort_order": 20008,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by sun attacks: Reduces damage taken by 1.5%",
+      "[Armor Holy Stone] When damaged by sun attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by sun attacks: Reduces damage taken by 4.5%",
+      "[Armor Holy Stone] When damaged by sun attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by sun attacks: Reduces damage taken by 7.5%",
+      "[Armor Holy Stone] When damaged by sun attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by sun attacks: Reduces damage taken by 10.5%",
+      "[Armor Holy Stone] When damaged by sun attacks: Reduces damage taken by 12%",
+      "[Armor Holy Stone] When damaged by sun attacks: Reduces damage taken by 13.5%",
+      "[Armor Holy Stone] When damaged by sun attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 20009,
+    "ability_id": 703100044,
+    "name": "Abate (Shadow)",
+    "sort_order": 20009,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by shadow attacks: Reduces damage taken by 1.5%",
+      "[Armor Holy Stone] When damaged by shadow attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by shadow attacks: Reduces damage taken by 4.5%",
+      "[Armor Holy Stone] When damaged by shadow attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by shadow attacks: Reduces damage taken by 7.5%",
+      "[Armor Holy Stone] When damaged by shadow attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by shadow attacks: Reduces damage taken by 10.5%",
+      "[Armor Holy Stone] When damaged by shadow attacks: Reduces damage taken by 12%",
+      "[Armor Holy Stone] When damaged by shadow attacks: Reduces damage taken by 13.5%",
+      "[Armor Holy Stone] When damaged by shadow attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 20010,
+    "ability_id": 703100045,
+    "name": "Abate (Slash/Blunt)",
+    "sort_order": 20010,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by slash or blunt attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by slash or blunt attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by slash or blunt attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by slash or blunt attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by slash or blunt attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by slash or blunt attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by slash or blunt attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by slash or blunt attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by slash or blunt attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by slash or blunt attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20011,
+    "ability_id": 703100046,
+    "name": "Abate (Slash/Pierce)",
+    "sort_order": 20011,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by slash or pierce attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by slash or pierce attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by slash or pierce attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by slash or pierce attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by slash or pierce attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by slash or pierce attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by slash or pierce attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by slash or pierce attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by slash or pierce attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by slash or pierce attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20012,
+    "ability_id": 703100047,
+    "name": "Abate (Slash/Heat)",
+    "sort_order": 20012,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by slash or heat attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by slash or heat attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by slash or heat attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by slash or heat attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by slash or heat attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by slash or heat attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by slash or heat attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by slash or heat attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by slash or heat attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by slash or heat attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20013,
+    "ability_id": 703100048,
+    "name": "Abate (Slash/Cold)",
+    "sort_order": 20013,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by slash or cold attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by slash or cold attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by slash or cold attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by slash or cold attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by slash or cold attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by slash or cold attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by slash or cold attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by slash or cold attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by slash or cold attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by slash or cold attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20014,
+    "ability_id": 703100049,
+    "name": "Abate (Slash/Lightning)",
+    "sort_order": 20014,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by slash or lightning attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by slash or lightning attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by slash or lightning attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by slash or lightning attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by slash or lightning attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by slash or lightning attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by slash or lightning attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by slash or lightning attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by slash or lightning attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by slash or lightning attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20015,
+    "ability_id": 703100050,
+    "name": "Abate (Slash/Sun)",
+    "sort_order": 20015,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by slash or sun attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by slash or sun attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by slash or sun attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by slash or sun attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by slash or sun attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by slash or sun attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by slash or sun attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by slash or sun attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by slash or sun attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by slash or sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20016,
+    "ability_id": 703100051,
+    "name": "Abate (Slash/Shadow)",
+    "sort_order": 20016,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by slash or shadow attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by slash or shadow attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by slash or shadow attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by slash or shadow attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by slash or shadow attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by slash or shadow attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by slash or shadow attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by slash or shadow attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by slash or shadow attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by slash or shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20017,
+    "ability_id": 703100052,
+    "name": "Abate (Blunt/Pierce)",
+    "sort_order": 20017,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by blunt or pierce attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by blunt or pierce attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by blunt or pierce attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by blunt or pierce attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by blunt or pierce attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by blunt or pierce attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by blunt or pierce attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by blunt or pierce attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by blunt or pierce attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by blunt or pierce attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20018,
+    "ability_id": 703100053,
+    "name": "Abate (Blunt/Heat)",
+    "sort_order": 20018,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by blunt or heat attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by blunt or heat attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by blunt or heat attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by blunt or heat attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by blunt or heat attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by blunt or heat attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by blunt or heat attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by blunt or heat attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by blunt or heat attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by blunt or heat attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20019,
+    "ability_id": 703100054,
+    "name": "Abate (Blunt/Cold)",
+    "sort_order": 20019,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by blunt or cold attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by blunt or cold attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by blunt or cold attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by blunt or cold attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by blunt or cold attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by blunt or cold attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by blunt or cold attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by blunt or cold attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by blunt or cold attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by blunt or cold attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20020,
+    "ability_id": 703100055,
+    "name": "Abate (Blunt/Lightning)",
+    "sort_order": 20020,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by blunt or lightning attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by blunt or lightning attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by blunt or lightning attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by blunt or lightning attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by blunt or lightning attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by blunt or lightning attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by blunt or lightning attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by blunt or lightning attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by blunt or lightning attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by blunt or lightning attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20021,
+    "ability_id": 703100056,
+    "name": "Abate (Blunt/Sun)",
+    "sort_order": 20021,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by blunt or sun attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by blunt or sun attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by blunt or sun attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by blunt or sun attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by blunt or sun attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by blunt or sun attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by blunt or sun attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by blunt or sun attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by blunt or sun attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by blunt or sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20022,
+    "ability_id": 703100057,
+    "name": "Abate (Blunt/Shadow)",
+    "sort_order": 20022,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by blunt or shadow attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by blunt or shadow attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by blunt or shadow attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by blunt or shadow attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by blunt or shadow attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by blunt or shadow attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by blunt or shadow attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by blunt or shadow attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by blunt or shadow attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by blunt or shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20023,
+    "ability_id": 703100058,
+    "name": "Abate (Pierce/Heat)",
+    "sort_order": 20023,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by pierce or heat attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by pierce or heat attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by pierce or heat attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by pierce or heat attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by pierce or heat attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by pierce or heat attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by pierce or heat attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by pierce or heat attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by pierce or heat attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by pierce or heat attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20024,
+    "ability_id": 703100059,
+    "name": "Abate (Pierce/Cold)",
+    "sort_order": 20024,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by pierce or cold attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by pierce or cold attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by pierce or cold attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by pierce or cold attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by pierce or cold attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by pierce or cold attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by pierce or cold attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by pierce or cold attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by pierce or cold attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by pierce or cold attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20025,
+    "ability_id": 703100060,
+    "name": "Abate (Pierce/Lightning)",
+    "sort_order": 20025,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by pierce or lightning attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by pierce or lightning attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by pierce or lightning attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by pierce or lightning attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by pierce or lightning attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by pierce or lightning attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by pierce or lightning attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by pierce or lightning attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by pierce or lightning attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by pierce or lightning attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20026,
+    "ability_id": 703100061,
+    "name": "Abate (Pierce/Sun)",
+    "sort_order": 20026,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by pierce or sun attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by pierce or sun attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by pierce or sun attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by pierce or sun attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by pierce or sun attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by pierce or sun attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by pierce or sun attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by pierce or sun attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by pierce or sun attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by pierce or sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20027,
+    "ability_id": 703100062,
+    "name": "Abate (Pierce/Shadow)",
+    "sort_order": 20027,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by pierce or shadow attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by pierce or shadow attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by pierce or shadow attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by pierce or shadow attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by pierce or shadow attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by pierce or shadow attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by pierce or shadow attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by pierce or shadow attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by pierce or shadow attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by pierce or shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20028,
+    "ability_id": 703100063,
+    "name": "Abate (Heat/Cold)",
+    "sort_order": 20028,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by heat or cold attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by heat or cold attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by heat or cold attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by heat or cold attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by heat or cold attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by heat or cold attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by heat or cold attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by heat or cold attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by heat or cold attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by heat or cold attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20029,
+    "ability_id": 703100064,
+    "name": "Abate (Heat/Lightning)",
+    "sort_order": 20029,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by heat or lightning attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by heat or lightning attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by heat or lightning attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by heat or lightning attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by heat or lightning attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by heat or lightning attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by heat or lightning attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by heat or lightning attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by heat or lightning attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by heat or lightning attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20030,
+    "ability_id": 703100065,
+    "name": "Abate (Heat/Sun)",
+    "sort_order": 20030,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by heat or sun attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by heat or sun attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by heat or sun attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by heat or sun attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by heat or sun attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by heat or sun attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by heat or sun attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by heat or sun attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by heat or sun attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by heat or sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20031,
+    "ability_id": 703100066,
+    "name": "Abate (Heat/Shadow)",
+    "sort_order": 20031,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by heat or shadow attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by heat or shadow attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by heat or shadow attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by heat or shadow attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by heat or shadow attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by heat or shadow attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by heat or shadow attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by heat or shadow attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by heat or shadow attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by heat or shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20032,
+    "ability_id": 703100067,
+    "name": "Abate (Cold/Lightning)",
+    "sort_order": 20032,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by cold or lightning attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by cold or lightning attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by cold or lightning attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by cold or lightning attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by cold or lightning attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by cold or lightning attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by cold or lightning attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by cold or lightning attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by cold or lightning attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by cold or lightning attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20033,
+    "ability_id": 703100068,
+    "name": "Abate (Cold/Sun)",
+    "sort_order": 20033,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by cold or sun attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by cold or sun attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by cold or sun attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by cold or sun attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by cold or sun attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by cold or sun attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by cold or sun attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by cold or sun attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by cold or sun attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by cold or sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20034,
+    "ability_id": 703100069,
+    "name": "Abate (Cold/Shadow)",
+    "sort_order": 20034,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by cold or shadow attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by cold or shadow attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by cold or shadow attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by cold or shadow attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by cold or shadow attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by cold or shadow attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by cold or shadow attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by cold or shadow attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by cold or shadow attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by cold or shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20035,
+    "ability_id": 703100070,
+    "name": "Abate (Lightning/Sun)",
+    "sort_order": 20035,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by lightning or sun attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by lightning or sun attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by lightning or sun attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by lightning or sun attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by lightning or sun attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by lightning or sun attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by lightning or sun attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by lightning or sun attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by lightning or sun attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by lightning or sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20036,
+    "ability_id": 703100071,
+    "name": "Abate (Lightning/Shadow)",
+    "sort_order": 20036,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by lightning or shadow attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by lightning or shadow attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by lightning or shadow attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by lightning or shadow attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by lightning or shadow attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by lightning or shadow attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by lightning or shadow attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by lightning or shadow attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by lightning or shadow attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by lightning or shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20037,
+    "ability_id": 703100072,
+    "name": "Abate (Sun/Shadow)",
+    "sort_order": 20037,
+    "flavor_texts": [
+      "[Armor Holy Stone] When damaged by sun or shadow attacks: Reduces damage taken by 1%",
+      "[Armor Holy Stone] When damaged by sun or shadow attacks: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When damaged by sun or shadow attacks: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When damaged by sun or shadow attacks: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When damaged by sun or shadow attacks: Reduces damage taken by 5%",
+      "[Armor Holy Stone] When damaged by sun or shadow attacks: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When damaged by sun or shadow attacks: Reduces damage taken by 7%",
+      "[Armor Holy Stone] When damaged by sun or shadow attacks: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When damaged by sun or shadow attacks: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When damaged by sun or shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 20038,
+    "ability_id": 703100073,
+    "name": "Abate (Full HP)",
+    "sort_order": 20038,
+    "flavor_texts": [
+      "[Armor Holy Stone] When HP is Full: Reduces damage taken by 1.5%",
+      "[Armor Holy Stone] When HP is Full: Reduces damage taken by 3%",
+      "[Armor Holy Stone] When HP is Full: Reduces damage taken by 4.5%",
+      "[Armor Holy Stone] When HP is Full: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When HP is Full: Reduces damage taken by 7.5%",
+      "[Armor Holy Stone] When HP is Full: Reduces damage taken by 9%",
+      "[Armor Holy Stone] When HP is Full: Reduces damage taken by 10.5%",
+      "[Armor Holy Stone] When HP is Full: Reduces damage taken by 12%",
+      "[Armor Holy Stone] When HP is Full: Reduces damage taken by 13.5%",
+      "[Armor Holy Stone] When HP is Full: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 20039,
+    "ability_id": 703100075,
+    "name": "Abate (Critical HP)",
+    "sort_order": 20039,
+    "flavor_texts": [
+      "[Armor Holy Stone] When HP is Critically Low: Reduces damage taken by 2%",
+      "[Armor Holy Stone] When HP is Critically Low: Reduces damage taken by 4%",
+      "[Armor Holy Stone] When HP is Critically Low: Reduces damage taken by 6%",
+      "[Armor Holy Stone] When HP is Critically Low: Reduces damage taken by 8%",
+      "[Armor Holy Stone] When HP is Critically Low: Reduces damage taken by 10%",
+      "[Armor Holy Stone] When HP is Critically Low: Reduces damage taken by 12%",
+      "[Armor Holy Stone] When HP is Critically Low: Reduces damage taken by 14%",
+      "[Armor Holy Stone] When HP is Critically Low: Reduces damage taken by 16%",
+      "[Armor Holy Stone] When HP is Critically Low: Reduces damage taken by 18%",
+      "[Armor Holy Stone] When HP is Critically Low: Reduces damage taken by 20%"
+    ]
+  },
+  {
+    "id": 30001,
+    "ability_id": 703100076,
+    "name": "Abate (All)",
+    "sort_order": 30001,
+    "flavor_texts": [
+      "[Gear Holy Stone] Always: Reduces damage taken by 1%",
+      "[Gear Holy Stone] Always: Reduces damage taken by 2%",
+      "[Gear Holy Stone] Always: Reduces damage taken by 3%",
+      "[Gear Holy Stone] Always: Reduces damage taken by 4%",
+      "[Gear Holy Stone] Always: Reduces damage taken by 5%",
+      "[Gear Holy Stone] Always: Reduces damage taken by 6%",
+      "[Gear Holy Stone] Always: Reduces damage taken by 7%",
+      "[Gear Holy Stone] Always: Reduces damage taken by 8%",
+      "[Gear Holy Stone] Always: Reduces damage taken by 9%",
+      "[Gear Holy Stone] Always: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30002,
+    "ability_id": 703100077,
+    "name": "Abate (Slash)",
+    "sort_order": 30002,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by slash attacks: Reduces damage taken by 1.5%",
+      "[Gear Holy Stone] When damaged by slash attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by slash attacks: Reduces damage taken by 4.5%",
+      "[Gear Holy Stone] When damaged by slash attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by slash attacks: Reduces damage taken by 7.5%",
+      "[Gear Holy Stone] When damaged by slash attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by slash attacks: Reduces damage taken by 10.5%",
+      "[Gear Holy Stone] When damaged by slash attacks: Reduces damage taken by 12%",
+      "[Gear Holy Stone] When damaged by slash attacks: Reduces damage taken by 13.5%",
+      "[Gear Holy Stone] When damaged by slash attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 30003,
+    "ability_id": 703100078,
+    "name": "Abate (Blunt)",
+    "sort_order": 30003,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by blunt attacks: Reduces damage taken by 1.5%",
+      "[Gear Holy Stone] When damaged by blunt attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by blunt attacks: Reduces damage taken by 4.5%",
+      "[Gear Holy Stone] When damaged by blunt attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by blunt attacks: Reduces damage taken by 7.5%",
+      "[Gear Holy Stone] When damaged by blunt attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by blunt attacks: Reduces damage taken by 10.5%",
+      "[Gear Holy Stone] When damaged by blunt attacks: Reduces damage taken by 12%",
+      "[Gear Holy Stone] When damaged by blunt attacks: Reduces damage taken by 13.5%",
+      "[Gear Holy Stone] When damaged by blunt attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 30004,
+    "ability_id": 703100079,
+    "name": "Abate (Pierce)",
+    "sort_order": 30004,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by pierce attacks: Reduces damage taken by 1.5%",
+      "[Gear Holy Stone] When damaged by pierce attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by pierce attacks: Reduces damage taken by 4.5%",
+      "[Gear Holy Stone] When damaged by pierce attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by pierce attacks: Reduces damage taken by 7.5%",
+      "[Gear Holy Stone] When damaged by pierce attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by pierce attacks: Reduces damage taken by 10.5%",
+      "[Gear Holy Stone] When damaged by pierce attacks: Reduces damage taken by 12%",
+      "[Gear Holy Stone] When damaged by pierce attacks: Reduces damage taken by 13.5%",
+      "[Gear Holy Stone] When damaged by pierce attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 30005,
+    "ability_id": 703100080,
+    "name": "Abate (Heat)",
+    "sort_order": 30005,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by heat attacks: Reduces damage taken by 1.5%",
+      "[Gear Holy Stone] When damaged by heat attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by heat attacks: Reduces damage taken by 4.5%",
+      "[Gear Holy Stone] When damaged by heat attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by heat attacks: Reduces damage taken by 7.5%",
+      "[Gear Holy Stone] When damaged by heat attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by heat attacks: Reduces damage taken by 10.5%",
+      "[Gear Holy Stone] When damaged by heat attacks: Reduces damage taken by 12%",
+      "[Gear Holy Stone] When damaged by heat attacks: Reduces damage taken by 13.5%",
+      "[Gear Holy Stone] When damaged by heat attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 30006,
+    "ability_id": 703100081,
+    "name": "Abate (Cold)",
+    "sort_order": 30006,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by cold attacks: Reduces damage taken by 1.5%",
+      "[Gear Holy Stone] When damaged by cold attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by cold attacks: Reduces damage taken by 4.5%",
+      "[Gear Holy Stone] When damaged by cold attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by cold attacks: Reduces damage taken by 7.5%",
+      "[Gear Holy Stone] When damaged by cold attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by cold attacks: Reduces damage taken by 10.5%",
+      "[Gear Holy Stone] When damaged by cold attacks: Reduces damage taken by 12%",
+      "[Gear Holy Stone] When damaged by cold attacks: Reduces damage taken by 13.5%",
+      "[Gear Holy Stone] When damaged by cold attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 30007,
+    "ability_id": 703100082,
+    "name": "Abate (Lightning)",
+    "sort_order": 30007,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by lightning attacks: Reduces damage taken by 1.5%",
+      "[Gear Holy Stone] When damaged by lightning attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by lightning attacks: Reduces damage taken by 4.5%",
+      "[Gear Holy Stone] When damaged by lightning attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by lightning attacks: Reduces damage taken by 7.5%",
+      "[Gear Holy Stone] When damaged by lightning attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by lightning attacks: Reduces damage taken by 10.5%",
+      "[Gear Holy Stone] When damaged by lightning attacks: Reduces damage taken by 12%",
+      "[Gear Holy Stone] When damaged by lightning attacks: Reduces damage taken by 13.5%",
+      "[Gear Holy Stone] When damaged by lightning attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 30008,
+    "ability_id": 703100083,
+    "name": "Abate (Sun)",
+    "sort_order": 30008,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by sun attacks: Reduces damage taken by 1.5%",
+      "[Gear Holy Stone] When damaged by sun attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by sun attacks: Reduces damage taken by 4.5%",
+      "[Gear Holy Stone] When damaged by sun attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by sun attacks: Reduces damage taken by 7.5%",
+      "[Gear Holy Stone] When damaged by sun attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by sun attacks: Reduces damage taken by 10.5%",
+      "[Gear Holy Stone] When damaged by sun attacks: Reduces damage taken by 12%",
+      "[Gear Holy Stone] When damaged by sun attacks: Reduces damage taken by 13.5%",
+      "[Gear Holy Stone] When damaged by sun attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 30009,
+    "ability_id": 703100084,
+    "name": "Abate (Shadow)",
+    "sort_order": 30009,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by shadow attacks: Reduces damage taken by 1.5%",
+      "[Gear Holy Stone] When damaged by shadow attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by shadow attacks: Reduces damage taken by 4.5%",
+      "[Gear Holy Stone] When damaged by shadow attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by shadow attacks: Reduces damage taken by 7.5%",
+      "[Gear Holy Stone] When damaged by shadow attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by shadow attacks: Reduces damage taken by 10.5%",
+      "[Gear Holy Stone] When damaged by shadow attacks: Reduces damage taken by 12%",
+      "[Gear Holy Stone] When damaged by shadow attacks: Reduces damage taken by 13.5%",
+      "[Gear Holy Stone] When damaged by shadow attacks: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 30010,
+    "ability_id": 703100085,
+    "name": "Abate (Slash/Blunt)",
+    "sort_order": 30010,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by slash/blunt attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by slash/blunt attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by slash/blunt attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by slash/blunt attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by slash/blunt attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by slash/blunt attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by slash/blunt attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by slash/blunt attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by slash/blunt attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by slash/blunt attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30011,
+    "ability_id": 703100086,
+    "name": "Abate (Slash/Pierce)",
+    "sort_order": 30011,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by slash/pierce attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by slash/pierce attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by slash/pierce attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by slash/pierce attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by slash/pierce attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by slash/pierce attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by slash/pierce attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by slash/pierce attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by slash/pierce attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by slash/pierce attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30012,
+    "ability_id": 703100087,
+    "name": "Abate (Slash/Heat)",
+    "sort_order": 30012,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by slash/heat attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by slash/heat attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by slash/heat attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by slash/heat attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by slash/heat attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by slash/heat attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by slash/heat attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by slash/heat attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by slash/heat attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by slash/heat attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30013,
+    "ability_id": 703100088,
+    "name": "Abate (Slash/Cold)",
+    "sort_order": 30013,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by slash/cold attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by slash/cold attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by slash/cold attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by slash/cold attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by slash/cold attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by slash/cold attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by slash/cold attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by slash/cold attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by slash/cold attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by slash/cold attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30014,
+    "ability_id": 703100089,
+    "name": "Abate (Slash/Lightning)",
+    "sort_order": 30014,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by slash/lightning attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by slash/lightning attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by slash/lightning attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by slash/lightning attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by slash/lightning attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by slash/lightning attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by slash/lightning attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by slash/lightning attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by slash/lightning attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by slash/lightning attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30015,
+    "ability_id": 703100090,
+    "name": "Abate (Slash/Sun)",
+    "sort_order": 30015,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by slash/sun attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by slash/sun attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by slash/sun attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by slash/sun attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by slash/sun attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by slash/sun attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by slash/sun attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by slash/sun attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by slash/sun attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by slash/sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30016,
+    "ability_id": 703100091,
+    "name": "Abate (Slash/Shadow)",
+    "sort_order": 30016,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by slash/shadow attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by slash/shadow attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by slash/shadow attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by slash/shadow attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by slash/shadow attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by slash/shadow attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by slash/shadow attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by slash/shadow attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by slash/shadow attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by slash/shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30017,
+    "ability_id": 703100092,
+    "name": "Abate (Blunt/Pierce)",
+    "sort_order": 30017,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by blunt/pierce attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by blunt/pierce attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by blunt/pierce attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by blunt/pierce attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by blunt/pierce attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by blunt/pierce attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by blunt/pierce attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by blunt/pierce attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by blunt/pierce attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by blunt/pierce attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30018,
+    "ability_id": 703100093,
+    "name": "Abate (Blunt/Heat)",
+    "sort_order": 30018,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by blunt/heat attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by blunt/heat attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by blunt/heat attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by blunt/heat attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by blunt/heat attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by blunt/heat attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by blunt/heat attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by blunt/heat attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by blunt/heat attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by blunt/heat attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30019,
+    "ability_id": 703100094,
+    "name": "Abate (Blunt/Cold)",
+    "sort_order": 30019,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by blunt/cold attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by blunt/cold attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by blunt/cold attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by blunt/cold attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by blunt/cold attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by blunt/cold attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by blunt/cold attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by blunt/cold attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by blunt/cold attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by blunt/cold attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30020,
+    "ability_id": 703100095,
+    "name": "Abate (Blunt/Lightning)",
+    "sort_order": 30020,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by blunt/lightning attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by blunt/lightning attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by blunt/lightning attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by blunt/lightning attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by blunt/lightning attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by blunt/lightning attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by blunt/lightning attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by blunt/lightning attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by blunt/lightning attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by blunt/lightning attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30021,
+    "ability_id": 703100096,
+    "name": "Abate (Blunt/Sun)",
+    "sort_order": 30021,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by blunt/sun attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by blunt/sun attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by blunt/sun attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by blunt/sun attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by blunt/sun attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by blunt/sun attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by blunt/sun attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by blunt/sun attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by blunt/sun attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by blunt/sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30022,
+    "ability_id": 703100097,
+    "name": "Abate (Blunt/Shadow)",
+    "sort_order": 30022,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by blunt/shadow attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by blunt/shadow attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by blunt/shadow attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by blunt/shadow attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by blunt/shadow attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by blunt/shadow attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by blunt/shadow attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by blunt/shadow attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by blunt/shadow attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by blunt/shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30023,
+    "ability_id": 703100098,
+    "name": "Abate (Pierce/Heat)",
+    "sort_order": 30023,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by pierce/heat attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by pierce/heat attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by pierce/heat attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by pierce/heat attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by pierce/heat attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by pierce/heat attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by pierce/heat attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by pierce/heat attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by pierce/heat attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by pierce/heat attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30024,
+    "ability_id": 703100099,
+    "name": "Abate (Pierce/Cold)",
+    "sort_order": 30024,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by pierce/cold attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by pierce/cold attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by pierce/cold attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by pierce/cold attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by pierce/cold attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by pierce/cold attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by pierce/cold attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by pierce/cold attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by pierce/cold attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by pierce/cold attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30025,
+    "ability_id": 703100100,
+    "name": "Abate (Pierce/Lightning)",
+    "sort_order": 30025,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by pierce/lightning attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by pierce/lightning attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by pierce/lightning attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by pierce/lightning attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by pierce/lightning attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by pierce/lightning attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by pierce/lightning attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by pierce/lightning attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by pierce/lightning attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by pierce/lightning attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30026,
+    "ability_id": 703100101,
+    "name": "Abate (Pierce/Sun)",
+    "sort_order": 30026,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by pierce/sun attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by pierce/sun attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by pierce/sun attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by pierce/sun attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by pierce/sun attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by pierce/sun attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by pierce/sun attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by pierce/sun attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by pierce/sun attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by pierce/sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30027,
+    "ability_id": 703100102,
+    "name": "Abate (Pierce/Shadow)",
+    "sort_order": 30027,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by pierce/shadow attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by pierce/shadow attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by pierce/shadow attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by pierce/shadow attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by pierce/shadow attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by pierce/shadow attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by pierce/shadow attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by pierce/shadow attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by pierce/shadow attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by pierce/shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30028,
+    "ability_id": 703100103,
+    "name": "Abate (Heat/Cold)",
+    "sort_order": 30028,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by heat/cold attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by heat/cold attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by heat/cold attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by heat/cold attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by heat/cold attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by heat/cold attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by heat/cold attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by heat/cold attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by heat/cold attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by heat/cold attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30029,
+    "ability_id": 703100104,
+    "name": "Abate (Heat/Lightning)",
+    "sort_order": 30029,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by heat/lightning attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by heat/lightning attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by heat/lightning attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by heat/lightning attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by heat/lightning attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by heat/lightning attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by heat/lightning attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by heat/lightning attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by heat/lightning attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by heat/lightning attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30030,
+    "ability_id": 703100105,
+    "name": "Abate (Heat/Sun)",
+    "sort_order": 30030,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by heat/sun attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by heat/sun attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by heat/sun attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by heat/sun attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by heat/sun attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by heat/sun attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by heat/sun attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by heat/sun attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by heat/sun attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by heat/sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30031,
+    "ability_id": 703100106,
+    "name": "Abate (Heat/Shadow)",
+    "sort_order": 30031,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by heat/shadow attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by heat/shadow attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by heat/shadow attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by heat/shadow attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by heat/shadow attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by heat/shadow attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by heat/shadow attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by heat/shadow attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by heat/shadow attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by heat/shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30032,
+    "ability_id": 703100107,
+    "name": "Abate (Cold/Lightning)",
+    "sort_order": 30032,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by cold/lightning attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by cold/lightning attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by cold/lightning attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by cold/lightning attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by cold/lightning attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by cold/lightning attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by cold/lightning attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by cold/lightning attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by cold/lightning attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by cold/lightning attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30033,
+    "ability_id": 703100108,
+    "name": "Abate (Cold/Sun)",
+    "sort_order": 30033,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by cold/sun attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by cold/sun attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by cold/sun attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by cold/sun attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by cold/sun attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by cold/sun attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by cold/sun attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by cold/sun attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by cold/sun attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by cold/sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30034,
+    "ability_id": 703100109,
+    "name": "Abate (Cold/Shadow)",
+    "sort_order": 30034,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by cold/shadow attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by cold/shadow attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by cold/shadow attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by cold/shadow attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by cold/shadow attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by cold/shadow attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by cold/shadow attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by cold/shadow attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by cold/shadow attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by cold/shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30035,
+    "ability_id": 703100110,
+    "name": "Abate (Lightning/Sun)",
+    "sort_order": 30035,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by lightning/sun attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by lightning/sun attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by lightning/sun attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by lightning/sun attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by lightning/sun attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by lightning/sun attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by lightning/sun attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by lightning/sun attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by lightning/sun attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by lightning/sun attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30036,
+    "ability_id": 703100111,
+    "name": "Abate (Lightning/Shadow)",
+    "sort_order": 30036,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by lightning/shadow attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by lightning/shadow attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by lightning/shadow attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by lightning/shadow attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by lightning/shadow attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by lightning/shadow attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by lightning/shadow attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by lightning/shadow attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by lightning/shadow attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by lightning/shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30037,
+    "ability_id": 703100112,
+    "name": "Abate (Sun/Shadow)",
+    "sort_order": 30037,
+    "flavor_texts": [
+      "[Gear Holy Stone] When damaged by sun/shadow attacks: Reduces damage taken by 1%",
+      "[Gear Holy Stone] When damaged by sun/shadow attacks: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When damaged by sun/shadow attacks: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When damaged by sun/shadow attacks: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When damaged by sun/shadow attacks: Reduces damage taken by 5%",
+      "[Gear Holy Stone] When damaged by sun/shadow attacks: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When damaged by sun/shadow attacks: Reduces damage taken by 7%",
+      "[Gear Holy Stone] When damaged by sun/shadow attacks: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When damaged by sun/shadow attacks: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When damaged by sun/shadow attacks: Reduces damage taken by 10%"
+    ]
+  },
+  {
+    "id": 30038,
+    "ability_id": 703100113,
+    "name": "Abate (Full HP)",
+    "sort_order": 30038,
+    "flavor_texts": [
+      "[Gear Holy Stone] When HP is Full: Reduces damage taken by 1.5%",
+      "[Gear Holy Stone] When HP is Full: Reduces damage taken by 3%",
+      "[Gear Holy Stone] When HP is Full: Reduces damage taken by 4.5%",
+      "[Gear Holy Stone] When HP is Full: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When HP is Full: Reduces damage taken by 7.5%",
+      "[Gear Holy Stone] When HP is Full: Reduces damage taken by 9%",
+      "[Gear Holy Stone] When HP is Full: Reduces damage taken by 10.5%",
+      "[Gear Holy Stone] When HP is Full: Reduces damage taken by 12%",
+      "[Gear Holy Stone] When HP is Full: Reduces damage taken by 13.5%",
+      "[Gear Holy Stone] When HP is Full: Reduces damage taken by 15%"
+    ]
+  },
+  {
+    "id": 30039,
+    "ability_id": 703100114,
+    "name": "Abate (Critical HP)",
+    "sort_order": 30039,
+    "flavor_texts": [
+      "[Gear Holy Stone] When HP is Critically Low: Reduces damage taken by 2%",
+      "[Gear Holy Stone] When HP is Critically Low: Reduces damage taken by 4%",
+      "[Gear Holy Stone] When HP is Critically Low: Reduces damage taken by 6%",
+      "[Gear Holy Stone] When HP is Critically Low: Reduces damage taken by 8%",
+      "[Gear Holy Stone] When HP is Critically Low: Reduces damage taken by 10%",
+      "[Gear Holy Stone] When HP is Critically Low: Reduces damage taken by 12%",
+      "[Gear Holy Stone] When HP is Critically Low: Reduces damage taken by 14%",
+      "[Gear Holy Stone] When HP is Critically Low: Reduces damage taken by 16%",
+      "[Gear Holy Stone] When HP is Critically Low: Reduces damage taken by 18%",
+      "[Gear Holy Stone] When HP is Critically Low: Reduces damage taken by 20%"
+    ]
+  }
+]

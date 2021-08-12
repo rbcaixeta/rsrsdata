@@ -1,0 +1,74 @@
+[
+  {
+    "id": 830001,
+    "name": "Instant Expedition Ticket",
+    "flavor_text": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 830001,
+    "max_quantity": 99999,
+    "expired_at": 0,
+    "sort_order": 987
+  },
+  {
+    "id": 830002,
+    "name": "Award Instant Expedition Ticket [Ltd. Time]",
+    "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until [1609376399] <tz>)",
+    "icon": 830002,
+    "max_quantity": 9999,
+    "expired_at": 1609376399,
+    "sort_order": 1215
+  },
+  {
+    "id": 830003,
+    "name": "1st Anniversary Celebration Instant Expedition Ticket [Limited Time]",
+    "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until 2020/2/15 4:00.)",
+    "icon": 830003,
+    "max_quantity": 9999,
+    "expired_at": 1581706799,
+    "sort_order": 1495
+  },
+  {
+    "id": 830004,
+    "name": "20 Million DLs Instant Expedition Ticket [Ltd. Time]",
+    "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until 4/29/2019, 4:00)",
+    "icon": 830004,
+    "max_quantity": 9999,
+    "expired_at": 1588100399,
+    "sort_order": 1850
+  },
+  {
+    "id": 830006,
+    "name": "1st Anniversary Instant Expedition Ticket [Ltd. Time]",
+    "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until [1627779599] <tz>)",
+    "icon": 830006,
+    "max_quantity": 99999,
+    "expired_at": 1627779599,
+    "sort_order": 2165
+  },
+  {
+    "id": 830007,
+    "name": "SaGa 30th Anniv. Sa・Ga Fest. Instant Expedition Ticket [Ltd. Time]",
+    "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until [1605401999] <tz>)",
+    "icon": 830007,
+    "max_quantity": 9999,
+    "expired_at": 1605380399,
+    "sort_order": 2625
+  },
+  {
+    "id": 1000830001,
+    "name": "New Year's Instant Expedition Ticket [Ltd. Time]",
+    "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until [1614473999] <tz>)",
+    "icon": 1000830001,
+    "max_quantity": 9999,
+    "expired_at": 1614473999,
+    "sort_order": 1220
+  },
+  {
+    "id": 1000830002,
+    "name": "Springtime Instant Expedition Ticket [Ltd. Time]",
+    "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until [1620608399] <tz>)",
+    "icon": 1000830002,
+    "max_quantity": 9999,
+    "expired_at": 1620608399,
+    "sort_order": 1230
+  }
+]

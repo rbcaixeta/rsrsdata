@@ -1,0 +1,46 @@
+[
+  {
+    "id": 820001,
+    "name": "Ruins Key",
+    "flavor_text": "Unlocks Ruins quests for 20 min. Can be used in Ruins Explorations (Home>Quests>Daily). Can be purchased in Shops.\n",
+    "icon": 820001,
+    "max_quantity": 999,
+    "expired_at": 0,
+    "sort_order": 984,
+    "shop_type": 0,
+    "shop_id": 0
+  },
+  {
+    "id": 820002,
+    "name": "Attendance List",
+    "flavor_text": "Unlocks Intensive Course - Advanced for 10 min, Intensive Course - Beginner for 3 min. (Until [1618361999] <tz>)",
+    "icon": 820002,
+    "max_quantity": 30,
+    "expired_at": 1618361999,
+    "sort_order": 1995,
+    "shop_type": 0,
+    "shop_id": 0
+  },
+  {
+    "id": 820003,
+    "name": "Boots Trial Challenge Ticket",
+    "flavor_text": "Unlocks Boots Trial - Hard for 10 min, Boots Trial - Easy for 3 min. (Until [1625965199] <tz>)",
+    "icon": 820003,
+    "max_quantity": 99999999,
+    "expired_at": 1625965199,
+    "sort_order": 2230,
+    "shop_type": 0,
+    "shop_id": 0
+  },
+  {
+    "id": 820004,
+    "name": "Boots Trial Spree - Hard Challenge Ticket",
+    "flavor_text": "Unlocks Boots Trial Spree - Hard, which gives 10x the rewards of Boots Trial - Hard, for 10 min. (Until [1625965199] <tz>)",
+    "icon": 820004,
+    "max_quantity": 99999999,
+    "expired_at": 1625965199,
+    "sort_order": 2235,
+    "shop_type": 0,
+    "shop_id": 0
+  }
+]

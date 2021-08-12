@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "motion_name": "WalkDown",
+    "name": "Walk (Forward)"
+  },
+  {
+    "id": 2,
+    "motion_name": "WalkRight",
+    "name": "Walk (Right)"
+  },
+  {
+    "id": 3,
+    "motion_name": "WalkUp",
+    "name": "Walk (Backward)"
+  },
+  {
+    "id": 4,
+    "motion_name": "WalkLeft",
+    "name": "Walk (Left)"
+  },
+  {
+    "id": 5,
+    "motion_name": "DashDown",
+    "name": "Run (Forward)"
+  },
+  {
+    "id": 6,
+    "motion_name": "DashRight",
+    "name": "Run (Right)"
+  },
+  {
+    "id": 7,
+    "motion_name": "DashUp",
+    "name": "Run (Backward)"
+  },
+  {
+    "id": 8,
+    "motion_name": "DashLeft",
+    "name": "Run (Left)"
+  },
+  {
+    "id": 9,
+    "motion_name": "Ready",
+    "name": "Action Selected"
+  },
+  {
+    "id": 10,
+    "motion_name": "ReadyFinish",
+    "name": "Action Confirmed (Skill)"
+  },
+  {
+    "id": 11,
+    "motion_name": "SpellReadyFinish",
+    "name": "Action Confirmed (Spell)"
+  },
+  {
+    "id": 12,
+    "motion_name": "SpellCast",
+    "name": "Spell Activated"
+  },
+  {
+    "id": 13,
+    "motion_name": "StatusUp",
+    "name": "Growth"
+  },
+  {
+    "id": 14,
+    "motion_name": "Win",
+    "name": "Victory"
+  },
+  {
+    "id": 15,
+    "motion_name": "Damage",
+    "name": "Damaged"
+  }
+]

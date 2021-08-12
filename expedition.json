@@ -1,0 +1,173 @@
+[
+  {
+    "id": 6700001,
+    "name": "The Caves",
+    "required_quest_id": 0,
+    "required_hours": 2,
+    "expedition_difficulty": 1,
+    "difficulty": 1,
+    "growth_difficulty": 10,
+    "recommended_status": 10,
+    "jewel_cost": 50,
+    "ticket_cost": 1,
+    "drop_group_ids": [
+      880000001,
+      880000002
+    ],
+    "flavor_text": "Recommended for characters with up to 100 HP and up to 10 in all attributes",
+    "background_id": 700000020,
+    "sort_order": 99
+  },
+  {
+    "id": 6700002,
+    "name": "Westos Forest",
+    "required_quest_id": 100104101,
+    "required_hours": 6,
+    "expedition_difficulty": 2,
+    "difficulty": 2,
+    "growth_difficulty": 15,
+    "recommended_status": 20,
+    "jewel_cost": 200,
+    "ticket_cost": 4,
+    "drop_group_ids": [
+      880000003,
+      880000004
+    ],
+    "flavor_text": "Recommended for characters with up to 200 HP and up to 20 in all attributes",
+    "background_id": 700000003,
+    "sort_order": 97
+  },
+  {
+    "id": 6700003,
+    "name": "Eastern Plain",
+    "required_quest_id": 100104102,
+    "required_hours": 12,
+    "expedition_difficulty": 3,
+    "difficulty": 3,
+    "growth_difficulty": 25,
+    "recommended_status": 30,
+    "jewel_cost": 300,
+    "ticket_cost": 6,
+    "drop_group_ids": [
+      880000005,
+      880000006
+    ],
+    "flavor_text": "Recommended for characters with up to 300 HP and up to 30 in all attributes",
+    "background_id": 700000002,
+    "sort_order": 96
+  },
+  {
+    "id": 6700004,
+    "name": "The Sewers",
+    "required_quest_id": 0,
+    "required_hours": 4,
+    "expedition_difficulty": 1,
+    "difficulty": 1,
+    "growth_difficulty": 10,
+    "recommended_status": 10,
+    "jewel_cost": 100,
+    "ticket_cost": 2,
+    "drop_group_ids": [
+      880000007,
+      880000008
+    ],
+    "flavor_text": "Recommended for characters with up to 100 HP and up to 10 in all attributes",
+    "background_id": 700000015,
+    "sort_order": 98
+  },
+  {
+    "id": 6700005,
+    "name": "The Jungle",
+    "required_quest_id": 100106053,
+    "required_hours": 18,
+    "expedition_difficulty": 4,
+    "difficulty": 4,
+    "growth_difficulty": 38,
+    "recommended_status": 40,
+    "jewel_cost": 400,
+    "ticket_cost": 8,
+    "drop_group_ids": [
+      880000009,
+      880000010
+    ],
+    "flavor_text": "Recommended for characters with up to 400 HP and up to 40 in all attributes",
+    "background_id": 700000004,
+    "sort_order": 95
+  },
+  {
+    "id": 6700006,
+    "name": "Inner Jungle",
+    "required_quest_id": 100107103,
+    "required_hours": 21,
+    "expedition_difficulty": 4,
+    "difficulty": 4,
+    "growth_difficulty": 43,
+    "recommended_status": 45,
+    "jewel_cost": 450,
+    "ticket_cost": 9,
+    "drop_group_ids": [
+      880000011,
+      880000012
+    ],
+    "flavor_text": "Recommended for characters with up to 550 HP and up to 45 in all attributes",
+    "background_id": 700000004,
+    "sort_order": 94
+  },
+  {
+    "id": 6700007,
+    "name": "Undersea Cave",
+    "required_quest_id": 100110103,
+    "required_hours": 21,
+    "expedition_difficulty": 4,
+    "difficulty": 4,
+    "growth_difficulty": 48,
+    "recommended_status": 50,
+    "jewel_cost": 600,
+    "ticket_cost": 12,
+    "drop_group_ids": [
+      880000013,
+      880000014
+    ],
+    "flavor_text": "Recommended for characters with up to 600 HP and up to 50 in all attributes",
+    "background_id": 700000008,
+    "sort_order": 93
+  },
+  {
+    "id": 6700008,
+    "name": "Arctic Lake",
+    "required_quest_id": 100113103,
+    "required_hours": 21,
+    "expedition_difficulty": 4,
+    "difficulty": 4,
+    "growth_difficulty": 58,
+    "recommended_status": 60,
+    "jewel_cost": 800,
+    "ticket_cost": 16,
+    "drop_group_ids": [
+      880000015,
+      880000016
+    ],
+    "flavor_text": "Recommended for characters with up to 700 HP and up to 60 in all attributes",
+    "background_id": 700000006,
+    "sort_order": 92
+  },
+  {
+    "id": 6700009,
+    "name": "Naj Desert",
+    "required_quest_id": 100114113,
+    "required_hours": 21,
+    "expedition_difficulty": 4,
+    "difficulty": 4,
+    "growth_difficulty": 63,
+    "recommended_status": 65,
+    "jewel_cost": 900,
+    "ticket_cost": 18,
+    "drop_group_ids": [
+      880000017,
+      880000018
+    ],
+    "flavor_text": "Recommended for characters with up to 750 HP and up to 65 in all attributes",
+    "background_id": 700000007,
+    "sort_order": 91
+  }
+]

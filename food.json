@@ -1,0 +1,62 @@
+[
+  {
+    "id": 840004,
+    "name": "Edelweiss",
+    "flavor_text": "Recover a very small amount of Training Energy.",
+    "icon": 840004,
+    "max_quantity": 999,
+    "value": 500,
+    "required_aurum": 100,
+    "sort_order": 970
+  },
+  {
+    "id": 840005,
+    "name": "Serpent Salts",
+    "flavor_text": "Recover a small amount of Training Energy.",
+    "icon": 840005,
+    "max_quantity": 999,
+    "value": 1000,
+    "required_aurum": 200,
+    "sort_order": 971
+  },
+  {
+    "id": 840006,
+    "name": "Heliotrope",
+    "flavor_text": "Recover Training Energy.",
+    "icon": 840006,
+    "max_quantity": 999,
+    "value": 5000,
+    "required_aurum": 1000,
+    "sort_order": 972
+  },
+  {
+    "id": 840007,
+    "name": "Faeries' Herb",
+    "flavor_text": "Recover a large amount of Training Energy.",
+    "icon": 840007,
+    "max_quantity": 999,
+    "value": 10000,
+    "required_aurum": 1800,
+    "sort_order": 973
+  },
+  {
+    "id": 840008,
+    "name": "Tapir Tears",
+    "flavor_text": "Recover a very large amount of Training Energy.",
+    "icon": 840008,
+    "max_quantity": 999,
+    "value": 15000,
+    "required_aurum": 2500,
+    "sort_order": 974
+  },
+  {
+    "id": 840047,
+    "name": "Life Essence",
+    "flavor_text": "Recover an extreme amount of Training Energy.",
+    "icon": 840047,
+    "max_quantity": 999,
+    "value": 25000,
+    "required_aurum": 4000,
+    "sort_order": 975
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 50001,
+    "step": 1,
+    "summary": "Raise Attributes 5 Times<br>(Battle/Expedition)",
+    "description": "Increase any character's attributes 5 times (through battles or Expeditions).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 5,
+    "priority": 9999999
+  },
+  {
+    "id": 50002,
+    "step": 1,
+    "summary": "Complete<br>Main 1-1-3",
+    "description": "Complete Episode 1-1-3 of the Main Story, \"The Exam Begins!\" on Normal difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 5,
+    "priority": 9999998
+  },
+  {
+    "id": 50003,
+    "step": 1,
+    "summary": "Complete<br>Main 1-1-7",
+    "description": "Complete Episode 1-1-7 of the Main Story, \"Demonic Beast Horde\" on Normal difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 5,
+    "priority": 9999997
+  },
+  {
+    "id": 50004,
+    "step": 1,
+    "summary": "Complete the Training Cave Once<br>(Unlock via Main 1-1-7)",
+    "description": "Complete the Monster-filled Training Cave once (Quests > Daily > Monster-filled Training Cave).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 5,
+    "priority": 9999996
+  },
+  {
+    "id": 50005,
+    "step": 1,
+    "summary": "Raise Style Lv<br>to 3<br>(Dojo)",
+    "description": "Level a Style up to Lv 3 at the Dojo (Dojo > Enhance Styles).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 5,
+    "priority": 9999995
+  },
+  {
+    "id": 50006,
+    "step": 1,
+    "summary": "Evil Ogre<br>(Main 1-1-9)",
+    "description": "Complete Episode 1-1-9 of the Main Story, \"Upper Floors\" on Normal difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999994
+  },
+  {
+    "id": 50007,
+    "step": 1,
+    "summary": "Raise Style Lv<br>to 10<br>(Dojo)",
+    "description": "Level a Style up to Lv 10 at the Dojo (Dojo > Enhance Styles).",
+    "reward_type": 26,
+    "reward_id": 501300100,
+    "reward_quantity": 10,
+    "priority": 9999993
+  },
+  {
+    "id": 50008,
+    "step": 1,
+    "summary": "Return Instantly<br>from 2 Expeditions<br>(Dojo)",
+    "description": "Return instantly from 2 Expeditions at the Dojo (Home > Dojo).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 5,
+    "priority": 9999992
+  },
+  {
+    "id": 50009,
+    "step": 1,
+    "summary": "Water Dragon<br>(Main 1-2-12)",
+    "description": "Defeat the Water Dragon in Episode 1-2-12 of the Main Story, \"Summit's Gate\" on Normal difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999991
+  },
+  {
+    "id": 50010,
+    "step": 2,
+    "summary": "Return Instantly<br>from 3 Expeditions<br>(Dojo)",
+    "description": "Return instantly from 3 Expeditions at the Dojo (Home > Dojo).",
+    "reward_type": 15,
+    "reward_id": 104300450,
+    "reward_quantity": 1,
+    "priority": 9999989
+  },
+  {
+    "id": 50011,
+    "step": 2,
+    "summary": "Enhance Equipment to Lv 2<br>(Forge)",
+    "description": "Enhance a piece of equipment to Level 2 at the Forge (obtain materials from quests: Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999988
+  },
+  {
+    "id": 50012,
+    "step": 2,
+    "summary": "Carmine<br>(Main 2-1-10)",
+    "description": "Defeat the Carmine in Episode 2-1-10 of the Main Story, \"Cavern Exit\" on Normal difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999987
+  },
+  {
+    "id": 50013,
+    "step": 2,
+    "summary": "Complete Treasure Hunt Once<br>(Unlock via Main 2-1-10)",
+    "description": "Complete the Big Treasure Hunt once (Quests > Daily > Big Treasure Hunt).",
+    "reward_type": 1,
+    "reward_id": 100003,
+    "reward_quantity": 30000,
+    "priority": 9999986
+  },
+  {
+    "id": 50014,
+    "step": 2,
+    "summary": "Raise Style Lv<br>to 15<br>(Dojo)",
+    "description": "Level a Style up to Lv 15 at the Dojo (Dojo > Enhance Styles).",
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 5,
+    "priority": 9999985
+  },
+  {
+    "id": 50015,
+    "step": 2,
+    "summary": "Spriggan<br>(Main 2-2-10)",
+    "description": "Defeat the Spriggan in Episode 2-2-10 of the Main Story, \"Underground Inhabitant\" on Normal difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999984
+  },
+  {
+    "id": 50016,
+    "step": 2,
+    "summary": "Complete Spiral Corridor Floor 3<br>(Unlock via Main 2-2-10)",
+    "description": "Complete Spiral Corridor Floor 3 (Quests > Challenge > Spiral Corridor)",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999983
+  },
+  {
+    "id": 50017,
+    "step": 2,
+    "summary": "Return Instantly<br>from 5 Expeditions<br>(Dojo)",
+    "description": "Return instantly from 5 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999982
+  },
+  {
+    "id": 50018,
+    "step": 2,
+    "summary": "Ogre Warrior<br>(Main 3-1-12)",
+    "description": "Defeat the Ogre Warrior in Episode 3-1-12 of the Main Story, \"Scaccini's Assassins\" on Normal difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999981
+  },
+  {
+    "id": 50019,
+    "step": 3,
+    "summary": "Unlock Style Level Cap<br>5 times<br>(Dojo)",
+    "description": "Unlock Style Level Cap 5 times (Dojo > Unlock Style Level Cap).",
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 20,
+    "priority": 9999979
+  },
+  {
+    "id": 50020,
+    "step": 3,
+    "summary": "Replenish Training Energy<br>(Dojo)",
+    "description": "Replenish training energy once (Dojo > Training > Add NRG).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999978
+  },
+  {
+    "id": 50021,
+    "step": 3,
+    "summary": "Yami<br>(Main 3-2-6)",
+    "description": "Defeat Yami in Episode 3-2-6 of the Main Story, \"Castle Keeper\" on Normal difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999977
+  },
+  {
+    "id": 50022,
+    "step": 3,
+    "summary": "Complete<br>Ruins Exploration: Tri Glowstones<br>5 Times",
+    "description": "Complete Ruins Exploration: Tri Glowstones 5 times (Quests > Daily > Ruins Exploration).",
+    "reward_type": 9,
+    "reward_id": 820001,
+    "reward_quantity": 2,
+    "priority": 9999976
+  },
+  {
+    "id": 50023,
+    "step": 3,
+    "summary": "Evolve Equipment Once<br>(Forge)",
+    "description": "Evolve equipment once at the Forge (obtain materials from quests: Quests > Daily > Ruins Exploration).",
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 20,
+    "priority": 9999975
+  },
+  {
+    "id": 50024,
+    "step": 3,
+    "summary": "Daean Soldier<br>(Main 4-1-10)",
+    "description": "Defeat Daean Soldier in Episode 4-1-10 of the Main Story, \"Lurking Shadow\" on Normal difficulty. (Quests > Main)",
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 30,
+    "priority": 9999974
+  },
+  {
+    "id": 50025,
+    "step": 3,
+    "summary": "Complete<br>Ch. 1 Ep. 1<br>[Hard]",
+    "description": "Complete Episode 1-1-1 of the Main Story, \"The Exam Begins!\" on Hard difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999973
+  },
+  {
+    "id": 50026,
+    "step": 3,
+    "summary": "Return Instantly<br>from 10 Expeditions<br>(Dojo)",
+    "description": "Return instantly from 10 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999972
+  },
+  {
+    "id": 50027,
+    "step": 3,
+    "summary": "Tu Kwai<br>(Main 4-2-10)",
+    "description": "Defeat Tu Kwai in Episode 4-2-10 of the Main Story, \"Crimson Commander\" on Normal difficulty (Quests > Main).",
+    "reward_type": 2,
+    "reward_id": 105001,
+    "reward_quantity": 50,
+    "priority": 9999971
+  }
+]

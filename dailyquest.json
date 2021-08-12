@@ -1,0 +1,6039 @@
+[
+  {
+    "id": 210000011,
+    "name": "Training Cave Lv. 1",
+    "sort_order": 1,
+    "banner": 200002,
+    "stamina": 5,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      },
+      {
+        "type": 7,
+        "id": 860011
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000002,
+      210000274,
+      210001191
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 301,
+    "battle_id": 210000001,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 210000021,
+    "name": "Training Cave Lv. 2",
+    "sort_order": 2,
+    "banner": 200002,
+    "stamina": 6,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      },
+      {
+        "type": 7,
+        "id": 860011
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000003,
+      210000274,
+      210001192
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 301,
+    "battle_id": 210000002,
+    "prev_quest_ids": [
+      210000011
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 210000031,
+    "name": "Training Cave Lv. 3",
+    "sort_order": 3,
+    "banner": 200002,
+    "stamina": 7,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      },
+      {
+        "type": 7,
+        "id": 860011
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000004,
+      210000274,
+      210001193
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 301,
+    "battle_id": 210000003,
+    "prev_quest_ids": [
+      210000021
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 210000041,
+    "name": "Training Cave Lv. 4",
+    "sort_order": 4,
+    "banner": 200002,
+    "stamina": 8,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      },
+      {
+        "type": 7,
+        "id": 860011
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000005,
+      210000274,
+      210001195
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 301,
+    "battle_id": 210000004,
+    "prev_quest_ids": [
+      210000031
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 210000051,
+    "name": "Training Cave Lv. 5",
+    "sort_order": 5,
+    "banner": 200002,
+    "stamina": 10,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      },
+      {
+        "type": 7,
+        "id": 860011
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000006,
+      210000274,
+      210001197
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 301,
+    "battle_id": 210000005,
+    "prev_quest_ids": [
+      210000041
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 210000061,
+    "name": "Training Cave Lv. 6",
+    "sort_order": 6,
+    "banner": 200002,
+    "stamina": 11,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      },
+      {
+        "type": 7,
+        "id": 860010
+      },
+      {
+        "type": 7,
+        "id": 860011
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000007,
+      210000276,
+      210000275,
+      210001199
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 301,
+    "battle_id": 210000006,
+    "prev_quest_ids": [
+      210000051
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 210000071,
+    "name": "Training Cave Lv. 7",
+    "sort_order": 7,
+    "banner": 200002,
+    "stamina": 12,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      },
+      {
+        "type": 7,
+        "id": 860010
+      },
+      {
+        "type": 7,
+        "id": 860011
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000008,
+      210000276,
+      210000275,
+      210001201
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 301,
+    "battle_id": 210000007,
+    "prev_quest_ids": [
+      210000061
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 210000081,
+    "name": "Training Cave Lv. 8",
+    "sort_order": 8,
+    "banner": 200002,
+    "stamina": 14,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      },
+      {
+        "type": 7,
+        "id": 860010
+      },
+      {
+        "type": 7,
+        "id": 860011
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000009,
+      210000276,
+      210000275,
+      210001203
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 301,
+    "battle_id": 210000008,
+    "prev_quest_ids": [
+      210000071
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 210000091,
+    "name": "Training Cave Lv. 9",
+    "sort_order": 9,
+    "banner": 200002,
+    "stamina": 15,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      },
+      {
+        "type": 7,
+        "id": 860010
+      },
+      {
+        "type": 7,
+        "id": 860011
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000010,
+      210000276,
+      210000275,
+      210001204
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 301,
+    "battle_id": 210000009,
+    "prev_quest_ids": [
+      210000081
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 210000101,
+    "name": "Training Cave Lv. 10",
+    "sort_order": 10,
+    "banner": 200002,
+    "stamina": 18,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      },
+      {
+        "type": 7,
+        "id": 860010
+      },
+      {
+        "type": 7,
+        "id": 860011
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000011,
+      210000276,
+      210000275,
+      210001206
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 301,
+    "battle_id": 210000010,
+    "prev_quest_ids": [
+      210000091
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 220000011,
+    "name": "Treasure Hunt Lv. 1",
+    "sort_order": 1,
+    "banner": 210001,
+    "stamina": 5,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000012,
+      210001190
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 302,
+    "battle_id": 220000001,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 220000021,
+    "name": "Treasure Hunt Lv. 2",
+    "sort_order": 2,
+    "banner": 210001,
+    "stamina": 6,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000013,
+      210001190
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 302,
+    "battle_id": 220000002,
+    "prev_quest_ids": [
+      220000011
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 220000031,
+    "name": "Treasure Hunt Lv. 3",
+    "sort_order": 3,
+    "banner": 210001,
+    "stamina": 8,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000014,
+      210001190
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 302,
+    "battle_id": 220000003,
+    "prev_quest_ids": [
+      220000021
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 220000041,
+    "name": "Treasure Hunt Lv. 4",
+    "sort_order": 4,
+    "banner": 210001,
+    "stamina": 9,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000015,
+      210001190
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 302,
+    "battle_id": 220000004,
+    "prev_quest_ids": [
+      220000031
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 220000051,
+    "name": "Treasure Hunt Lv. 5",
+    "sort_order": 5,
+    "banner": 210001,
+    "stamina": 11,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000016,
+      210001190
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 302,
+    "battle_id": 220000005,
+    "prev_quest_ids": [
+      220000041
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 220000061,
+    "name": "Treasure Hunt Lv. 6",
+    "sort_order": 6,
+    "banner": 210001,
+    "stamina": 12,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000017,
+      210001190
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 302,
+    "battle_id": 220000006,
+    "prev_quest_ids": [
+      220000051
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 220000071,
+    "name": "Treasure Hunt Lv. 7",
+    "sort_order": 7,
+    "banner": 210001,
+    "stamina": 14,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000018,
+      210001190
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 302,
+    "battle_id": 220000007,
+    "prev_quest_ids": [
+      220000061
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 220000081,
+    "name": "Treasure Hunt Lv. 8",
+    "sort_order": 8,
+    "banner": 210001,
+    "stamina": 15,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000019,
+      210001190
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 302,
+    "battle_id": 220000008,
+    "prev_quest_ids": [
+      220000071
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 220000091,
+    "name": "Treasure Hunt Lv. 9",
+    "sort_order": 9,
+    "banner": 210001,
+    "stamina": 17,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000020,
+      210001190
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 302,
+    "battle_id": 220000009,
+    "prev_quest_ids": [
+      220000081
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 220000101,
+    "name": "Treasure Hunt Lv. 10",
+    "sort_order": 10,
+    "banner": 210001,
+    "stamina": 20,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000021,
+      210001190
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 302,
+    "battle_id": 220000010,
+    "prev_quest_ids": [
+      220000091
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000011,
+    "name": "Slash Ruins Lv. 1",
+    "sort_order": 1,
+    "banner": 300101,
+    "stamina": 5,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000022,
+      210000023,
+      210000002,
+      210001191
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000001,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000021,
+    "name": "Slash Ruins Lv. 2",
+    "sort_order": 2,
+    "banner": 300101,
+    "stamina": 6,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000024,
+      210000025,
+      210000026,
+      210000003,
+      210001192
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000002,
+    "prev_quest_ids": [
+      310000011
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000031,
+    "name": "Slash Ruins Lv. 3",
+    "sort_order": 3,
+    "banner": 300101,
+    "stamina": 8,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000027,
+      210000028,
+      210000029,
+      210000004,
+      210001194
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000003,
+    "prev_quest_ids": [
+      310000021
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000041,
+    "name": "Slash Ruins Lv. 4",
+    "sort_order": 4,
+    "banner": 300101,
+    "stamina": 10,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      },
+      {
+        "type": 5,
+        "id": 605001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000030,
+      210000031,
+      210000032,
+      210000033,
+      210000005,
+      210001196
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000004,
+    "prev_quest_ids": [
+      310000031
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000051,
+    "name": "Slash Ruins Lv. 5",
+    "sort_order": 5,
+    "banner": 300101,
+    "stamina": 11,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      },
+      {
+        "type": 5,
+        "id": 605001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000034,
+      210000035,
+      210000036,
+      210000037,
+      210000006,
+      210001198
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000005,
+    "prev_quest_ids": [
+      310000041
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000061,
+    "name": "Slash Ruins Lv. 6",
+    "sort_order": 6,
+    "banner": 300101,
+    "stamina": 13,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      },
+      {
+        "type": 5,
+        "id": 605001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000038,
+      210000039,
+      210000040,
+      210000041,
+      210000007,
+      210001200
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000006,
+    "prev_quest_ids": [
+      310000051
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000071,
+    "name": "Slash Ruins Lv. 7",
+    "sort_order": 7,
+    "banner": 300101,
+    "stamina": 15,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      },
+      {
+        "type": 5,
+        "id": 605001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000042,
+      210000043,
+      210000044,
+      210000045,
+      210000008,
+      210001202
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000007,
+    "prev_quest_ids": [
+      310000061
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000081,
+    "name": "Slash Ruins Lv. 8",
+    "sort_order": 8,
+    "banner": 300101,
+    "stamina": 16,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      },
+      {
+        "type": 5,
+        "id": 605001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000046,
+      210000047,
+      210000048,
+      210000049,
+      210000009,
+      210001204
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000008,
+    "prev_quest_ids": [
+      310000071
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000091,
+    "name": "Slash Ruins Lv. 9",
+    "sort_order": 9,
+    "banner": 300101,
+    "stamina": 18,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      },
+      {
+        "type": 5,
+        "id": 605001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000050,
+      210000051,
+      210000052,
+      210000053,
+      210000010,
+      210001205
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000009,
+    "prev_quest_ids": [
+      310000081
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000101,
+    "name": "Slash Ruins Lv. 10",
+    "sort_order": 10,
+    "banner": 300101,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      },
+      {
+        "type": 5,
+        "id": 605001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000054,
+      210000055,
+      210000056,
+      210000057,
+      210000011,
+      210001207
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000010,
+    "prev_quest_ids": [
+      310000091
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000111,
+    "name": "Slash Ruins Lv. 11",
+    "sort_order": 11,
+    "banner": 300101,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      },
+      {
+        "type": 5,
+        "id": 605001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000285,
+      210000286,
+      210000287,
+      210000288,
+      210000282,
+      210001208
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000011,
+    "prev_quest_ids": [
+      310000101
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000121,
+    "name": "Slash Ruins Lv. 12",
+    "sort_order": 12,
+    "banner": 300101,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      },
+      {
+        "type": 5,
+        "id": 605001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000289,
+      210000290,
+      210000291,
+      210000292,
+      210000283,
+      210001209
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000012,
+    "prev_quest_ids": [
+      310000111
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 310000131,
+    "name": "Slash Ruins Lv. 13",
+    "sort_order": 13,
+    "banner": 300101,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 603001
+      },
+      {
+        "type": 5,
+        "id": 604001
+      },
+      {
+        "type": 5,
+        "id": 605001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000293,
+      210000294,
+      210000295,
+      210000296,
+      210000284,
+      210001210
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 401,
+    "battle_id": 310000013,
+    "prev_quest_ids": [
+      310000121
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000011,
+    "name": "Blunt Ruins Lv. 1",
+    "sort_order": 1,
+    "banner": 300201,
+    "stamina": 5,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000058,
+      210000059,
+      210000002,
+      210001191
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000001,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000021,
+    "name": "Blunt Ruins Lv. 2",
+    "sort_order": 2,
+    "banner": 300201,
+    "stamina": 6,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000060,
+      210000061,
+      210000062,
+      210000003,
+      210001192
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000002,
+    "prev_quest_ids": [
+      320000011
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000031,
+    "name": "Blunt Ruins Lv. 3",
+    "sort_order": 3,
+    "banner": 300201,
+    "stamina": 8,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000063,
+      210000064,
+      210000065,
+      210000004,
+      210001194
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000003,
+    "prev_quest_ids": [
+      320000021
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000041,
+    "name": "Blunt Ruins Lv. 4",
+    "sort_order": 4,
+    "banner": 300201,
+    "stamina": 10,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      },
+      {
+        "type": 5,
+        "id": 615001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000066,
+      210000067,
+      210000068,
+      210000069,
+      210000005,
+      210001196
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000004,
+    "prev_quest_ids": [
+      320000031
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000051,
+    "name": "Blunt Ruins Lv. 5",
+    "sort_order": 5,
+    "banner": 300201,
+    "stamina": 11,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      },
+      {
+        "type": 5,
+        "id": 615001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000070,
+      210000071,
+      210000072,
+      210000073,
+      210000006,
+      210001198
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000005,
+    "prev_quest_ids": [
+      320000041
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000061,
+    "name": "Blunt Ruins Lv. 6",
+    "sort_order": 6,
+    "banner": 300201,
+    "stamina": 13,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      },
+      {
+        "type": 5,
+        "id": 615001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000074,
+      210000075,
+      210000076,
+      210000077,
+      210000007,
+      210001200
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000006,
+    "prev_quest_ids": [
+      320000051
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000071,
+    "name": "Blunt Ruins Lv. 7",
+    "sort_order": 7,
+    "banner": 300201,
+    "stamina": 15,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      },
+      {
+        "type": 5,
+        "id": 615001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000078,
+      210000079,
+      210000080,
+      210000081,
+      210000008,
+      210001202
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000007,
+    "prev_quest_ids": [
+      320000061
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000081,
+    "name": "Blunt Ruins Lv. 8",
+    "sort_order": 8,
+    "banner": 300201,
+    "stamina": 16,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      },
+      {
+        "type": 5,
+        "id": 615001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000082,
+      210000083,
+      210000084,
+      210000085,
+      210000009,
+      210001204
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000008,
+    "prev_quest_ids": [
+      320000071
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000091,
+    "name": "Blunt Ruins Lv. 9",
+    "sort_order": 9,
+    "banner": 300201,
+    "stamina": 18,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      },
+      {
+        "type": 5,
+        "id": 615001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000086,
+      210000087,
+      210000088,
+      210000089,
+      210000010,
+      210001205
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000009,
+    "prev_quest_ids": [
+      320000081
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000101,
+    "name": "Blunt Ruins Lv. 10",
+    "sort_order": 10,
+    "banner": 300201,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      },
+      {
+        "type": 5,
+        "id": 615001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000090,
+      210000091,
+      210000092,
+      210000093,
+      210000011,
+      210001207
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000010,
+    "prev_quest_ids": [
+      320000091
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000111,
+    "name": "Blunt Ruins Lv. 11",
+    "sort_order": 11,
+    "banner": 300201,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      },
+      {
+        "type": 5,
+        "id": 615001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000297,
+      210000298,
+      210000299,
+      210000300,
+      210000282,
+      210001208
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000011,
+    "prev_quest_ids": [
+      320000101
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000121,
+    "name": "Blunt Ruins Lv. 12",
+    "sort_order": 12,
+    "banner": 300201,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      },
+      {
+        "type": 5,
+        "id": 615001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000301,
+      210000302,
+      210000303,
+      210000304,
+      210000283,
+      210001209
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000012,
+    "prev_quest_ids": [
+      320000111
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 320000131,
+    "name": "Blunt Ruins Lv. 13",
+    "sort_order": 13,
+    "banner": 300201,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 613001
+      },
+      {
+        "type": 5,
+        "id": 614001
+      },
+      {
+        "type": 5,
+        "id": 615001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000305,
+      210000306,
+      210000307,
+      210000308,
+      210000284,
+      210001210
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 402,
+    "battle_id": 320000013,
+    "prev_quest_ids": [
+      320000121
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000011,
+    "name": "Pierce Ruins Lv. 1",
+    "sort_order": 1,
+    "banner": 300301,
+    "stamina": 5,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000094,
+      210000095,
+      210000002,
+      210001191
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000001,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000021,
+    "name": "Pierce Ruins Lv. 2",
+    "sort_order": 2,
+    "banner": 300301,
+    "stamina": 6,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000096,
+      210000097,
+      210000098,
+      210000003,
+      210001192
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000002,
+    "prev_quest_ids": [
+      330000011
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000031,
+    "name": "Pierce Ruins Lv. 3",
+    "sort_order": 3,
+    "banner": 300301,
+    "stamina": 8,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000099,
+      210000100,
+      210000101,
+      210000004,
+      210001194
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000003,
+    "prev_quest_ids": [
+      330000021
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000041,
+    "name": "Pierce Ruins Lv. 4",
+    "sort_order": 4,
+    "banner": 300301,
+    "stamina": 10,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      },
+      {
+        "type": 5,
+        "id": 625001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000102,
+      210000103,
+      210000104,
+      210000105,
+      210000005,
+      210001196
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000004,
+    "prev_quest_ids": [
+      330000031
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000051,
+    "name": "Pierce Ruins Lv. 5",
+    "sort_order": 5,
+    "banner": 300301,
+    "stamina": 11,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      },
+      {
+        "type": 5,
+        "id": 625001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000106,
+      210000107,
+      210000108,
+      210000109,
+      210000006,
+      210001198
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000005,
+    "prev_quest_ids": [
+      330000041
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000061,
+    "name": "Pierce Ruins Lv. 6",
+    "sort_order": 6,
+    "banner": 300301,
+    "stamina": 13,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      },
+      {
+        "type": 5,
+        "id": 625001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000110,
+      210000111,
+      210000112,
+      210000113,
+      210000007,
+      210001200
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000006,
+    "prev_quest_ids": [
+      330000051
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000071,
+    "name": "Pierce Ruins Lv. 7",
+    "sort_order": 7,
+    "banner": 300301,
+    "stamina": 15,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      },
+      {
+        "type": 5,
+        "id": 625001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000114,
+      210000115,
+      210000116,
+      210000117,
+      210000008,
+      210001202
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000007,
+    "prev_quest_ids": [
+      330000061
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000081,
+    "name": "Pierce Ruins Lv. 8",
+    "sort_order": 8,
+    "banner": 300301,
+    "stamina": 16,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      },
+      {
+        "type": 5,
+        "id": 625001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000118,
+      210000119,
+      210000120,
+      210000121,
+      210000009,
+      210001204
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000008,
+    "prev_quest_ids": [
+      330000071
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000091,
+    "name": "Pierce Ruins Lv. 9",
+    "sort_order": 9,
+    "banner": 300301,
+    "stamina": 18,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      },
+      {
+        "type": 5,
+        "id": 625001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000122,
+      210000123,
+      210000124,
+      210000125,
+      210000010,
+      210001205
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000009,
+    "prev_quest_ids": [
+      330000081
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000101,
+    "name": "Pierce Ruins Lv. 10",
+    "sort_order": 10,
+    "banner": 300301,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      },
+      {
+        "type": 5,
+        "id": 625001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000126,
+      210000127,
+      210000128,
+      210000129,
+      210000011,
+      210001207
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000010,
+    "prev_quest_ids": [
+      330000091
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000111,
+    "name": "Pierce Ruins Lv. 11",
+    "sort_order": 11,
+    "banner": 300301,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      },
+      {
+        "type": 5,
+        "id": 625001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000309,
+      210000310,
+      210000311,
+      210000312,
+      210000282,
+      210001208
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000011,
+    "prev_quest_ids": [
+      330000101
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000121,
+    "name": "Pierce Ruins Lv. 12",
+    "sort_order": 12,
+    "banner": 300301,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      },
+      {
+        "type": 5,
+        "id": 625001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000313,
+      210000314,
+      210000315,
+      210000316,
+      210000283,
+      210001209
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000012,
+    "prev_quest_ids": [
+      330000111
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 330000131,
+    "name": "Pierce Ruins Lv. 13",
+    "sort_order": 13,
+    "banner": 300301,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 623001
+      },
+      {
+        "type": 5,
+        "id": 624001
+      },
+      {
+        "type": 5,
+        "id": 625001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000317,
+      210000318,
+      210000319,
+      210000320,
+      210000284,
+      210001210
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 403,
+    "battle_id": 330000013,
+    "prev_quest_ids": [
+      330000121
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000011,
+    "name": "Staff Ruins Lv. 1",
+    "sort_order": 1,
+    "banner": 300401,
+    "stamina": 5,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000130,
+      210000131,
+      210000002,
+      210001191
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000001,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000021,
+    "name": "Staff Ruins Lv. 2",
+    "sort_order": 2,
+    "banner": 300401,
+    "stamina": 6,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000132,
+      210000133,
+      210000134,
+      210000003,
+      210001192
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000002,
+    "prev_quest_ids": [
+      340000011
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000031,
+    "name": "Staff Ruins Lv. 3",
+    "sort_order": 3,
+    "banner": 300401,
+    "stamina": 8,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000135,
+      210000136,
+      210000137,
+      210000004,
+      210001194
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000003,
+    "prev_quest_ids": [
+      340000021
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000041,
+    "name": "Staff Ruins Lv. 4",
+    "sort_order": 4,
+    "banner": 300401,
+    "stamina": 10,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      },
+      {
+        "type": 5,
+        "id": 635001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000138,
+      210000139,
+      210000140,
+      210000141,
+      210000005,
+      210001196
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000004,
+    "prev_quest_ids": [
+      340000031
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000051,
+    "name": "Staff Ruins Lv. 5",
+    "sort_order": 5,
+    "banner": 300401,
+    "stamina": 11,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      },
+      {
+        "type": 5,
+        "id": 635001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000142,
+      210000143,
+      210000144,
+      210000145,
+      210000006,
+      210001198
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000005,
+    "prev_quest_ids": [
+      340000041
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000061,
+    "name": "Staff Ruins Lv. 6",
+    "sort_order": 6,
+    "banner": 300401,
+    "stamina": 13,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      },
+      {
+        "type": 5,
+        "id": 635001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000146,
+      210000147,
+      210000148,
+      210000149,
+      210000007,
+      210001200
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000006,
+    "prev_quest_ids": [
+      340000051
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000071,
+    "name": "Staff Ruins Lv. 7",
+    "sort_order": 7,
+    "banner": 300401,
+    "stamina": 15,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      },
+      {
+        "type": 5,
+        "id": 635001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000150,
+      210000151,
+      210000152,
+      210000153,
+      210000008,
+      210001202
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000007,
+    "prev_quest_ids": [
+      340000061
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000081,
+    "name": "Staff Ruins Lv. 8",
+    "sort_order": 8,
+    "banner": 300401,
+    "stamina": 16,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      },
+      {
+        "type": 5,
+        "id": 635001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000154,
+      210000155,
+      210000156,
+      210000157,
+      210000009,
+      210001204
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000008,
+    "prev_quest_ids": [
+      340000071
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000091,
+    "name": "Staff Ruins Lv. 9",
+    "sort_order": 9,
+    "banner": 300401,
+    "stamina": 18,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      },
+      {
+        "type": 5,
+        "id": 635001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000158,
+      210000159,
+      210000160,
+      210000161,
+      210000010,
+      210001205
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000009,
+    "prev_quest_ids": [
+      340000081
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000101,
+    "name": "Staff Ruins Lv. 10",
+    "sort_order": 10,
+    "banner": 300401,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      },
+      {
+        "type": 5,
+        "id": 635001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000162,
+      210000163,
+      210000164,
+      210000165,
+      210000011,
+      210001207
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000010,
+    "prev_quest_ids": [
+      340000091
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000111,
+    "name": "Staff Ruins Lv. 11",
+    "sort_order": 11,
+    "banner": 300401,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      },
+      {
+        "type": 5,
+        "id": 635001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000321,
+      210000322,
+      210000323,
+      210000324,
+      210000282,
+      210001208
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000011,
+    "prev_quest_ids": [
+      340000101
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000121,
+    "name": "Staff Ruins Lv. 12",
+    "sort_order": 12,
+    "banner": 300401,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      },
+      {
+        "type": 5,
+        "id": 635001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000325,
+      210000326,
+      210000327,
+      210000328,
+      210000283,
+      210001209
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000012,
+    "prev_quest_ids": [
+      340000111
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 340000131,
+    "name": "Staff Ruins Lv. 13",
+    "sort_order": 13,
+    "banner": 300401,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 633001
+      },
+      {
+        "type": 5,
+        "id": 634001
+      },
+      {
+        "type": 5,
+        "id": 635001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000329,
+      210000330,
+      210000331,
+      210000332,
+      210000284,
+      210001210
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 404,
+    "battle_id": 340000013,
+    "prev_quest_ids": [
+      340000121
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000011,
+    "name": "Armor Ruins Lv. 1",
+    "sort_order": 1,
+    "banner": 300501,
+    "stamina": 5,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000166,
+      210000167,
+      210000002,
+      210001191
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000001,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000021,
+    "name": "Armor Ruins Lv. 2",
+    "sort_order": 2,
+    "banner": 300501,
+    "stamina": 6,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000168,
+      210000169,
+      210000170,
+      210000003,
+      210001192
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000002,
+    "prev_quest_ids": [
+      350000011
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000031,
+    "name": "Armor Ruins Lv. 3",
+    "sort_order": 3,
+    "banner": 300501,
+    "stamina": 8,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000171,
+      210000172,
+      210000173,
+      210000004,
+      210001194
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000003,
+    "prev_quest_ids": [
+      350000021
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000041,
+    "name": "Armor Ruins Lv. 4",
+    "sort_order": 4,
+    "banner": 300501,
+    "stamina": 10,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      },
+      {
+        "type": 5,
+        "id": 645001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000174,
+      210000175,
+      210000176,
+      210000177,
+      210000005,
+      210001196
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000004,
+    "prev_quest_ids": [
+      350000031
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000051,
+    "name": "Armor Ruins Lv. 5",
+    "sort_order": 5,
+    "banner": 300501,
+    "stamina": 11,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      },
+      {
+        "type": 5,
+        "id": 645001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000178,
+      210000179,
+      210000180,
+      210000181,
+      210000006,
+      210001198
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000005,
+    "prev_quest_ids": [
+      350000041
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000061,
+    "name": "Armor Ruins Lv. 6",
+    "sort_order": 6,
+    "banner": 300501,
+    "stamina": 13,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      },
+      {
+        "type": 5,
+        "id": 645001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000182,
+      210000183,
+      210000184,
+      210000185,
+      210000007,
+      210001200
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000006,
+    "prev_quest_ids": [
+      350000051
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000071,
+    "name": "Armor Ruins Lv. 7",
+    "sort_order": 7,
+    "banner": 300501,
+    "stamina": 15,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      },
+      {
+        "type": 5,
+        "id": 645001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000186,
+      210000187,
+      210000188,
+      210000189,
+      210000008,
+      210001202
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000007,
+    "prev_quest_ids": [
+      350000061
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000081,
+    "name": "Armor Ruins Lv. 8",
+    "sort_order": 8,
+    "banner": 300501,
+    "stamina": 16,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      },
+      {
+        "type": 5,
+        "id": 645001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000190,
+      210000191,
+      210000192,
+      210000193,
+      210000009,
+      210001204
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000008,
+    "prev_quest_ids": [
+      350000071
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000091,
+    "name": "Armor Ruins Lv. 9",
+    "sort_order": 9,
+    "banner": 300501,
+    "stamina": 18,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      },
+      {
+        "type": 5,
+        "id": 645001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000194,
+      210000195,
+      210000196,
+      210000197,
+      210000010,
+      210001205
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000009,
+    "prev_quest_ids": [
+      350000081
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000101,
+    "name": "Armor Ruins Lv. 10",
+    "sort_order": 10,
+    "banner": 300501,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      },
+      {
+        "type": 5,
+        "id": 645001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000198,
+      210000199,
+      210000200,
+      210000201,
+      210000011,
+      210001207
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000010,
+    "prev_quest_ids": [
+      350000091
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000111,
+    "name": "Armor Ruins Lv. 11",
+    "sort_order": 11,
+    "banner": 300501,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      },
+      {
+        "type": 5,
+        "id": 645001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000333,
+      210000334,
+      210000335,
+      210000336,
+      210000282,
+      210001208
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000011,
+    "prev_quest_ids": [
+      350000101
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000121,
+    "name": "Armor Ruins Lv. 12",
+    "sort_order": 12,
+    "banner": 300501,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      },
+      {
+        "type": 5,
+        "id": 645001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000337,
+      210000338,
+      210000339,
+      210000340,
+      210000283,
+      210001209
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000012,
+    "prev_quest_ids": [
+      350000111
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 350000131,
+    "name": "Armor Ruins Lv. 13",
+    "sort_order": 13,
+    "banner": 300501,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 643001
+      },
+      {
+        "type": 5,
+        "id": 644001
+      },
+      {
+        "type": 5,
+        "id": 645001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000341,
+      210000342,
+      210000343,
+      210000344,
+      210000284,
+      210001210
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 405,
+    "battle_id": 350000013,
+    "prev_quest_ids": [
+      350000121
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000011,
+    "name": "Gear Ruins Lv. 1",
+    "sort_order": 1,
+    "banner": 300601,
+    "stamina": 5,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000202,
+      210000203,
+      210000002,
+      210001191
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000001,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000021,
+    "name": "Gear Ruins Lv. 2",
+    "sort_order": 2,
+    "banner": 300601,
+    "stamina": 6,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000204,
+      210000205,
+      210000206,
+      210000003,
+      210001192
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000002,
+    "prev_quest_ids": [
+      360000011
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000031,
+    "name": "Gear Ruins Lv. 3",
+    "sort_order": 3,
+    "banner": 300601,
+    "stamina": 8,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000207,
+      210000208,
+      210000209,
+      210000004,
+      210001194
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000003,
+    "prev_quest_ids": [
+      360000021
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000041,
+    "name": "Gear Ruins Lv. 4",
+    "sort_order": 4,
+    "banner": 300601,
+    "stamina": 10,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      },
+      {
+        "type": 5,
+        "id": 655001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000210,
+      210000211,
+      210000212,
+      210000213,
+      210000005,
+      210001196
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000004,
+    "prev_quest_ids": [
+      360000031
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000051,
+    "name": "Gear Ruins Lv. 5",
+    "sort_order": 5,
+    "banner": 300601,
+    "stamina": 11,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      },
+      {
+        "type": 5,
+        "id": 655001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000214,
+      210000215,
+      210000216,
+      210000217,
+      210000006,
+      210001198
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000005,
+    "prev_quest_ids": [
+      360000041
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000061,
+    "name": "Gear Ruins Lv. 6",
+    "sort_order": 6,
+    "banner": 300601,
+    "stamina": 13,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      },
+      {
+        "type": 5,
+        "id": 655001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000218,
+      210000219,
+      210000220,
+      210000221,
+      210000007,
+      210001200
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000006,
+    "prev_quest_ids": [
+      360000051
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000071,
+    "name": "Gear Ruins Lv. 7",
+    "sort_order": 7,
+    "banner": 300601,
+    "stamina": 15,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      },
+      {
+        "type": 5,
+        "id": 655001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000222,
+      210000223,
+      210000224,
+      210000225,
+      210000008,
+      210001202
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000007,
+    "prev_quest_ids": [
+      360000061
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000081,
+    "name": "Gear Ruins Lv. 8",
+    "sort_order": 8,
+    "banner": 300601,
+    "stamina": 16,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      },
+      {
+        "type": 5,
+        "id": 655001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000226,
+      210000227,
+      210000228,
+      210000229,
+      210000009,
+      210001204
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000008,
+    "prev_quest_ids": [
+      360000071
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000091,
+    "name": "Gear Ruins Lv. 9",
+    "sort_order": 9,
+    "banner": 300601,
+    "stamina": 18,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      },
+      {
+        "type": 5,
+        "id": 655001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000230,
+      210000231,
+      210000232,
+      210000233,
+      210000010,
+      210001205
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000009,
+    "prev_quest_ids": [
+      360000081
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000101,
+    "name": "Gear Ruins Lv. 10",
+    "sort_order": 10,
+    "banner": 300601,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      },
+      {
+        "type": 5,
+        "id": 655001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000234,
+      210000235,
+      210000236,
+      210000237,
+      210000011,
+      210001207
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000010,
+    "prev_quest_ids": [
+      360000091
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000111,
+    "name": "Gear Ruins Lv. 11",
+    "sort_order": 11,
+    "banner": 300601,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      },
+      {
+        "type": 5,
+        "id": 655001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000345,
+      210000346,
+      210000347,
+      210000348,
+      210000282,
+      210001208
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000011,
+    "prev_quest_ids": [
+      360000101
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000121,
+    "name": "Gear Ruins Lv. 12",
+    "sort_order": 12,
+    "banner": 300601,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      },
+      {
+        "type": 5,
+        "id": 655001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000349,
+      210000350,
+      210000351,
+      210000352,
+      210000283,
+      210001209
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000012,
+    "prev_quest_ids": [
+      360000111
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 360000131,
+    "name": "Gear Ruins Lv. 13",
+    "sort_order": 13,
+    "banner": 300601,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 653001
+      },
+      {
+        "type": 5,
+        "id": 654001
+      },
+      {
+        "type": 5,
+        "id": 655001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000353,
+      210000354,
+      210000355,
+      210000356,
+      210000284,
+      210001210
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 406,
+    "battle_id": 360000013,
+    "prev_quest_ids": [
+      360000121
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000011,
+    "name": "Iron Ruins Lv. 1",
+    "sort_order": 1,
+    "banner": 300701,
+    "stamina": 5,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000238,
+      210000239,
+      210000002,
+      210001191
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000001,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000021,
+    "name": "Iron Ruins Lv. 2",
+    "sort_order": 2,
+    "banner": 300701,
+    "stamina": 6,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000240,
+      210000241,
+      210000242,
+      210000003,
+      210001192
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000002,
+    "prev_quest_ids": [
+      370000011
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000031,
+    "name": "Iron Ruins Lv. 3",
+    "sort_order": 3,
+    "banner": 300701,
+    "stamina": 8,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000243,
+      210000244,
+      210000245,
+      210000004,
+      210001194
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000003,
+    "prev_quest_ids": [
+      370000021
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000041,
+    "name": "Iron Ruins Lv. 4",
+    "sort_order": 4,
+    "banner": 300701,
+    "stamina": 10,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      },
+      {
+        "type": 5,
+        "id": 665001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000246,
+      210000247,
+      210000248,
+      210000249,
+      210000005,
+      210001196
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000004,
+    "prev_quest_ids": [
+      370000031
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000051,
+    "name": "Iron Ruins Lv. 5",
+    "sort_order": 5,
+    "banner": 300701,
+    "stamina": 11,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      },
+      {
+        "type": 5,
+        "id": 665001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000250,
+      210000251,
+      210000252,
+      210000253,
+      210000006,
+      210001198
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000005,
+    "prev_quest_ids": [
+      370000041
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000061,
+    "name": "Iron Ruins Lv. 6",
+    "sort_order": 6,
+    "banner": 300701,
+    "stamina": 13,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      },
+      {
+        "type": 5,
+        "id": 665001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000254,
+      210000255,
+      210000256,
+      210000257,
+      210000007,
+      210001200
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000006,
+    "prev_quest_ids": [
+      370000051
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000071,
+    "name": "Iron Ruins Lv. 7",
+    "sort_order": 7,
+    "banner": 300701,
+    "stamina": 15,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      },
+      {
+        "type": 5,
+        "id": 665001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000258,
+      210000259,
+      210000260,
+      210000261,
+      210000008,
+      210001202
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000007,
+    "prev_quest_ids": [
+      370000061
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000081,
+    "name": "Iron Ruins Lv. 8",
+    "sort_order": 8,
+    "banner": 300701,
+    "stamina": 16,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      },
+      {
+        "type": 5,
+        "id": 665001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000262,
+      210000263,
+      210000264,
+      210000265,
+      210000009,
+      210001204
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000008,
+    "prev_quest_ids": [
+      370000071
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000091,
+    "name": "Iron Ruins Lv. 9",
+    "sort_order": 9,
+    "banner": 300701,
+    "stamina": 18,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      },
+      {
+        "type": 5,
+        "id": 665001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000266,
+      210000267,
+      210000268,
+      210000269,
+      210000010,
+      210001205
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000009,
+    "prev_quest_ids": [
+      370000081
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000101,
+    "name": "Iron Ruins Lv. 10",
+    "sort_order": 10,
+    "banner": 300701,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      },
+      {
+        "type": 5,
+        "id": 665001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000270,
+      210000271,
+      210000272,
+      210000273,
+      210000011,
+      210001207
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000010,
+    "prev_quest_ids": [
+      370000091
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000111,
+    "name": "Iron Ruins Lv. 11",
+    "sort_order": 11,
+    "banner": 300701,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      },
+      {
+        "type": 5,
+        "id": 665001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000357,
+      210000358,
+      210000359,
+      210000360,
+      210000282,
+      210001208
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000011,
+    "prev_quest_ids": [
+      370000101
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000121,
+    "name": "Iron Ruins Lv. 12",
+    "sort_order": 12,
+    "banner": 300701,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      },
+      {
+        "type": 5,
+        "id": 665001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000361,
+      210000362,
+      210000363,
+      210000364,
+      210000283,
+      210001209
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000012,
+    "prev_quest_ids": [
+      370000111
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 370000131,
+    "name": "Iron Ruins Lv. 13",
+    "sort_order": 13,
+    "banner": 300701,
+    "stamina": 22,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 5,
+        "id": 663001
+      },
+      {
+        "type": 5,
+        "id": 664001
+      },
+      {
+        "type": 5,
+        "id": 665001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000365,
+      210000366,
+      210000367,
+      210000368,
+      210000284,
+      210001210
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 407,
+    "battle_id": 370000013,
+    "prev_quest_ids": [
+      370000121
+    ],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 380000011,
+    "name": "Romancing Award Quests",
+    "sort_order": 1,
+    "banner": 930025,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810007
+      },
+      {
+        "type": 11,
+        "id": 830002
+      },
+      {
+        "type": 12,
+        "id": 840019
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000277,
+      210000278,
+      210000279,
+      210000280,
+      210000281
+    ],
+    "enemy_drop_ids": [
+      10001,
+      10002
+    ],
+    "area_id": 303,
+    "battle_id": 950003011,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 390000011,
+    "name": "Half Anniversary: Path to Victory",
+    "sort_order": 1,
+    "banner": 930037,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810006
+      },
+      {
+        "type": 11,
+        "id": 830001
+      },
+      {
+        "type": 2,
+        "id": 105001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000369,
+      210000369,
+      210000370,
+      210000371,
+      210000371,
+      210000371,
+      210000371,
+      210000371,
+      210000372,
+      210000373
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1011,
+    "battle_id": 950007001,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 391018010,
+    "name": "Half Anniversary: Yuletide Appreciation",
+    "sort_order": 1,
+    "banner": 930039,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810006
+      },
+      {
+        "type": 8,
+        "id": 810008
+      },
+      {
+        "type": 2,
+        "id": 105001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000374,
+      210000375,
+      210000376,
+      210000377,
+      210000378,
+      210000378,
+      210000379,
+      210000380,
+      210000381,
+      210000381
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1018,
+    "battle_id": 950007003,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 391019010,
+    "name": "Half Anniversary: The Final Battle",
+    "sort_order": 1,
+    "banner": 930038,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810006
+      },
+      {
+        "type": 11,
+        "id": 830001
+      },
+      {
+        "type": 12,
+        "id": 840015
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000382,
+      210000382,
+      210000383,
+      210000383,
+      210000384,
+      210000384,
+      210000385,
+      210000386,
+      210000387,
+      210000388
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1019,
+    "battle_id": 950007002,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 391034010,
+    "name": "Lucky New Year's",
+    "sort_order": 1,
+    "banner": 930042,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 2,
+        "id": 104001
+      },
+      {
+        "type": 2,
+        "id": 103001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000389,
+      210000390,
+      210000391,
+      210000392,
+      210000393
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1034,
+    "battle_id": 950011011,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 391041010,
+    "name": "Happy Valentine Carnival",
+    "sort_order": 1,
+    "banner": 930043,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 2,
+        "id": 104001
+      },
+      {
+        "type": 2,
+        "id": 103001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000713,
+      210000713,
+      210000714,
+      210000714,
+      210000715,
+      210000715,
+      210000716,
+      210000716,
+      210000717,
+      210000717
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1041,
+    "battle_id": 950013011,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 921089010,
+    "name": "1. Boots Trial - Hard",
+    "sort_order": 1,
+    "banner": 430007,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10300908,
+      10301912,
+      10301508,
+      10301708
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 312403
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 7,
+        "id": 1100330,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000727
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1089,
+    "battle_id": 980007021,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 921089020,
+    "name": "2. Boots Trial - Hard",
+    "sort_order": 2,
+    "banner": 430007,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10300909,
+      10301913,
+      10301509,
+      10301709
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 312403
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 7,
+        "id": 1100330,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000727
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1089,
+    "battle_id": 980007031,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 921089030,
+    "name": "3. Boots Trial - Hard",
+    "sort_order": 3,
+    "banner": 430007,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10300910,
+      10301914,
+      10301510,
+      10301710
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 312403
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 7,
+        "id": 1100330,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000722,
+      210000727
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1089,
+    "battle_id": 980007041,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 921090010,
+    "name": "1. Boots Trial Spree - Hard",
+    "sort_order": 1,
+    "banner": 430008,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10300908,
+      10301912,
+      10301508,
+      10301708
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 312403
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 7,
+        "id": 1100330,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000728
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1090,
+    "battle_id": 980007021,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 921090020,
+    "name": "2. Boots Trial Spree - Hard",
+    "sort_order": 2,
+    "banner": 430008,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10300909,
+      10301913,
+      10301509,
+      10301709
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 312403
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 7,
+        "id": 1100330,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000728
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1090,
+    "battle_id": 980007031,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 921090030,
+    "name": "3. Boots Trial Spree - Hard",
+    "sort_order": 3,
+    "banner": 430008,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10300910,
+      10301914,
+      10301510,
+      10301710
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 312403
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 7,
+        "id": 1100330,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000728
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1090,
+    "battle_id": 980007041,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 921091010,
+    "name": "Boots Trial - Easy",
+    "sort_order": 1,
+    "banner": 430009,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10301911,
+      10301707,
+      10301507
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 610301
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 7,
+        "id": 1100330,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000724,
+      210000724,
+      210000724,
+      210000724,
+      210000724,
+      210000724,
+      210000724,
+      210000724,
+      210000724,
+      210000724,
+      210000727
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1091,
+    "battle_id": 980007011,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 981070010,
+    "name": "1. Intensive Course - Advanced (Slash Rec.)",
+    "sort_order": 1,
+    "banner": 930047,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      11401904
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 3,
+        "id": 121102
+      },
+      {
+        "type": 8,
+        "id": 1000810004
+      },
+      {
+        "type": 12,
+        "id": 1000840006
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000720,
+      210000720,
+      210000720
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1070,
+    "battle_id": 980001011,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 981070020,
+    "name": "1. Intensive Course - Advanced (Pierce Rec.)",
+    "sort_order": 2,
+    "banner": 930047,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10402114,
+      10402114,
+      10402114
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 3,
+        "id": 121102
+      },
+      {
+        "type": 8,
+        "id": 1000810004
+      },
+      {
+        "type": 12,
+        "id": 1000840006
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000720,
+      210000720,
+      210000720
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1070,
+    "battle_id": 980002011,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 981070030,
+    "name": "2. Intensive Course - Advanced (Slash Rec.)",
+    "sort_order": 3,
+    "banner": 930047,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      11401906
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 3,
+        "id": 121102
+      },
+      {
+        "type": 8,
+        "id": 1000810004
+      },
+      {
+        "type": 12,
+        "id": 1000840006
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000720,
+      210000720,
+      210000720
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1070,
+    "battle_id": 980001021,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 981070040,
+    "name": "2. Intensive Course - Advanced (Pierce Rec.)",
+    "sort_order": 4,
+    "banner": 930047,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10402115,
+      10402115,
+      10402115
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 3,
+        "id": 121102
+      },
+      {
+        "type": 8,
+        "id": 1000810004
+      },
+      {
+        "type": 12,
+        "id": 1000840006
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000720,
+      210000720,
+      210000720
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1070,
+    "battle_id": 980002021,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 981070050,
+    "name": "3. Intensive Course - Advanced (Slash Rec.)",
+    "sort_order": 5,
+    "banner": 930047,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      11401907
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 3,
+        "id": 121102
+      },
+      {
+        "type": 8,
+        "id": 1000810004
+      },
+      {
+        "type": 12,
+        "id": 1000840006
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000720,
+      210000720,
+      210000720
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1070,
+    "battle_id": 980001031,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 981070060,
+    "name": "3. Intensive Course - Advanced (Pierce Rec.)",
+    "sort_order": 6,
+    "banner": 930047,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10402116,
+      10402116,
+      10402116
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 3,
+        "id": 121102
+      },
+      {
+        "type": 8,
+        "id": 1000810004
+      },
+      {
+        "type": 12,
+        "id": 1000840006
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000718,
+      210000720,
+      210000720,
+      210000720
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1070,
+    "battle_id": 980002031,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 981071010,
+    "name": "Intensive Course - Beginner",
+    "sort_order": 1,
+    "banner": 930048,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10200111,
+      10200111
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 3,
+        "id": 121102
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      210000721,
+      210000721,
+      210000721,
+      210000721,
+      210000721
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1071,
+    "battle_id": 980003011,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1000000001,
+    "name": "Romancing Saga Quest",
+    "sort_order": 1,
+    "banner": 901088,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 1000810005
+      },
+      {
+        "type": 12,
+        "id": 840043
+      },
+      {
+        "type": 12,
+        "id": 840042
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090363,
+      1000090361,
+      1000090360,
+      1000090362,
+      1000090359
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1,
+    "battle_id": 950010011,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1000000002,
+    "name": "Joker's Advent",
+    "sort_order": 1,
+    "banner": 1000901001,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 1000810006
+      },
+      {
+        "type": 12,
+        "id": 840102
+      },
+      {
+        "type": 12,
+        "id": 840101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090426,
+      1000090424,
+      1000090423,
+      1000090425,
+      1000090422
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 3,
+    "battle_id": 1950010001,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1000000003,
+    "name": "1st Anniversary Quest",
+    "sort_order": 1,
+    "banner": 1000901002,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840050
+      },
+      {
+        "type": 12,
+        "id": 840049
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090456,
+      1000090457,
+      1000090458,
+      1000090459,
+      1000090460
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 4,
+    "battle_id": 1950010002,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1000000004,
+    "name": "1. Boots Trial Spree - Hard",
+    "sort_order": 1,
+    "banner": 430008,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10300908,
+      10301912,
+      10301508,
+      10301708
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 312403
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 7,
+        "id": 1100330,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000728
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 5,
+    "battle_id": 980007021,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1000000005,
+    "name": "2. Boots Trial Spree - Hard",
+    "sort_order": 2,
+    "banner": 430008,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10300909,
+      10301913,
+      10301509,
+      10301709
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 312403
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 7,
+        "id": 1100330,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000728
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 5,
+    "battle_id": 980007031,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1000000006,
+    "name": "3. Boots Trial Spree - Hard",
+    "sort_order": 3,
+    "banner": 430008,
+    "stamina": 0,
+    "typical_enemy_ids": [
+      10300910,
+      10301914,
+      10301510,
+      10301710
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810019
+      },
+      {
+        "type": 12,
+        "id": 840049
+      },
+      {
+        "type": 3,
+        "id": 312403
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 7,
+        "id": 1100330,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000723,
+      210000728
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 5,
+    "battle_id": 980007041,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  }
+]

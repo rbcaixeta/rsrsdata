@@ -1,0 +1,810 @@
+[
+  {
+    "id": 410000011,
+    "quest_type": 1,
+    "name": "Zweig Battle Coliseum: Stage One",
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 410001,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "round_rewards": [
+      {
+        "round": 1,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 2,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 3,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 4,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 5,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 6,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 7,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 8,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 9,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 10,
+        "type": 7,
+        "id": 860004,
+        "quantity": 50
+      }
+    ],
+    "area_id": 503,
+    "battle_id": 410001001,
+    "scenario_id": 0,
+    "prev_quest_ids": []
+  },
+  {
+    "id": 410000012,
+    "quest_type": 1,
+    "name": "Zweig Battle Coliseum: Stage Two",
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 410001,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "round_rewards": [
+      {
+        "round": 1,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 2,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 3,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 4,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 5,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 6,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 7,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 8,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 9,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 10,
+        "type": 7,
+        "id": 860004,
+        "quantity": 50
+      }
+    ],
+    "area_id": 503,
+    "battle_id": 410001002,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      410000011
+    ]
+  },
+  {
+    "id": 410000013,
+    "quest_type": 1,
+    "name": "Zweig Battle Coliseum: Stage Three",
+    "sort_order": 3,
+    "clear_limit": 0,
+    "banner": 410001,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "round_rewards": [
+      {
+        "round": 1,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 2,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 3,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 4,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 5,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 6,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 7,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 8,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 9,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 10,
+        "type": 7,
+        "id": 860004,
+        "quantity": 50
+      }
+    ],
+    "area_id": 503,
+    "battle_id": 410001003,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      410000012
+    ]
+  },
+  {
+    "id": 410000014,
+    "quest_type": 1,
+    "name": "Zweig Battle Coliseum: Stage Four",
+    "sort_order": 4,
+    "clear_limit": 0,
+    "banner": 410001,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "round_rewards": [
+      {
+        "round": 1,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 2,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 3,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 4,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 5,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 6,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 7,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 8,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 9,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 10,
+        "type": 7,
+        "id": 860004,
+        "quantity": 50
+      }
+    ],
+    "area_id": 503,
+    "battle_id": 410001004,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      410000013
+    ]
+  },
+  {
+    "id": 410000015,
+    "quest_type": 1,
+    "name": "Zweig Battle Coliseum: Stage Five",
+    "sort_order": 5,
+    "clear_limit": 0,
+    "banner": 410001,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "round_rewards": [
+      {
+        "round": 1,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 2,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 3,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 4,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 5,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 6,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 7,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 8,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 9,
+        "type": 7,
+        "id": 860004,
+        "quantity": 20
+      },
+      {
+        "round": 10,
+        "type": 7,
+        "id": 860004,
+        "quantity": 50
+      }
+    ],
+    "area_id": 503,
+    "battle_id": 410001005,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      410000014
+    ]
+  },
+  {
+    "id": 410000016,
+    "quest_type": 1,
+    "name": "Zweig Battle Coliseum: Stage Six",
+    "sort_order": 6,
+    "clear_limit": 0,
+    "banner": 410001,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "round_rewards": [
+      {
+        "round": 1,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 2,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 3,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 4,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 5,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 6,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 7,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 8,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 9,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 10,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      }
+    ],
+    "area_id": 503,
+    "battle_id": 410001006,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      410000015
+    ]
+  },
+  {
+    "id": 410000017,
+    "quest_type": 1,
+    "name": "Zweig Battle Coliseum: Stage Seven",
+    "sort_order": 7,
+    "clear_limit": 0,
+    "banner": 410001,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "round_rewards": [
+      {
+        "round": 1,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 2,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 3,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 4,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 5,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 6,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 7,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 8,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 9,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 10,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      }
+    ],
+    "area_id": 503,
+    "battle_id": 410001007,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      410000016
+    ]
+  },
+  {
+    "id": 410000018,
+    "quest_type": 1,
+    "name": "Zweig Battle Coliseum: Stage Eight",
+    "sort_order": 8,
+    "clear_limit": 0,
+    "banner": 410001,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "round_rewards": [
+      {
+        "round": 1,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 2,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 3,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 4,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 5,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 6,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 7,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 8,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 9,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 10,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      }
+    ],
+    "area_id": 503,
+    "battle_id": 410001008,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      410000017
+    ]
+  },
+  {
+    "id": 410000019,
+    "quest_type": 1,
+    "name": "Zweig Battle Coliseum: Stage Nine",
+    "sort_order": 9,
+    "clear_limit": 0,
+    "banner": 410001,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "round_rewards": [
+      {
+        "round": 1,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 2,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 3,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 4,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 5,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 6,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 7,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 8,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 9,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 10,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      }
+    ],
+    "area_id": 503,
+    "battle_id": 410001009,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      410000018
+    ]
+  },
+  {
+    "id": 410000110,
+    "quest_type": 1,
+    "name": "Zweig Battle Coliseum: Stage Ten",
+    "sort_order": 10,
+    "clear_limit": 0,
+    "banner": 410001,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "round_rewards": [
+      {
+        "round": 1,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 2,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 3,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 4,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 5,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 6,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 7,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 8,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 9,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      },
+      {
+        "round": 10,
+        "type": 7,
+        "id": 860004,
+        "quantity": 10
+      }
+    ],
+    "area_id": 503,
+    "battle_id": 410001010,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      410000019
+    ]
+  }
+]

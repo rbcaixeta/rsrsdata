@@ -1,0 +1,4058 @@
+[
+  {
+    "id": 110101,
+    "name": "S Human Male Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Love Heights!] Human Male.",
+    "icon": 110101,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 110102,
+    "name": "SS Human Male Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Long-Awaited Rampage!] Human Male.",
+    "icon": 110102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 110201,
+    "name": "S Human Female Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Expert Climber] Human Female.",
+    "icon": 110201,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 110202,
+    "name": "SS Human Female Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Now in Color!] Human Female.",
+    "icon": 110202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 110401,
+    "name": "S Esper Girl Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I'm Not a Mage!] Esper Girl.",
+    "icon": 110401,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 110402,
+    "name": "SS Esper Girl Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Supernatural Powers!] Esper Girl.",
+    "icon": 110402,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 119101,
+    "name": "S Creator Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [You've Finally Arrived] Creator.",
+    "icon": 119101,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 119102,
+    "name": "SS Creator Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Nature of Living Beings] Creator.",
+    "icon": 119102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 120501,
+    "name": "SS Mech Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Your Best Equipment, Please] Mech.",
+    "icon": 120501,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 121101,
+    "name": "S Sensei Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Oh? Is It Time?] Sensei.",
+    "icon": 121101,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 121102,
+    "name": "SS Sensei Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Is It My Turn?] Sensei. ",
+    "icon": 121102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 121103,
+    "name": "SS Sensei Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Proper Posture Is Key!] Sensei.",
+    "icon": 121103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 121201,
+    "name": "S Father Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Thinking of My Wife] Father.",
+    "icon": 121201,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 121202,
+    "name": "SS Father Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Power of a Guardian] Father.",
+    "icon": 121202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 129201,
+    "name": "S Apollo Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [A New God] Apollo.",
+    "icon": 129201,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 129202,
+    "name": "SS Apollo Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The MAGI Unleashed] Apollo.",
+    "icon": 129202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210101,
+    "name": "S Albert Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Left-handed Warrior] Albert. ",
+    "icon": 210101,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210102,
+    "name": "SS Albert Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Legendary Knight] Albert. ",
+    "icon": 210102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210103,
+    "name": "SS Albert Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Knight of the Holy Night] Albert. ",
+    "icon": 210103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210104,
+    "name": "A Albert Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Must Grow Stronger] Albert.",
+    "icon": 210104,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 210105,
+    "name": "SS Albert Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Rewards of the Trials] Albert.",
+    "icon": 210105,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210107,
+    "name": "SS Albert Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Bear the Light of Hope] Albert.",
+    "icon": 210107,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210201,
+    "name": "A Jamil Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Thief Swift as the Wind] Jamil. ",
+    "icon": 210201,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 210202,
+    "name": "S Jamil Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Phantom Thief Strikes!] Jamil. ",
+    "icon": 210202,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210203,
+    "name": "SS Jamil Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [True King of Estamir] Jamil. ",
+    "icon": 210203,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210204,
+    "name": "SS Jamil Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Hate the Sun] Jamil.",
+    "icon": 210204,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210206,
+    "name": "SS Jamil Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [On to Bigger Things] Jamil.",
+    "icon": 210206,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210207,
+    "name": "SS Jamil Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [What a Ritzy Manor!] Jamil.",
+    "icon": 210207,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210301,
+    "name": "S Gray Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Wandering Adventurer] Gray. ",
+    "icon": 210301,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210302,
+    "name": "SS Gray Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Seeker of the Blade's Truth] Gray. ",
+    "icon": 210302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210303,
+    "name": "SS Gray Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Nothing Wrong with a Drink] Gray.",
+    "icon": 210303,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210305,
+    "name": "SS Gray Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Won't Let You Interfere] Gray.",
+    "icon": 210305,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210307,
+    "name": "SS Gray Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Want to Live Free] Gray.",
+    "icon": 210307,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210401,
+    "name": "A Hawke Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Ride the Wind!] Hawke. ",
+    "icon": 210401,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 210402,
+    "name": "S Hawke Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I'm Captain Hawke!] Hawke. ",
+    "icon": 210402,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210404,
+    "name": "SS Hawke Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Pirate's Pride] Hawke.",
+    "icon": 210404,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210406,
+    "name": "SS Hawke Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Beyond the Horizon] Hawke.",
+    "icon": 210406,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210501,
+    "name": "S Aisha Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Winter Gives Way to Spring] Aisha. ",
+    "icon": 210501,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210502,
+    "name": "SS Aisha Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Come to Me, Butterflies] Aisha. ",
+    "icon": 210502,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210503,
+    "name": "A Aisha Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Never Given Chocolates] Aisha.",
+    "icon": 210503,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 210504,
+    "name": "SS Aisha Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Yumomi Is Fun!] Aisha.",
+    "icon": 210504,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210506,
+    "name": "SS Aisha Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Road to Tribal Chief] Aisha.",
+    "icon": 210506,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210601,
+    "name": "A Claudia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Guardian of the Forest] Claudia. ",
+    "icon": 210601,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 210602,
+    "name": "S Claudia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Heartbreaker] Claudia. ",
+    "icon": 210602,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210603,
+    "name": "SS Claudia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Daughter of the Emperor] Claudia.",
+    "icon": 210603,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210604,
+    "name": "SS Claudia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Escape from Mazewood] Claudia.",
+    "icon": 210604,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210605,
+    "name": "S Claudia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Leave Mazewood] Claudia.",
+    "icon": 210605,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210606,
+    "name": "S Claudia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Just Love Yukatas!] Claudia.",
+    "icon": 210606,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210609,
+    "name": "SS Claudia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Secret Watering Hole] Claudia.",
+    "icon": 210609,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210611,
+    "name": "SS Claudia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Farewell, Mazewood!] Claudia.",
+    "icon": 210611,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210701,
+    "name": "S Barbara Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Passionate Dancer] Barbara. ",
+    "icon": 210701,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210702,
+    "name": "SS Barbara Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Catch My Rose] Barbara. ",
+    "icon": 210702,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210703,
+    "name": "A Barbara Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Leaf Dancer] Barbara. ",
+    "icon": 210703,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 210704,
+    "name": "S Barbara Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Clap to the Beat!] Barbara.",
+    "icon": 210704,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210705,
+    "name": "SS Barbara Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Care for a Dance?] Barbara.",
+    "icon": 210705,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210707,
+    "name": "SS Barbara Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Dance for Joy!] Barbara.",
+    "icon": 210707,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210801,
+    "name": "A Sif Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [You Don't Cut It] Sif. ",
+    "icon": 210801,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 210802,
+    "name": "SS Sif Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Grace of the Valhallans] Sif. ",
+    "icon": 210802,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210803,
+    "name": "S Sif Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [What's a Swimsuit?] Sif.",
+    "icon": 210803,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210804,
+    "name": "S Sif Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Valhallan Warrior] Sif. ",
+    "icon": 210804,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 210805,
+    "name": "SS Sif Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Best of the Best!] Sif. ",
+    "icon": 210805,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 210806,
+    "name": "SS Sif Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [You Look Just Like Him] Sif.",
+    "icon": 210806,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 211101,
+    "name": "A Diana Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Days Awaiting Happiness] Diana. ",
+    "icon": 211101,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 211102,
+    "name": "S Diana Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Rose Knight Rush] Diana. ",
+    "icon": 211102,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 211103,
+    "name": "S Diana Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [My Favorite Swimsuit] Diana.",
+    "icon": 211103,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 211104,
+    "name": "SS Diana Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm Forgetting Something] Diana. ",
+    "icon": 211104,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 211301,
+    "name": "SS Galahad Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Coveted Ice Sword] Galahad.",
+    "icon": 211301,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 211401,
+    "name": "S Myriam Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Fire Mage Life] Myriam. ",
+    "icon": 211401,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 211402,
+    "name": "SS Myriam Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Firestarter] Myriam. ",
+    "icon": 211402,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 211403,
+    "name": "A Myriam Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [A Dream Eater Costume] Myriam.",
+    "icon": 211403,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 211404,
+    "name": "SS Myriam Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Behold My All-Foes Magic] Myriam.",
+    "icon": 211404,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 211501,
+    "name": "A Guella Ha Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Smell Treasure] Guella Ha.",
+    "icon": 211501,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 211502,
+    "name": "S Guella Ha Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Where Shall We Go?] Guella Ha. ",
+    "icon": 211502,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 211503,
+    "name": "SS Guella Ha Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Everyone, To Arms!] Guella Ha.",
+    "icon": 211503,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 211803,
+    "name": "S Brau Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Barrel of Fun] Brau.",
+    "icon": 211803,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 212201,
+    "name": "S Butcher Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Poison or Treasure?] Butcher.",
+    "icon": 212201,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 212202,
+    "name": "A Butcher Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Call Me the Shark Slayer] Butcher.",
+    "icon": 212202,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 212203,
+    "name": "SS Butcher Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Now That's Piratin'!] Butcher.",
+    "icon": 212203,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 212401,
+    "name": "S Neidhart Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Black Prince] Neidhart. ",
+    "icon": 212401,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 212402,
+    "name": "S Neidhart Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [It's Not Much, But...] Neidhart. ",
+    "icon": 212402,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 212403,
+    "name": "SS Neidhart Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Kayakith (Black Demon)] Neidhart.",
+    "icon": 212403,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 212404,
+    "name": "SS Neidhart Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [May Elore Protect You!] Neidhart. ",
+    "icon": 212404,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 213201,
+    "name": "SS Darque Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Killer Darque] Darque.",
+    "icon": 213201,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 213202,
+    "name": "SS Darque Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Guild Master] Darque.",
+    "icon": 213202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 213203,
+    "name": "S Darque Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [My Memories] Darque.",
+    "icon": 213203,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 213802,
+    "name": "SS Silver Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Feel So Free!] Silver.",
+    "icon": 213802,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 213803,
+    "name": "SS Silver Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Silver Dragon] Silver.",
+    "icon": 213803,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 213805,
+    "name": "SS Silver Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Silver-Style Test of Guts] Silver.",
+    "icon": 213805,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 217802,
+    "name": "SS Strife Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Am Discord] Strife.",
+    "icon": 217802,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 218101,
+    "name": "S Mirsa Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Silver-Clad Warrior] Mirsa. ",
+    "icon": 218101,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 218102,
+    "name": "SS Mirsa Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Legendary Form] Mirsa. ",
+    "icon": 218102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 218103,
+    "name": "SS Mirsa Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [On the Eve of Battle] Mirsa.",
+    "icon": 218103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 219202,
+    "name": "SS Death Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Revere Death] Death.",
+    "icon": 219202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 219203,
+    "name": "S Death Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Lord of the Dead] Death.",
+    "icon": 219203,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 220101,
+    "name": "S Leon Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Who Am I?] Leon. ",
+    "icon": 220101,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 220102,
+    "name": "A Leon Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Who, If Not I?] Leon.",
+    "icon": 220102,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 220103,
+    "name": "SS Leon Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [An Emperor's Resolve] Leon.",
+    "icon": 220103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220201,
+    "name": "S Gerard Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [These Aren't Pajamas] Gerard. ",
+    "icon": 220201,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 220202,
+    "name": "SS Gerard Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Successor's Resolve] Gerard. ",
+    "icon": 220202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220203,
+    "name": "SS Gerard Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Must Pass This On] Gerard. ",
+    "icon": 220203,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220204,
+    "name": "SS Gerard Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Empire Needs Us!] Gerard.",
+    "icon": 220204,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220301,
+    "name": "SS Final Emperor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Man Burdened by Destiny] Final Emperor. ",
+    "icon": 220301,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220302,
+    "name": "SS Final Emperor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Sorry It's Not the Throne] Final Emperor. ",
+    "icon": 220302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220304,
+    "name": "S Final Emperor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [A Dance Offering] Final Emperor.",
+    "icon": 220304,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 220305,
+    "name": "SS Final Emperor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Termite Deathmatch] Final Emperor. ",
+    "icon": 220305,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220402,
+    "name": "SS Final Empress Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Tried Not to Overdress] Final Empress.",
+    "icon": 220402,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220403,
+    "name": "SS Final Empress Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Power of the Moon] Final Empress.",
+    "icon": 220403,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220404,
+    "name": "SS Final Empress Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [One Special Summer Day] Final Empress.",
+    "icon": 220404,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220501,
+    "name": "S Coppelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Liberated Automaton] Coppelia.",
+    "icon": 220501,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 220502,
+    "name": "SS Coppelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Imperial Waltz] Coppelia.",
+    "icon": 220502,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220503,
+    "name": "SS Coppelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Brass Automaton] Coppelia.",
+    "icon": 220503,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220601,
+    "name": "A Victor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Behold, Flowing Slash!] Victor. ",
+    "icon": 220601,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 220602,
+    "name": "S Victor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [You Coward!] Victor. ",
+    "icon": 220602,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 220603,
+    "name": "S Victor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [All For Tomorrow] Victor.",
+    "icon": 220603,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 220605,
+    "name": "SS Victor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Pride of Avalon] Victor.",
+    "icon": 220605,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 220701,
+    "name": "A Sekishusai Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Paving the Path] Sekishusai.",
+    "icon": 220701,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 221111,
+    "name": "A James Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Will Protect Avalon] James. ",
+    "icon": 221111,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 221211,
+    "name": "A Liza Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Don't Take Us Lightly] Liza. ",
+    "icon": 221211,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 221411,
+    "name": "A Therese Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Never Miss] Therese. ",
+    "icon": 221411,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 221412,
+    "name": "SS Therese Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Cornered Prey] Therese.",
+    "icon": 221412,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 221611,
+    "name": "A Emerald Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Fire Arts Maiden] Emerald. ",
+    "icon": 221611,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 221612,
+    "name": "SS Emerald Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Seeking Mastery of Fire] Emerald. ",
+    "icon": 221612,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 221613,
+    "name": "S Emerald Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Expect Great Things] Emerald. ",
+    "icon": 221613,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 221711,
+    "name": "SS Hector Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Selfish Merc] Hector. ",
+    "icon": 221711,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 221712,
+    "name": "SS Hector Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Picture with the Lion Mask] Hector. ",
+    "icon": 221712,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 221713,
+    "name": "SS Hector Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Hear My Song!] Hector. ",
+    "icon": 221713,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 221721,
+    "name": "A Orion Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'll Change the World] Orion. ",
+    "icon": 221721,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 221811,
+    "name": "S Andromache Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Feel My Power] Andromache. ",
+    "icon": 221811,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 221862,
+    "name": "SS Penelope Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Music Is All About Freedom] Penelope.",
+    "icon": 221862,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 222111,
+    "name": "S Wallenstein Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Will Protect the Emperor] Wallenstein. ",
+    "icon": 222111,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 222151,
+    "name": "SS Hannibal Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Soul of the Imperial Guard] Hannibal. ",
+    "icon": 222151,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 222152,
+    "name": "SS Hannibal Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Strongest Lifeguard] Hannibal.",
+    "icon": 222152,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 222211,
+    "name": "A Minerva Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Come Near at Your Peril] Minerva. ",
+    "icon": 222211,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 222311,
+    "name": "A Bear Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [You Shall Not Pass] Bear. ",
+    "icon": 222311,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 222312,
+    "name": "SS Bear Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Pride of Heavy Infantry] Bear.",
+    "icon": 222312,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 222411,
+    "name": "S Shiyuan Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Can Hold My Liquor] Shiyuan.",
+    "icon": 222411,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 222481,
+    "name": "SS Kongming Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Eight Gates Arts User] Kongming. ",
+    "icon": 222481,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 222511,
+    "name": "S Jubei Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Ready at All Times] Jubei. ",
+    "icon": 222511,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 222512,
+    "name": "SS Jubei Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [As a Levante Guard] Jubei.",
+    "icon": 222512,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 222581,
+    "name": "A Souji Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Living My One Life] Souji. ",
+    "icon": 222581,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 222611,
+    "name": "A Sharrkan Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Quench My Thirst] Sharrkan.",
+    "icon": 222611,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 222711,
+    "name": "S Jeanne Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Men, Be Gone!] Jeanne.",
+    "icon": 222711,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 223011,
+    "name": "A Nomad Fatima Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [My Bow Will Protect You!] Nomad Fatima.",
+    "icon": 223011,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 223111,
+    "name": "A Georg Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [A Holy Blade's Judgment] Georg. ",
+    "icon": 223111,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 223112,
+    "name": "SS Georg Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Burden of Royalty] Georg.",
+    "icon": 223112,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 223211,
+    "name": "SS Sophia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [May My Prayers Reach You] Sophia. ",
+    "icon": 223211,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 223212,
+    "name": "S Sophia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Attire of a Holy Knight] Sophia. ",
+    "icon": 223212,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 223213,
+    "name": "SS Sophia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Beautiful Flower] Sophia. ",
+    "icon": 223213,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 223221,
+    "name": "A Agatha Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Spells Are My True Power] Agatha. ",
+    "icon": 223221,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 223321,
+    "name": "S Mariah Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Sea Is My Friend] Mariah. ",
+    "icon": 223321,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 223322,
+    "name": "A Mariah Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Does This Uniform Suit Me?] Mariah. ",
+    "icon": 223322,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 223411,
+    "name": "A Henrique Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Merchants, Not Pirates] Henrique. ",
+    "icon": 223411,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 223511,
+    "name": "S Eirik Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Mu Are Vital] Eirik.",
+    "icon": 223511,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 223611,
+    "name": "A Karl Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Training Moves Mountains] Karl. ",
+    "icon": 223611,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 223641,
+    "name": "SS Terry Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Great Plains' Free Spirit] Terry.",
+    "icon": 223641,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 223811,
+    "name": "A Cat Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [The Night Is Our Time] Cat. ",
+    "icon": 223811,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 223812,
+    "name": "SS Cat Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [This Cat Has Claws] Cat. ",
+    "icon": 223812,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 223813,
+    "name": "S Cat Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Today's an Exception] Cat. ",
+    "icon": 223813,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 223814,
+    "name": "SS Cat Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Dressed for Summer] Cat.",
+    "icon": 223814,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 223816,
+    "name": "SS Cat Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm a Beast of Prey! Roar!] Cat.",
+    "icon": 223816,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 223911,
+    "name": "S Kelut Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [For the Frills] Kelut.",
+    "icon": 223911,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 223941,
+    "name": "SS Awe Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Salamander Pride] Awe.",
+    "icon": 223941,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 224011,
+    "name": "A Siero Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [What Are the Glasses For?] Siero. ",
+    "icon": 224011,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 224012,
+    "name": "SS Siero Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Termites Are My Mortal Enemy!] Siero. ",
+    "icon": 224012,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 224111,
+    "name": "A Thetis Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Into the Beautiful Lake] Thetis. ",
+    "icon": 224111,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 224112,
+    "name": "S Thetis Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [A Nereid's Wish] Thetis.",
+    "icon": 224112,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 224211,
+    "name": "S Windie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Sky Is My World] Windie. ",
+    "icon": 224211,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 224212,
+    "name": "A Windie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Flew Straight Over] Windie.",
+    "icon": 224212,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 224411,
+    "name": "SS Azami Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Light Armor Is Important] Azami. ",
+    "icon": 224411,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 224412,
+    "name": "A Azami Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Want a Taste of Ninjutsu?] Azami. ",
+    "icon": 224412,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 224413,
+    "name": "S Azami Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Returning Your Kindness] Azami. ",
+    "icon": 224413,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 224414,
+    "name": "SS Azami Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Water Veil Arts] Azami.",
+    "icon": 224414,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 224415,
+    "name": "SS Azami Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Look, Now I'm a Witch!] Azami.",
+    "icon": 224415,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 227103,
+    "name": "SS Orieve Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [As the Priest's Daughter] Orieve.",
+    "icon": 227103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 227301,
+    "name": "A Hiraga Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [18th Generation Genius] Hiraga.",
+    "icon": 227301,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 227401,
+    "name": "S Prince Thomas Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Heroic Prince] Prince Thomas. ",
+    "icon": 227401,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 228101,
+    "name": "A Vampire Lady Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Do I Look Human to You?] Vampire Lady. ",
+    "icon": 228101,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 228102,
+    "name": "SS Vampire Lady Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Naught But a Game] Vampire Lady.",
+    "icon": 228102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 228103,
+    "name": "SS Vampire Lady Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Blood Test!] Vampire Lady.",
+    "icon": 228103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 228104,
+    "name": "SS Vampire Lady Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Foolproof UV Protection] Vampire Lady.",
+    "icon": 228104,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 228201,
+    "name": "A Sephira Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Receive Your Judgment] Sephira. ",
+    "icon": 228201,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 228202,
+    "name": "S Sephira Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Wind Whisperer of Hope] Sephira.",
+    "icon": 228202,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 228203,
+    "name": "SS Sephira Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Faes Dress Up, Too] Sephira.",
+    "icon": 228203,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229002,
+    "name": "S Narwhal's Daughter Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Feared and Respected] Narwhal's Daughter.",
+    "icon": 229002,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 229004,
+    "name": "SS Narwhal's Daughter Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Could This Be a Dream?] Narwhal's Daughter.",
+    "icon": 229004,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229101,
+    "name": "S Wagnas Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [All Strength, No Regrets] Wagnas.",
+    "icon": 229101,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 229102,
+    "name": "SS Wagnas Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [True Hero] Wagnas.",
+    "icon": 229102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229103,
+    "name": "SS Wagnas Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [For the Nation and Its People] Wagnas.",
+    "icon": 229103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229201,
+    "name": "S Noel Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Will Defend Myself] Noel.",
+    "icon": 229201,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 229202,
+    "name": "SS Noel Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Vengeance Is Mine] Noel. ",
+    "icon": 229202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229205,
+    "name": "SS Noel Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Won't Forgive You Termites] Noel.",
+    "icon": 229205,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229301,
+    "name": "S Rocbouquet Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Hate Annoying People] Rocbouquet.",
+    "icon": 229301,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 229302,
+    "name": "SS Rocbouquet Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Watch Over Me, Brother] Rocbouquet. ",
+    "icon": 229302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229303,
+    "name": "SS Rocbouquet Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Accept My Gift?] Rocbouquet. ",
+    "icon": 229303,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229306,
+    "name": "SS Rocbouquet Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [My Dream Is...] Rocbouquet.",
+    "icon": 229306,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229307,
+    "name": "A Rocbouquet Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [It's a Daruma Celebration!] Rocbouquet.",
+    "icon": 229307,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 229309,
+    "name": "SS Rocbouquet Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Squid Sashimi Is the Best!] Rocbouquet.",
+    "icon": 229309,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229401,
+    "name": "S Subier Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Sea Is My Domain] Subier. ",
+    "icon": 229401,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 229403,
+    "name": "SS Subier Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [One Word: Sea!] Subier.",
+    "icon": 229403,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229501,
+    "name": "S Dantarg Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Grovel, Worms!] Dantarg. ",
+    "icon": 229501,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 229502,
+    "name": "SS Dantarg Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'll Crush You!] Dantarg. ",
+    "icon": 229502,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229601,
+    "name": "S Bokhohn Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Please, Forgive Me!] Bokhohn. ",
+    "icon": 229601,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 229602,
+    "name": "SS Bokhohn Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [You've Made a Huge Mistake] Bokhohn. ",
+    "icon": 229602,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 229701,
+    "name": "S Kzinssie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I AM Kzinssie] Kzinssie.",
+    "icon": 229701,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 229702,
+    "name": "SS Kzinssie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Generous Hero] Kzinssie.",
+    "icon": 229702,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230101,
+    "name": "A Julian Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'll Defend Sinon] Julian. ",
+    "icon": 230101,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 230102,
+    "name": "S Julian Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Say Hi to My Fist] Julian. ",
+    "icon": 230102,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 230103,
+    "name": "SS Julian Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Let's Pretend Tonight] Julian.",
+    "icon": 230103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230104,
+    "name": "A Julian Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [For You and You Alone] Julian. ",
+    "icon": 230104,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 230105,
+    "name": "SS Julian Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Am Pumped!] Julian.",
+    "icon": 230105,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230106,
+    "name": "SSユリアンのピース",
+    "flavor_text": "SS[冬が来る前に]ユリアン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 230106,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230201,
+    "name": "A Thomas Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [The Bent Family Name] Thomas. ",
+    "icon": 230201,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 230202,
+    "name": "SS Thomas Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [For Loanne] Thomas. ",
+    "icon": 230202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230203,
+    "name": "SS Thomas Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [You Should Also Read Books] Thomas.",
+    "icon": 230203,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230204,
+    "name": "SSトーマスのピース",
+    "flavor_text": "SS[真価が試される時]トーマス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 230204,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230301,
+    "name": "A Mikhail Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Marquis of Loanne] Mikhail. ",
+    "icon": 230301,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 230302,
+    "name": "SS Mikhail Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Will Protect My Kingdom] Mikhail. ",
+    "icon": 230302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230303,
+    "name": "SS Mikhail Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Beautiful... Dress, I Mean] Mikhail.",
+    "icon": 230303,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230304,
+    "name": "S Mikhail Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I, Too, Have Ambitions] Mikhail.",
+    "icon": 230304,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 230305,
+    "name": "A Mikhail Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Proof of Trust] Mikhail.",
+    "icon": 230305,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 230401,
+    "name": "S Khalid Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Tornado] Khalid.",
+    "icon": 230401,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 230402,
+    "name": "SS Khalid Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Am the Tornado] Khalid.",
+    "icon": 230402,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230403,
+    "name": "SS Khalid Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [No Chasing Pipe Dreams] Khalid.",
+    "icon": 230403,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230404,
+    "name": "A Khalid Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [A Hopeful Feeling] Khalid.",
+    "icon": 230404,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 230405,
+    "name": "SS Khalid Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The True Khamsin] Khalid. ",
+    "icon": 230405,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230501,
+    "name": "SS Sarah Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Child of Destiny] Sarah.",
+    "icon": 230501,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230502,
+    "name": "SS Sarah Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Like This Alone Time] Sarah.",
+    "icon": 230502,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230503,
+    "name": "S Sarah Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [May This Be of Comfort!] Sarah.",
+    "icon": 230503,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 230504,
+    "name": "SSサラのピース",
+    "flavor_text": "SS[みんなの心を合わせて]サラ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 230504,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230601,
+    "name": "SS Ellen Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [You Stay Quiet!] Ellen. ",
+    "icon": 230601,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230602,
+    "name": "S Ellen Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Nothing Like a Good Axe] Ellen. ",
+    "icon": 230602,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 230603,
+    "name": "S Ellen Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Don't Make Me Wear This] Ellen. ",
+    "icon": 230603,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 230605,
+    "name": "SS Ellen Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [This Pack Is Heavy] Ellen.",
+    "icon": 230605,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230607,
+    "name": "SS Ellen Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Before the Abyss Gate] Ellen.",
+    "icon": 230607,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230608,
+    "name": "SS Ellen Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Do I Stand Out?] Ellen.",
+    "icon": 230608,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230609,
+    "name": "Sエレンのピース",
+    "flavor_text": "S[軽量化してみたの]エレン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 230609,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 230701,
+    "name": "S Monika Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Sister of the Marquis] Monika. ",
+    "icon": 230701,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 230702,
+    "name": "SS Monika Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Hi There, I'm Monika] Monika. ",
+    "icon": 230702,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230703,
+    "name": "SS Monika Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Don't Tell My Brother] Monika. ",
+    "icon": 230703,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230706,
+    "name": "SS Monika Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm Grateful to Everyone] Monika.",
+    "icon": 230706,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230708,
+    "name": "SS Monika Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Free as a Bird] Monika.",
+    "icon": 230708,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230801,
+    "name": "S Katarina Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Masquerade] Katarina. ",
+    "icon": 230801,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 230802,
+    "name": "SS Katarina Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Leave This to Me!] Katarina. ",
+    "icon": 230802,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230803,
+    "name": "SS Katarina Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Here's to a New Year] Katarina.",
+    "icon": 230803,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230806,
+    "name": "SS Katarina Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Real Reason] Katarina.",
+    "icon": 230806,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230807,
+    "name": "SS Katarina Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Awaken!] Katarina.",
+    "icon": 230807,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 230808,
+    "name": "Aカタリナのピース",
+    "flavor_text": "A[さすらいの剣士]カタリナ専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 230808,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 231101,
+    "name": "A Tatyana Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [The Name's Santa] Tatyana. ",
+    "icon": 231101,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 231102,
+    "name": "S Tatyana Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Will I Make Friends?] Tatyana. ",
+    "icon": 231102,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 231103,
+    "name": "SS Tatyana Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Call Me Candy] Tatyana.",
+    "icon": 231103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 231105,
+    "name": "SS Tatyana Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Not Unlucky At All] Tatyana.",
+    "icon": 231105,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 231301,
+    "name": "A Muse Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Beautiful Blossom of Hope] Muse. ",
+    "icon": 231301,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 231302,
+    "name": "SS Muse Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Prayer-Filled Days] Muse.",
+    "icon": 231302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 231401,
+    "name": "S Charl Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Silver Glove Inheritor] Charl. ",
+    "icon": 231401,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 231402,
+    "name": "SS Charl Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Shucho Arts User] Charl. ",
+    "icon": 231402,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 231403,
+    "name": "SS Charl Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Protector of Muse] Charl. ",
+    "icon": 231403,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 231501,
+    "name": "A Nora Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Can Enhance Your Weapon!] Nora. ",
+    "icon": 231501,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 231502,
+    "name": "S Nora Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Swing That Hammer] Nora.",
+    "icon": 231502,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 231503,
+    "name": "SS Nora Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Time for a Warmup] Nora.",
+    "icon": 231503,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 231602,
+    "name": "SS少年のピース",
+    "flavor_text": "SS[もう一つの宿命]少年専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 231602,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 231701,
+    "name": "A Robin Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Am Robin the Crusader!] Robin. ",
+    "icon": 231701,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 231702,
+    "name": "S Robin Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [No Evil Will Go Unpunished!] Robin. ",
+    "icon": 231702,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 231703,
+    "name": "A Robin Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [The Reason for the Mask] Robin.",
+    "icon": 231703,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 231704,
+    "name": "SS Robin Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Can't Reveal My Identity] Robin.",
+    "icon": 231704,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 231801,
+    "name": "A Robin (Fake) Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'm the Real Robin!] Robin (Fake).",
+    "icon": 231801,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 231802,
+    "name": "SS Robin (Fake) Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Have the Guts] Robin (Fake).",
+    "icon": 231802,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 231803,
+    "name": "S Robin (Fake) Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [An Impostor!] Robin (Fake).",
+    "icon": 231803,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 231901,
+    "name": "A Ward Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'm Ward and I'm Broke] Ward. ",
+    "icon": 231901,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 231902,
+    "name": "SS Ward Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Sharp-Dressed Man] Ward.",
+    "icon": 231902,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232101,
+    "name": "S Black Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Treasure's All Mine] Black. ",
+    "icon": 232101,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 232102,
+    "name": "SS Black Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Living Legend] Black.",
+    "icon": 232102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232103,
+    "name": "SS Black Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Tonight, I Become the Wolf] Black.",
+    "icon": 232103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232104,
+    "name": "SSブラックのピース",
+    "flavor_text": "SS[伝説の復活]ブラック専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 232104,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232151,
+    "name": "A Herman Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'll Get Even with Forneus] Herman. ",
+    "icon": 232151,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 232202,
+    "name": "SS Fullbright XXIII Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Trade's the Ultimate Weapon] Fullbright XXIII.",
+    "icon": 232202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232301,
+    "name": "A Zhi Ling Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Give Us Our Daily Bread] Zhi Ling. ",
+    "icon": 232301,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 232302,
+    "name": "SS Zhi Ling Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Empty Your Mind] Zhi Ling.",
+    "icon": 232302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232502,
+    "name": "SS Bai Meiniang Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Little Massage, Please] Bai Meiniang.",
+    "icon": 232502,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232601,
+    "name": "SS Boston Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [From World's End] Boston.",
+    "icon": 232601,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232602,
+    "name": "SSボストンのピース",
+    "flavor_text": "SS[見よ、ハサミの力！]ボストン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 232602,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232701,
+    "name": "SS Faerie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Spear of Punishment] Faerie.",
+    "icon": 232701,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232702,
+    "name": "S Faerie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I'm Rocbouquet!] Faerie.",
+    "icon": 232702,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 232703,
+    "name": "SS Faerie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Welcome to Fairyville!] Faerie.",
+    "icon": 232703,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232801,
+    "name": "A Rukh Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Elephant in the Room] Rukh. ",
+    "icon": 232801,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 232802,
+    "name": "SS Rukh Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [But Rukh Has Two Legs] Rukh.",
+    "icon": 232802,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 232901,
+    "name": "S Flurry Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Ultimate Santa Claus] Flurry. ",
+    "icon": 232901,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 232902,
+    "name": "S Flurry Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Am Flurry] Flurry. ",
+    "icon": 232902,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 232903,
+    "name": "SS Flurry Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm Fuming] Flurry.",
+    "icon": 232903,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 233001,
+    "name": "A Undine Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Have a Request] Undine. ",
+    "icon": 233001,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 233002,
+    "name": "S Undine Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Genbu Arts Specialist] Undine. ",
+    "icon": 233002,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 233003,
+    "name": "SS Undine Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Joys of Teaching] Undine. ",
+    "icon": 233003,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 233004,
+    "name": "SS Undine Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Volcano Is the Enemy] Undine.",
+    "icon": 233004,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 233005,
+    "name": "SS Undine Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Genbu Arts Customs] Undine.",
+    "icon": 233005,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 233201,
+    "name": "A Leonid Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [The Rose Suits Me] Leonid. ",
+    "icon": 233201,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 233202,
+    "name": "S Leonid Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Defender of the Holy Grail] Leonid. ",
+    "icon": 233202,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 233203,
+    "name": "SS Leonid Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [First Count of Podorui] Leonid.",
+    "icon": 233203,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 233204,
+    "name": "SS Leonid Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Mortal Memory] Leonid.",
+    "icon": 233204,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 234101,
+    "name": "S Professor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I'm a GENIUS!] Professor.",
+    "icon": 234101,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 234102,
+    "name": "SS Professor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [My New Invention] Professor.",
+    "icon": 234102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 234201,
+    "name": "A Volcano Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Shucho Mage Volcano] Volcano. ",
+    "icon": 234201,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 234202,
+    "name": "S Volcano Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I'll Gladly Work with You] Volcano.",
+    "icon": 234202,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 234203,
+    "name": "SS Volcano Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Budding Talent] Volcano. ",
+    "icon": 234203,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 234204,
+    "name": "A Volcano Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Where'd She Go?] Volcano.",
+    "icon": 234204,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 234205,
+    "name": "SS Volcano Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Basics of Shucho Arts] Volcano.",
+    "icon": 234205,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 234301,
+    "name": "S Fatima Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Happy Bride] Fatima.",
+    "icon": 234301,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 234302,
+    "name": "A Fatima Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [My Forever Light] Fatima.",
+    "icon": 234302,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 234303,
+    "name": "SS Fatima Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [One Night of Joy] Fatima.",
+    "icon": 234303,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 235101,
+    "name": "SS Matriarch Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Vanquish the Sinistrals!] Matriarch.",
+    "icon": 235101,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 235104,
+    "name": "SS聖王のピース",
+    "flavor_text": "SS[聖王の名を負って]聖王専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 235104,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 235301,
+    "name": "S Paulus Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Unbeatable Commander] Paulus.",
+    "icon": 235301,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 235302,
+    "name": "SS Paulus Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Lieutenant in Alloces's Army] Paulus.",
+    "icon": 235302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 235303,
+    "name": "SSパウルスのピース",
+    "flavor_text": "SS[立ち塞がる者]パウルス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 235303,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 235501,
+    "name": "S Vassault Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Matriarch's Advisor] Vassault.",
+    "icon": 235501,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 235502,
+    "name": "SS Vassault Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Seeker of Genbu Arts] Vassault.",
+    "icon": 235502,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 235503,
+    "name": "SSヴァッサールのピース",
+    "flavor_text": "SS[勝利を見据えて]ヴァッサール専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 235503,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 235601,
+    "name": "S Ferdinand Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Like a Raging Lion] Ferdinand.",
+    "icon": 235601,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 235602,
+    "name": "SS Ferdinand Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [First Marquis of Loanne] Ferdinand.",
+    "icon": 235602,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 235603,
+    "name": "SSフェルディナントのピース",
+    "flavor_text": "SS[一番乗りは俺だ！]フェルディナント専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 235603,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 237901,
+    "name": "A Kyrdlund's Mayor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Am the Mayor] Kyrdlund's Mayor. ",
+    "icon": 237901,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 237902,
+    "name": "SS Kyrdlund's Mayor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [What Cute Mice] Kyrdlund's Mayor.",
+    "icon": 237902,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 238101,
+    "name": "A Asura Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Am Not a Dojo Master!] Asura. ",
+    "icon": 238101,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 238301,
+    "name": "SS Bunnie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [It's Not a Lie] Bunnie.",
+    "icon": 238301,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 238302,
+    "name": "SS Bunnie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [What Kind of Experiment?!] Bunnie.",
+    "icon": 238302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 238303,
+    "name": "A Bunnie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I've Got the Beat] Bunnie.",
+    "icon": 238303,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 239201,
+    "name": "SS Byunei Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Lord of the Dragons] Byunei. ",
+    "icon": 239201,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 239202,
+    "name": "S Byunei Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Maggots!] Byunei. ",
+    "icon": 239202,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 239204,
+    "name": "SS Byunei Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Can Take You One-Handed!] Byunei.",
+    "icon": 239204,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 239301,
+    "name": "S Aunus Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [This Is Fate...] Aunus.",
+    "icon": 239301,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 239302,
+    "name": "SS Aunus Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [You Can't Defy Fate!] Aunus.",
+    "icon": 239302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 239401,
+    "name": "Sフォルネウスのピース",
+    "flavor_text": "S[海の支配者]フォルネウス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 239401,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 239402,
+    "name": "SSフォルネウスのピース",
+    "flavor_text": "SS[深淵からの招待]フォルネウス専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 239402,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310101,
+    "name": "A Blue Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [My Name Is Blue] Blue. ",
+    "icon": 310101,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 310102,
+    "name": "SS Blue Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Fated Mage] Blue. ",
+    "icon": 310102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310104,
+    "name": "S Blue Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Hate Red] Blue.",
+    "icon": 310104,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 310105,
+    "name": "SS Blue Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [This Ends Here] Blue.",
+    "icon": 310105,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310201,
+    "name": "A Riki Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Riki the Lummox] Riki. ",
+    "icon": 310201,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 310202,
+    "name": "S Riki Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I'm Looking for the Rings!] Riki. ",
+    "icon": 310202,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 310203,
+    "name": "SS Riki Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Idyllic Margmel] Riki.",
+    "icon": 310203,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310301,
+    "name": "A T260G Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Awaiting Orders] T260G.",
+    "icon": 310301,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 310302,
+    "name": "SS T260G Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Awaiting Upgrade] T260G.",
+    "icon": 310302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310303,
+    "name": "SS T260G Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Mission: Gatalympics] T260G.",
+    "icon": 310303,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310401,
+    "name": "SS Alkaiser Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Alkaiser's on the Scene!] Alkaiser. ",
+    "icon": 310401,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310402,
+    "name": "A Red Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Red's One-hit Knockout!] Red. ",
+    "icon": 310402,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 310403,
+    "name": "S Red Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Gotta Pay Your Respects] Red. ",
+    "icon": 310403,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 310405,
+    "name": "SS Alkaiser Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Hero Awakens] Alkaiser.",
+    "icon": 310405,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310501,
+    "name": "SS Emelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'll Never Forgive You!] Emelia.",
+    "icon": 310501,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310503,
+    "name": "SS Emelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I've Got Your Back] Emelia.",
+    "icon": 310503,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310508,
+    "name": "SS Emelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Lethal Commando] Emelia.",
+    "icon": 310508,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310601,
+    "name": "S Asellus Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [My Name Is Asellus!] Asellus.",
+    "icon": 310601,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 310602,
+    "name": "SS Asellus Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Want to Return the Favor] Asellus. ",
+    "icon": 310602,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310603,
+    "name": "SS Asellus Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Facing the Final Battle] Asellus.",
+    "icon": 310603,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310606,
+    "name": "SS Asellus Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Floats My Boat!] Asellus.",
+    "icon": 310606,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310607,
+    "name": "S Asellus Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Want Red Blood] Asellus.",
+    "icon": 310607,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 310701,
+    "name": "SS Lute Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Take It Easy ♪] Lute.",
+    "icon": 310701,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 310702,
+    "name": "A Lute Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Listen to My Song] Lute.",
+    "icon": 310702,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 311102,
+    "name": "SS Fuse Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Best IRPO Agent?] Fuse.",
+    "icon": 311102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 311201,
+    "name": "S Ren Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Love You] Ren.",
+    "icon": 311201,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 311203,
+    "name": "SS Ren Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Annoying Youngster] Ren.",
+    "icon": 311203,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 311302,
+    "name": "A Silence Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Stays Out of the Way] Silence.",
+    "icon": 311302,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 311401,
+    "name": "SS Doll Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Not to Be Messed With] Doll.",
+    "icon": 311401,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 311502,
+    "name": "S Rabbit Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I'm Like a Rabbit] Rabbit.",
+    "icon": 311502,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 311602,
+    "name": "SS Cotton Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Get to Work, Cottonball!] Cotton.",
+    "icon": 311602,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 311701,
+    "name": "SS Roufas Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm the Top Brass] Roufas.",
+    "icon": 311701,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 311801,
+    "name": "S Annie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [You Must Have a Death Wish] Annie. ",
+    "icon": 311801,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 311802,
+    "name": "SS Annie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Looks Like Fun] Annie.",
+    "icon": 311802,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 311803,
+    "name": "A Annie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'll Take Point] Annie.",
+    "icon": 311803,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 311804,
+    "name": "SS Annie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [This Is Our Secret] Annie.",
+    "icon": 311804,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 311805,
+    "name": "SS Annie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Gotcha!] Annie.",
+    "icon": 311805,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 311901,
+    "name": "A Lyza Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [How Can I Help You?] Lyza. ",
+    "icon": 311901,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 311902,
+    "name": "S Lyza Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Thought I Was Helpless?] Lyza.",
+    "icon": 311902,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 311904,
+    "name": "SS Lyza Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [In Your Dreams] Lyza.",
+    "icon": 311904,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 312001,
+    "name": "SS M Black Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Warrior's Solitude] M Black.",
+    "icon": 312001,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 312301,
+    "name": "A Rouge Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [My Name Is Rouge] Rouge. ",
+    "icon": 312301,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 312302,
+    "name": "S Rouge Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Nomad Seeking Power] Rouge. ",
+    "icon": 312302,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 312303,
+    "name": "SS Rouge Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Seeking His Other Half] Rouge. ",
+    "icon": 312303,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 312304,
+    "name": "SS Rouge Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [All For This Day] Rouge.",
+    "icon": 312304,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 312401,
+    "name": "A Gen Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'm Gen, Put 'Er There] Gen. ",
+    "icon": 312401,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 312402,
+    "name": "S Gen Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Swordsman Nobushige Genjiro] Gen. ",
+    "icon": 312402,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 312403,
+    "name": "SS Gen Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Challenge You All!] Gen.",
+    "icon": 312403,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 312501,
+    "name": "A Mei-ling Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Let's Discuss Rings] Mei-ling.",
+    "icon": 312501,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 312502,
+    "name": "SS Mei-ling Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Alone on Such a Night?] Mei-ling.",
+    "icon": 312502,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 312601,
+    "name": "SS Fei-on Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Battle Is the Real Training] Fei-on.",
+    "icon": 312601,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 313101,
+    "name": "S Princess Rei Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Am Rei] Princess Rei.",
+    "icon": 313101,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 313102,
+    "name": "SS Princess Rei Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [This Isn't a Game] Princess Rei.",
+    "icon": 313102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 313201,
+    "name": "SS Princess Lion Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Noble Golden Lion] Princess Lion. ",
+    "icon": 313201,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 313202,
+    "name": "SS Princess Lion Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Unrelenting Feelings] Princess Lion.",
+    "icon": 313202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 313301,
+    "name": "S Princess White Rose Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Favored Concubine] Princess White Rose.",
+    "icon": 313301,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 313302,
+    "name": "SS Princess White Rose Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Here, This Is for You] Princess White Rose. ",
+    "icon": 313302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 313303,
+    "name": "S Princess White Rose Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [46th Concubine] Princess White Rose.",
+    "icon": 313303,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 313304,
+    "name": "S Princess White Rose Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Like Other Roses, Too] Princess White Rose.",
+    "icon": 313304,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 313305,
+    "name": "SS Princess White Rose Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'll Fight, Too] Princess White Rose.",
+    "icon": 313305,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 313701,
+    "name": "SS Mesarthim Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Water Mystic's Dilemma] Mesarthim.",
+    "icon": 313701,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 313702,
+    "name": "SS Mesarthim Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Hate Human Stench] Mesarthim.",
+    "icon": 313702,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 314001,
+    "name": "S Thunder Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [My Turn, Big Bro!] Thunder.",
+    "icon": 314001,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 314301,
+    "name": "A Red Turnip Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [White Rose's Stand-In] Red Turnip.",
+    "icon": 314301,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 314701,
+    "name": "A Engineer Car Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Nothing I Can't Fix] Engineer Car.",
+    "icon": 314701,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 319601,
+    "name": "S Orlouge Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Lord of Temptation] Orlouge.",
+    "icon": 319601,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 319602,
+    "name": "SS Orlouge Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Lord of the Chateau] Orlouge.",
+    "icon": 319602,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 320101,
+    "name": "S Gustave Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Gustave the Steel] Gustave. ",
+    "icon": 320101,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 320102,
+    "name": "SS Gustave Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Onward, into Battle!] Gustave. ",
+    "icon": 320102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 320103,
+    "name": "S Gustave Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [A Conqueror's Anguish] Gustave.",
+    "icon": 320103,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 320104,
+    "name": "SS Gustave Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Battle of Buckethill] Gustave.",
+    "icon": 320104,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 320107,
+    "name": "SS Gustave Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Leading the Steel Forces] Gustave.",
+    "icon": 320107,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 320201,
+    "name": "SS Wil Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Tycoon in His Youth] Wil. ",
+    "icon": 320201,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 320202,
+    "name": "S Wil Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Take this Quell in Return] Wil. ",
+    "icon": 320202,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 320205,
+    "name": "A Wil Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [The Perfect Nightcap] Wil.",
+    "icon": 320205,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 320206,
+    "name": "SS Wil Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [For Children Everywhere] Wil.",
+    "icon": 320206,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 320301,
+    "name": "A Rich Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I'm \"Rich\" in Name Only] Rich. ",
+    "icon": 320301,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 320302,
+    "name": "S Rich Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I'll Protect My Family] Rich. ",
+    "icon": 320302,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 320303,
+    "name": "SS Rich Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Santa's Not a Bad Gig] Rich.",
+    "icon": 320303,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 320401,
+    "name": "S Ginny Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Anima of the Forest!] Ginny. ",
+    "icon": 320401,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 320402,
+    "name": "SS Ginny Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm Ginny Knights] Ginny. ",
+    "icon": 320402,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 320403,
+    "name": "SS Ginny Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm Not Cold at All] Ginny. ",
+    "icon": 320403,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 320405,
+    "name": "SS Ginny Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Therapeutic Anima] Ginny.",
+    "icon": 320405,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 320407,
+    "name": "SS Ginny Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Give Me Strength, Father] Ginny. ",
+    "icon": 320407,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 321301,
+    "name": "A Flynn Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Sir Gus, the Sea!] Flynn.",
+    "icon": 321301,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 321302,
+    "name": "S Flynn Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Let's Eat Some Akebia] Flynn.",
+    "icon": 321302,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 321303,
+    "name": "SS Flynn Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Just Don't Fight] Flynn.",
+    "icon": 321303,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 321601,
+    "name": "A Johan Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Hide in Plain Sight] Johan. ",
+    "icon": 321601,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 321602,
+    "name": "S Johan Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Sting of the Scorpion] Johan. ",
+    "icon": 321602,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 321603,
+    "name": "A Johan Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Come Get Some, Monsters!] Johan.",
+    "icon": 321603,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 322101,
+    "name": "SS Cordelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm a Sentry Too] Cordelia. ",
+    "icon": 322101,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 322102,
+    "name": "S Cordelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I Really Like You] Cordelia. ",
+    "icon": 322102,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 322103,
+    "name": "S Cordelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [My Own Catnip] Cordelia. ",
+    "icon": 322103,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 322104,
+    "name": "SS Cordelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Enveloped in Happiness] Cordelia.",
+    "icon": 322104,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 322105,
+    "name": "SS Cordelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Want to Know More] Cordelia. ",
+    "icon": 322105,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 322701,
+    "name": "SS Labelle Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Anima of the Woods] Labelle.",
+    "icon": 322701,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 322703,
+    "name": "SS Labelle Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [It's a House Party] Labelle.",
+    "icon": 322703,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 323101,
+    "name": "SS Roberto Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Delightful Destiny] Roberto. ",
+    "icon": 323101,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 323201,
+    "name": "SS Primiera Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Where I'll Spend My Days] Primiera. ",
+    "icon": 323201,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 323202,
+    "name": "S Primiera Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Time to Spread My Wings] Primiera.",
+    "icon": 323202,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 323401,
+    "name": "SS Gustaf Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Two Legendary Swords] Gustaf. ",
+    "icon": 323401,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 410101,
+    "name": "A Laura Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Leave It to Me] Laura. ",
+    "icon": 410101,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 410102,
+    "name": "S Laura Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [I'm Laura the Sea Wolf!] Laura. ",
+    "icon": 410102,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 410103,
+    "name": "SS Laura Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Ugh, What a Drag] Laura.",
+    "icon": 410103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 410301,
+    "name": "SS Judie Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Welcome Home, Daddy!] Judie.",
+    "icon": 410301,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 410701,
+    "name": "SS Armic Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Which Way Should I Go?] Armic.",
+    "icon": 410701,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 411101,
+    "name": "A Henri Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [King of Escata] Henri. ",
+    "icon": 411101,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 411102,
+    "name": "S Henri Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Prince of Escata] Henri. ",
+    "icon": 411102,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 510102,
+    "name": "S Silver Emperor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Crossing Time and Space] Silver Emperor.",
+    "icon": 510102,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 510103,
+    "name": "SS Silver Emperor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Entrusting the Future] Silver Emperor.",
+    "icon": 510103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 510201,
+    "name": "S Selma Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [C'mon, Butcher!] Selma.",
+    "icon": 510201,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 510203,
+    "name": "SS Selma Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Silver Heart Heir] Selma.",
+    "icon": 510203,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 510204,
+    "name": "SS Selma Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [No One's Looking, Right?] Selma.",
+    "icon": 510204,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 510205,
+    "name": "SS Selma Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Bon Appetit] Selma.",
+    "icon": 510205,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 610101,
+    "name": "A Urpina Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [On My Best Behavior Today] Urpina. ",
+    "icon": 610101,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 610102,
+    "name": "SS Urpina Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [The Power of House Julanius] Urpina. ",
+    "icon": 610102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 610104,
+    "name": "SS Urpina Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I Will Never Back Down] Urpina.",
+    "icon": 610104,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 610106,
+    "name": "SS Urpina Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Now That's Dual Wielding!] Urpina.",
+    "icon": 610106,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 610201,
+    "name": "S Leonard Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Not Another Word] Leonard.",
+    "icon": 610201,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 610202,
+    "name": "SS Leonard Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Got a Problem?] Leonard.",
+    "icon": 610202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 610301,
+    "name": "SS Taria Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Back to the Good Old Days] Taria.",
+    "icon": 610301,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 610303,
+    "name": "SS Taria Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Porcelain Therapy] Taria.",
+    "icon": 610303,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 610401,
+    "name": "SS Balmaint Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Headsman's Axe] Balmaint.",
+    "icon": 610401,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 610402,
+    "name": "A Balmaint Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Royal Headsman] Balmaint.",
+    "icon": 610402,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 611201,
+    "name": "S Elisabeth Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Let's Have Some Fun!] Elisabeth.",
+    "icon": 611201,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 611202,
+    "name": "SS Elisabeth Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [You Aren't Off the Hook] Elisabeth.",
+    "icon": 611202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 615501,
+    "name": "SS Sasha Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Water Faerie Incarnate] Sasha.",
+    "icon": 615501,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710101,
+    "name": "A Polka Lynn Wood Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Marquisate Grave Knight!] Polka Lynn Wood. ",
+    "icon": 710101,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 710102,
+    "name": "SS Polka Lynn Wood Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Inherited Shucho Arts] Polka Lynn Wood.",
+    "icon": 710102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710103,
+    "name": "SS Polka Lynn Wood Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Lend Me Your Strength!] Polka Lynn Wood. ",
+    "icon": 710103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710104,
+    "name": "S Polka Lynn Wood Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Hold Onto My Floatie!] Polka Lynn Wood.",
+    "icon": 710104,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 710106,
+    "name": "S Polka Lynn Wood Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [A New Family] Polka Lynn Wood.",
+    "icon": 710106,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 710107,
+    "name": "SS Polka Lynn Wood Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Stronger Shucho Magic!] Polka Lynn Wood.",
+    "icon": 710107,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710201,
+    "name": "A Liz Lynn Wood Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Possessed by Magic] Liz Lynn Wood.",
+    "icon": 710201,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 710202,
+    "name": "SS Liz Lynn Wood Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Triple Scoop Ice Cream] Liz Lynn Wood.",
+    "icon": 710202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710203,
+    "name": "S Robingirl Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [My Identity? A Secret!] Robingirl.",
+    "icon": 710203,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 710204,
+    "name": "SS Liz Lynn Wood Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Innate Genbu Arts] Liz Lynn Wood.",
+    "icon": 710204,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710205,
+    "name": "S Liz Lynn Wood Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [To Become a Strong Mother] Liz Lynn Wood.",
+    "icon": 710205,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 710206,
+    "name": "SS Liz Lynn Wood Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Let Genbu Into Your Heart] Liz Lynn Wood.",
+    "icon": 710206,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710301,
+    "name": "A Shen Du Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Eeek!] Shen Du. ",
+    "icon": 710301,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 710401,
+    "name": "A Valdor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [You Must Respect Life!] Valdor. ",
+    "icon": 710401,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 710402,
+    "name": "A Valdor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Formal & Shellfish Knight] Valdor.",
+    "icon": 710402,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 710403,
+    "name": "SS Valdor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Behold the Spiral's Power!] Valdor.",
+    "icon": 710403,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710404,
+    "name": "SS Valdor Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Only Training Will Do] Valdor.",
+    "icon": 710404,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710501,
+    "name": "A Faerie (Brownie) Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [I Got This] Faerie (Brownie).",
+    "icon": 710501,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 710502,
+    "name": "S Faerie (Brownie) Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [This Is Just the Bait] Faerie (Brownie).",
+    "icon": 710502,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 710503,
+    "name": "S Faerie (Brownie) Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Faerie Soul] Faerie (Brownie).",
+    "icon": 710503,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 710504,
+    "name": "SS Faerie (Brownie) Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Music? Leave It to Me!] Faerie (Brownie).",
+    "icon": 710504,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710505,
+    "name": "SS Faerie (Brownie) Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Send Me Into the Field!] Faerie (Brownie).",
+    "icon": 710505,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710701,
+    "name": "A Madeleine Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Reincarnation of Khalid] Madeleine. ",
+    "icon": 710701,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 710702,
+    "name": "SS Madeleine Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A New Tornado] Madeleine. ",
+    "icon": 710702,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710703,
+    "name": "S Madeleine Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [Leading the Gessian People] Madeleine.",
+    "icon": 710703,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 710704,
+    "name": "SS Madeleine Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A New Khamsin] Madeleine.",
+    "icon": 710704,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 710802,
+    "name": "S Zenon Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [The Imprisoned Marquis] Zenon.",
+    "icon": 710802,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 710803,
+    "name": "SS Zenon Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Sharpen Your Senses] Zenon.",
+    "icon": 710803,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 711101,
+    "name": "A Jo Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Mage of Fire and Ice] Jo. ",
+    "icon": 711101,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 711102,
+    "name": "SS Jo Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Don't Hold Back] Jo.",
+    "icon": 711102,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 711104,
+    "name": "A Jo Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Strongest, Even in Costume] Jo.",
+    "icon": 711104,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 711201,
+    "name": "A Genryu Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Jo's Pet] Genryu. ",
+    "icon": 711201,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 711202,
+    "name": "SS Genryu Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Forbidden Existence] Genryu.",
+    "icon": 711202,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 715301,
+    "name": "A Barthelemy Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Together Forever] Barthelemy.",
+    "icon": 715301,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 715302,
+    "name": "SS Barthelemy Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Twisted Heart, Yet...] Barthelemy.",
+    "icon": 715302,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 715303,
+    "name": "SS Barthelemy Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Let's Have a Blast!] Barthelemy.",
+    "icon": 715303,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 715501,
+    "name": "Sイーヴリンのピース",
+    "flavor_text": "S[蘇りし魔女]イーヴリン専用のピース。スタイル召喚、または限界突破に使用できる。",
+    "icon": 715501,
+    "selling_price": 60,
+    "exchange_cost": 150
+  },
+  {
+    "id": 810102,
+    "name": "A Golden Baum Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of A [Golden Baum] Golden Baum.",
+    "icon": 810102,
+    "selling_price": 40,
+    "exchange_cost": 50
+  },
+  {
+    "id": 810103,
+    "name": "SS Golden Baum Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Dissolve into the Waaater] Golden Baum.",
+    "icon": 810103,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 810203,
+    "name": "SS Minstrel Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Poem of Gods, Song of Men] Minstrel.",
+    "icon": 810203,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 1000229301,
+    "name": "SS Rocbouquet Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Fleeting Beauty] Rocbouquet.",
+    "icon": 1000229301,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 1000230701,
+    "name": "SS Monika Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Nothing to Fear] Monika.",
+    "icon": 1000230701,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 1000230805,
+    "name": "SS Katarina Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [It's An Escort Mission Uniform] Katarina.",
+    "icon": 1000230805,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 1000232803,
+    "name": "SS Rukh Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [But Rukh Has Two Legs] Rukh.",
+    "icon": 1000232803,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 1000310401,
+    "name": "SS Red Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [A Thousandth of a Second] Red. ",
+    "icon": 1000310401,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 1000310501,
+    "name": "SS Emelia Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Is This a Job, Too?] Emelia.",
+    "icon": 1000310501,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 1000310601,
+    "name": "SS Asellus Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Lingering Self-Doubt] Asellus.",
+    "icon": 1000310601,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 1000311101,
+    "name": "SS Fuse Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Region Patrol's Top Man] Fuse.",
+    "icon": 1000311101,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 1000611201,
+    "name": "SS Elisabeth Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm Not Stingy] Elisabeth.",
+    "icon": 1000611201,
+    "selling_price": 100,
+    "exchange_cost": 250
+  }
+]

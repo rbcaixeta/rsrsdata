@@ -1,0 +1,762 @@
+[
+  {
+    "id": 1001,
+    "name": "Free For All",
+    "flavor_text": "Default formation where members fight freely.<br>Grants no bonuses, but works for any party without a specific strategy.",
+    "positions": [
+      {
+        "x": 30,
+        "y": 25,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 30,
+        "y": 15,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 30,
+        "y": 35,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 25,
+        "y": 6,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 25,
+        "y": 44,
+        "formation_bonus_id": 1001
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "Amazon Raid",
+    "flavor_text": "Attack formation that boosts the front line's STR.<br>For parties who mainly use Swords, G. Swords, Axes, Clubs, M. Arts and Spears.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 25,
+        "formation_bonus_id": 1002
+      },
+      {
+        "x": 16,
+        "y": 17,
+        "formation_bonus_id": 1003
+      },
+      {
+        "x": 16,
+        "y": 33,
+        "formation_bonus_id": 1003
+      },
+      {
+        "x": 38,
+        "y": 8,
+        "formation_bonus_id": 1004
+      },
+      {
+        "x": 38,
+        "y": 42,
+        "formation_bonus_id": 1004
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "Speculation",
+    "flavor_text": "Quick-strike formation that boosts the front line's STR and AGI.<br>For parties who mainly use M. Arts.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 25,
+        "formation_bonus_id": 1005
+      },
+      {
+        "x": 23,
+        "y": 16,
+        "formation_bonus_id": 1006
+      },
+      {
+        "x": 23,
+        "y": 34,
+        "formation_bonus_id": 1006
+      },
+      {
+        "x": 38,
+        "y": 8,
+        "formation_bonus_id": 1007
+      },
+      {
+        "x": 38,
+        "y": 42,
+        "formation_bonus_id": 1007
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "Hunter's Gambit",
+    "flavor_text": "Quick-strike formation that boosts the AGI of the front four.<br>Enhances the back line's DEX. For parties who mainly use S. Swords, Bows, and Guns.",
+    "positions": [
+      {
+        "x": 43,
+        "y": 25,
+        "formation_bonus_id": 1008
+      },
+      {
+        "x": 8,
+        "y": 17,
+        "formation_bonus_id": 1009
+      },
+      {
+        "x": 8,
+        "y": 34,
+        "formation_bonus_id": 1009
+      },
+      {
+        "x": 28,
+        "y": 7,
+        "formation_bonus_id": 1010
+      },
+      {
+        "x": 28,
+        "y": 44,
+        "formation_bonus_id": 1010
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "Imperial Cross",
+    "flavor_text": "Defensive formation that boosts the front line's END. The front line also draws enemy attacks, improving party survival.<br>For parties based on a member with high END.",
+    "positions": [
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 42,
+        "y": 25,
+        "formation_bonus_id": 1012
+      },
+      {
+        "x": 8,
+        "y": 25,
+        "formation_bonus_id": 1011
+      },
+      {
+        "x": 25,
+        "y": 10,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 25,
+        "y": 40,
+        "formation_bonus_id": 1001
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "Rising Phoenix",
+    "flavor_text": "Defensive formation that boosts the center's END, INT and the entire party's WIL. The center draws enemy attacks, improving party survival.<br>For fighting against powerful spells.",
+    "positions": [
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1013
+      },
+      {
+        "x": 8,
+        "y": 10,
+        "formation_bonus_id": 1014
+      },
+      {
+        "x": 8,
+        "y": 40,
+        "formation_bonus_id": 1014
+      },
+      {
+        "x": 42,
+        "y": 10,
+        "formation_bonus_id": 1015
+      },
+      {
+        "x": 42,
+        "y": 40,
+        "formation_bonus_id": 1015
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "Desert Lance",
+    "flavor_text": "Defensive formation that enhances the front line, who draws enemy attacks, improving party survival. The back line's AGI is lowered, but the front line's offensive and defensive attributes are enhanced. Good for counterattacks while mitigating damage.",
+    "positions": [
+      {
+        "x": 15,
+        "y": 25,
+        "formation_bonus_id": 1042
+      },
+      {
+        "x": 40,
+        "y": 20,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 40,
+        "y": 30,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 30,
+        "y": 10,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 30,
+        "y": 40,
+        "formation_bonus_id": 1043
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "name": "Seer's Focus",
+    "flavor_text": "Attack formation that boosts the back member's INT. Boosts the front line's AGI.<br>For parties who mainly use spells. Enhanced WIL allows the party to stand up to the enemy's spells and status ailments.",
+    "positions": [
+      {
+        "x": 42,
+        "y": 25,
+        "formation_bonus_id": 1044
+      },
+      {
+        "x": 17,
+        "y": 8,
+        "formation_bonus_id": 1045
+      },
+      {
+        "x": 17,
+        "y": 42,
+        "formation_bonus_id": 1045
+      },
+      {
+        "x": 32,
+        "y": 16,
+        "formation_bonus_id": 1046
+      },
+      {
+        "x": 32,
+        "y": 34,
+        "formation_bonus_id": 1046
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "name": "Rapid Stream",
+    "flavor_text": "Quick-strike formation that boosts the party's AGI but lowers its END.<br>For parties which want to strike first, regardless of weapon type.",
+    "positions": [
+      {
+        "x": 20,
+        "y": 25,
+        "formation_bonus_id": 1021
+      },
+      {
+        "x": 30,
+        "y": 16,
+        "formation_bonus_id": 1021
+      },
+      {
+        "x": 30,
+        "y": 34,
+        "formation_bonus_id": 1021
+      },
+      {
+        "x": 30,
+        "y": 6,
+        "formation_bonus_id": 1021
+      },
+      {
+        "x": 30,
+        "y": 44,
+        "formation_bonus_id": 1021
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "name": "Dragon Stance",
+    "flavor_text": "Special formation that focuses on enhancing its lead member. Boosts the middle and front lines' AGI.<br>For building strategies based on a specific member.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 22,
+        "formation_bonus_id": 1022
+      },
+      {
+        "x": 16,
+        "y": 8,
+        "formation_bonus_id": 1023
+      },
+      {
+        "x": 25,
+        "y": 17,
+        "formation_bonus_id": 1023
+      },
+      {
+        "x": 33,
+        "y": 26,
+        "formation_bonus_id": 1024
+      },
+      {
+        "x": 42,
+        "y": 35,
+        "formation_bonus_id": 1024
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "name": "Magical Shower",
+    "flavor_text": "Attack formation for mages which boosts the two back line members' INT. The three members in front draw enemy attacks, reducing chance of back line getting attacked.<br>The back's INT boost is perfect for parties who mainly use spells.",
+    "positions": [
+      {
+        "x": 20,
+        "y": 25,
+        "formation_bonus_id": 1032
+      },
+      {
+        "x": 8,
+        "y": 8,
+        "formation_bonus_id": 1033
+      },
+      {
+        "x": 8,
+        "y": 42,
+        "formation_bonus_id": 1033
+      },
+      {
+        "x": 34,
+        "y": 14,
+        "formation_bonus_id": 1034
+      },
+      {
+        "x": 34,
+        "y": 36,
+        "formation_bonus_id": 1034
+      }
+    ]
+  },
+  {
+    "id": 1012,
+    "name": "Divine Wall",
+    "flavor_text": "Balanced formation for both offense and defense. The front line draws enemy attacks while the back line inflicts damage. Enhances the back line's DEX. For parties who mainly use S. Swords, Bows, and Guns.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 25,
+        "formation_bonus_id": 1035
+      },
+      {
+        "x": 8,
+        "y": 8,
+        "formation_bonus_id": 1036
+      },
+      {
+        "x": 8,
+        "y": 42,
+        "formation_bonus_id": 1036
+      },
+      {
+        "x": 38,
+        "y": 16,
+        "formation_bonus_id": 1037
+      },
+      {
+        "x": 38,
+        "y": 34,
+        "formation_bonus_id": 1037
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "Sigmoid Form",
+    "flavor_text": "Special formation that boosts both STR/INT. Boosts front's AGI while lowering back's AGI. Good for controlling action order.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 6,
+        "formation_bonus_id": 1040
+      },
+      {
+        "x": 8,
+        "y": 16,
+        "formation_bonus_id": 1041
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1067
+      },
+      {
+        "x": 42,
+        "y": 34,
+        "formation_bonus_id": 1065
+      },
+      {
+        "x": 42,
+        "y": 44,
+        "formation_bonus_id": 1066
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "name": "Free For All",
+    "flavor_text": "Three-member formation.<br>Spread out in a vertical line that evenly disperses enemy attacks. Grants no bonuses.",
+    "positions": [
+      {
+        "x": 25,
+        "y": 10,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 28,
+        "y": 25,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 25,
+        "y": 40,
+        "formation_bonus_id": 1001
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "name": "Open Delta",
+    "flavor_text": "Three-member, fan-shaped formation in which the two front line members draw enemy attacks. Grants no bonuses.",
+    "positions": [
+      {
+        "x": 12,
+        "y": 12,
+        "formation_bonus_id": 1047
+      },
+      {
+        "x": 36,
+        "y": 25,
+        "formation_bonus_id": 1048
+      },
+      {
+        "x": 12,
+        "y": 40,
+        "formation_bonus_id": 1047
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "name": "Closed Delta",
+    "flavor_text": "Three-member, fan-shaped formation in which the single front line member draws enemy attacks. Grants no bonuses.",
+    "positions": [
+      {
+        "x": 36,
+        "y": 12,
+        "formation_bonus_id": 1050
+      },
+      {
+        "x": 12,
+        "y": 25,
+        "formation_bonus_id": 1049
+      },
+      {
+        "x": 36,
+        "y": 38,
+        "formation_bonus_id": 1050
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "name": "Single File",
+    "flavor_text": "Three-member, single file assault formation in which the front member is more likely to be targeted. Grants no bonuses.",
+    "positions": [
+      {
+        "x": 5,
+        "y": 25,
+        "formation_bonus_id": 1051
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1001
+      },
+      {
+        "x": 45,
+        "y": 25,
+        "formation_bonus_id": 1052
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "name": "Deadly Pierce",
+    "flavor_text": "Attack formation that sacrifices speed and durability to focus on offense.<br>The front and middle lines' DEX are enhanced.",
+    "positions": [
+      {
+        "x": 6,
+        "y": 25,
+        "formation_bonus_id": 1016
+      },
+      {
+        "x": 20,
+        "y": 10,
+        "formation_bonus_id": 1017
+      },
+      {
+        "x": 20,
+        "y": 40,
+        "formation_bonus_id": 1017
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1018
+      },
+      {
+        "x": 44,
+        "y": 25,
+        "formation_bonus_id": 1019
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "name": "Anima Stream",
+    "flavor_text": "Attack mage formation that boosts front four's INT. Weakens defense and recovery, yet greatly enhances spell attacks. Advantage lies in mages being able to strike first.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 11,
+        "formation_bonus_id": 1070
+      },
+      {
+        "x": 8,
+        "y": 39,
+        "formation_bonus_id": 1070
+      },
+      {
+        "x": 20,
+        "y": 20,
+        "formation_bonus_id": 1068
+      },
+      {
+        "x": 20,
+        "y": 30,
+        "formation_bonus_id": 1068
+      },
+      {
+        "x": 42,
+        "y": 25,
+        "formation_bonus_id": 1071
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "name": "Dragoon Strike",
+    "flavor_text": "Attack formation which enhances the middle line's STR and can help defend Attacker-type members by making them less likely to be targeted by enemies. For parties who mainly use Swords, G. Swords, Axes, Clubs, M. Arts and Spears.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 18,
+        "formation_bonus_id": 1056
+      },
+      {
+        "x": 8,
+        "y": 32,
+        "formation_bonus_id": 1056
+      },
+      {
+        "x": 30,
+        "y": 11,
+        "formation_bonus_id": 1057
+      },
+      {
+        "x": 30,
+        "y": 39,
+        "formation_bonus_id": 1057
+      },
+      {
+        "x": 42,
+        "y": 25,
+        "formation_bonus_id": 1058
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "name": "Tiger's Den",
+    "flavor_text": "Defensive formation that grants all members Defense Boost before taking an action. Great against enemies' all-range attacks, but must sacrifice action priority for defense boost.",
+    "positions": [
+      {
+        "x": 39,
+        "y": 25,
+        "formation_bonus_id": 1059
+      },
+      {
+        "x": 32,
+        "y": 15,
+        "formation_bonus_id": 1060
+      },
+      {
+        "x": 32,
+        "y": 35,
+        "formation_bonus_id": 1060
+      },
+      {
+        "x": 25,
+        "y": 6,
+        "formation_bonus_id": 1060
+      },
+      {
+        "x": 25,
+        "y": 44,
+        "formation_bonus_id": 1060
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "name": "Tiger Shark",
+    "flavor_text": "Special formation that controls damage taken and boosts attack damage. Front draws enemy attacks, while front and back line's attack attributes are enhanced.",
+    "positions": [
+      {
+        "x": 12,
+        "y": 25,
+        "formation_bonus_id": 1061
+      },
+      {
+        "x": 25,
+        "y": 12,
+        "formation_bonus_id": 1062
+      },
+      {
+        "x": 25,
+        "y": 38,
+        "formation_bonus_id": 1063
+      },
+      {
+        "x": 45,
+        "y": 12,
+        "formation_bonus_id": 1064
+      },
+      {
+        "x": 45,
+        "y": 38,
+        "formation_bonus_id": 1064
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "name": "Rainbow Rangers",
+    "flavor_text": "Special formation that optimizes use of each member's attributes. Positions determine what's boosted. For mixed parties using a variety of weapon types or attack elements.",
+    "positions": [
+      {
+        "x": 18,
+        "y": 25,
+        "formation_bonus_id": 1077
+      },
+      {
+        "x": 25,
+        "y": 15,
+        "formation_bonus_id": 1078
+      },
+      {
+        "x": 25,
+        "y": 35,
+        "formation_bonus_id": 1079
+      },
+      {
+        "x": 32,
+        "y": 6,
+        "formation_bonus_id": 1080
+      },
+      {
+        "x": 32,
+        "y": 44,
+        "formation_bonus_id": 1081
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "name": "Inverse Sigmoid",
+    "flavor_text": "Special formation that boosts DEX and INT. Front line gets AGI boost while back line has AGI lowered. Good for controlling action order.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 44,
+        "formation_bonus_id": 1072
+      },
+      {
+        "x": 8,
+        "y": 34,
+        "formation_bonus_id": 1073
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1076
+      },
+      {
+        "x": 42,
+        "y": 16,
+        "formation_bonus_id": 1074
+      },
+      {
+        "x": 42,
+        "y": 6,
+        "formation_bonus_id": 1075
+      }
+    ]
+  },
+  {
+    "id": 1025,
+    "name": "Free For All 1",
+    "flavor_text": "Advanced FFA. Quick-strike formation. Boosts AGI for front who draws attacks, and INT/LOV for back who's less likely to be targeted. Good for assigning attack and support roles.",
+    "positions": [
+      {
+        "x": 34,
+        "y": 25,
+        "formation_bonus_id": 1053
+      },
+      {
+        "x": 20,
+        "y": 18,
+        "formation_bonus_id": 1054
+      },
+      {
+        "x": 20,
+        "y": 32,
+        "formation_bonus_id": 1054
+      },
+      {
+        "x": 20,
+        "y": 9,
+        "formation_bonus_id": 1054
+      },
+      {
+        "x": 20,
+        "y": 41,
+        "formation_bonus_id": 1054
+      }
+    ]
+  }
+]

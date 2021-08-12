@@ -1,0 +1,3520 @@
+[
+  {
+    "id": 400000011,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 1",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 1,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 15,
+        "id": 101200100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000077
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001001,
+    "scenario_id": 0,
+    "prev_quest_ids": []
+  },
+  {
+    "id": 400000021,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 2",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 2,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 15,
+        "id": 102200100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000078
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001002,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000011
+    ]
+  },
+  {
+    "id": 400000031,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 3",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 3,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 15,
+        "id": 103200100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000079
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001003,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000021
+    ]
+  },
+  {
+    "id": 400000041,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 4",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 4,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 15,
+        "id": 104200100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000080
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001004,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000031
+    ]
+  },
+  {
+    "id": 400000051,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 5",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 5,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000081
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001005,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000041
+    ]
+  },
+  {
+    "id": 400000061,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 6",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 6,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 15,
+        "id": 105200100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000082
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001006,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000051
+    ]
+  },
+  {
+    "id": 400000071,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 7",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 7,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 15,
+        "id": 107200100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000083
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001007,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000061
+    ]
+  },
+  {
+    "id": 400000081,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 8",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 8,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 15,
+        "id": 108200100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001008,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000071
+    ]
+  },
+  {
+    "id": 400000091,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 9",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 9,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 15,
+        "id": 109200100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001009,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000081
+    ]
+  },
+  {
+    "id": 400000101,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 10",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 10,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000086
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001010,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000091
+    ]
+  },
+  {
+    "id": 400000111,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 11",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 11,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000088
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000101
+    ]
+  },
+  {
+    "id": 400000121,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 12",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 12,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000089
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000111
+    ]
+  },
+  {
+    "id": 400000131,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 13",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 13,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000090
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000121
+    ]
+  },
+  {
+    "id": 400000141,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 14",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 14,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000091
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001014,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000131
+    ]
+  },
+  {
+    "id": 400000151,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 15",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 15,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000092
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001015,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000141
+    ]
+  },
+  {
+    "id": 400000161,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 16",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 16,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 2
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000094
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001016,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000151
+    ]
+  },
+  {
+    "id": 400000171,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 17",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 17,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 26,
+        "id": 502300100,
+        "quantity": 2
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000095
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001017,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000161
+    ]
+  },
+  {
+    "id": 400000181,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 18",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 18,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 26,
+        "id": 503300100,
+        "quantity": 2
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000096
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001018,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000171
+    ]
+  },
+  {
+    "id": 400000191,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 19",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 19,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 20000
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000097
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001019,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000181
+    ]
+  },
+  {
+    "id": 400000201,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 20",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 20,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 200
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000098
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001020,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000191
+    ]
+  },
+  {
+    "id": 400000211,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 21",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 21,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000099
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000201
+    ]
+  },
+  {
+    "id": 400000221,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 22",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 22,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000100
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000211
+    ]
+  },
+  {
+    "id": 400000231,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 23",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 23,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000101
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000221
+    ]
+  },
+  {
+    "id": 400000241,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 24",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 24,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000102
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001024,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000231
+    ]
+  },
+  {
+    "id": 400000251,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 25",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 25,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000103
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001025,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000241
+    ]
+  },
+  {
+    "id": 400000261,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 26",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 26,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000104
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001026,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000251
+    ]
+  },
+  {
+    "id": 400000271,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 27",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 27,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 26,
+        "id": 502400100,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000105
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001027,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000261
+    ]
+  },
+  {
+    "id": 400000281,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 28",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 28,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 26,
+        "id": 503400100,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000106
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001028,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000271
+    ]
+  },
+  {
+    "id": 400000291,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 29",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 29,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 50000
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000108
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001029,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000281
+    ]
+  },
+  {
+    "id": 400000301,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 30",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 30,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 300
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000109
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001030,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000291
+    ]
+  },
+  {
+    "id": 400000311,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 31",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 31,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000110
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000301
+    ]
+  },
+  {
+    "id": 400000321,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 32",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 32,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000111
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000311
+    ]
+  },
+  {
+    "id": 400000331,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 33",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 33,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000112
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000321
+    ]
+  },
+  {
+    "id": 400000341,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 34",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 34,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000113
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001034,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000331
+    ]
+  },
+  {
+    "id": 400000351,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 35",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 35,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000114
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001035,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000341
+    ]
+  },
+  {
+    "id": 400000361,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 36",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 36,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000115
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001036,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000351
+    ]
+  },
+  {
+    "id": 400000371,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 37",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 37,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000117
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001037,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000361
+    ]
+  },
+  {
+    "id": 400000381,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 38",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 38,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000118
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001038,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000371
+    ]
+  },
+  {
+    "id": 400000391,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 39",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 39,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000119
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001039,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000381
+    ]
+  },
+  {
+    "id": 400000401,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 40",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 40,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 400
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000121
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001040,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000391
+    ]
+  },
+  {
+    "id": 400000411,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 41",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 41,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000123
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000401
+    ]
+  },
+  {
+    "id": 400000421,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 42",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 42,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000124
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000411
+    ]
+  },
+  {
+    "id": 400000431,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 43",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 43,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000125
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000421
+    ]
+  },
+  {
+    "id": 400000441,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 44",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 44,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000128
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001044,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000431
+    ]
+  },
+  {
+    "id": 400000451,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 45",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 45,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000130
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001045,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000441
+    ]
+  },
+  {
+    "id": 400000461,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 46",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 46,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000131
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001046,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000451
+    ]
+  },
+  {
+    "id": 400000471,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 47",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 47,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000132
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001047,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000461
+    ]
+  },
+  {
+    "id": 400000481,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 48",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 48,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000134
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001048,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000471
+    ]
+  },
+  {
+    "id": 400000491,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 49",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 49,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000135
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001049,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000481
+    ]
+  },
+  {
+    "id": 400000501,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 50",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 50,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 500
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000136
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001050,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000491
+    ]
+  },
+  {
+    "id": 400000511,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 51",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 51,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000137
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000501
+    ]
+  },
+  {
+    "id": 400000521,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 52",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 52,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000138
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000511
+    ]
+  },
+  {
+    "id": 400000531,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 53",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 53,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000139
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000521
+    ]
+  },
+  {
+    "id": 400000541,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 54",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 54,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000140
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001054,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000531
+    ]
+  },
+  {
+    "id": 400000551,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 55",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 55,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000141
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001055,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000541
+    ]
+  },
+  {
+    "id": 400000561,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 56",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 56,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000143
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001056,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000551
+    ]
+  },
+  {
+    "id": 400000571,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 57",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 57,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000144
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001057,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000561
+    ]
+  },
+  {
+    "id": 400000581,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 58",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 58,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000145
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001058,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000571
+    ]
+  },
+  {
+    "id": 400000591,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 59",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 59,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000146
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001059,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000581
+    ]
+  },
+  {
+    "id": 400000601,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 60",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 60,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 500
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001060,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000591
+    ]
+  },
+  {
+    "id": 400000611,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 61",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 61,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000601
+    ]
+  },
+  {
+    "id": 400000621,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 62",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 62,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000611
+    ]
+  },
+  {
+    "id": 400000631,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 63",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 63,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000621
+    ]
+  },
+  {
+    "id": 400000641,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 64",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 64,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001064,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000631
+    ]
+  },
+  {
+    "id": 400000651,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 65",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 65,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001065,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000641
+    ]
+  },
+  {
+    "id": 400000661,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 66",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 66,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001066,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000651
+    ]
+  },
+  {
+    "id": 400000671,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 67",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 67,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001067,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000661
+    ]
+  },
+  {
+    "id": 400000681,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 68",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 68,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001068,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000671
+    ]
+  },
+  {
+    "id": 400000691,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 69",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 69,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001069,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000681
+    ]
+  },
+  {
+    "id": 400000701,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 70",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 70,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 500
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001070,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000691
+    ]
+  },
+  {
+    "id": 400000711,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 71",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 71,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000701
+    ]
+  },
+  {
+    "id": 400000721,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 72",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 72,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000711
+    ]
+  },
+  {
+    "id": 400000731,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 73",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 73,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000721
+    ]
+  },
+  {
+    "id": 400000741,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 74",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 74,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001074,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000731
+    ]
+  },
+  {
+    "id": 400000751,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 75",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 75,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001075,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000741
+    ]
+  },
+  {
+    "id": 400000761,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 76",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 76,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001076,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000751
+    ]
+  },
+  {
+    "id": 400000771,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 77",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 77,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001077,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000761
+    ]
+  },
+  {
+    "id": 400000781,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 78",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 78,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001078,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000771
+    ]
+  },
+  {
+    "id": 400000791,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 79",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 79,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 10
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001079,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000781
+    ]
+  },
+  {
+    "id": 400000801,
+    "quest_type": 1,
+    "name": "Spiral Corridor Floor 80",
+    "clear_limit": 0,
+    "banner": 400002,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "sort_order": 80,
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 500
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      },
+      {
+        "type": 8,
+        "id": 810008,
+        "quantity": 3
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      400000147
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 505,
+    "battle_id": 400001080,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      400000791
+    ]
+  }
+]

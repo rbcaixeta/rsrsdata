@@ -1,0 +1,72 @@
+[
+  {
+    "id": 10101,
+    "area_id": 2001,
+    "field_map_mode": 1,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 500
+      }
+    ],
+    "lock_text": "",
+    "prev_quest_ids": [],
+    "frontier_drop_group_ids": []
+  },
+  {
+    "id": 10102,
+    "area_id": 2001,
+    "field_map_mode": 2,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5000
+      }
+    ],
+    "lock_text": "Clear Solo Mode to Unlock",
+    "prev_quest_ids": [
+      990041080
+    ],
+    "frontier_drop_group_ids": []
+  },
+  {
+    "id": 10103,
+    "area_id": 2002,
+    "field_map_mode": 2,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5000
+      }
+    ],
+    "lock_text": "",
+    "prev_quest_ids": [],
+    "frontier_drop_group_ids": []
+  },
+  {
+    "id": 10104,
+    "area_id": 2003,
+    "field_map_mode": 2,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5000
+      },
+      {
+        "type": 8,
+        "id": 810018,
+        "quantity": 1
+      }
+    ],
+    "lock_text": "",
+    "prev_quest_ids": [],
+    "frontier_drop_group_ids": [
+      100122,
+      1000090355
+    ]
+  }
+]

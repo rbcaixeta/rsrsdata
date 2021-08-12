@@ -1,0 +1,402 @@
+[
+  {
+    "id": 840001,
+    "name": "Stamina Potion (Small)",
+    "flavor_text": "Item that recovers 30 stamina.",
+    "icon": 840001,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 997,
+    "expired_at": 0
+  },
+  {
+    "id": 840002,
+    "name": "Stamina Potion (Medium)",
+    "flavor_text": "Item that recovers 60 stamina.",
+    "icon": 840002,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 998,
+    "expired_at": 0
+  },
+  {
+    "id": 840003,
+    "name": "Stamina Potion (Large)",
+    "flavor_text": "Item that recovers 90 stamina.",
+    "icon": 840003,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 999,
+    "expired_at": 0
+  },
+  {
+    "id": 840009,
+    "name": "25M Global DLs Stamina Potion [Limited Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1604192399] <tz>)",
+    "icon": 840009,
+    "max_quantity": 99,
+    "value": 30,
+    "sort_order": 1016,
+    "expired_at": 1604192399
+  },
+  {
+    "id": 840012,
+    "name": "Vampire's Stamina Potion [Limited Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1604797199] <tz>)",
+    "icon": 840012,
+    "max_quantity": 99,
+    "value": 30,
+    "sort_order": 1024,
+    "expired_at": 1604797199
+  },
+  {
+    "id": 840015,
+    "name": "Half Anniversary Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1612745999] <tz>)",
+    "icon": 840013,
+    "max_quantity": 9999,
+    "value": 30,
+    "sort_order": 1130,
+    "expired_at": 1612745999
+  },
+  {
+    "id": 840019,
+    "name": "Award Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1609376399] <tz>)",
+    "icon": 840032,
+    "max_quantity": 9999,
+    "value": 30,
+    "sort_order": 1100,
+    "expired_at": 1609376399
+  },
+  {
+    "id": 840020,
+    "name": "Award Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1609376399] <tz>)",
+    "icon": 840034,
+    "max_quantity": 9999,
+    "value": 60,
+    "sort_order": 1110,
+    "expired_at": 1609376399
+  },
+  {
+    "id": 840022,
+    "name": "Blue/Red Trial Grand Opening Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1612141199] <tz>)",
+    "icon": 840033,
+    "max_quantity": 9999,
+    "value": 30,
+    "sort_order": 1120,
+    "expired_at": 1612141199
+  },
+  {
+    "id": 840042,
+    "name": "Romancing Saga Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1622422799] <tz>)",
+    "icon": 840039,
+    "max_quantity": 9999,
+    "value": 30,
+    "sort_order": 1170,
+    "expired_at": 1622422799
+  },
+  {
+    "id": 840043,
+    "name": "Romancing Saga Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1622422799] <tz>)",
+    "icon": 840040,
+    "max_quantity": 9999,
+    "value": 60,
+    "sort_order": 1171,
+    "expired_at": 1622422799
+  },
+  {
+    "id": 840044,
+    "name": "Romancing Saga Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1622422799] <tz>)",
+    "icon": 840041,
+    "max_quantity": 9999,
+    "value": 90,
+    "sort_order": 1172,
+    "expired_at": 1622422799
+  },
+  {
+    "id": 840045,
+    "name": "Super Stamina Recovery Set",
+    "flavor_text": "10 Stamina Potions (Small) + 20 Stamina Potions (Medium) + 30 Stamina Potions (Large)",
+    "icon": 840045,
+    "max_quantity": 9999,
+    "value": 30,
+    "sort_order": 1948,
+    "expired_at": 0
+  },
+  {
+    "id": 840049,
+    "name": "1st Anniversary Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1627779599] <tz>)",
+    "icon": 840049,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 1193,
+    "expired_at": 1627779599
+  },
+  {
+    "id": 840050,
+    "name": "1st Anniversary Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1627779599] <tz>)",
+    "icon": 840050,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 1194,
+    "expired_at": 1627779599
+  },
+  {
+    "id": 840051,
+    "name": "1st Anniversary Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1627779599] <tz>)",
+    "icon": 840051,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 1195,
+    "expired_at": 1627779599
+  },
+  {
+    "id": 840060,
+    "name": "SaGa 30th Anniv. Sa・Ga Fest. Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1605401999] <tz>)",
+    "icon": 840060,
+    "max_quantity": 9999,
+    "value": 30,
+    "sort_order": 2610,
+    "expired_at": 1605380399
+  },
+  {
+    "id": 840061,
+    "name": "SaGa 30th Anniv. Sa・Ga Fest. Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1605401999] <tz>)",
+    "icon": 840061,
+    "max_quantity": 9999,
+    "value": 60,
+    "sort_order": 2615,
+    "expired_at": 1605380399
+  },
+  {
+    "id": 840062,
+    "name": "SaGa 30th Anniv. Sa・Ga Fest. Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1605401999] <tz>)",
+    "icon": 840062,
+    "max_quantity": 9999,
+    "value": 90,
+    "sort_order": 2620,
+    "expired_at": 1605380399
+  },
+  {
+    "id": 840064,
+    "name": "Holy Stone Harvest Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1632963599] <tz>)",
+    "icon": 840064,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 1202,
+    "expired_at": 1632963599
+  },
+  {
+    "id": 840065,
+    "name": "Holy Stone Harvest Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1632963599] <tz>)",
+    "icon": 840065,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 1203,
+    "expired_at": 1632963599
+  },
+  {
+    "id": 840066,
+    "name": "Holy Stone Harvest Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1632963599] <tz>)",
+    "icon": 840066,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 1204,
+    "expired_at": 1632963599
+  },
+  {
+    "id": 840088,
+    "name": "Seven Heroes Day Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1630544399] <tz>)",
+    "icon": 840088,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 1196,
+    "expired_at": 1630544399
+  },
+  {
+    "id": 840089,
+    "name": "Seven Heroes Day Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1630544399] <tz>)",
+    "icon": 840089,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 1197,
+    "expired_at": 1630544399
+  },
+  {
+    "id": 840090,
+    "name": "Seven Heroes Day Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1630544399] <tz>)",
+    "icon": 840090,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 1198,
+    "expired_at": 1630544399
+  },
+  {
+    "id": 840101,
+    "name": "SF1 Remastered Release Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1623718799] <tz>)",
+    "icon": 840101,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 1190,
+    "expired_at": 1623718799
+  },
+  {
+    "id": 840102,
+    "name": "SF1 Remastered Release Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1623718799] <tz>)",
+    "icon": 840102,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 1191,
+    "expired_at": 1623718799
+  },
+  {
+    "id": 840103,
+    "name": "SF1 Remastered Release Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1623718799] <tz>)",
+    "icon": 840103,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 1192,
+    "expired_at": 1623718799
+  },
+  {
+    "id": 1000840001,
+    "name": "Thanksgiving Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1612141199] <tz>)",
+    "icon": 1000840001,
+    "max_quantity": 9999,
+    "value": 90,
+    "sort_order": 1120,
+    "expired_at": 1612141199
+  },
+  {
+    "id": 1000840002,
+    "name": "New Year's Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1614473999] <tz>)",
+    "icon": 840057,
+    "max_quantity": 9999,
+    "value": 30,
+    "sort_order": 1140,
+    "expired_at": 1614473999
+  },
+  {
+    "id": 1000840003,
+    "name": "Lunar New Year Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1617152399] <tz>)",
+    "icon": 840032,
+    "max_quantity": 9999,
+    "value": 30,
+    "sort_order": 1150,
+    "expired_at": 1617152399
+  },
+  {
+    "id": 1000840004,
+    "name": "Springtime Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1620608399] <tz>)",
+    "icon": 840009,
+    "max_quantity": 9999,
+    "value": 30,
+    "sort_order": 1160,
+    "expired_at": 1620608399
+  },
+  {
+    "id": 1000840005,
+    "name": "Springtime Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1620608399] <tz>)",
+    "icon": 840010,
+    "max_quantity": 9999,
+    "value": 60,
+    "sort_order": 1161,
+    "expired_at": 1620608399
+  },
+  {
+    "id": 1000840006,
+    "name": "Springtime Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1620608399] <tz>)",
+    "icon": 840011,
+    "max_quantity": 9999,
+    "value": 90,
+    "sort_order": 1162,
+    "expired_at": 1620608399
+  },
+  {
+    "id": 1000840007,
+    "name": "Diluted Energy Drink [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 1 stamina. (Until [1622595599] <tz>)",
+    "icon": 1000840002,
+    "max_quantity": 999999,
+    "value": 1,
+    "sort_order": 1180,
+    "expired_at": 1622595599
+  },
+  {
+    "id": 1000840010,
+    "name": "Stamina Potion (Small) from Producer [Limited Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1599785999] <tz>)",
+    "icon": 840016,
+    "max_quantity": 9999,
+    "value": 30,
+    "sort_order": 2000,
+    "expired_at": 1599785999
+  },
+  {
+    "id": 1000840011,
+    "name": "Halloween Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1607389199] <tz>)",
+    "icon": 840025,
+    "max_quantity": 9999,
+    "value": 30,
+    "sort_order": 1000,
+    "expired_at": 1607389199
+  },
+  {
+    "id": 1000840012,
+    "name": "Summer Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1631062799] <tz>)",
+    "icon": 840057,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 1199,
+    "expired_at": 1631062799
+  },
+  {
+    "id": 1000840013,
+    "name": "Summer Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1631062799] <tz>)",
+    "icon": 840058,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 1200,
+    "expired_at": 1631062799
+  },
+  {
+    "id": 1000840014,
+    "name": "Summer Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1631062799] <tz>)",
+    "icon": 840059,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 1201,
+    "expired_at": 1631062799
+  }
+]

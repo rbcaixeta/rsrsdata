@@ -1,0 +1,116 @@
+[
+  {
+    "id": 900003,
+    "name": "The Final Treasure - Small",
+    "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Orb Medals, and more.",
+    "rarity": 4,
+    "max_quantity": 9999,
+    "expired_at": 0,
+    "icon": 900003,
+    "sort_order": 1010,
+    "drop_group_ids": [
+      400000068,
+      400000069
+    ]
+  },
+  {
+    "id": 900004,
+    "name": "The Final Treasure - Large",
+    "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testament of the Mighty: Rank 2, Testament of the Mighty: Rank 1, Orb Medals, Stamina Potions (Large), and more.",
+    "rarity": 5,
+    "max_quantity": 9999,
+    "expired_at": 0,
+    "icon": 900004,
+    "sort_order": 1015,
+    "drop_group_ids": [
+      400000070,
+      400000071,
+      400000072
+    ]
+  },
+  {
+    "id": 900006,
+    "name": "Festival Box [Ltd. Time]",
+    "description": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1627606799] <tz>)",
+    "rarity": 2,
+    "max_quantity": 9999,
+    "expired_at": 1627606799,
+    "icon": 900006,
+    "sort_order": 1025,
+    "drop_group_ids": [
+      92829,
+      92845
+    ]
+  },
+  {
+    "id": 900007,
+    "name": "Super Festival Box [Ltd. Time]",
+    "description": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1627606799] <tz>)",
+    "rarity": 3,
+    "max_quantity": 9999,
+    "expired_at": 1627606799,
+    "icon": 900007,
+    "sort_order": 1030,
+    "drop_group_ids": [
+      92830,
+      92846
+    ]
+  },
+  {
+    "id": 900008,
+    "name": "Deluxe Festival Box [Ltd. Time]",
+    "description": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1627606799] <tz>)",
+    "rarity": 4,
+    "max_quantity": 9999,
+    "expired_at": 1627606799,
+    "icon": 900008,
+    "sort_order": 1035,
+    "drop_group_ids": [
+      92831,
+      92847
+    ]
+  },
+  {
+    "id": 900009,
+    "name": "Golden Box",
+    "description": "Open from Items>Treasure Box. You may get any of the items from Rewards.",
+    "rarity": 5,
+    "max_quantity": 9999,
+    "expired_at": 0,
+    "icon": 900009,
+    "sort_order": 1040,
+    "drop_group_ids": [
+      1000090512,
+      1000090511,
+      93128,
+      93129,
+      93130,
+      93131,
+      93132,
+      93133,
+      93134,
+      93135,
+      93136,
+      93137,
+      93138
+    ]
+  },
+  {
+    "id": 900011,
+    "name": "Cave of Holy Stones Box [Ltd. Time]",
+    "description": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until [1630025999] <tz>)",
+    "rarity": 5,
+    "max_quantity": 9999,
+    "expired_at": 1630025999,
+    "icon": 900011,
+    "sort_order": 1046,
+    "drop_group_ids": [
+      93294,
+      93295,
+      93296,
+      93297,
+      93298,
+      1000090513
+    ]
+  }
+]
