@@ -68,6 +68,23 @@
     "limit_island_reward_set_id": 1001
   },
   {
+    "id": 1005,
+    "area_id": 920001,
+    "start_at": 1629680400,
+    "end_at": 1630285199,
+    "rule_summary": "Starting BP: 10",
+    "rule_screen_in_help_id": 276,
+    "rule_initial_bp": 10,
+    "rule_recover_bp": 3,
+    "rule_max_bp": 20,
+    "limit_island_well_ids": [
+      1013,
+      1014,
+      1015
+    ],
+    "limit_island_reward_set_id": 1001
+  },
+  {
     "id": 1006,
     "area_id": 920001,
     "start_at": 1628470800,

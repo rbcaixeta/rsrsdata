@@ -9470,7 +9470,7 @@
   {
     "id": 199197,
     "pc_flag": 0,
-    "name": "呪われしもの",
+    "name": "Cursed One",
     "enemy_class": 99,
     "rank": 1,
     "species": [
@@ -10022,7 +10022,7 @@
   {
     "id": 222811,
     "pc_flag": 1,
-    "name": "ヴァンパイアレディ",
+    "name": "Vampire Lady",
     "enemy_class": 99,
     "rank": 1,
     "species": [
@@ -10038,7 +10038,7 @@
   {
     "id": 222821,
     "pc_flag": 1,
-    "name": "セフィラス",
+    "name": "Sephira",
     "enemy_class": 99,
     "rank": 1,
     "species": [
@@ -10111,6 +10111,21 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 223014,
+    "pc_flag": 1,
+    "name": "Julian",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 230105,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 223020,
     "pc_flag": 1,
     "name": "Thomas",
@@ -10141,6 +10156,21 @@
   },
   {
     "id": 223022,
+    "pc_flag": 1,
+    "name": "Thomas",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 230202,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 223023,
     "pc_flag": 1,
     "name": "Thomas",
     "enemy_class": 99,
@@ -10199,6 +10229,21 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 223033,
+    "pc_flag": 1,
+    "name": "Mikhail",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 230303,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 223041,
     "pc_flag": 1,
     "name": "Khalid",
@@ -10211,6 +10256,21 @@
     "gender": 1,
     "sprite_studio": 0,
     "illust": 230400,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 223042,
+    "pc_flag": 1,
+    "name": "Khalid",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 230403,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -10288,6 +10348,21 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 223063,
+    "pc_flag": 1,
+    "name": "Ellen",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 230608,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 223070,
     "pc_flag": 1,
     "name": "Monika",
@@ -10332,6 +10407,21 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 223074,
+    "pc_flag": 1,
+    "name": "Monika",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 230706,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 223081,
     "pc_flag": 1,
     "name": "Katarina",
@@ -10359,6 +10449,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 230802,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 223083,
+    "pc_flag": 1,
+    "name": "Katarina",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 230803,
     "pc_enemy_skill_hold_motion": 1
   },
   {

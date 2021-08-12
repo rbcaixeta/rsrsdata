@@ -942,7 +942,7 @@
   {
     "id": 702100308,
     "name": "Increased Profits Ⅲ",
-    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum received (large effect/can't stack).",
+    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum dropped (large effect/can't stack).",
     "special_effect_ids": [
       802040300
     ],
@@ -952,7 +952,7 @@
   {
     "id": 702100309,
     "name": "Increased Profits Ⅱ",
-    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum received (medium effect/can't stack).",
+    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum dropped (medium effect/can't stack).",
     "special_effect_ids": [
       802040301
     ],
@@ -962,7 +962,7 @@
   {
     "id": 702100310,
     "name": "Increased Profits Ⅰ",
-    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum received (small effect/can't stack).",
+    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum dropped (small effect/can't stack).",
     "special_effect_ids": [
       802040302
     ],
@@ -972,7 +972,7 @@
   {
     "id": 702100311,
     "name": "Rapid Growth Ⅲ",
-    "flavor_text": "[Upon Victory]<br>Increases player's EXP (large effect/can't stack).",
+    "flavor_text": "[Upon Victory]<br>Increases player's EXP gained (large effect/can't stack).",
     "special_effect_ids": [
       802040303
     ],
@@ -982,7 +982,7 @@
   {
     "id": 702100312,
     "name": "Rapid Growth Ⅱ",
-    "flavor_text": "[Upon Victory]<br>Increases player's EXP (medium effect/can't stack).",
+    "flavor_text": "[Upon Victory]<br>Increases player's EXP gained (medium effect/can't stack).",
     "special_effect_ids": [
       802040304
     ],
@@ -992,7 +992,7 @@
   {
     "id": 702100313,
     "name": "Rapid Growth Ⅰ",
-    "flavor_text": "[Upon Victory]<br>Increases player's EXP (small effect/can't stack).",
+    "flavor_text": "[Upon Victory]<br>Increases player's EXP gained (small effect/can't stack).",
     "special_effect_ids": [
       802040305
     ],
@@ -1002,7 +1002,7 @@
   {
     "id": 702100314,
     "name": "Star Pupil Ⅲ",
-    "flavor_text": "[Upon Victory]<br>Increases Styles' enhancement EXP (large effect/can't stack).",
+    "flavor_text": "[Upon Victory]<br>Increases Styles' enhancement EXP gained (large effect/can't stack).",
     "special_effect_ids": [
       802040306
     ],
@@ -1012,7 +1012,7 @@
   {
     "id": 702100315,
     "name": "Star Pupil Ⅱ",
-    "flavor_text": "[Upon Victory]<br>Increases Styles' enhancement EXP (medium effect/can't stack).",
+    "flavor_text": "[Upon Victory]<br>Increases Styles' enhancement EXP gained (medium effect/can't stack).",
     "special_effect_ids": [
       802040307
     ],
@@ -1022,7 +1022,7 @@
   {
     "id": 702100316,
     "name": "Star Pupil Ⅰ",
-    "flavor_text": "[Upon Victory]<br>Increases Styles' enhancement EXP (small effect/can't stack).",
+    "flavor_text": "[Upon Victory]<br>Increases Styles' enhancement EXP gained (small effect/can't stack).",
     "special_effect_ids": [
       802040308
     ],
@@ -1352,7 +1352,7 @@
   {
     "id": 702100389,
     "name": "Increased Profits Ⅳ",
-    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum received (very large effect/can't stack).",
+    "flavor_text": "[Upon Victory]<br>Increases the amount of aurum dropped (very large effect/can't stack).",
     "special_effect_ids": [
       802040379
     ],
@@ -1411,8 +1411,8 @@
   },
   {
     "id": 702100439,
-    "name": "斧の秘訣Ⅰ",
-    "flavor_text": "斧装備時　攻撃の<br>与ダメージが上昇する( 効果小 )",
+    "name": "Axe Prowess Ⅰ",
+    "flavor_text": "When attacking with axes, damage increases (small effect).",
     "special_effect_ids": [
       802040428
     ],
@@ -1711,8 +1711,8 @@
   },
   {
     "id": 702100536,
-    "name": "希望の歌",
-    "flavor_text": "味方が全員生存している時<br>味方全体の与ダメージが上昇( 効果小 )し、かつ、味方全体への被ダメージを軽減( 効果小 )する",
+    "name": "Song of Hope",
+    "flavor_text": "When all allies are still surviving, increases attack damage for all allies (small effect), and reduces damage for all allies (small effect).",
     "special_effect_ids": [
       802040530,
       802040531
@@ -1722,8 +1722,8 @@
   },
   {
     "id": 702100539,
-    "name": "戦端の銅鑼",
-    "flavor_text": "攻撃を受けた時 <br>直接攻撃に対して、どら鳴らし+でカウンター攻撃する( 確率大 )<br>( 技Rank1で発動 )",
+    "name": "Battle Gong",
+    "flavor_text": "When being directly attacked, counterattacks with Gong Ringer+ (high chance).<br>(Activates using skill Rank 1).",
     "special_effect_ids": [
       802040535
     ],
@@ -1798,6 +1798,17 @@
     "special_effect_ids": [
       802040001,
       802040015
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100674,
+    "name": "Weak Tension",
+    "flavor_text": "Attacks' damage increases (large effect).<br>When landing a Weak attack, damage increases further (medium effect).",
+    "special_effect_ids": [
+      802040001,
+      802040005
     ],
     "ability_when": 1,
     "icon": 4010
@@ -4745,8 +4756,8 @@
   },
   {
     "id": 702600535,
-    "name": "石化の蚕食",
-    "flavor_text": "攻撃命中時<br>対象を石化させる( 確率中/効果5ターン )",
+    "name": "Petrifying Breach",
+    "flavor_text": "When landing an attack, inflicts petrification on target (medium chance/5 turn(s)).",
     "special_effect_ids": [
       802030538
     ],
@@ -6069,8 +6080,8 @@
   },
   {
     "id": 708300057,
-    "name": "瘴気",
-    "flavor_text": "[ターン開始時] <br>敵生存者全体の精神と愛と魅力を低下させる( 効果極大 )",
+    "name": "Miasma",
+    "flavor_text": "[Start of turn]<br>Reduces LOV/CHA for all surviving enemies (extreme effect).<br>Reduces WIL for all surviving enemies (very large effect).",
     "special_effect_ids": [
       808010062,
       808010063,
@@ -6252,7 +6263,7 @@
   },
   {
     "id": 750100529,
-    "name": "Pre-Action Defense Boost + Action Order Down",
+    "name": "Pre-Action Def. Boost (v. large) + Action Order Down (med.)",
     "flavor_text": "Grants a defense boost (very large effect) before an action is made.<br>Decreases action order value (medium effect).",
     "special_effect_ids": [
       850040525,
@@ -6319,6 +6330,17 @@
     "special_effect_ids": [
       802040014,
       802040322
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 1702100007,
+    "name": "From Attack to Defense",
+    "flavor_text": "When HP is full, attacks' damage increases (very large effect).<br>When HP is not full, damage taken will be reduced (large effect).",
+    "special_effect_ids": [
+      802040342,
+      1802040017
     ],
     "ability_when": 1,
     "icon": 4010
@@ -6479,6 +6501,17 @@
     ],
     "ability_when": 6,
     "icon": 4010
+  },
+  {
+    "id": 1702600007,
+    "name": "Petrificus",
+    "flavor_text": "When landing an attack, inflicts petrification on target (medium chance/5 turn(s)).<br>When landing an attack, reduces target's AGI (medium chance/medium effect).",
+    "special_effect_ids": [
+      802030538,
+      802010187
+    ],
+    "ability_when": 6,
+    "icon": 3009
   },
   {
     "id": 1708100001,

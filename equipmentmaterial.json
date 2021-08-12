@@ -208,5 +208,25 @@
     "selling_price": 50,
     "rarity": 5,
     "sort_order": 999
+  },
+  {
+    "id": 674001,
+    "name": "[S] Modstone I",
+    "flavor_text": "Material used to evolve SS weapons. Can be used in the Forge. Obtainable from events.",
+    "equipment_material_category_id": 7,
+    "icon": 674001,
+    "selling_price": 20,
+    "rarity": 4,
+    "sort_order": 1000
+  },
+  {
+    "id": 675001,
+    "name": "[SS] Modstone II",
+    "flavor_text": "Material used to evolve SS weapons. Can be used in the Forge. Obtainable from events.",
+    "equipment_material_category_id": 7,
+    "icon": 675001,
+    "selling_price": 50,
+    "rarity": 5,
+    "sort_order": 1001
   }
 ]

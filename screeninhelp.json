@@ -3059,7 +3059,7 @@
   {
     "id": 323,
     "name": "Quest_Event_1170",
-    "title": "掘り出せ！鉱山洞窟",
+    "title": "Get diggin'! Mining Caves",
     "size": 3,
     "banners": [
       9774
@@ -3068,7 +3068,7 @@
   {
     "id": 324,
     "name": "Quest_Event_1138",
-    "title": "フォルネウスとの戦い",
+    "title": "Battle with Forneus",
     "size": 3,
     "banners": [
       9775
@@ -3086,7 +3086,7 @@
   {
     "id": 326,
     "name": "Quest_Event_1171",
-    "title": "アビスナーガとの戦い",
+    "title": "Battle with Abyssal Naga",
     "size": 3,
     "banners": [
       9777,
@@ -3094,16 +3094,13 @@
       9779,
       9780,
       9781,
-      9782,
-      9783,
-      9785,
-      9784
+      9782
     ]
   },
   {
     "id": 327,
     "name": "Quest_Event_1139",
-    "title": "遠征特訓準備",
+    "title": "Expedition Prep",
     "size": 3,
     "banners": [
       9785,
@@ -3114,7 +3111,7 @@
   {
     "id": 328,
     "name": "Quest_Event_1140",
-    "title": "遠征特訓",
+    "title": "Expedition",
     "size": 3,
     "banners": [
       9788,
@@ -3133,7 +3130,7 @@
   {
     "id": 331,
     "name": "Quest_Event_1174",
-    "title": "聖塔ランスの娘~聖王~前編",
+    "title": "Divine Tower: Matriarch (Part 1) ",
     "size": 3,
     "banners": [
       9821,
@@ -3147,7 +3144,7 @@
   {
     "id": 332,
     "name": "Quest_Event_1172",
-    "title": "財宝の穴",
+    "title": "Treasure Cave",
     "size": 3,
     "banners": [
       9827,
@@ -3158,7 +3155,7 @@
   {
     "id": 333,
     "name": "Quest_Event_1173",
-    "title": "財宝の穴(黄金)",
+    "title": "Treasure Cave (Gold)",
     "size": 3,
     "banners": [
       9830,
@@ -3169,7 +3166,7 @@
   {
     "id": 334,
     "name": "Quest_Event_1175",
-    "title": "聖塔ランスの娘~聖王~後編",
+    "title": "Divine Tower: Matriarch (Part 2)",
     "size": 3,
     "banners": [
       9833,
@@ -3183,7 +3180,7 @@
   {
     "id": 335,
     "name": "Quest_Event_1060",
-    "title": "副防具聖石の洞窟",
+    "title": "Cave of Gear Holy Stones",
     "size": 3,
     "banners": [
       9839
@@ -3284,6 +3281,15 @@
     "size": 3,
     "banners": [
       1000000003
+    ]
+  },
+  {
+    "id": 1000000007,
+    "name": "Quest_Daily_6",
+    "title": "RS3 TC/KO Versions Release Quest",
+    "size": 3,
+    "banners": [
+      1000000005
     ]
   }
 ]

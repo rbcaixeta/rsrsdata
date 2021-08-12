@@ -1364,11 +1364,11 @@
   {
     "id": 801010465,
     "state_change_id": 900010012,
-    "name": "腕力アップ",
-    "flavor_text": "腕力が上昇する",
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "能力↑",
+    "text_pop": "Attributes↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -1380,8 +1380,8 @@
   {
     "id": 801010466,
     "state_change_id": 900010013,
-    "name": "体力アップ",
-    "flavor_text": "体力が上昇する",
+    "name": "END Up",
+    "flavor_text": "Increases END.",
     "target_area": 8,
     "state_vars": [],
     "text_pop": "",
@@ -3423,7 +3423,7 @@
   {
     "id": 801040356,
     "state_change_id": 900050054,
-    "name": "Recover HP (med)",
+    "name": "Recover HP (medium)",
     "flavor_text": "Recovers HP.",
     "target_area": 8,
     "state_vars": [
@@ -3477,7 +3477,7 @@
   {
     "id": 801040359,
     "state_change_id": 900050054,
-    "name": "Recover HP (med)",
+    "name": "Recover HP (medium)",
     "flavor_text": "Recovers HP.",
     "target_area": 1,
     "state_vars": [
@@ -3837,7 +3837,7 @@
   {
     "id": 801040412,
     "state_change_id": 900050054,
-    "name": "Recover HP (med)",
+    "name": "Recover HP (medium)",
     "flavor_text": "Recovers HP.",
     "target_area": 1,
     "state_vars": [
@@ -4225,13 +4225,13 @@
   {
     "id": 801040459,
     "state_change_id": 900040034,
-    "name": "タイドルアー",
-    "flavor_text": "敵の直接攻撃に対して、メイルシュトロームでカウンター攻撃を行う",
+    "name": "Tidal Lure",
+    "flavor_text": "Counters direct enemy attacks with Maelstrom.",
     "target_area": 1,
     "state_vars": [
       110800063
     ],
-    "text_pop": "反撃態勢",
+    "text_pop": "Counter Stance",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -4243,8 +4243,8 @@
   {
     "id": 801040460,
     "state_change_id": 900050073,
-    "name": "縦横無斬",
-    "flavor_text": "縦横無斬で攻撃後、横技一列で範囲攻撃を行う",
+    "name": "Vertical Cross",
+    "flavor_text": "After attacking with Vertical Cross, attack with a row attack skill.",
     "target_area": 1,
     "state_vars": [
       110300059
@@ -4261,8 +4261,8 @@
   {
     "id": 801040461,
     "state_change_id": 900050073,
-    "name": "ラピッドファイア",
-    "flavor_text": "ラピッドファイアで攻撃後、横技一列で範囲攻撃を行う",
+    "name": "Rapid Fire",
+    "flavor_text": "After attacking with Rapid Fire, attack with a row attack skill.",
     "target_area": 1,
     "state_vars": [
       110900042
@@ -8073,11 +8073,11 @@
   {
     "id": 802030538,
     "state_change_id": 900030006,
-    "name": "石化",
-    "flavor_text": "行動不能になる<br>ターン経過で自然回復する",
+    "name": "Petrification",
+    "flavor_text": "Character is incapacitated.<br>Recovers after some number of turns.",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "石化",
+    "text_pop": "Petrification",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -9618,8 +9618,8 @@
   {
     "id": 802040272,
     "state_change_id": 900040035,
-    "name": "カウンター防御",
-    "flavor_text": "敵の直接攻撃に対して、まれに通常攻撃でカウンター攻撃を行う<br>さらに被ダメージが低下する",
+    "name": "Counter Defense",
+    "flavor_text": "When being directly attacked, has a medium chance to launch a normal counterattack and reduce damage.",
     "target_area": 1,
     "state_vars": [
       110600010,
@@ -9808,8 +9808,8 @@
   {
     "id": 802040282,
     "state_change_id": 900040035,
-    "name": "カウンター防御",
-    "flavor_text": "敵の直接攻撃に対して、ごくまれに通常攻撃でカウンター攻撃を行う<br>さらに被ダメージが低下する",
+    "name": "Counter Defense",
+    "flavor_text": "When being directly attacked, has a low chance to launch a normal counterattack and reduce damage.",
     "target_area": 1,
     "state_vars": [
       110600010,
@@ -9993,8 +9993,8 @@
   {
     "id": 802040292,
     "state_change_id": 900040036,
-    "name": "カウンター回避",
-    "flavor_text": "ごくまれに敵の直接攻撃を回避して、通常攻撃でカウンター攻撃を行う",
+    "name": "Counter Evasion",
+    "flavor_text": "Has a low chance to evade enemy's direct attack, then counterattack with a normal attack.",
     "target_area": 1,
     "state_vars": [
       110600010
@@ -10479,8 +10479,8 @@
   {
     "id": 802040334,
     "state_change_id": 900040036,
-    "name": "カウンター回避",
-    "flavor_text": "まれに敵の直接攻撃を回避して、通常攻撃でカウンター攻撃を行う",
+    "name": "Counter Evasion",
+    "flavor_text": "Has a medium chance to evade enemy's direct attack, then counterattack with a normal attack.",
     "target_area": 1,
     "state_vars": [
       110300018
@@ -10497,8 +10497,8 @@
   {
     "id": 802040335,
     "state_change_id": 900040036,
-    "name": "カウンター回避",
-    "flavor_text": "まれに敵の直接攻撃を回避して、通常攻撃でカウンター攻撃を行う",
+    "name": "Counter Evasion",
+    "flavor_text": "Has a medium chance to evade enemy's direct attack, then counterattack with a normal attack.",
     "target_area": 1,
     "state_vars": [
       110400017
@@ -10515,8 +10515,8 @@
   {
     "id": 802040336,
     "state_change_id": 900040036,
-    "name": "カウンター回避",
-    "flavor_text": "まれに敵の直接攻撃を回避して、通常攻撃でカウンター攻撃を行う",
+    "name": "Counter Evasion",
+    "flavor_text": "Has a medium chance to evade enemy's direct attack, then counterattack with a normal attack.",
     "target_area": 1,
     "state_vars": [
       110500029
@@ -10551,8 +10551,8 @@
   {
     "id": 802040338,
     "state_change_id": 900040036,
-    "name": "カウンター回避",
-    "flavor_text": "まれに敵の直接攻撃を回避して、通常攻撃でカウンター攻撃を行う",
+    "name": "Counter Evasion",
+    "flavor_text": "Has a medium chance to evade enemy's direct attack, then counterattack with a normal attack.",
     "target_area": 1,
     "state_vars": [
       110700021
@@ -10587,8 +10587,8 @@
   {
     "id": 802040340,
     "state_change_id": 900040036,
-    "name": "カウンター回避",
-    "flavor_text": "まれに敵の直接攻撃を回避して、通常攻撃でカウンター攻撃を行う",
+    "name": "Counter Evasion",
+    "flavor_text": "Has a medium chance to evade enemy's direct attack, then counterattack with a normal attack.",
     "target_area": 1,
     "state_vars": [
       110900017
@@ -10605,8 +10605,8 @@
   {
     "id": 802040341,
     "state_change_id": 900040036,
-    "name": "カウンター回避",
-    "flavor_text": "まれに敵の直接攻撃を回避して、通常攻撃でカウンター攻撃を行う",
+    "name": "Counter Evasion",
+    "flavor_text": "Has a medium chance to evade enemy's direct attack, then counterattack with a normal attack.",
     "target_area": 1,
     "state_vars": [
       111000001
@@ -11090,11 +11090,11 @@
   {
     "id": 802040428,
     "state_change_id": 900040048,
-    "name": "斧攻撃強化",
-    "flavor_text": "斧装備時の攻撃のダメージが上昇する",
+    "name": "Axe Attack Boost",
+    "flavor_text": "Increases damage dealt by axe attacks.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -11427,7 +11427,7 @@
   {
     "id": 802040475,
     "state_change_id": 900040062,
-    "name": "Defend at Low HP",
+    "name": "Defend at Non-Full HP",
     "flavor_text": "Decreases damage taken when HP is not full.",
     "target_area": 1,
     "state_vars": [
@@ -12051,11 +12051,11 @@
   {
     "id": 802040530,
     "state_change_id": 900040048,
-    "name": "全員生存時攻撃強化",
-    "flavor_text": "味方が全員生存している時、攻撃のダメージが上昇する",
+    "name": "All Allies Surviving Attack Boost",
+    "flavor_text": "Increases attack damage when all allies are surviving.",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -12067,13 +12067,13 @@
   {
     "id": 802040531,
     "state_change_id": 900040062,
-    "name": "全員生存時防御",
-    "flavor_text": "味方が全員生存している時、被ダメージが低下する",
+    "name": "All Allies Surviving Defense",
+    "flavor_text": "Decreases damage taken when all allies are surviving.",
     "target_area": 3,
     "state_vars": [
       95
     ],
-    "text_pop": "防御↑",
+    "text_pop": "DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -12117,8 +12117,8 @@
   {
     "id": 802040535,
     "state_change_id": 900040034,
-    "name": "戦端の銅鑼",
-    "flavor_text": "敵の直接攻撃に対して、どら鳴らし+でカウンター攻撃を行う( 確率大 )",
+    "name": "Battle Gong",
+    "flavor_text": "Counters direct enemy attacks with Gong Ringer+ (high chance).",
     "target_area": 1,
     "state_vars": [
       110400046
@@ -14011,11 +14011,11 @@
   {
     "id": 808010062,
     "state_change_id": 900010017,
-    "name": "精神ダウン",
-    "flavor_text": "精神が低下する",
+    "name": "WIL Down",
+    "flavor_text": "Decreases WIL.",
     "target_area": 5,
     "state_vars": [],
-    "text_pop": "精神 愛<br>魅力↓",
+    "text_pop": "Attributes↓",
     "text_color": "FF0000",
     "enchantment_effect_id": "Debuff",
     "ignition_effect_id": "",
@@ -14027,8 +14027,8 @@
   {
     "id": 808010063,
     "state_change_id": 900010018,
-    "name": "愛ダウン",
-    "flavor_text": "愛が低下する",
+    "name": "LOV Down",
+    "flavor_text": "Decreases LOV.",
     "target_area": 5,
     "state_vars": [],
     "text_pop": "",
@@ -14043,8 +14043,8 @@
   {
     "id": 808010064,
     "state_change_id": 900010019,
-    "name": "魅力ダウン",
-    "flavor_text": "魅力が低下する",
+    "name": "CHA Down",
+    "flavor_text": "Decreases CHA.",
     "target_area": 5,
     "state_vars": [],
     "text_pop": "",
@@ -17194,6 +17194,24 @@
     "state_icon": 3001
   },
   {
+    "id": 809040291,
+    "state_change_id": 900050054,
+    "name": "Recover HP (medium)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 1,
+    "state_vars": [
+      20
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 809040303,
     "state_change_id": 900030010,
     "name": "Stalk",
@@ -17246,7 +17264,7 @@
   {
     "id": 850040523,
     "state_change_id": 950040078,
-    "name": "Action Order Down",
+    "name": "Action Order Down (medium)",
     "flavor_text": "Decrease in the action order value (medium effect).",
     "target_area": 1,
     "state_vars": [],
@@ -17262,7 +17280,7 @@
   {
     "id": 850040525,
     "state_change_id": 900040062,
-    "name": "Pre-action Defense Boost",
+    "name": "Pre-Action Defense Boost (v. large)",
     "flavor_text": "Reduces damage taken in a pre-action stance (very large effect).",
     "target_area": 1,
     "state_vars": [
@@ -17340,6 +17358,24 @@
     "display_flag": 0,
     "direction_id": 1,
     "state_icon": 2001
+  },
+  {
+    "id": 1801010005,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 3,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
   },
   {
     "id": 1801010430,
@@ -17582,6 +17618,24 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040018,
+    "state_change_id": 900050073,
+    "name": "Rapid Fire",
+    "flavor_text": "After attacking with Rapid Fire, attack with a row attack skill.",
+    "target_area": 1,
+    "state_vars": [
+      1110900003
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
     "direction_id": 1,
     "state_icon": 3001
   },
@@ -17992,6 +18046,24 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040017,
+    "state_change_id": 900040062,
+    "name": "Defend at Non-Full HP",
+    "flavor_text": "Decreases damage taken when HP is not full.",
+    "target_area": 1,
+    "state_vars": [
+      70
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
     "direction_id": 1,
     "state_icon": 3001
   },

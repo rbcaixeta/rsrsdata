@@ -2286,5 +2286,60 @@
     "priority": 2500,
     "ribbon_text": "",
     "trigger_quest_id": 100103103
+  },
+  {
+    "id": 1000000001,
+    "summary": "Defeat 600 Enemies",
+    "description": "Defeat 600 enemies",
+    "reward_type": 10,
+    "reward_id": 821075,
+    "reward_quantity": 15,
+    "priority": 1994,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
+  },
+  {
+    "id": 1000000002,
+    "summary": "Complete 120 Quests",
+    "description": "Complete any 120 quests",
+    "reward_type": 10,
+    "reward_id": 821075,
+    "reward_quantity": 20,
+    "priority": 1978,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
+  },
+  {
+    "id": 1000000003,
+    "summary": "Perform 4 Summons",
+    "description": "Perform 4 Summons",
+    "reward_type": 10,
+    "reward_id": 821075,
+    "reward_quantity": 5,
+    "priority": 1971,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
+  },
+  {
+    "id": 1000000004,
+    "summary": "Send 6 Expeditions",
+    "description": "Send 6 Expeditions",
+    "reward_type": 10,
+    "reward_id": 821075,
+    "reward_quantity": 5,
+    "priority": 1964,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
+  },
+  {
+    "id": 1000000005,
+    "summary": "Replenish Energy (NRG) 4 Times",
+    "description": "Replenish your energy (NRG) 4 times",
+    "reward_type": 10,
+    "reward_id": 821075,
+    "reward_quantity": 5,
+    "priority": 1959,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
   }
 ]

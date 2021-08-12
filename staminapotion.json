@@ -398,5 +398,35 @@
     "value": 90,
     "sort_order": 1201,
     "expired_at": 1631062799
+  },
+  {
+    "id": 1000840015,
+    "name": "RS3 TC/KO Release Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1634086799] <tz>)",
+    "icon": 1000840003,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 1205,
+    "expired_at": 1634086799
+  },
+  {
+    "id": 1000840016,
+    "name": "RS3 TC/KO Release Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1634086799] <tz>)",
+    "icon": 1000840004,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 1206,
+    "expired_at": 1634086799
+  },
+  {
+    "id": 1000840017,
+    "name": "RS3 TC/KO Release Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1634086799] <tz>)",
+    "icon": 1000840005,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 1207,
+    "expired_at": 1634086799
   }
 ]

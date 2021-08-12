@@ -6035,5 +6035,47 @@
     "battle_id": 980007041,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1000000007,
+    "name": "RS3 TC/KO Versions Release Quest",
+    "sort_order": 1,
+    "banner": 1000901003,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 1000810009
+      },
+      {
+        "type": 12,
+        "id": 1000840016
+      },
+      {
+        "type": 12,
+        "id": 1000840015
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090526,
+      1000090527,
+      1000090528,
+      1000090529
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 6,
+    "battle_id": 1950010003,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
   }
 ]

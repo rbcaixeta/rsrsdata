@@ -90509,6 +90509,1359 @@
     "is_required_for_area_clear": 1
   },
   {
+    "id": 911035011,
+    "quest_type": 1,
+    "name": "1. The Great E-Rat-Ication!",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905924,
+      19906024,
+      19906124
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 2
+      },
+      {
+        "type": 4,
+        "id": 403001,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403004,
+        "quantity": 5
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035021,
+    "quest_type": 1,
+    "name": "2. The Great E-Rat-Ication!",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905927,
+      19906027,
+      19906127
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 2
+      },
+      {
+        "type": 4,
+        "id": 403007,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403010,
+        "quantity": 5
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035031,
+    "quest_type": 1,
+    "name": "3. The Great E-Rat-Ication!",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905930,
+      19906030,
+      19906130
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 2
+      },
+      {
+        "type": 4,
+        "id": 403013,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403016,
+        "quantity": 5
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035041,
+    "quest_type": 1,
+    "name": "4. The Great E-Rat-Ication!",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905933,
+      19906033,
+      19906133
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 2
+      },
+      {
+        "type": 4,
+        "id": 403019,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403022,
+        "quantity": 5
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035051,
+    "quest_type": 1,
+    "name": "5. The Great E-Rat-Ication!",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905936,
+      19906036,
+      19906136
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403001,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403004,
+        "quantity": 5
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035061,
+    "quest_type": 1,
+    "name": "6. The Great E-Rat-Ication!",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905939,
+      19906039,
+      19906139
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 2
+      },
+      {
+        "type": 4,
+        "id": 403007,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403010,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840003,
+        "quantity": 20
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035071,
+    "quest_type": 1,
+    "name": "7. The Great E-Rat-Ication!",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905942,
+      19906042,
+      19906142
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 2
+      },
+      {
+        "type": 4,
+        "id": 403013,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403016,
+        "quantity": 5
+      },
+      {
+        "type": 26,
+        "id": 501500100,
+        "quantity": 40
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035081,
+    "quest_type": 1,
+    "name": "8. The Great E-Rat-Ication!",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905945,
+      19906045,
+      19906145
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 3
+      },
+      {
+        "type": 4,
+        "id": 403019,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403022,
+        "quantity": 5
+      },
+      {
+        "type": 26,
+        "id": 502500100,
+        "quantity": 40
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035091,
+    "quest_type": 1,
+    "name": "9. The Great E-Rat-Ication!",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905948,
+      19906048,
+      19906148
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403001,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403004,
+        "quantity": 5
+      },
+      {
+        "type": 26,
+        "id": 503500100,
+        "quantity": 40
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035101,
+    "quest_type": 1,
+    "name": "10. The Great E-Rat-Ication!",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905951,
+      19906051,
+      19906151
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 10
+      },
+      {
+        "type": 4,
+        "id": 403007,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403010,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035111,
+    "quest_type": 1,
+    "name": "11. The Great E-Rat-Ication!",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 15,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905954,
+      19906054,
+      19906154
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 2
+      },
+      {
+        "type": 4,
+        "id": 403013,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403016,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 2
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027111,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035121,
+    "quest_type": 1,
+    "name": "12. The Great E-Rat-Ication!",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 15,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905957,
+      19906057,
+      19906157
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 2
+      },
+      {
+        "type": 4,
+        "id": 403019,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 403022,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 304001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027121,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035131,
+    "quest_type": 1,
+    "name": "13. The Great E-Rat-Ication!",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905960,
+      19906060,
+      19906160
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 2
+      },
+      {
+        "type": 4,
+        "id": 404002,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 404005,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 304001,
+        "quantity": 2
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027131,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035121
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035141,
+    "quest_type": 1,
+    "name": "14. The Great E-Rat-Ication!",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905963,
+      19906063,
+      19906163
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 2
+      },
+      {
+        "type": 4,
+        "id": 404008,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 404011,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 305001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027141,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035131
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035151,
+    "quest_type": 1,
+    "name": "15. The Great E-Rat-Ication!",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905966,
+      19906066,
+      19906166
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 3
+      },
+      {
+        "type": 4,
+        "id": 404014,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 404017,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 305001,
+        "quantity": 2
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027151,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035141
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035161,
+    "quest_type": 1,
+    "name": "16. The Great E-Rat-Ication!",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905969,
+      19906069,
+      19906169
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 23
+      },
+      {
+        "type": 4,
+        "id": 404020,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 404023,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027161,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035171,
+    "quest_type": 1,
+    "name": "17. The Great E-Rat-Ication!",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905972,
+      19906072,
+      19906172
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 24
+      },
+      {
+        "type": 4,
+        "id": 404002,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 404005,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027171,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035161
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035181,
+    "quest_type": 1,
+    "name": "18. The Great E-Rat-Ication!",
+    "sort_order": 18,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905975,
+      19906075,
+      19906175
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 24
+      },
+      {
+        "type": 4,
+        "id": 404008,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 404011,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027181,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035191,
+    "quest_type": 1,
+    "name": "19. The Great E-Rat-Ication!",
+    "sort_order": 19,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905978,
+      19906078,
+      19906178
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 25
+      },
+      {
+        "type": 4,
+        "id": 404014,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 404017,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027191,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035181
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035201,
+    "quest_type": 1,
+    "name": "20. The Great E-Rat-Ication!",
+    "sort_order": 20,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905981,
+      19906081,
+      19906181
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 30
+      },
+      {
+        "type": 4,
+        "id": 404020,
+        "quantity": 5
+      },
+      {
+        "type": 4,
+        "id": 404023,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027201,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035191
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035211,
+    "quest_type": 1,
+    "name": "The Great E-Rat-Ication! (Challenge 1)",
+    "sort_order": 21,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905984,
+      19906084,
+      19906184
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027211,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035221,
+    "quest_type": 1,
+    "name": "The Great E-Rat-Ication! (Challenge 2)",
+    "sort_order": 22,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905987,
+      19906087,
+      19906187
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027221,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035211
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035231,
+    "quest_type": 1,
+    "name": "The Great E-Rat-Ication! (Challenge 3)",
+    "sort_order": 23,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905990,
+      19906090,
+      19906190
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027231,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035221
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911035241,
+    "quest_type": 1,
+    "name": "The Great E-Rat-Ication! (Romancing)",
+    "sort_order": 24,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921026,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      19905993,
+      19906093,
+      19906193
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 90
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1035,
+    "battle_id": 910027241,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911035231
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
     "id": 911036011,
     "quest_type": 1,
     "name": "1. Pyrix (Normal)",
@@ -111515,6 +112868,1580 @@
     "scenario_id": 0,
     "prev_quest_ids": [
       911130171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171011,
+    "quest_type": 1,
+    "name": "1. Battle with Abyssal Naga (Normal)",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93434,
+      93459
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 7,
+        "reward_type": 7,
+        "reward_id": 1100393
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171021,
+    "quest_type": 1,
+    "name": "2. Battle with Abyssal Naga (Normal)",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93435,
+      93460
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171031,
+    "quest_type": 1,
+    "name": "3. Battle with Abyssal Naga (Normal)",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93436,
+      93461
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171041,
+    "quest_type": 1,
+    "name": "4. Battle with Abyssal Naga (Normal)",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93437,
+      93462
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171051,
+    "quest_type": 1,
+    "name": "5. Battle with Abyssal Naga (Normal)",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93438,
+      93463
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171041
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 7,
+        "reward_type": 7,
+        "reward_id": 1100393
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171061,
+    "quest_type": 1,
+    "name": "6. Battle with Abyssal Naga (Hard)",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93439,
+      93464
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171071,
+    "quest_type": 1,
+    "name": "7. Battle with Abyssal Naga (Hard)",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93440,
+      93465
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171081,
+    "quest_type": 1,
+    "name": "8. Battle with Abyssal Naga (Hard)",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93441,
+      93466
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171091,
+    "quest_type": 1,
+    "name": "9. Battle with Abyssal Naga (Hard)",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93442,
+      93467
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171101,
+    "quest_type": 1,
+    "name": "10. Battle with Abyssal Naga (Hard)",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93443,
+      93468
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171091
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 7,
+        "reward_type": 7,
+        "reward_id": 1100393
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171111,
+    "quest_type": 1,
+    "name": "11. Battle with Abyssal Naga (Very Hard)",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93444,
+      93469,
+      93509
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046111,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171121,
+    "quest_type": 1,
+    "name": "12. Battle with Abyssal Naga (Very Hard)",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93445,
+      93470,
+      93510
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046121,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171131,
+    "quest_type": 1,
+    "name": "13. Battle with Abyssal Naga (Very Hard)",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93446,
+      93471,
+      93511
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046131,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171121
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171141,
+    "quest_type": 1,
+    "name": "14. Battle with Abyssal Naga (Very Hard)",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93447,
+      93472,
+      93512
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046141,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171131
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171151,
+    "quest_type": 1,
+    "name": "15. Battle with Abyssal Naga (Very Hard)",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93448,
+      93473,
+      93513
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046151,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171141
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 7,
+        "reward_type": 7,
+        "reward_id": 1100393
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171161,
+    "quest_type": 1,
+    "name": "16. Battle with Abyssal Naga (Very Hard)",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93449,
+      93474,
+      93514
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046161,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171171,
+    "quest_type": 1,
+    "name": "17. Battle with Abyssal Naga (Very Hard)",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93450,
+      93475,
+      93515
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046171,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171161
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171181,
+    "quest_type": 1,
+    "name": "18. Battle with Abyssal Naga (Very Hard)",
+    "sort_order": 18,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93451,
+      93476,
+      93516
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046181,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171191,
+    "quest_type": 1,
+    "name": "19. Battle with Abyssal Naga (Very Hard)",
+    "sort_order": 19,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93452,
+      93477,
+      93517
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046191,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171181
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171201,
+    "quest_type": 1,
+    "name": "20. Battle with Abyssal Naga (Very Hard)",
+    "sort_order": 20,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93453,
+      93478,
+      93518
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046201,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171191
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 7,
+        "reward_type": 7,
+        "reward_id": 1100393
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171211,
+    "quest_type": 1,
+    "name": "21. Battle with Abyssal Naga (Ultra Hard)",
+    "sort_order": 21,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93454,
+      93479,
+      93518
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046211,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171201
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 7,
+        "reward_type": 7,
+        "reward_id": 1100393
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171221,
+    "quest_type": 1,
+    "name": "22. Battle with Abyssal Naga (Ultra Hard)",
+    "sort_order": 22,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93455,
+      93480,
+      93518
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046221,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171211
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 7,
+        "reward_type": 7,
+        "reward_id": 1100393
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171231,
+    "quest_type": 1,
+    "name": "23. Battle with Abyssal Naga (Ultra Hard)",
+    "sort_order": 23,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93456,
+      93481,
+      93518
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046231,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171221
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 7,
+        "reward_type": 7,
+        "reward_id": 1100393
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171241,
+    "quest_type": 1,
+    "name": "24. Battle with Abyssal Naga (Ultra Hard)",
+    "sort_order": 24,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93457,
+      93482,
+      93518
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046241,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171231
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 7,
+        "reward_type": 7,
+        "reward_id": 1100393
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171251,
+    "quest_type": 1,
+    "name": "25. Battle with Abyssal Naga (Ultra Hard)",
+    "sort_order": 25,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100393
+      },
+      {
+        "type": 7,
+        "id": 1100394
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100393,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100394,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93458,
+      93483,
+      93518
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046251,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171241
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 7,
+        "reward_type": 7,
+        "reward_id": 1100393
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911171261,
+    "quest_type": 1,
+    "name": "Battle with Abyssal Naga (Romancing)",
+    "sort_order": 26,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921048,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 70
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1171,
+    "battle_id": 910046261,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911171251
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,
