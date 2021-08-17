@@ -2,26 +2,31 @@
   {
     "id": 1,
     "rarity": 1,
-    "base_cost": 1
+    "base_cost": 1,
+    "base_cost_evolution_coefficient": 3
   },
   {
     "id": 2,
     "rarity": 2,
-    "base_cost": 1200
+    "base_cost": 1200,
+    "base_cost_evolution_coefficient": 5
   },
   {
     "id": 3,
     "rarity": 3,
-    "base_cost": 2400
+    "base_cost": 2400,
+    "base_cost_evolution_coefficient": 5
   },
   {
     "id": 4,
     "rarity": 4,
-    "base_cost": 4200
+    "base_cost": 4200,
+    "base_cost_evolution_coefficient": 5
   },
   {
     "id": 5,
     "rarity": 5,
-    "base_cost": 6300
+    "base_cost": 6300,
+    "base_cost_evolution_coefficient": 5
   }
 ]

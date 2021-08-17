@@ -3,80 +3,100 @@
     "id": 1,
     "rarity": 1,
     "is_enhancement_material": 0,
-    "base_cost_coefficient": 10,
+    "base_cost_coefficient": 0.10000000149011612,
     "material_cost": 10,
-    "material_exp": 50000
+    "material_exp": 50000,
+    "material_exp_level_coefficient": 0,
+    "material_exp_evolution_coefficient": 0
   },
   {
     "id": 2,
     "rarity": 2,
     "is_enhancement_material": 0,
-    "base_cost_coefficient": 100,
+    "base_cost_coefficient": 1,
     "material_cost": 100,
-    "material_exp": 100
+    "material_exp": 100,
+    "material_exp_level_coefficient": 0,
+    "material_exp_evolution_coefficient": 0
   },
   {
     "id": 3,
     "rarity": 3,
     "is_enhancement_material": 0,
-    "base_cost_coefficient": 150,
+    "base_cost_coefficient": 1.5,
     "material_cost": 150,
-    "material_exp": 150
+    "material_exp": 150,
+    "material_exp_level_coefficient": 0,
+    "material_exp_evolution_coefficient": 0
   },
   {
     "id": 4,
     "rarity": 4,
     "is_enhancement_material": 0,
-    "base_cost_coefficient": 250,
+    "base_cost_coefficient": 2.5,
     "material_cost": 250,
-    "material_exp": 250
+    "material_exp": 250,
+    "material_exp_level_coefficient": 0,
+    "material_exp_evolution_coefficient": 0
   },
   {
     "id": 5,
     "rarity": 5,
     "is_enhancement_material": 0,
-    "base_cost_coefficient": 350,
+    "base_cost_coefficient": 4,
     "material_cost": 350,
-    "material_exp": 350
+    "material_exp": 350,
+    "material_exp_level_coefficient": 0,
+    "material_exp_evolution_coefficient": 0
   },
   {
     "id": 6,
     "rarity": 1,
     "is_enhancement_material": 1,
-    "base_cost_coefficient": 60,
+    "base_cost_coefficient": 0.10000000149011612,
     "material_cost": 60,
-    "material_exp": 50000
+    "material_exp": 50000,
+    "material_exp_level_coefficient": 0,
+    "material_exp_evolution_coefficient": 0
   },
   {
     "id": 7,
     "rarity": 2,
     "is_enhancement_material": 1,
-    "base_cost_coefficient": 100,
+    "base_cost_coefficient": 1,
     "material_cost": 100,
-    "material_exp": 150
+    "material_exp": 150,
+    "material_exp_level_coefficient": 0,
+    "material_exp_evolution_coefficient": 0
   },
   {
     "id": 8,
     "rarity": 3,
     "is_enhancement_material": 1,
-    "base_cost_coefficient": 150,
+    "base_cost_coefficient": 1.5,
     "material_cost": 150,
-    "material_exp": 450
+    "material_exp": 450,
+    "material_exp_level_coefficient": 0,
+    "material_exp_evolution_coefficient": 0
   },
   {
     "id": 9,
     "rarity": 4,
     "is_enhancement_material": 1,
-    "base_cost_coefficient": 250,
+    "base_cost_coefficient": 2.5,
     "material_cost": 250,
-    "material_exp": 750
+    "material_exp": 750,
+    "material_exp_level_coefficient": 0,
+    "material_exp_evolution_coefficient": 0
   },
   {
     "id": 10,
     "rarity": 5,
     "is_enhancement_material": 1,
-    "base_cost_coefficient": 350,
+    "base_cost_coefficient": 4,
     "material_cost": 350,
-    "material_exp": 1050
+    "material_exp": 1050,
+    "material_exp_level_coefficient": 0,
+    "material_exp_evolution_coefficient": 0
   }
 ]
