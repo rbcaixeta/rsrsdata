@@ -838,9 +838,9 @@
       1100238,
       1100239
     ],
-    "priority": 6069,
-    "start_at": 1605679200,
-    "end_at": 1607907599
+    "priority": 6129,
+    "start_at": 1629334800,
+    "end_at": 1631753999
   },
   {
     "id": 4900068,
@@ -2672,5 +2672,20 @@
     "priority": 10084,
     "start_at": 1628816400,
     "end_at": 1631235599
+  },
+  {
+    "id": 1004900031,
+    "shop_type": 4,
+    "banner": 1001000025,
+    "ribbon_type": 0,
+    "ribbon_start_at": 0,
+    "ribbon_end_at": 0,
+    "currency": 4,
+    "currency_item_ids": [
+      1000800023
+    ],
+    "priority": 10086,
+    "start_at": 1629334800,
+    "end_at": 1631753999
   }
 ]

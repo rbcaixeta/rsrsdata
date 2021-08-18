@@ -6346,6 +6346,18 @@
     "icon": 4010
   },
   {
+    "id": 1702100008,
+    "name": "Won't Let Go",
+    "flavor_text": "Attacks' damage increases (large effect).<br>When HP is not full, attacks' damage increases further (medium effect), and damage taken will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040001,
+      1802040018,
+      802040475
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -6542,6 +6554,58 @@
     ],
     "ability_when": 1,
     "icon": 4002
+  },
+  {
+    "id": 1708100004,
+    "name": "Absolute Defense",
+    "flavor_text": "When attacked, damage will be reduced by 100%.",
+    "special_effect_ids": [
+      1808040007
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 1708100005,
+    "name": "Gleaming Reverse",
+    "flavor_text": "When being directly attacked, counterattacks with Gleaming Slash.<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1808040008
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 1708300001,
+    "name": "Poison Rally",
+    "flavor_text": "[Start of turn]<br>Inflicts poison on oneself (10 turn(s)).<br>Inflicts poison on all enemies (10 turn(s)).",
+    "special_effect_ids": [
+      1808030001,
+      1808030002
+    ],
+    "ability_when": 3,
+    "icon": 3001
+  },
+  {
+    "id": 1708400001,
+    "name": "Take It Seriously",
+    "flavor_text": "[End of turn]<br>Recovers all surviving enemies' BP (+2).",
+    "special_effect_ids": [
+      1808040006
+    ],
+    "ability_when": 4,
+    "icon": 4010
+  },
+  {
+    "id": 1708400002,
+    "name": "Regroup",
+    "flavor_text": "[End of Turn]<br>Removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "special_effect_ids": [
+      809040274,
+      809040276
+    ],
+    "ability_when": 4,
+    "icon": 4010
   },
   {
     "id": 1708600001,

@@ -122414,5 +122414,419 @@
     "point_bonuses": [],
     "quest_condition_id": 0,
     "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911001011,
+    "quest_type": 1,
+    "name": "Battle with the Eight Stars",
+    "sort_order": 100,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000002,
+    "stamina": 50,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 200
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001001,
+    "battle_id": 1911001011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911001021,
+    "quest_type": 1,
+    "name": "Battle with Khalid",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000002,
+    "stamina": 50,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001001,
+    "battle_id": 1911001021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911001031,
+    "quest_type": 1,
+    "name": "Battle with Katarina",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000002,
+    "stamina": 50,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001001,
+    "battle_id": 1911001031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911001041,
+    "quest_type": 1,
+    "name": "Battle with Monika",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000002,
+    "stamina": 50,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001001,
+    "battle_id": 1911001041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911001051,
+    "quest_type": 1,
+    "name": "Battle with Mikhail",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000002,
+    "stamina": 50,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001001,
+    "battle_id": 1911001051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911001061,
+    "quest_type": 1,
+    "name": "Battle with Thomas",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000002,
+    "stamina": 50,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001001,
+    "battle_id": 1911001061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911001071,
+    "quest_type": 1,
+    "name": "Battle with Sarah",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000002,
+    "stamina": 50,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001001,
+    "battle_id": 1911001071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911001081,
+    "quest_type": 1,
+    "name": "Battle with Ellen",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000002,
+    "stamina": 50,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001001,
+    "battle_id": 1911001081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911001091,
+    "quest_type": 1,
+    "name": "Battle with Julian",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000002,
+    "stamina": 50,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001001,
+    "battle_id": 1911001091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
   }
 ]

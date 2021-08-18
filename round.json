@@ -206612,6 +206612,173 @@
     "has_enemy_script": 0
   },
   {
+    "id": 1911001011,
+    "round_effect": 1,
+    "bg": 700000033,
+    "bgm": 120037,
+    "victory_bgm": 0,
+    "formation_id": 108000021,
+    "boss_orders": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "opening_battle_drama": 0,
+    "ending_battle_drama": 0,
+    "enemy_ids": [
+      1032301401,
+      1032308301,
+      1032304201,
+      1032306301,
+      1032303301,
+      1032307401,
+      1032305201,
+      1032302301
+    ],
+    "has_enemy_script": 0
+  },
+  {
+    "id": 1911001021,
+    "round_effect": 1,
+    "bg": 700000033,
+    "bgm": 120037,
+    "victory_bgm": 0,
+    "formation_id": 109010001,
+    "boss_orders": [
+      1
+    ],
+    "opening_battle_drama": 0,
+    "ending_battle_drama": 0,
+    "enemy_ids": [
+      1032304101
+    ],
+    "has_enemy_script": 0
+  },
+  {
+    "id": 1911001031,
+    "round_effect": 1,
+    "bg": 700000033,
+    "bgm": 120037,
+    "victory_bgm": 0,
+    "formation_id": 109010001,
+    "boss_orders": [
+      1
+    ],
+    "opening_battle_drama": 0,
+    "ending_battle_drama": 0,
+    "enemy_ids": [
+      1032308201
+    ],
+    "has_enemy_script": 0
+  },
+  {
+    "id": 1911001041,
+    "round_effect": 1,
+    "bg": 700000033,
+    "bgm": 120037,
+    "victory_bgm": 0,
+    "formation_id": 109010001,
+    "boss_orders": [
+      1
+    ],
+    "opening_battle_drama": 0,
+    "ending_battle_drama": 0,
+    "enemy_ids": [
+      1032307101
+    ],
+    "has_enemy_script": 0
+  },
+  {
+    "id": 1911001051,
+    "round_effect": 1,
+    "bg": 700000033,
+    "bgm": 120037,
+    "victory_bgm": 0,
+    "formation_id": 109010001,
+    "boss_orders": [
+      1
+    ],
+    "opening_battle_drama": 0,
+    "ending_battle_drama": 0,
+    "enemy_ids": [
+      1032303311
+    ],
+    "has_enemy_script": 0
+  },
+  {
+    "id": 1911001061,
+    "round_effect": 1,
+    "bg": 700000033,
+    "bgm": 120037,
+    "victory_bgm": 0,
+    "formation_id": 109010001,
+    "boss_orders": [
+      1
+    ],
+    "opening_battle_drama": 0,
+    "ending_battle_drama": 0,
+    "enemy_ids": [
+      1032302101
+    ],
+    "has_enemy_script": 0
+  },
+  {
+    "id": 1911001071,
+    "round_effect": 1,
+    "bg": 700000033,
+    "bgm": 120037,
+    "victory_bgm": 0,
+    "formation_id": 109010001,
+    "boss_orders": [
+      1
+    ],
+    "opening_battle_drama": 0,
+    "ending_battle_drama": 0,
+    "enemy_ids": [
+      1032305101
+    ],
+    "has_enemy_script": 0
+  },
+  {
+    "id": 1911001081,
+    "round_effect": 1,
+    "bg": 700000033,
+    "bgm": 120037,
+    "victory_bgm": 0,
+    "formation_id": 109010001,
+    "boss_orders": [
+      1
+    ],
+    "opening_battle_drama": 0,
+    "ending_battle_drama": 0,
+    "enemy_ids": [
+      1032306101
+    ],
+    "has_enemy_script": 0
+  },
+  {
+    "id": 1911001091,
+    "round_effect": 1,
+    "bg": 700000033,
+    "bgm": 120037,
+    "victory_bgm": 0,
+    "formation_id": 109010001,
+    "boss_orders": [
+      1
+    ],
+    "opening_battle_drama": 0,
+    "ending_battle_drama": 0,
+    "enemy_ids": [
+      1032301411
+    ],
+    "has_enemy_script": 0
+  },
+  {
     "id": 1950010001,
     "round_effect": 1,
     "bg": 700000060,

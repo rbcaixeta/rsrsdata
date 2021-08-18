@@ -3577,6 +3577,112 @@
     "is_required_for_area_clear": 0
   },
   {
+    "id": 921117211,
+    "quest_type": 1,
+    "name": "Treasure Cave",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430012,
+    "stamina": 0,
+    "quest_ticket_id": 821080,
+    "quest_ticket_quantity": 50,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 1409401200
+      },
+      {
+        "type": 18,
+        "id": 1409401100
+      },
+      {
+        "type": 8,
+        "id": 1000810009
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090564,
+      400000152,
+      400000152,
+      400000152,
+      400000152,
+      400000152,
+      400000152,
+      400000152,
+      400000152,
+      400000152,
+      400000152
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1172,
+    "battle_id": 920002011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 921117331,
+    "quest_type": 1,
+    "name": "Treasure Cave (Gold)",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 430012,
+    "stamina": 0,
+    "quest_ticket_id": 821079,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 1409501200
+      },
+      {
+        "type": 18,
+        "id": 1409501100
+      },
+      {
+        "type": 2,
+        "id": 105001
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090566,
+      400000154,
+      400000154,
+      400000154,
+      400000154,
+      400000154,
+      400000154,
+      400000154,
+      400000154,
+      400000154,
+      400000154
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1173,
+    "battle_id": 920002021,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
     "id": 922105151,
     "quest_type": 1,
     "name": "Treasure Cave Spree",
@@ -3777,6 +3883,112 @@
     ],
     "enemy_drop_ids": [],
     "area_id": 1120,
+    "battle_id": 920002021,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 922117221,
+    "quest_type": 1,
+    "name": "Treasure Cave Spree",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 430012,
+    "stamina": 0,
+    "quest_ticket_id": 821080,
+    "quest_ticket_quantity": 250,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 1409401200
+      },
+      {
+        "type": 18,
+        "id": 1409401100
+      },
+      {
+        "type": 8,
+        "id": 1000810009
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090565,
+      400000153,
+      400000153,
+      400000153,
+      400000153,
+      400000153,
+      400000153,
+      400000153,
+      400000153,
+      400000153,
+      400000153
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1172,
+    "battle_id": 920002011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 922117341,
+    "quest_type": 1,
+    "name": "Treasure Cave Spree (Gold)",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 430012,
+    "stamina": 0,
+    "quest_ticket_id": 821079,
+    "quest_ticket_quantity": 5,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 1409501200
+      },
+      {
+        "type": 18,
+        "id": 1409501100
+      },
+      {
+        "type": 2,
+        "id": 105001
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090567,
+      400000155,
+      400000155,
+      400000155,
+      400000155,
+      400000155,
+      400000155,
+      400000155,
+      400000155,
+      400000155,
+      400000155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1173,
     "battle_id": 920002021,
     "scenario_id": 0,
     "prev_quest_ids": [],

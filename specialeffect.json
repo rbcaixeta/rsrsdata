@@ -18068,6 +18068,22 @@
     "state_icon": 3001
   },
   {
+    "id": 1802040018,
+    "state_change_id": 900040048,
+    "name": "ATK Boost at Non-Full HP",
+    "flavor_text": "Increases attack damage when HP is not full.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 1802040362,
     "state_change_id": 900040048,
     "name": "Damage Up",
@@ -18164,6 +18180,38 @@
     "state_icon": 2001
   },
   {
+    "id": 1808030001,
+    "state_change_id": 900030001,
+    "name": "Poison",
+    "flavor_text": "Causes poison damage every turn.",
+    "target_area": 5,
+    "state_vars": [],
+    "text_pop": "Poison",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 1031
+  },
+  {
+    "id": 1808030002,
+    "state_change_id": 900030001,
+    "name": "Poison",
+    "flavor_text": "Causes poison damage every turn.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Poison",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 1031
+  },
+  {
     "id": 1808040001,
     "state_change_id": 900040062,
     "name": "Carapace",
@@ -18253,6 +18301,78 @@
     "text_pop": "Remove Debuff",
     "text_color": "5BFF24",
     "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040006,
+    "state_change_id": 900050055,
+    "name": "Take It Seriously",
+    "flavor_text": "Recovers all surviving enemies' BP at end of turn.",
+    "target_area": 5,
+    "state_vars": [
+      2
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040007,
+    "state_change_id": 900040062,
+    "name": "Absolute Defense",
+    "flavor_text": "Decreases damage taken by 100%.",
+    "target_area": 1,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "Absolute Defense",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "Plane",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040008,
+    "state_change_id": 900040034,
+    "name": "Gleaming Reverse",
+    "flavor_text": "Counters direct enemy attacks with Gleaming Slash.",
+    "target_area": 1,
+    "state_vars": [
+      1601000003
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1809040001,
+    "state_change_id": 900040036,
+    "name": "Counter",
+    "flavor_text": "Counter an enemy's attack.",
+    "target_area": 1,
+    "state_vars": [
+      1607000002
+    ],
+    "text_pop": "Counter Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
