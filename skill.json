@@ -55926,7 +55926,7 @@
     "name": "Conflagration",
     "rush_prefix": "Conflagration",
     "rush_suffix": "Conflagration",
-    "flavor_text": "攻撃/間接/( 熱 )<br>攻撃する",
+    "flavor_text": "Attack/Indirect/(Heat)<br>Attack.",
     "attack_distance": 2,
     "skill_type": 2,
     "battle_type": 51,
@@ -67981,6 +67981,41 @@
     ]
   },
   {
+    "id": 1110500008,
+    "name": "Mach Drift",
+    "rush_prefix": "Mach",
+    "rush_suffix": "Drift",
+    "flavor_text": "Attack/Far/Direct/All Foes (Blunt) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 5,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "B",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500071,
+    "skill_se_cue_sheet_name": "140500071",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
+    ]
+  },
+  {
     "id": 1110600001,
     "name": "Sweet Trap",
     "rush_prefix": "Sweet",
@@ -68443,6 +68478,42 @@
     "is_popup_text": 1,
     "max_awakening_count": 3,
     "awakening_material_set_ids": []
+  },
+  {
+    "id": 1110600014,
+    "name": "Chain Munition",
+    "rush_prefix": "Chain",
+    "rush_suffix": "Munition",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Blunt+Slash) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 6,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2,
+      1
+    ],
+    "power_grade": "C",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1012,
+    "skill_effect": 140600031,
+    "skill_se_cue_sheet_name": "140600031",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30026,
+      30034,
+      30042
+    ]
   },
   {
     "id": 1110700001,

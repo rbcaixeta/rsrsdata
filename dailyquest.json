@@ -5064,6 +5064,49 @@
     "is_required_for_area_clear": 1
   },
   {
+    "id": 391129010,
+    "name": "Summer 2021 Sa・Ga Festival Quest",
+    "sort_order": 1,
+    "banner": 930063,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 1000810010
+      },
+      {
+        "type": 11,
+        "id": 1000830003
+      },
+      {
+        "type": 12,
+        "id": 1000840018
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210000729,
+      210000730,
+      210000731,
+      210000732,
+      210000733
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1129,
+    "battle_id": 950007004,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
     "id": 921089010,
     "name": "1. Boots Trial - Hard",
     "sort_order": 1,

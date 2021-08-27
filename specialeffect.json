@@ -11607,7 +11607,7 @@
     "id": 802040490,
     "state_change_id": 900040036,
     "name": "Rose-Gold Pussy Willow",
-    "flavor_text": "Evade enemy's direct attack, then counterattack with Cat's Claw (medium chance).",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Cat's Claw (medium chance).",
     "target_area": 1,
     "state_vars": [
       110500088
@@ -11804,7 +11804,7 @@
     "id": 802040504,
     "state_change_id": 900040036,
     "name": "Counter Evasion",
-    "flavor_text": "Evades enemy's direct attack, then counterattack with a normal attack (high chance).",
+    "flavor_text": "Evades enemy's direct attack, then counterattacks with a normal attack (high chance).",
     "target_area": 1,
     "state_vars": [
       110700021
@@ -12016,7 +12016,7 @@
     "id": 802040528,
     "state_change_id": 900040036,
     "name": "Counter Evasion",
-    "flavor_text": "Evades enemy's direct attack, then counterattack with a normal attack (high chance).",
+    "flavor_text": "Evades enemy's direct attack, then counterattacks with a normal attack (high chance).",
     "target_area": 1,
     "state_vars": [
       110500029
@@ -18077,6 +18077,25 @@
     "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040019,
+    "state_change_id": 900040035,
+    "name": "Counter Shot",
+    "flavor_text": "Counters direct enemy attacks with Derringer<br>and decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      110600033,
+      65
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 0,

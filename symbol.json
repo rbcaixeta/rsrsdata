@@ -1990,7 +1990,7 @@
   },
   {
     "id": 1163,
-    "name": "？？？？",
+    "name": "????",
     "flavor_text": "Here but somehow not here.",
     "map_id": 1,
     "x": -5,
@@ -2286,5 +2286,18 @@
     "priority": 1,
     "group_id": 2505,
     "in_group_priority": 98
+  },
+  {
+    "id": 1000000002,
+    "name": "Ashura",
+    "flavor_text": "One of the new gods who rules Ashura's World.",
+    "map_id": 1,
+    "x": 3,
+    "y": 4,
+    "illust_category": 2,
+    "illust": 1991821,
+    "priority": 10,
+    "group_id": 2001,
+    "in_group_priority": 99
   }
 ]

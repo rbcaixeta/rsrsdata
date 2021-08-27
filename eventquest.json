@@ -80358,6 +80358,7591 @@
     "is_required_for_area_clear": 0
   },
   {
+    "id": 901122011,
+    "quest_type": 2,
+    "name": "1. A Peculiar Grave",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 0,
+    "scenario_id": 50034001,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122021,
+    "quest_type": 1,
+    "name": "2. Black & White Tower: Entrance I",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 900038411,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122031,
+    "quest_type": 1,
+    "name": "3. Black & White Tower: Entrance II",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 900038421,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122041,
+    "quest_type": 2,
+    "name": "4. Lovesick",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 0,
+    "scenario_id": 50034010,
+    "prev_quest_ids": [
+      901122031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122051,
+    "quest_type": 1,
+    "name": "5. Black & White Tower: Lower Floor I",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 900038431,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122061,
+    "quest_type": 1,
+    "name": "6. Black & White Tower: Lower Floor II",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 900038441,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122071,
+    "quest_type": 2,
+    "name": "7. Shortest & Longest Ways",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 0,
+    "scenario_id": 50034020,
+    "prev_quest_ids": [
+      901122061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122081,
+    "quest_type": 1,
+    "name": "8. Black & White Tower: Middle Floor I",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 900038451,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122091,
+    "quest_type": 1,
+    "name": "9. Black & White Tower: Middle Floor II",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 900038461,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122101,
+    "quest_type": 2,
+    "name": "10. The Village Beauty",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 0,
+    "scenario_id": 50034030,
+    "prev_quest_ids": [
+      901122091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122111,
+    "quest_type": 1,
+    "name": "11. Black & White Tower: Upper Floor I",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 900038471,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122121,
+    "quest_type": 1,
+    "name": "12. Black & White Tower: Upper Floor II",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 900038481,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122131,
+    "quest_type": 2,
+    "name": "13. The Man Who Climbs",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 0,
+    "scenario_id": 50034040,
+    "prev_quest_ids": [
+      901122121
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122141,
+    "quest_type": 1,
+    "name": "14. Black & White Tower: Top Floor",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 900038491,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122131
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122151,
+    "quest_type": 1,
+    "name": "15. So, You've Made It This Far",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 900038501,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122141
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122161,
+    "quest_type": 2,
+    "name": "16. Let Us Begin",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 0,
+    "scenario_id": 50034050,
+    "prev_quest_ids": [
+      901122151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901122171,
+    "quest_type": 2,
+    "name": "17. Creator's Game",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901111,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1122,
+    "battle_id": 0,
+    "scenario_id": 50034060,
+    "prev_quest_ids": [
+      901122161
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901123011,
+    "quest_type": 1,
+    "name": "3. Creator's Game (Esper Girl)",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 1,
+    "banner": 901112,
+    "stamina": 0,
+    "quest_ticket_id": 821073,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 14,
+        "id": 110401,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1123,
+    "battle_id": 900038531,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901123021,
+    "quest_type": 1,
+    "name": "2. Creator's Game (Human Female)",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 1,
+    "banner": 901112,
+    "stamina": 0,
+    "quest_ticket_id": 821073,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 14,
+        "id": 110201,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1123,
+    "battle_id": 900038521,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901123031,
+    "quest_type": 1,
+    "name": "1. Creator's Game (Human Male)",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 1,
+    "banner": 901112,
+    "stamina": 0,
+    "quest_ticket_id": 821073,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 14,
+        "id": 110101,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1123,
+    "battle_id": 900038511,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901122171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124011,
+    "quest_type": 1,
+    "name": "1. Right-Hand Door (Human Male)",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92944,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901123031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124012,
+    "quest_type": 1,
+    "name": "1. Right-Hand Door (Human Male)",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92945,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038112,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124013,
+    "quest_type": 1,
+    "name": "1. Right-Hand Door (Human Male)",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92946,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038213,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124102
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124014,
+    "quest_type": 1,
+    "name": "1. Right-Hand Door (Human Male)",
+    "sort_order": 1,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92947,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038314,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124103
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124021,
+    "quest_type": 1,
+    "name": "2. Right-Hand Door (Human Male)",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92944,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124022,
+    "quest_type": 1,
+    "name": "2. Right-Hand Door (Human Male)",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92945,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038122,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124012
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124023,
+    "quest_type": 1,
+    "name": "2. Right-Hand Door (Human Male)",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92946,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038223,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124013
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124024,
+    "quest_type": 1,
+    "name": "2. Right-Hand Door (Human Male)",
+    "sort_order": 2,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92947,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038324,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124014
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124031,
+    "quest_type": 1,
+    "name": "3. Right-Hand Door (Human Male)",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92944,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124021
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124032,
+    "quest_type": 1,
+    "name": "3. Right-Hand Door (Human Male)",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92945,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038132,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124022
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124033,
+    "quest_type": 1,
+    "name": "3. Right-Hand Door (Human Male)",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 15,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92946,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038233,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124023
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124034,
+    "quest_type": 1,
+    "name": "3. Right-Hand Door (Human Male)",
+    "sort_order": 3,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92947,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038334,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124024
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124041,
+    "quest_type": 1,
+    "name": "4. Right-Hand Door (Human Male)",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92944,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124042,
+    "quest_type": 1,
+    "name": "4. Right-Hand Door (Human Male)",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92945,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038142,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124032
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124043,
+    "quest_type": 1,
+    "name": "4. Right-Hand Door (Human Male)",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92946,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038243,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124033
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124044,
+    "quest_type": 1,
+    "name": "4. Right-Hand Door (Human Male)",
+    "sort_order": 4,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92947,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038344,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124034
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124051,
+    "quest_type": 1,
+    "name": "5. Right-Hand Door (Human Male)",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92944,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124052,
+    "quest_type": 1,
+    "name": "5. Right-Hand Door (Human Male)",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92945,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038152,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124042
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124053,
+    "quest_type": 1,
+    "name": "5. Right-Hand Door (Human Male)",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92946,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038253,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124043
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124054,
+    "quest_type": 1,
+    "name": "5. Right-Hand Door (Human Male)",
+    "sort_order": 5,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92947,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038354,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124044
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124061,
+    "quest_type": 1,
+    "name": "6. Right-Hand Door (Human Male)",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92944,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124051
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124062,
+    "quest_type": 1,
+    "name": "6. Right-Hand Door (Human Male)",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92945,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038162,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124052
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124063,
+    "quest_type": 1,
+    "name": "6. Right-Hand Door (Human Male)",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92946,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038263,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124053
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124064,
+    "quest_type": 1,
+    "name": "6. Right-Hand Door (Human Male)",
+    "sort_order": 6,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92947,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038364,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124054
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124071,
+    "quest_type": 1,
+    "name": "7. Right-Hand Door (Human Male)",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92944,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124072,
+    "quest_type": 1,
+    "name": "7. Right-Hand Door (Human Male)",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92945,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038172,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124062
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124073,
+    "quest_type": 1,
+    "name": "7. Right-Hand Door (Human Male)",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92946,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038273,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124063
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124074,
+    "quest_type": 1,
+    "name": "7. Right-Hand Door (Human Male)",
+    "sort_order": 7,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92947,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038374,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124064
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124081,
+    "quest_type": 1,
+    "name": "8. Right-Hand Door (Human Male)",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92944,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124082,
+    "quest_type": 1,
+    "name": "8. Right-Hand Door (Human Male)",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92945,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038182,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124072
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124083,
+    "quest_type": 1,
+    "name": "8. Right-Hand Door (Human Male)",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92946,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038283,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124073
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124084,
+    "quest_type": 1,
+    "name": "8. Right-Hand Door (Human Male)",
+    "sort_order": 8,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92947,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038384,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124074
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124091,
+    "quest_type": 1,
+    "name": "9. Right-Hand Door (Human Male)",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92944,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124081
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124092,
+    "quest_type": 1,
+    "name": "9. Right-Hand Door (Human Male)",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92945,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038192,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124082
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124093,
+    "quest_type": 1,
+    "name": "9. Right-Hand Door (Human Male)",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92946,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038293,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124083
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124094,
+    "quest_type": 1,
+    "name": "9. Right-Hand Door (Human Male)",
+    "sort_order": 9,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92947,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038394,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124084
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124101,
+    "quest_type": 1,
+    "name": "10. Right-Hand Door (Human Male)",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92944,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124102,
+    "quest_type": 1,
+    "name": "10. Right-Hand Door (Human Male)",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92945,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038202,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124092
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124103,
+    "quest_type": 1,
+    "name": "10. Right-Hand Door (Human Male)",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92946,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038303,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124093
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901124104,
+    "quest_type": 1,
+    "name": "10. Right-Hand Door (Human Male)",
+    "sort_order": 10,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901113,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100367
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110101
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92947,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1124,
+    "battle_id": 900038404,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901124094
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125011,
+    "quest_type": 1,
+    "name": "1. Left-Hand Door (Human Female)",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92952,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901123021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125012,
+    "quest_type": 1,
+    "name": "1. Left-Hand Door (Human Female)",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92953,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038112,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125013,
+    "quest_type": 1,
+    "name": "1. Left-Hand Door (Human Female)",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92954,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038213,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125102
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125014,
+    "quest_type": 1,
+    "name": "1. Left-Hand Door (Human Female)",
+    "sort_order": 1,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92955,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038314,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125103
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125021,
+    "quest_type": 1,
+    "name": "2. Left-Hand Door (Human Female)",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92952,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125022,
+    "quest_type": 1,
+    "name": "2. Left-Hand Door (Human Female)",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92953,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038122,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125012
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125023,
+    "quest_type": 1,
+    "name": "2. Left-Hand Door (Human Female)",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92954,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038223,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125013
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125024,
+    "quest_type": 1,
+    "name": "2. Left-Hand Door (Human Female)",
+    "sort_order": 2,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92955,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038324,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125014
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125031,
+    "quest_type": 1,
+    "name": "3. Left-Hand Door (Human Female)",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92952,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125021
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125032,
+    "quest_type": 1,
+    "name": "3. Left-Hand Door (Human Female)",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92953,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038132,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125022
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125033,
+    "quest_type": 1,
+    "name": "3. Left-Hand Door (Human Female)",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 15,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92954,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038233,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125023
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125034,
+    "quest_type": 1,
+    "name": "3. Left-Hand Door (Human Female)",
+    "sort_order": 3,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92955,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038334,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125024
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125041,
+    "quest_type": 1,
+    "name": "4. Left-Hand Door (Human Female)",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92952,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125042,
+    "quest_type": 1,
+    "name": "4. Left-Hand Door (Human Female)",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92953,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038142,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125032
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125043,
+    "quest_type": 1,
+    "name": "4. Left-Hand Door (Human Female)",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92954,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038243,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125033
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125044,
+    "quest_type": 1,
+    "name": "4. Left-Hand Door (Human Female)",
+    "sort_order": 4,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92955,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038344,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125034
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125051,
+    "quest_type": 1,
+    "name": "5. Left-Hand Door (Human Female)",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92952,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125052,
+    "quest_type": 1,
+    "name": "5. Left-Hand Door (Human Female)",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92953,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038152,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125042
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125053,
+    "quest_type": 1,
+    "name": "5. Left-Hand Door (Human Female)",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92954,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038253,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125043
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125054,
+    "quest_type": 1,
+    "name": "5. Left-Hand Door (Human Female)",
+    "sort_order": 5,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92955,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038354,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125044
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125061,
+    "quest_type": 1,
+    "name": "6. Left-Hand Door (Human Female)",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92952,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125051
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125062,
+    "quest_type": 1,
+    "name": "6. Left-Hand Door (Human Female)",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92953,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038162,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125052
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125063,
+    "quest_type": 1,
+    "name": "6. Left-Hand Door (Human Female)",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92954,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038263,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125053
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125064,
+    "quest_type": 1,
+    "name": "6. Left-Hand Door (Human Female)",
+    "sort_order": 6,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92955,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038364,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125054
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125071,
+    "quest_type": 1,
+    "name": "7. Left-Hand Door (Human Female)",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92952,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125072,
+    "quest_type": 1,
+    "name": "7. Left-Hand Door (Human Female)",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92953,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038172,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125062
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125073,
+    "quest_type": 1,
+    "name": "7. Left-Hand Door (Human Female)",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92954,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038273,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125063
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125074,
+    "quest_type": 1,
+    "name": "7. Left-Hand Door (Human Female)",
+    "sort_order": 7,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92955,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038374,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125064
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125081,
+    "quest_type": 1,
+    "name": "8. Left-Hand Door (Human Female)",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92952,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125082,
+    "quest_type": 1,
+    "name": "8. Left-Hand Door (Human Female)",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92953,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038182,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125072
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125083,
+    "quest_type": 1,
+    "name": "8. Left-Hand Door (Human Female)",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92954,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038283,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125073
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125084,
+    "quest_type": 1,
+    "name": "8. Left-Hand Door (Human Female)",
+    "sort_order": 8,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92955,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038384,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125074
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125091,
+    "quest_type": 1,
+    "name": "9. Left-Hand Door (Human Female)",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92952,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125081
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125092,
+    "quest_type": 1,
+    "name": "9. Left-Hand Door (Human Female)",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92953,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038192,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125082
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125093,
+    "quest_type": 1,
+    "name": "9. Left-Hand Door (Human Female)",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92954,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038293,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125083
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125094,
+    "quest_type": 1,
+    "name": "9. Left-Hand Door (Human Female)",
+    "sort_order": 9,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92955,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038394,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125084
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125101,
+    "quest_type": 1,
+    "name": "10. Left-Hand Door (Human Female)",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92952,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125102,
+    "quest_type": 1,
+    "name": "10. Left-Hand Door (Human Female)",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92953,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038202,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125092
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125103,
+    "quest_type": 1,
+    "name": "10. Left-Hand Door (Human Female)",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92954,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038303,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125093
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901125104,
+    "quest_type": 1,
+    "name": "10. Left-Hand Door (Human Female)",
+    "sort_order": 10,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901114,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100368
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92955,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1125,
+    "battle_id": 900038404,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901125094
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126011,
+    "quest_type": 1,
+    "name": "1. Silkhat Door (Esper Girl)",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92960,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901123011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126012,
+    "quest_type": 1,
+    "name": "1. Silkhat Door (Esper Girl)",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92961,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038112,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126013,
+    "quest_type": 1,
+    "name": "1. Silkhat Door (Esper Girl)",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92962,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038213,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126102
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126014,
+    "quest_type": 1,
+    "name": "1. Silkhat Door (Esper Girl)",
+    "sort_order": 1,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92963,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038314,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126103
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126021,
+    "quest_type": 1,
+    "name": "2. Silkhat Door (Esper Girl)",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92960,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126022,
+    "quest_type": 1,
+    "name": "2. Silkhat Door (Esper Girl)",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92961,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038122,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126012
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126023,
+    "quest_type": 1,
+    "name": "2. Silkhat Door (Esper Girl)",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92962,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038223,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126013
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126024,
+    "quest_type": 1,
+    "name": "2. Silkhat Door (Esper Girl)",
+    "sort_order": 2,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92963,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038324,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126014
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126031,
+    "quest_type": 1,
+    "name": "3. Silkhat Door (Esper Girl)",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92960,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126021
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126032,
+    "quest_type": 1,
+    "name": "3. Silkhat Door (Esper Girl)",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92961,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038132,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126022
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126033,
+    "quest_type": 1,
+    "name": "3. Silkhat Door (Esper Girl)",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 15,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92962,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038233,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126023
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126034,
+    "quest_type": 1,
+    "name": "3. Silkhat Door (Esper Girl)",
+    "sort_order": 3,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92963,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038334,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126024
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126041,
+    "quest_type": 1,
+    "name": "4. Silkhat Door (Esper Girl)",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92960,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126042,
+    "quest_type": 1,
+    "name": "4. Silkhat Door (Esper Girl)",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92961,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038142,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126032
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126043,
+    "quest_type": 1,
+    "name": "4. Silkhat Door (Esper Girl)",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92962,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038243,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126033
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126044,
+    "quest_type": 1,
+    "name": "4. Silkhat Door (Esper Girl)",
+    "sort_order": 4,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92963,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038344,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126034
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126051,
+    "quest_type": 1,
+    "name": "5. Silkhat Door (Esper Girl)",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92960,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126052,
+    "quest_type": 1,
+    "name": "5. Silkhat Door (Esper Girl)",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92961,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038152,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126042
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126053,
+    "quest_type": 1,
+    "name": "5. Silkhat Door (Esper Girl)",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92962,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038253,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126043
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126054,
+    "quest_type": 1,
+    "name": "5. Silkhat Door (Esper Girl)",
+    "sort_order": 5,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92963,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038354,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126044
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126061,
+    "quest_type": 1,
+    "name": "6. Silkhat Door (Esper Girl)",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92960,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126051
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126062,
+    "quest_type": 1,
+    "name": "6. Silkhat Door (Esper Girl)",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92961,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038162,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126052
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126063,
+    "quest_type": 1,
+    "name": "6. Silkhat Door (Esper Girl)",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92962,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038263,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126053
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126064,
+    "quest_type": 1,
+    "name": "6. Silkhat Door (Esper Girl)",
+    "sort_order": 6,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92963,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038364,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126054
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126071,
+    "quest_type": 1,
+    "name": "7. Silkhat Door (Esper Girl)",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92960,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126072,
+    "quest_type": 1,
+    "name": "7. Silkhat Door (Esper Girl)",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92961,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038172,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126062
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126073,
+    "quest_type": 1,
+    "name": "7. Silkhat Door (Esper Girl)",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92962,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038273,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126063
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126074,
+    "quest_type": 1,
+    "name": "7. Silkhat Door (Esper Girl)",
+    "sort_order": 7,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92963,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038374,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126064
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126081,
+    "quest_type": 1,
+    "name": "8. Silkhat Door (Esper Girl)",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92960,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126082,
+    "quest_type": 1,
+    "name": "8. Silkhat Door (Esper Girl)",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92961,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038182,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126072
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126083,
+    "quest_type": 1,
+    "name": "8. Silkhat Door (Esper Girl)",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92962,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038283,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126073
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126084,
+    "quest_type": 1,
+    "name": "8. Silkhat Door (Esper Girl)",
+    "sort_order": 8,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92963,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038384,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126074
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126091,
+    "quest_type": 1,
+    "name": "9. Silkhat Door (Esper Girl)",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92960,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126081
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126092,
+    "quest_type": 1,
+    "name": "9. Silkhat Door (Esper Girl)",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92961,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038192,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126082
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126093,
+    "quest_type": 1,
+    "name": "9. Silkhat Door (Esper Girl)",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92962,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038293,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126083
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126094,
+    "quest_type": 1,
+    "name": "9. Silkhat Door (Esper Girl)",
+    "sort_order": 9,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92963,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038394,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126084
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100366
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126101,
+    "quest_type": 1,
+    "name": "10. Silkhat Door (Esper Girl)",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92960,
+      92940,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126102,
+    "quest_type": 1,
+    "name": "10. Silkhat Door (Esper Girl)",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92961,
+      92941,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038202,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126092
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126103,
+    "quest_type": 1,
+    "name": "10. Silkhat Door (Esper Girl)",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92962,
+      92942,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038303,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126093
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901126104,
+    "quest_type": 1,
+    "name": "10. Silkhat Door (Esper Girl)",
+    "sort_order": 10,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901115,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100369
+      },
+      {
+        "type": 7,
+        "id": 1100366
+      },
+      {
+        "type": 3,
+        "id": 110401
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      92963,
+      92943,
+      93153,
+      93154,
+      93155
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1126,
+    "battle_id": 900038404,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901126094
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
     "id": 901131011,
     "quest_type": 1,
     "name": "1. Shadow in the Cave of Holy Stones",
@@ -122824,6 +130409,880 @@
     "scenario_id": 0,
     "prev_quest_ids": [
       911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002011,
+    "quest_type": 1,
+    "name": "1. Battle with Ashura",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002021,
+    "quest_type": 1,
+    "name": "2. Battle with Ashura",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002031,
+    "quest_type": 1,
+    "name": "3. Battle with Ashura",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002041,
+    "quest_type": 1,
+    "name": "4. Battle with Ashura",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002051,
+    "quest_type": 1,
+    "name": "5. Battle with Ashura",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002061,
+    "quest_type": 1,
+    "name": "6. Battle with Ashura",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002071,
+    "quest_type": 1,
+    "name": "7. Battle with Ashura",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002081,
+    "quest_type": 1,
+    "name": "8. Battle with Ashura",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002091,
+    "quest_type": 1,
+    "name": "9. Battle with Ashura",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002101,
+    "quest_type": 1,
+    "name": "10. Battle with Ashura",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002111,
+    "quest_type": 1,
+    "name": "11. Battle with Ashura",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002111,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002121,
+    "quest_type": 1,
+    "name": "12. Battle with Ashura",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002121,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002131,
+    "quest_type": 1,
+    "name": "13. Battle with Ashura",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002131,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002121
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002141,
+    "quest_type": 1,
+    "name": "14. Battle with Ashura",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002141,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002131
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002151,
+    "quest_type": 1,
+    "name": "15. Battle with Ashura",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 30
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002151,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002141
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002161,
+    "quest_type": 1,
+    "name": "Battle with Ashura (Challenge 1)",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 40
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002161,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002171,
+    "quest_type": 1,
+    "name": "Battle with Ashura (Challenge 2)",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 40
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002171,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002161
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002181,
+    "quest_type": 1,
+    "name": "Battle with Ashura (Challenge 3)",
+    "sort_order": 18,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 40
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002181,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911002191,
+    "quest_type": 1,
+    "name": "Battle with Ashura (Romancing)",
+    "sort_order": 19,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000003,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001002,
+    "battle_id": 1911002191,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911002181
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,

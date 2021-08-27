@@ -169,5 +169,24 @@
     "flavor_text": "Recommended for characters with up to 750 HP and up to 65 in all attributes",
     "background_id": 700000007,
     "sort_order": 91
+  },
+  {
+    "id": 6700010,
+    "name": "Underwater",
+    "required_quest_id": 100201103,
+    "required_hours": 21,
+    "expedition_difficulty": 4,
+    "difficulty": 4,
+    "growth_difficulty": 73,
+    "recommended_status": 75,
+    "jewel_cost": 1100,
+    "ticket_cost": 22,
+    "drop_group_ids": [
+      880000019,
+      880000020
+    ],
+    "flavor_text": "Recommended for characters with up to 850 HP and up to 75 in all attributes",
+    "background_id": 700000024,
+    "sort_order": 90
   }
 ]

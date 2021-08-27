@@ -1585,7 +1585,7 @@
   {
     "id": 702100500,
     "name": "Sensei's Power",
-    "flavor_text": "When all allies are still surviving, own attacks' damage increases (medium effect), and reduces damage for oneself (medium effect). ",
+    "flavor_text": "When all allies are still surviving, own attacks' damage increases (medium effect), and reduces damage taken for oneself (medium effect). ",
     "special_effect_ids": [
       802040493,
       802040494
@@ -2637,7 +2637,7 @@
   {
     "id": 702400471,
     "name": "Kingship",
-    "flavor_text": "[End of Turn]<br>Recovers own BP (+1).",
+    "flavor_text": "[End of turn]<br>Recovers own BP (+1).",
     "special_effect_ids": [
       802040460
     ],
@@ -2657,7 +2657,7 @@
   {
     "id": 702400501,
     "name": "Proper Posture",
-    "flavor_text": "[End of Turn]<br>Recovers own HP (very small effect), and removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "flavor_text": "[End of turn]<br>Recovers own HP (very small effect), and removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
     "special_effect_ids": [
       802040495,
       802040497
@@ -4672,7 +4672,7 @@
   {
     "id": 702600504,
     "name": "30-Year Grave Knight",
-    "flavor_text": "When landing an attack, increases own DEX (medium chance/very large effect), and recovers own BP (+1).",
+    "flavor_text": "When landing an attack, has a medium chance to:<br>Increase own DEX (very large effect) and recover own BP (+1). ",
     "special_effect_ids": [
       802010326,
       802040066
@@ -4694,7 +4694,7 @@
   {
     "id": 702600506,
     "name": "Feminine Scent",
-    "flavor_text": "When landing an attack, recovers own HP (medium chance/medium effect), and recovers own BP (+1).",
+    "flavor_text": "When landing an attack, has a medium chance to:<br>Recover own HP (medium effect) and recover own BP (+1). ",
     "special_effect_ids": [
       802040063,
       802040066
@@ -6113,7 +6113,7 @@
   {
     "id": 708400056,
     "name": "Purify",
-    "flavor_text": "[End of Turn]<br>Removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "flavor_text": "[End of turn]<br>Removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
     "special_effect_ids": [
       809040274,
       809040276
@@ -6358,6 +6358,16 @@
     "icon": 4010
   },
   {
+    "id": 1702100009,
+    "name": "Counter Shot",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with Derringer.<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1802040019
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -6599,7 +6609,7 @@
   {
     "id": 1708400002,
     "name": "Regroup",
-    "flavor_text": "[End of Turn]<br>Removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "flavor_text": "[End of turn]<br>Removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
     "special_effect_ids": [
       809040274,
       809040276
