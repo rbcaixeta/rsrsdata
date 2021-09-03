@@ -13268,6 +13268,40 @@
     "awakening_material_set_ids": []
   },
   {
+    "id": 110500184,
+    "name": "Light of Heavens",
+    "rush_prefix": "Light",
+    "rush_suffix": "of Heavens",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Sun) *M. Arts Special Skill (INT) <br>Attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      7
+    ],
+    "power_grade": "S",
+    "consume_bp": 9,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1009,
+    "skill_effect": 140500172,
+    "skill_se_cue_sheet_name": "140500172",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30011,
+      30019
+    ]
+  },
+  {
     "id": 110600000,
     "name": "Normal Attack (Gun)",
     "rush_prefix": "Gun",
@@ -18638,6 +18672,41 @@
     "max_awakening_count": 1,
     "awakening_material_set_ids": [
       30006
+    ]
+  },
+  {
+    "id": 110800060,
+    "name": "Arm of Light+",
+    "rush_prefix": "Arm",
+    "rush_suffix": "of Light",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Pierce) <br>Attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      3
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 12,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1118,
+    "skill_effect": 140800071,
+    "skill_se_cue_sheet_name": "140800071",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30027,
+      30035,
+      30043
     ]
   },
   {
@@ -68989,6 +69058,76 @@
     "max_awakening_count": 1,
     "awakening_material_set_ids": [
       30007
+    ]
+  },
+  {
+    "id": 1125400001,
+    "name": "Dancing Leaves",
+    "rush_prefix": "Dancing",
+    "rush_suffix": "Leaves",
+    "flavor_text": "Support/Fast/One Ally<br>Puts target into a defense boost stance (very large effect/1 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 54,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 2,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "-",
+    "consume_bp": 6,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040458
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4010,
+    "skill_effect": 145400025,
+    "skill_se_cue_sheet_name": "145400025",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30004
+    ]
+  },
+  {
+    "id": 1125400002,
+    "name": "Gale Darts",
+    "rush_prefix": "Gale",
+    "rush_suffix": "Darts",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Slash) <br>Attacks random enemies (2 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 54,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 9,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "B",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 2008,
+    "skill_effect": 145400026,
+    "skill_se_cue_sheet_name": "145400026",
+    "min_action_time": 2,
+    "max_action_time": 2,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30029,
+      30037,
+      30045
     ]
   },
   {

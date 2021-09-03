@@ -1350,6 +1350,16 @@
     "icon": 4010
   },
   {
+    "id": 702100384,
+    "name": "Slash Amp Ⅲ",
+    "flavor_text": "Slash attacks' damage increases (large effect).",
+    "special_effect_ids": [
+      802040374
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702100389,
     "name": "Increased Profits Ⅳ",
     "flavor_text": "[Upon Victory]<br>Increases the amount of aurum dropped (very large effect/can't stack).",
@@ -6368,6 +6378,18 @@
     "icon": 4005
   },
   {
+    "id": 1702100010,
+    "name": "Superior Zoning",
+    "flavor_text": "Own all-range/ranged attacks' damage increases (large effect).",
+    "special_effect_ids": [
+      1802040021,
+      1802040022,
+      1802040023
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -6534,6 +6556,18 @@
     ],
     "ability_when": 6,
     "icon": 3009
+  },
+  {
+    "id": 1702600008,
+    "name": "Fluke",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, Fiat Lux will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Fiat Lux, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "special_effect_ids": [
+      802040498,
+      802040499,
+      1802040020
+    ],
+    "ability_when": 6,
+    "icon": 4010
   },
   {
     "id": 1708100001,

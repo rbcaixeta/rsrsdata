@@ -9272,6 +9272,4804 @@
     ]
   },
   {
+    "id": 972004001,
+    "quest_type": 1,
+    "name": "[1] Podorui-Rashkuta Rd 1",
+    "sort_order": 1,
+    "field_map_node_id": 10105001,
+    "battle_id": 511008006,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004002,
+    "quest_type": 1,
+    "name": "[1] Podorui-Rashkuta Rd 2",
+    "sort_order": 2,
+    "field_map_node_id": 10105002,
+    "battle_id": 511008007,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004003,
+    "quest_type": 1,
+    "name": "[1] Podorui-Rashkuta Rd 3",
+    "sort_order": 3,
+    "field_map_node_id": 10105003,
+    "battle_id": 511008017,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004004,
+    "quest_type": 1,
+    "name": "[1] Eastern Woods 1",
+    "sort_order": 4,
+    "field_map_node_id": 10105004,
+    "battle_id": 511008018,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004005,
+    "quest_type": 1,
+    "name": "[1] Eastern Woods 2",
+    "sort_order": 5,
+    "field_map_node_id": 10105005,
+    "battle_id": 511008017,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004006,
+    "quest_type": 1,
+    "name": "[1] Eastern Woods 3",
+    "sort_order": 6,
+    "field_map_node_id": 10105006,
+    "battle_id": 511008018,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004007,
+    "quest_type": 1,
+    "name": "[1] Eastern Woods 4",
+    "sort_order": 7,
+    "field_map_node_id": 10105007,
+    "battle_id": 511008019,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004008,
+    "quest_type": 1,
+    "name": "[1] Eastern Woods 5",
+    "sort_order": 8,
+    "field_map_node_id": 10105008,
+    "battle_id": 511008036,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004009,
+    "quest_type": 1,
+    "name": "[1] Podorui-Rashkuta Rd 4",
+    "sort_order": 9,
+    "field_map_node_id": 10105009,
+    "battle_id": 511008013,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004010,
+    "quest_type": 1,
+    "name": "[1] Eastern Mountain 1",
+    "sort_order": 10,
+    "field_map_node_id": 10105010,
+    "battle_id": 511008023,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004011,
+    "quest_type": 1,
+    "name": "[1] Eastern Mountain 2",
+    "sort_order": 11,
+    "field_map_node_id": 10105011,
+    "battle_id": 511008024,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004012,
+    "quest_type": 1,
+    "name": "[1] Eastern Mountain 3",
+    "sort_order": 12,
+    "field_map_node_id": 10105012,
+    "battle_id": 511008028,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004013,
+    "quest_type": 1,
+    "name": "[1] Eastern Mountain 4",
+    "sort_order": 13,
+    "field_map_node_id": 10105013,
+    "battle_id": 511008023,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 12
+      }
+    ]
+  },
+  {
+    "id": 972004014,
+    "quest_type": 1,
+    "name": "[1] Eastern River: West Bank 1",
+    "sort_order": 14,
+    "field_map_node_id": 10105014,
+    "battle_id": 511008013,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004015,
+    "quest_type": 1,
+    "name": "[1] Eastern River: West Bank 2",
+    "sort_order": 15,
+    "field_map_node_id": 10105015,
+    "battle_id": 511008037,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004016,
+    "quest_type": 1,
+    "name": "[1] Eastern Woods 6",
+    "sort_order": 16,
+    "field_map_node_id": 10105016,
+    "battle_id": 511008002,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29916101
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100133,
+      100134,
+      100346
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972004017,
+    "quest_type": 1,
+    "name": "[2] Eastern River: West Bank 3",
+    "sort_order": 17,
+    "field_map_node_id": 10105017,
+    "battle_id": 511008013,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004018,
+    "quest_type": 1,
+    "name": "[2] Rashkuta",
+    "sort_order": 18,
+    "field_map_node_id": 10105018,
+    "battle_id": 511008011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004019,
+    "quest_type": 1,
+    "name": "[2] Muenge Village",
+    "sort_order": 19,
+    "field_map_node_id": 10105019,
+    "battle_id": 511008007,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004020,
+    "quest_type": 1,
+    "name": "[2] Road to Kalmya 1",
+    "sort_order": 20,
+    "field_map_node_id": 10105020,
+    "battle_id": 511008029,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004021,
+    "quest_type": 1,
+    "name": "[2] Road to Kalmya 2",
+    "sort_order": 21,
+    "field_map_node_id": 10105021,
+    "battle_id": 511008030,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004022,
+    "quest_type": 1,
+    "name": "[2] Southern Mountains 1",
+    "sort_order": 22,
+    "field_map_node_id": 10105022,
+    "battle_id": 511008023,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004023,
+    "quest_type": 1,
+    "name": "[2] Southern Mountains 2",
+    "sort_order": 23,
+    "field_map_node_id": 10105023,
+    "battle_id": 511008007,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004024,
+    "quest_type": 1,
+    "name": "[2] Southern Mountains 3",
+    "sort_order": 24,
+    "field_map_node_id": 10105024,
+    "battle_id": 511008006,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004025,
+    "quest_type": 1,
+    "name": "[2] Southern Mountains 4",
+    "sort_order": 25,
+    "field_map_node_id": 10105025,
+    "battle_id": 511008038,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004026,
+    "quest_type": 1,
+    "name": "[2] Southern Mountains 5",
+    "sort_order": 26,
+    "field_map_node_id": 10105026,
+    "battle_id": 511008024,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004027,
+    "quest_type": 1,
+    "name": "[2] Southern Mountains 6",
+    "sort_order": 27,
+    "field_map_node_id": 10105027,
+    "battle_id": 511008023,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004028,
+    "quest_type": 1,
+    "name": "[2] Southern Mountains 7",
+    "sort_order": 28,
+    "field_map_node_id": 10105028,
+    "battle_id": 511008025,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004029,
+    "quest_type": 1,
+    "name": "[2] Desert of Death 1",
+    "sort_order": 29,
+    "field_map_node_id": 10105029,
+    "battle_id": 511008034,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004030,
+    "quest_type": 1,
+    "name": "[2] Desert of Death 2",
+    "sort_order": 30,
+    "field_map_node_id": 10105030,
+    "battle_id": 511008033,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004031,
+    "quest_type": 1,
+    "name": "[2] Mount Taftan: Southern Forest",
+    "sort_order": 31,
+    "field_map_node_id": 10105031,
+    "battle_id": 511008039,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100125,
+      100126,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004032,
+    "quest_type": 1,
+    "name": "[2] Great Plains",
+    "sort_order": 32,
+    "field_map_node_id": 10105032,
+    "battle_id": 511008003,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29916201
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100135,
+      100136,
+      100346
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972004033,
+    "quest_type": 1,
+    "name": "[3] Myules",
+    "sort_order": 33,
+    "field_map_node_id": 10105033,
+    "battle_id": 511008009,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004034,
+    "quest_type": 1,
+    "name": "[3] Pidona",
+    "sort_order": 34,
+    "field_map_node_id": 10105034,
+    "battle_id": 511008010,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004035,
+    "quest_type": 1,
+    "name": "[3] Ryblov",
+    "sort_order": 35,
+    "field_map_node_id": 10105035,
+    "battle_id": 511008009,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004036,
+    "quest_type": 1,
+    "name": "[3] Demanda Mtn Range 1",
+    "sort_order": 36,
+    "field_map_node_id": 10105036,
+    "battle_id": 511008013,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004037,
+    "quest_type": 1,
+    "name": "[3] Demanda Mtn Range 2",
+    "sort_order": 37,
+    "field_map_node_id": 10105037,
+    "battle_id": 511008007,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004038,
+    "quest_type": 1,
+    "name": "[3] Demanda Mtn Range 3",
+    "sort_order": 38,
+    "field_map_node_id": 10105038,
+    "battle_id": 511008023,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004039,
+    "quest_type": 1,
+    "name": "[3] Great Arch: North",
+    "sort_order": 39,
+    "field_map_node_id": 10105039,
+    "battle_id": 511008007,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004040,
+    "quest_type": 1,
+    "name": "[3] Great Arch",
+    "sort_order": 40,
+    "field_map_node_id": 10105040,
+    "battle_id": 511008040,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004041,
+    "quest_type": 1,
+    "name": "[3] Stanley: Eastern Forest",
+    "sort_order": 41,
+    "field_map_node_id": 10105041,
+    "battle_id": 511008017,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004042,
+    "quest_type": 1,
+    "name": "[3] Stanley: Northern Forest",
+    "sort_order": 42,
+    "field_map_node_id": 10105042,
+    "battle_id": 511008018,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004043,
+    "quest_type": 1,
+    "name": "[3] Lance-Faros Rd 1",
+    "sort_order": 43,
+    "field_map_node_id": 10105043,
+    "battle_id": 511008024,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004044,
+    "quest_type": 1,
+    "name": "[3] Mount Louv: East",
+    "sort_order": 44,
+    "field_map_node_id": 10105044,
+    "battle_id": 511008029,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004045,
+    "quest_type": 1,
+    "name": "[3] Mount Louv: West",
+    "sort_order": 45,
+    "field_map_node_id": 10105045,
+    "battle_id": 511008032,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004046,
+    "quest_type": 1,
+    "name": "[3] Vanguard: North",
+    "sort_order": 46,
+    "field_map_node_id": 10105046,
+    "battle_id": 511008006,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004047,
+    "quest_type": 1,
+    "name": "[3] Vanguard",
+    "sort_order": 47,
+    "field_map_node_id": 10105047,
+    "battle_id": 511008041,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100127,
+      100128,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004048,
+    "quest_type": 1,
+    "name": "[3] Lance-Faros Rd 2",
+    "sort_order": 48,
+    "field_map_node_id": 10105048,
+    "battle_id": 511008004,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29916301
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100137,
+      100138,
+      100346
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972004049,
+    "quest_type": 1,
+    "name": "[4] Treasure Cave",
+    "sort_order": 49,
+    "field_map_node_id": 10105049,
+    "battle_id": 511008031,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004050,
+    "quest_type": 1,
+    "name": "[4] Tropical Beach",
+    "sort_order": 50,
+    "field_map_node_id": 10105050,
+    "battle_id": 511008035,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004051,
+    "quest_type": 1,
+    "name": "[4] Southern Seacoast 1",
+    "sort_order": 51,
+    "field_map_node_id": 10105051,
+    "battle_id": 511008023,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004052,
+    "quest_type": 1,
+    "name": "[4] Southern Seacoast 2",
+    "sort_order": 52,
+    "field_map_node_id": 10105052,
+    "battle_id": 511008035,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004053,
+    "quest_type": 1,
+    "name": "[4] Southern Seacoast 3",
+    "sort_order": 53,
+    "field_map_node_id": 10105053,
+    "battle_id": 511008024,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004054,
+    "quest_type": 1,
+    "name": "[4] Southern Seacoast 4",
+    "sort_order": 54,
+    "field_map_node_id": 10105054,
+    "battle_id": 511008033,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004055,
+    "quest_type": 1,
+    "name": "[4] Hellberg Mtn Range: East",
+    "sort_order": 55,
+    "field_map_node_id": 10105055,
+    "battle_id": 511008034,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004056,
+    "quest_type": 1,
+    "name": "[4] Tomb of Kings",
+    "sort_order": 56,
+    "field_map_node_id": 10105056,
+    "battle_id": 511008042,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004057,
+    "quest_type": 1,
+    "name": "[4] Tepid Sea Coast",
+    "sort_order": 57,
+    "field_map_node_id": 10105057,
+    "battle_id": 511008022,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004058,
+    "quest_type": 1,
+    "name": "[4] Hellberg Mtn Range: West 2",
+    "sort_order": 58,
+    "field_map_node_id": 10105058,
+    "battle_id": 511008033,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004059,
+    "quest_type": 1,
+    "name": "[4] Hellberg Mtn Range: West 3",
+    "sort_order": 59,
+    "field_map_node_id": 10105059,
+    "battle_id": 511008023,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004060,
+    "quest_type": 1,
+    "name": "[4] Hellberg Mtn Range: West 4",
+    "sort_order": 60,
+    "field_map_node_id": 10105060,
+    "battle_id": 511008028,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004061,
+    "quest_type": 1,
+    "name": "[4] Naj Desert 1",
+    "sort_order": 61,
+    "field_map_node_id": 10105061,
+    "battle_id": 511008033,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004062,
+    "quest_type": 1,
+    "name": "[4] Hammar Lakeside",
+    "sort_order": 62,
+    "field_map_node_id": 10105062,
+    "battle_id": 511008014,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004063,
+    "quest_type": 1,
+    "name": "[4] Naj Desert 2",
+    "sort_order": 63,
+    "field_map_node_id": 10105063,
+    "battle_id": 511008043,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100129,
+      100130,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004064,
+    "quest_type": 1,
+    "name": "[4] Fire Fortress",
+    "sort_order": 64,
+    "field_map_node_id": 10105064,
+    "battle_id": 511008005,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29916401
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100139,
+      100140,
+      100346
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972004065,
+    "quest_type": 1,
+    "name": "[5] Eastern Mountain Path 1",
+    "sort_order": 65,
+    "field_map_node_id": 10105065,
+    "battle_id": 511008027,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004066,
+    "quest_type": 1,
+    "name": "[5] Eastern Mountain Path 2",
+    "sort_order": 66,
+    "field_map_node_id": 10105066,
+    "battle_id": 511008016,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004067,
+    "quest_type": 1,
+    "name": "[5] Eastern Mountain Path 3",
+    "sort_order": 67,
+    "field_map_node_id": 10105067,
+    "battle_id": 511008026,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004068,
+    "quest_type": 1,
+    "name": "[5] Northern Seacoast 1",
+    "sort_order": 68,
+    "field_map_node_id": 10105068,
+    "battle_id": 511008015,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004069,
+    "quest_type": 1,
+    "name": "[5] Northern Seacoast 2",
+    "sort_order": 69,
+    "field_map_node_id": 10105069,
+    "battle_id": 511008016,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004070,
+    "quest_type": 1,
+    "name": "[5] Podorui: Northern Forest 1",
+    "sort_order": 70,
+    "field_map_node_id": 10105070,
+    "battle_id": 511008020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004071,
+    "quest_type": 1,
+    "name": "[5] Ice Belt",
+    "sort_order": 71,
+    "field_map_node_id": 10105071,
+    "battle_id": 511008016,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004072,
+    "quest_type": 1,
+    "name": "[5] Kyrdlund",
+    "sort_order": 72,
+    "field_map_node_id": 10105072,
+    "battle_id": 511008011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004073,
+    "quest_type": 1,
+    "name": "[5] Justerm: Southern Forest",
+    "sort_order": 73,
+    "field_map_node_id": 10105073,
+    "battle_id": 511008044,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004074,
+    "quest_type": 1,
+    "name": "[5] Podorui: Northern Forest 2",
+    "sort_order": 74,
+    "field_map_node_id": 10105074,
+    "battle_id": 511008021,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004075,
+    "quest_type": 1,
+    "name": "[5] Podorui",
+    "sort_order": 75,
+    "field_map_node_id": 10105075,
+    "battle_id": 511008011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004076,
+    "quest_type": 1,
+    "name": "[5] Podorui: Southern Forest",
+    "sort_order": 76,
+    "field_map_node_id": 10105076,
+    "battle_id": 511008045,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004077,
+    "quest_type": 1,
+    "name": "[5] Kyrdlund: South 1",
+    "sort_order": 77,
+    "field_map_node_id": 10105077,
+    "battle_id": 511008027,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830003,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004078,
+    "quest_type": 1,
+    "name": "[5] Kyrdlund: South 2",
+    "sort_order": 78,
+    "field_map_node_id": 10105078,
+    "battle_id": 511008007,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004079,
+    "quest_type": 1,
+    "name": "[5] Zweig",
+    "sort_order": 79,
+    "field_map_node_id": 10105079,
+    "battle_id": 511008046,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100131,
+      100132,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 1000810010,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972004080,
+    "quest_type": 1,
+    "name": "[5] Paradise",
+    "sort_order": 80,
+    "field_map_node_id": 10105080,
+    "battle_id": 511008001,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 0,
+    "quest_ticket_id": 821074,
+    "quest_ticket_quantity": 30,
+    "typical_enemy_ids": [
+      29914101
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      100344
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 1000840018,
+        "quantity": 10
+      }
+    ]
+  },
+  {
     "id": 990041010,
     "quest_type": 2,
     "name": "To the Decisive Battle",

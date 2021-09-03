@@ -56,7 +56,7 @@
   {
     "id": 1191,
     "name": "Creator",
-    "flavor_text": "Creator of the world of Final Fantasy Legend 1. SPOILER ALERT: he's the last boss. He ends up having a surprising weakness.",
+    "flavor_text": "Creator of the world in The Final Fantasy Legend. SPOILER ALERT: Creator is the final boss. Has a surprising weakness.",
     "series": 11,
     "gender": 9,
     "hp": 66,
@@ -124,6 +124,24 @@
     "wil": 6,
     "lov": 4,
     "cha": 5
+  },
+  {
+    "id": 1213,
+    "name": "Goddess",
+    "flavor_text": "A mysterious divinity device set up to deal with unexpected crises in the world system. While her mind tends to jump around and cause chaos and confusion all around, things always turn out all right. Perhaps that is just what its creator wanted?",
+    "series": 12,
+    "gender": 2,
+    "hp": 65,
+    "sort_order": 121301,
+    "dot_id": 121300,
+    "str": 6,
+    "end": 4,
+    "dex": 5,
+    "agi": 7,
+    "int": 7,
+    "wil": 5,
+    "lov": 7,
+    "cha": 6
   },
   {
     "id": 1292,
@@ -2000,7 +2018,7 @@
   {
     "id": 2393,
     "name": "Aunus",
-    "flavor_text": "One of the four Sinistrals. Even though the Abyss Gate was closed forever, when the Demon Tower appeared, the Sinistrals of the past could be summoned once more.",
+    "flavor_text": "One of the Four Sinistrals. Although the Abyss Gate remains closed, the appearance of the Demon Towers allows the Sinistrals of the past to be summoned to this world.",
     "series": 23,
     "gender": 1,
     "hp": 90,
