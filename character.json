@@ -110,7 +110,7 @@
   {
     "id": 1212,
     "name": "Father",
-    "flavor_text": "Father of the main character in Final Fantasy Legend II. Captain of the Guardians, a group protecting the MAGI. Today, he embarks again on a new adventure alone.",
+    "flavor_text": "Father of the main character in Final Fantasy Legend II. Captain of the Guardians, a group that protects the MAGI for the stability of the world. Today, he sets out from the window again on a new adventure by himself.",
     "series": 12,
     "gender": 1,
     "hp": 98,
@@ -146,7 +146,7 @@
   {
     "id": 1292,
     "name": "Apollo",
-    "flavor_text": "Became a new god through the power of the MAGI. He helped the main character's party collect the MAGI, but it was part of his scheme to steal them in the end.",
+    "flavor_text": "Became a new god through the power of the MAGI. Helps the main character's party collect the MAGI, but it's all a scheme to take them all at once.",
     "series": 12,
     "gender": 1,
     "hp": 71,
@@ -160,6 +160,24 @@
     "wil": 5,
     "lov": 4,
     "cha": 6
+  },
+  {
+    "id": 1294,
+    "name": "Haniwa",
+    "flavor_text": "It is unclear why Haniwa exists in the center of the world. It itself certainly doesn't think anything of it, if it is capable of thinking at all. Unconfirmed information suggests that on rare occasions, Haniwa drops the Seven Sword.",
+    "series": 12,
+    "gender": 9,
+    "hp": 59,
+    "sort_order": 129401,
+    "dot_id": 129400,
+    "str": 6,
+    "end": 3,
+    "dex": 8,
+    "agi": 9,
+    "int": 5,
+    "wil": 5,
+    "lov": 4,
+    "cha": 5
   },
   {
     "id": 2101,

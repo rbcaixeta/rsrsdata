@@ -87943,6 +87943,1504 @@
     "is_required_for_area_clear": 1
   },
   {
+    "id": 901127011,
+    "quest_type": 1,
+    "name": "1. Battle with Apollo",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450001,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127012,
+    "quest_type": 1,
+    "name": "1. Battle with Apollo",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93164,
+      93183
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450007,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127013,
+    "quest_type": 1,
+    "name": "1. Battle with Apollo",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      },
+      {
+        "type": 3,
+        "id": 129201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93169,
+      93188,
+      93217
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127062
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127014,
+    "quest_type": 1,
+    "name": "1. Battle with Apollo",
+    "sort_order": 1,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      },
+      {
+        "type": 3,
+        "id": 129201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93174,
+      93193,
+      93222
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450019,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127063
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100372
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127021,
+    "quest_type": 1,
+    "name": "2. Battle with Apollo",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93160,
+      93179
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450002,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127011
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100372
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127022,
+    "quest_type": 1,
+    "name": "2. Battle with Apollo",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93165,
+      93184
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450008,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127012
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100372
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127023,
+    "quest_type": 1,
+    "name": "2. Battle with Apollo",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      },
+      {
+        "type": 3,
+        "id": 129201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93170,
+      93189,
+      93218
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450014,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127013
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100372
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127024,
+    "quest_type": 1,
+    "name": "2. Battle with Apollo",
+    "sort_order": 2,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      },
+      {
+        "type": 3,
+        "id": 129201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93175,
+      93194,
+      93223
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450020,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127014
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100372
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127031,
+    "quest_type": 1,
+    "name": "3. Battle with Apollo",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93161,
+      93180
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450003,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127032,
+    "quest_type": 1,
+    "name": "3. Battle with Apollo",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93166,
+      93185
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450009,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127022
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127033,
+    "quest_type": 1,
+    "name": "3. Battle with Apollo",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      },
+      {
+        "type": 3,
+        "id": 129201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93171,
+      93190,
+      93219
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450015,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127023
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127034,
+    "quest_type": 1,
+    "name": "3. Battle with Apollo",
+    "sort_order": 3,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      },
+      {
+        "type": 3,
+        "id": 129201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93176,
+      93195,
+      93224
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127024
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100372
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127041,
+    "quest_type": 1,
+    "name": "4. Battle with Apollo",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93162,
+      93181
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450004,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127042,
+    "quest_type": 1,
+    "name": "4. Battle with Apollo",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93167,
+      93186
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450010,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127032
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127043,
+    "quest_type": 1,
+    "name": "4. Battle with Apollo",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      },
+      {
+        "type": 3,
+        "id": 129201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93172,
+      93191,
+      93220
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450016,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127033
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127044,
+    "quest_type": 1,
+    "name": "4. Battle with Apollo",
+    "sort_order": 4,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      },
+      {
+        "type": 3,
+        "id": 129201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93177,
+      93196,
+      93225
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127034
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100372
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127051,
+    "quest_type": 1,
+    "name": "5. Battle with Apollo",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93163,
+      93182
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450005,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127041
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100372
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127052,
+    "quest_type": 1,
+    "name": "5. Battle with Apollo",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93168,
+      93187
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127042
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100372
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127053,
+    "quest_type": 1,
+    "name": "5. Battle with Apollo",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      },
+      {
+        "type": 3,
+        "id": 129201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93173,
+      93192,
+      93221
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450017,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127043
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100372
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127054,
+    "quest_type": 1,
+    "name": "5. Battle with Apollo",
+    "sort_order": 5,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100372
+      },
+      {
+        "type": 7,
+        "id": 1100373
+      },
+      {
+        "type": 3,
+        "id": 129201
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93178,
+      93197,
+      93226
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127044
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100372
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127061,
+    "quest_type": 1,
+    "name": "6. Battle with Apollo",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450006,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127062,
+    "quest_type": 1,
+    "name": "6. Battle with Apollo",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127052
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127063,
+    "quest_type": 1,
+    "name": "6. Battle with Apollo",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450018,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127053
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127064,
+    "quest_type": 1,
+    "name": "6. Battle with Apollo",
+    "sort_order": 6,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100372,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100373,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450024,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127054
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901127074,
+    "quest_type": 1,
+    "name": "Battle with Apollo (Romancing)",
+    "sort_order": 7,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 921044,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 70
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1127,
+    "battle_id": 910450025,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901127064
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
     "id": 901131011,
     "quest_type": 1,
     "name": "1. Shadow in the Cave of Holy Stones",

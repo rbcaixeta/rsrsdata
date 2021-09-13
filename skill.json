@@ -12705,9 +12705,9 @@
   },
   {
     "id": 110500099,
-    "name": "Toxic Slash",
+    "name": "Toxic Gas",
     "rush_prefix": "Toxic",
-    "rush_suffix": "Slash",
+    "rush_suffix": "Gas",
     "flavor_text": "Attack/Far/Indirect/All Foes (Shadow) *M. Arts Special Skill (INT) <br>All range attack.<br>When the attack hits, inflicts poison on target (low chance/4 turn(s)).",
     "attack_distance": 2,
     "skill_type": 1,
@@ -13299,6 +13299,109 @@
     "awakening_material_set_ids": [
       30011,
       30019
+    ]
+  },
+  {
+    "id": 110500190,
+    "name": "Mini Conflagration",
+    "rush_prefix": "Mini",
+    "rush_suffix": "Conflagration",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Heat) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      4
+    ],
+    "power_grade": "D",
+    "consume_bp": 4,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500177,
+    "skill_se_cue_sheet_name": "140500177",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30002
+    ]
+  },
+  {
+    "id": 110500191,
+    "name": "Mending",
+    "rush_prefix": "Mending",
+    "rush_suffix": "Mending",
+    "flavor_text": "Recovery/Self<br>Recovers the user's HP.<br>Grants the user Guard Up (medium) (2 turn(s)).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 2,
+    "attack_method": 1,
+    "attack_area": 1,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "A",
+    "consume_bp": 6,
+    "consume_lp": 1,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040424
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4007,
+    "skill_effect": 140500178,
+    "skill_se_cue_sheet_name": "140500178",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30008
+    ]
+  },
+  {
+    "id": 110500192,
+    "name": "Seven Swords",
+    "rush_prefix": "Seven",
+    "rush_suffix": "Swords",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Slash) <br>Attacks random enemies (4-7 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 9,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "D",
+    "consume_bp": 17,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500176,
+    "skill_se_cue_sheet_name": "149900109",
+    "min_action_time": 4,
+    "max_action_time": 7,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
     ]
   },
   {
@@ -49147,9 +49250,9 @@
   },
   {
     "id": 905196505,
-    "name": "My Body Fades...",
-    "rush_prefix": "My Body Fades...",
-    "rush_suffix": "My Body Fades...",
+    "name": "I'm... Melting...",
+    "rush_prefix": "I'm... Melting...",
+    "rush_suffix": "I'm... Melting...",
     "flavor_text": "0",
     "attack_distance": 2,
     "skill_type": 1,
@@ -68869,6 +68972,43 @@
       30027,
       30035,
       30043
+    ]
+  },
+  {
+    "id": 1125100002,
+    "name": "Flame Magick",
+    "rush_prefix": "Flame",
+    "rush_suffix": "Magick",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Heat+Pierce) <br>Attack.<br>When the attack hits, there is a chance to reduce target's STR (small effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      4,
+      3
+    ],
+    "power_grade": "A",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010250
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2001,
+    "skill_effect": 145100042,
+    "skill_se_cue_sheet_name": "145100042",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30012,
+      30020
     ]
   },
   {
