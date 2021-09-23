@@ -684,6 +684,33 @@
     "sort_order": 2666
   },
   {
+    "id": 821089,
+    "name": "Templar Galahad & The Sword of Death Ticket",
+    "flavor_text": "Use to take on one of two quests in Templar Galahad & The Sword of Death.",
+    "icon": 821088,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2753
+  },
+  {
+    "id": 821090,
+    "name": "Middle Floor Key",
+    "flavor_text": "Use to attempt To Death's Door: Middle Floor.",
+    "icon": 821090,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2751
+  },
+  {
+    "id": 821091,
+    "name": "Lower Floor Key",
+    "flavor_text": "Use to attempt To Death's Door: Lower Floor.",
+    "icon": 821091,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2752
+  },
+  {
     "id": 821094,
     "name": "Termite Nest Map [Ltd. Time]",
     "flavor_text": "Use to attempt Battle with Termites - Showdown (Real Queen). (Until [1627001999] <tz>)",
@@ -691,5 +718,23 @@
     "max_quantity": 99999,
     "expired_at": 1627001999,
     "sort_order": 3116
+  },
+  {
+    "id": 1000821001,
+    "name": "[SS] Treasure Cave Map [Ltd. Time]",
+    "flavor_text": "Map of a Treasure Cave (Gold) where great prizes await. (Until [1633913999] <tz>)",
+    "icon": 821071,
+    "max_quantity": 999,
+    "expired_at": 1633913999,
+    "sort_order": 3138
+  },
+  {
+    "id": 1000821002,
+    "name": "Treasure Cave Map [Ltd. Time]",
+    "flavor_text": "Map of a Treasure Cave where great prizes await. (Until [1633913999] <tz>)",
+    "icon": 821072,
+    "max_quantity": 99999,
+    "expired_at": 1633913999,
+    "sort_order": 3136
   }
 ]

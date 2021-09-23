@@ -1270,6 +1270,16 @@
     "icon": 2003
   },
   {
+    "id": 702100368,
+    "name": "Frost Amp Ⅲ",
+    "flavor_text": "Cold attacks' damage increases (large effect).",
+    "special_effect_ids": [
+      802040358
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702100369,
     "name": "Frost Amp Ⅱ",
     "flavor_text": "Cold attacks' damage increases (medium effect).",
@@ -1739,6 +1749,16 @@
     ],
     "ability_when": 1,
     "icon": 4005
+  },
+  {
+    "id": 702100609,
+    "name": "Reanimate",
+    "flavor_text": "When attacked and HP reaches 0, returns to 100% of Max HP (Max times: 1).",
+    "special_effect_ids": [
+      802040611
+    ],
+    "ability_when": 1,
+    "icon": 4010
   },
   {
     "id": 702100619,
@@ -2590,6 +2610,17 @@
     ],
     "ability_when": 3,
     "icon": 4007
+  },
+  {
+    "id": 702300613,
+    "name": "Energize (INT/WIL)",
+    "flavor_text": "[Start of turn]<br>Increases own INT/WIL (medium effect).",
+    "special_effect_ids": [
+      802010618,
+      802010617
+    ],
+    "ability_when": 3,
+    "icon": 4010
   },
   {
     "id": 702300661,
@@ -4775,6 +4806,18 @@
     "icon": 3009
   },
   {
+    "id": 702600611,
+    "name": "Snow Flurry",
+    "flavor_text": "When landing an attack with either Glacial Sword, Chilly Wind, or Blade of Freezing, Winter Storm will be activated (medium chance).<br><br>Winter Storm<br>G. Sword skill/Attack/Power: A/All Foes (Cold)<br>All range attack. (Activates using skill Rank 1)",
+    "special_effect_ids": [
+      802040614,
+      802040615,
+      802040616
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
     "id": 702600621,
     "name": "Essence Absorption",
     "flavor_text": "When landing an attack that defeats the target, recovers own HP (medium effect/recovery amount will not be affected even if multiple targets are defeated), and recovers own BP (only 3 BP will be recovered even if multiple targets are defeated).",
@@ -6390,6 +6433,17 @@
     "icon": 4010
   },
   {
+    "id": 1702100011,
+    "name": "Return from Death",
+    "flavor_text": "Shadow attacks' damage increases (medium effect).<br>When attacked and HP reaches 0, returns to 100% of Max HP (Max times: 1).",
+    "special_effect_ids": [
+      1802040024,
+      802040372
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -6565,6 +6619,19 @@
       802040498,
       802040499,
       1802040020
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 1702600009,
+    "name": "Snow Flurry",
+    "flavor_text": "When landing an attack with either a Normal Attack, Glacial Sword, Chilly Wind, or Blade of Freezing, has a medium chance to:<br>Activate Winter Storm and have oneself enter a Freeze Spike stance (4 turn(s)).<br><br>Winter Storm<br>G. Sword skill/Attack/Power: A/All Foes (Cold)<br>All range attack. (Activates using skill Rank 1)",
+    "special_effect_ids": [
+      1802040025,
+      1802040026,
+      1802040027,
+      1802040028
     ],
     "ability_when": 6,
     "icon": 4010

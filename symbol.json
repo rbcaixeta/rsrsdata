@@ -1504,8 +1504,8 @@
     "illust_category": 2,
     "illust": 1991051,
     "priority": 1,
-    "group_id": 2525,
-    "in_group_priority": 100
+    "group_id": 2705,
+    "in_group_priority": 95
   },
   {
     "id": 1125,
@@ -2234,6 +2234,58 @@
     "priority": 1,
     "group_id": 2539,
     "in_group_priority": 99
+  },
+  {
+    "id": 1210,
+    "name": "Request",
+    "flavor_text": "You must choose either Galahad or the Sword of Death.",
+    "map_id": 1,
+    "x": -9,
+    "y": -10,
+    "illust_category": 2,
+    "illust": 1991051,
+    "priority": 1,
+    "group_id": 2705,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1211,
+    "name": "Cave of Rampant Beasts",
+    "flavor_text": "A demonic beast den. Proceed with caution.",
+    "map_id": 1,
+    "x": -9,
+    "y": -10,
+    "illust_category": 1,
+    "illust": 1040,
+    "priority": 1,
+    "group_id": 2705,
+    "in_group_priority": 96
+  },
+  {
+    "id": 1212,
+    "name": "Cave of Rampant Beasts",
+    "flavor_text": "The innermost depths have yet to be explored.",
+    "map_id": 1,
+    "x": -9,
+    "y": -10,
+    "illust_category": 1,
+    "illust": 1040,
+    "priority": 1,
+    "group_id": 2705,
+    "in_group_priority": 97
+  },
+  {
+    "id": 1213,
+    "name": "Death",
+    "flavor_text": "The Lord of the Dead awaits all who reach the end.",
+    "map_id": 1,
+    "x": -9,
+    "y": -10,
+    "illust_category": 2,
+    "illust": 1991051,
+    "priority": 1,
+    "group_id": 2705,
+    "in_group_priority": 98
   },
   {
     "id": 1216,

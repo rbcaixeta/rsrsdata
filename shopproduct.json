@@ -14530,6 +14530,186 @@
     "purchase_limit_reset_piercey": 0
   },
   {
+    "id": 60685,
+    "name": "SS Death Style",
+    "description": "SS [Revere Death] Death Style.",
+    "icon": 0,
+    "shop_id": 4900215,
+    "currency": 4,
+    "currency_item_id": 800086,
+    "price": 15000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9999,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 14,
+        "id": 219202,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60686,
+    "name": "SS Mirsa Style",
+    "description": "SS [Legendary Form] Mirsa Style.",
+    "icon": 0,
+    "shop_id": 4900215,
+    "currency": 4,
+    "currency_item_id": 800086,
+    "price": 15000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9998,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 14,
+        "id": 218102,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60687,
+    "name": "SS Death Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Revere Death] Death.",
+    "icon": 0,
+    "shop_id": 4900215,
+    "currency": 4,
+    "currency_item_id": 800086,
+    "price": 3000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 40,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9997,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 219202,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60688,
+    "name": "SS Mirsa Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Legendary Form] Mirsa.",
+    "icon": 0,
+    "shop_id": 4900215,
+    "currency": 4,
+    "currency_item_id": 800086,
+    "price": 3000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 40,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9996,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 218102,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60689,
+    "name": "[SS] Weapon Enhancement Material",
+    "description": "Provides a huge amount of experience when enhancing a weapon.",
+    "icon": 0,
+    "shop_id": 4900215,
+    "currency": 4,
+    "currency_item_id": 800086,
+    "price": 1000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9995,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 501500100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60690,
+    "name": "[S] Weapon Enhancement Material",
+    "description": "Provides a large amount of experience when enhancing a weapon.",
+    "icon": 0,
+    "shop_id": 4900215,
+    "currency": 4,
+    "currency_item_id": 800086,
+    "price": 500,
+    "purchase_limit_type": 0,
+    "purchase_limit_count": 0,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9994,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
     "id": 60691,
     "name": "SS Apollo Style",
     "description": "SS [The MAGI Unleashed] Apollo Style.",
@@ -15527,6 +15707,246 @@
     "shop_id": 4900232,
     "currency": 4,
     "currency_item_id": 800094,
+    "price": 500,
+    "purchase_limit_type": 0,
+    "purchase_limit_count": 0,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9992,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60988,
+    "name": "SS Death Style",
+    "description": "SS [Forfeit Your Friend's Life] Death Style.",
+    "icon": 0,
+    "shop_id": 4900261,
+    "currency": 4,
+    "currency_item_id": 800110,
+    "price": 15000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9999,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 14,
+        "id": 219205,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60989,
+    "name": "SS Galahad Style",
+    "description": "SS [The Ice Sword's True Powers] Galahad Style.",
+    "icon": 0,
+    "shop_id": 4900261,
+    "currency": 4,
+    "currency_item_id": 800110,
+    "price": 15000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9998,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 14,
+        "id": 211303,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60990,
+    "name": "SS Gray Style",
+    "description": "SS [The Call of Adventure] Gray Style.",
+    "icon": 0,
+    "shop_id": 4900261,
+    "currency": 4,
+    "currency_item_id": 800110,
+    "price": 15000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9997,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 14,
+        "id": 210308,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60991,
+    "name": "SS Death Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Forfeit Your Friend's Life] Death.",
+    "icon": 0,
+    "shop_id": 4900261,
+    "currency": 4,
+    "currency_item_id": 800110,
+    "price": 3000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 40,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9996,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 219205,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60992,
+    "name": "SS Galahad Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [The Ice Sword's True Powers] Galahad.",
+    "icon": 0,
+    "shop_id": 4900261,
+    "currency": 4,
+    "currency_item_id": 800110,
+    "price": 3000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 40,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9995,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 211303,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60993,
+    "name": "SS Gray Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [The Call of Adventure] Gray.",
+    "icon": 0,
+    "shop_id": 4900261,
+    "currency": 4,
+    "currency_item_id": 800110,
+    "price": 3000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 40,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9994,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 210308,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60994,
+    "name": "[SS] Weapon Enhancement Material",
+    "description": "Provides a huge amount of experience when enhancing a weapon.",
+    "icon": 0,
+    "shop_id": 4900261,
+    "currency": 4,
+    "currency_item_id": 800110,
+    "price": 1000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9993,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 501500100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 60995,
+    "name": "[S] Weapon Enhancement Material",
+    "description": "Provides a large amount of experience when enhancing a weapon.",
+    "icon": 0,
+    "shop_id": 4900261,
+    "currency": 4,
+    "currency_item_id": 800110,
     "price": 500,
     "purchase_limit_type": 0,
     "purchase_limit_count": 0,
@@ -33004,7 +33424,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 990,
+    "priority": 970,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33034,7 +33454,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 989,
+    "priority": 968,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33064,7 +33484,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 988,
+    "priority": 974,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33094,7 +33514,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 987,
+    "priority": 972,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33124,7 +33544,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 986,
+    "priority": 990,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33154,7 +33574,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 985,
+    "priority": 988,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33184,7 +33604,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 984,
+    "priority": 986,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33214,7 +33634,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 983,
+    "priority": 984,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33274,7 +33694,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 981,
+    "priority": 980,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33304,7 +33724,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 980,
+    "priority": 978,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33334,7 +33754,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 979,
+    "priority": 976,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33364,7 +33784,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 978,
+    "priority": 958,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -33394,37 +33814,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 977,
-    "itunes_product_id": "",
-    "googleplay_product_id": "",
-    "undiscounted_itunes_product_id": "",
-    "undiscounted_googleplay_product_id": "",
-    "premium_login_bonus_id": 0,
-    "rewards": [
-      {
-        "type": 1,
-        "id": 100003,
-        "quantity": 10
-      }
-    ],
-    "purchase_limit_reset_piercey": 0
-  },
-  {
-    "id": 70929,
-    "name": "Aurum",
-    "description": "Currency that can be used at the Forge and the Shop.",
-    "icon": 0,
-    "shop_id": 4900120,
-    "currency": 4,
-    "currency_item_id": 1100288,
-    "price": 10,
-    "purchase_limit_type": 4,
-    "purchase_limit_count": 10000,
-    "start_at": 0,
-    "end_at": 0,
-    "original_price": 0,
-    "ribbon_type": 0,
-    "priority": 976,
+    "priority": 957,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -40538,6 +40928,396 @@
       }
     ],
     "purchase_limit_reset_piercey": 1
+  },
+  {
+    "id": 75258,
+    "name": "Pickaxe",
+    "description": "Item required for excavating Holy Stones and Holy Stone Shards.",
+    "icon": 0,
+    "shop_id": 4900257,
+    "currency": 4,
+    "currency_item_id": 1100419,
+    "price": 60,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 60,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 999,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 10,
+        "id": 821028,
+        "quantity": 50
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75259,
+    "name": "Pickaxe",
+    "description": "Item required for excavating Holy Stones and Holy Stone Shards.",
+    "icon": 0,
+    "shop_id": 4900257,
+    "currency": 4,
+    "currency_item_id": 1100419,
+    "price": 120,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 998,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 10,
+        "id": 821028,
+        "quantity": 50
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75260,
+    "name": "Platinum Ticket",
+    "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon.",
+    "icon": 0,
+    "shop_id": 4900257,
+    "currency": 4,
+    "currency_item_id": 1100419,
+    "price": 40,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 100,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 997,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 8,
+        "id": 810003,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75261,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 4900257,
+    "currency": 4,
+    "currency_item_id": 1100419,
+    "price": 2,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 60,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 992,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 2
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75262,
+    "name": "Book of Secrets: Volume 1",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 4900257,
+    "currency": 4,
+    "currency_item_id": 1100419,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 2,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 996,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75263,
+    "name": "Mining Caves Map II",
+    "description": "Use to attempt Get diggin'! Mining Caves.",
+    "icon": 0,
+    "shop_id": 4900257,
+    "currency": 4,
+    "currency_item_id": 1100419,
+    "price": 30,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 200,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 995,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 10,
+        "id": 821075,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75264,
+    "name": "Silver Piece",
+    "description": "Can be used to raise the level cap of any S-rank Style.",
+    "icon": 0,
+    "shop_id": 4900257,
+    "currency": 4,
+    "currency_item_id": 1100419,
+    "price": 8,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 100,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 994,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75265,
+    "name": "Bronze Piece",
+    "description": "Can be used to raise the level cap of any A-rank Style.",
+    "icon": 0,
+    "shop_id": 4900257,
+    "currency": 4,
+    "currency_item_id": 1100419,
+    "price": 5,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 100,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 993,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75266,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 4900257,
+    "currency": 4,
+    "currency_item_id": 1100419,
+    "price": 65,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 991,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 5000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75267,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 4900257,
+    "currency": 4,
+    "currency_item_id": 1100419,
+    "price": 10,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20000,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 990,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75477,
+    "name": "SS Galahad Style (Check Info)",
+    "description": "Item received after selecting Revive Galahad. Check SS Galahad information. Cannot be obtained at this Exchange.",
+    "icon": 0,
+    "shop_id": 4900263,
+    "currency": 4,
+    "currency_item_id": 1100277,
+    "price": 99999,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9999,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 14,
+        "id": 211301,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75478,
+    "name": "Templar's Ring (Check Info)",
+    "description": "Item received after selecting Revive Galahad. Check SS Templar's Ring information. Cannot be obtained at this Exchange.",
+    "icon": 0,
+    "shop_id": 4900263,
+    "currency": 4,
+    "currency_item_id": 1100277,
+    "price": 99999,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9998,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 18,
+        "id": 409514000,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 75483,
+    "name": "Sword of Death (Check Info)",
+    "description": "Item received after selecting Receive a Powerful Weapon. Check SS Sword of Death information. Cannot be obtained at this Exchange.",
+    "icon": 0,
+    "shop_id": 4900263,
+    "currency": 4,
+    "currency_item_id": 1100277,
+    "price": 99999,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9993,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 15,
+        "id": 102501000,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
   },
   {
     "id": 75659,
@@ -72435,6 +73215,726 @@
     "purchase_limit_reset_piercey": 0
   },
   {
+    "id": 1000020717,
+    "name": "SS Death Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Forfeit Your Friend's Life] Death.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 30000,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 219205,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020718,
+    "name": "SS Galahad Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [The Ice Sword's True Powers] Galahad.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29999,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 211303,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020719,
+    "name": "SS Gray Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [The Call of Adventure] Gray.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29998,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 210308,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020720,
+    "name": "SS Death Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Revere Death] Death.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29997,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 219202,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020721,
+    "name": "SS Mirsa Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Legendary Form] Mirsa.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29996,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 218102,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020722,
+    "name": "SS Apollo Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [The MAGI Unleashed] Apollo.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29995,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 129202,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020723,
+    "name": "SS Father Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Power of a Guardian] Father.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29994,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 121202,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020724,
+    "name": "SS Barthelemy Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Let's Have a Blast!] Barthelemy.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29993,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 715303,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020725,
+    "name": "SS Red Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [A Thousandth of a Second] Red.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29992,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 1000310401,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020726,
+    "name": "SS T260G Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Mission: Gatalympics] T260G.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29991,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 310303,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020727,
+    "name": "SS Barthelemy Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [A Twisted Heart, Yet...] Barthelemy.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29990,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 715302,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020728,
+    "name": "SS Hannibal Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Soul of the Imperial Guard] Hannibal.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29989,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 222151,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020729,
+    "name": "SS Blue Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [This Ends Here] Blue.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29988,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 310105,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020730,
+    "name": "S Barbara Piece",
+    "description": "Can be used to exchange for or raise the level cap of S [Passionate Dancer] Barbara.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 1,
+    "currency_item_id": 0,
+    "price": 20000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9999,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 210701,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020731,
+    "name": "A Lyza Piece",
+    "description": "Can be used to exchange for or raise the level cap of A [How Can I Help You?] Lyza.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 1,
+    "currency_item_id": 0,
+    "price": 15000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9998,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 311901,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020732,
+    "name": "Yellow Sand",
+    "description": "A-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"1-1. Polka Lynn Wood, Acrobat\" on Hard difficulty).",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 1,
+    "currency_item_id": 0,
+    "price": 50000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 1632704400,
+    "end_at": 1633309199,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9997,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 403007,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020733,
+    "name": "SS Death Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Forfeit Your Friend's Life] Death.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1633309200,
+    "end_at": 1633913999,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 30000,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 219205,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020734,
+    "name": "SS Galahad Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [The Ice Sword's True Powers] Galahad.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1633309200,
+    "end_at": 1633913999,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29999,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 211303,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020735,
+    "name": "SS Gray Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [The Call of Adventure] Gray.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1633309200,
+    "end_at": 1633913999,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29998,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 210308,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020736,
+    "name": "SS Death Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Revere Death] Death.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1633309200,
+    "end_at": 1633913999,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29997,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 219202,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020737,
+    "name": "SS Mirsa Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Legendary Form] Mirsa.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 15,
+    "start_at": 1633309200,
+    "end_at": 1633913999,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 29996,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 218102,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020738,
+    "name": "S Diana Piece",
+    "description": "Can be used to exchange for or raise the level cap of S [Rose Knight Rush] Diana.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 1,
+    "currency_item_id": 0,
+    "price": 20000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 1633309200,
+    "end_at": 1633913999,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9999,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 211102,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020739,
+    "name": "A Rouge Piece",
+    "description": "Can be used to exchange for or raise the level cap of A [My Name Is Rouge] Rouge.",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 1,
+    "currency_item_id": 0,
+    "price": 15000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 1633309200,
+    "end_at": 1633913999,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9998,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 312301,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000020740,
+    "name": "Purple Sand",
+    "description": "A-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"2-1. The Astronomer Shen Du\" on Hard difficulty).",
+    "icon": 0,
+    "shop_id": 2000002,
+    "currency": 1,
+    "currency_item_id": 0,
+    "price": 50000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 1633309200,
+    "end_at": 1633913999,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9997,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 403010,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
     "id": 1000060001,
     "name": "S Red Style",
     "description": "S [Gotta Pay Your Respects] Red Style.",
@@ -85739,7 +87239,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 989,
+    "priority": 967,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -85769,7 +87269,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 989,
+    "priority": 966,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -85829,7 +87329,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 989,
+    "priority": 965,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -85859,7 +87359,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 989,
+    "priority": 964,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -85889,7 +87389,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 989,
+    "priority": 963,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -85919,7 +87419,7 @@
     "end_at": 0,
     "original_price": 0,
     "ribbon_type": 0,
-    "priority": 989,
+    "priority": 962,
     "itunes_product_id": "",
     "googleplay_product_id": "",
     "undiscounted_itunes_product_id": "",
@@ -85929,66 +87429,6 @@
       {
         "type": 12,
         "id": 840001,
-        "quantity": 1
-      }
-    ],
-    "purchase_limit_reset_piercey": 0
-  },
-  {
-    "id": 1000070202,
-    "name": "Mining Caves Map",
-    "description": "Use to attempt Get diggin'! Mining Caves.",
-    "icon": 0,
-    "shop_id": 4900120,
-    "currency": 4,
-    "currency_item_id": 1100286,
-    "price": 150,
-    "purchase_limit_type": 4,
-    "purchase_limit_count": 100,
-    "start_at": 0,
-    "end_at": 0,
-    "original_price": 0,
-    "ribbon_type": 0,
-    "priority": 992,
-    "itunes_product_id": "",
-    "googleplay_product_id": "",
-    "undiscounted_itunes_product_id": "",
-    "undiscounted_googleplay_product_id": "",
-    "premium_login_bonus_id": 0,
-    "rewards": [
-      {
-        "type": 10,
-        "id": 821047,
-        "quantity": 1
-      }
-    ],
-    "purchase_limit_reset_piercey": 0
-  },
-  {
-    "id": 1000070203,
-    "name": "Mining Caves Map",
-    "description": "Use to attempt Get diggin'! Mining Caves.",
-    "icon": 0,
-    "shop_id": 4900120,
-    "currency": 4,
-    "currency_item_id": 1100288,
-    "price": 150,
-    "purchase_limit_type": 4,
-    "purchase_limit_count": 100,
-    "start_at": 0,
-    "end_at": 0,
-    "original_price": 0,
-    "ribbon_type": 0,
-    "priority": 991,
-    "itunes_product_id": "",
-    "googleplay_product_id": "",
-    "undiscounted_itunes_product_id": "",
-    "undiscounted_googleplay_product_id": "",
-    "premium_login_bonus_id": 0,
-    "rewards": [
-      {
-        "type": 10,
-        "id": 821047,
         "quantity": 1
       }
     ],
@@ -141915,6 +143355,4156 @@
     "purchase_limit_reset_piercey": 0
   },
   {
+    "id": 1000072065,
+    "name": "Mining Caves Map II",
+    "description": "Use to attempt Get diggin'! Mining Caves.",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 100,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 992,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 10,
+        "id": 821075,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072066,
+    "name": "Mining Caves Map II",
+    "description": "Use to attempt Get diggin'! Mining Caves.",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100288,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 100,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 991,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 10,
+        "id": 821075,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072067,
+    "name": "Black Sand",
+    "description": "A-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"1-1. Polka Lynn Wood, Acrobat\" on Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 1500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 989,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 403001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072068,
+    "name": "Yellow Sand",
+    "description": "A-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"1-1. Polka Lynn Wood, Acrobat\" on Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 1500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 987,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 403007,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072069,
+    "name": "Red Sand",
+    "description": "A-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"2-1. The Astronomer Shen Du\" on Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 1500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 985,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 403004,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072070,
+    "name": "Purple Sand",
+    "description": "A-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"2-1. The Astronomer Shen Du\" on Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 1500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 983,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 403010,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072071,
+    "name": "Green Sand",
+    "description": "A-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"3-1. The Bat King of Podorui\" on Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 1500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 981,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 403013,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072072,
+    "name": "Orange Sand",
+    "description": "A-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"3-1. The Bat King of Podorui\" on Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 1500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 979,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 403016,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072073,
+    "name": "Blue Sand",
+    "description": "A-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"4-1. Tu Kwai, Queen of Dae\" on Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 1500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 977,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 403019,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072074,
+    "name": "White Sand",
+    "description": "A-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"5-1. The Wicked Witch of the East\" on Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 1500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 975,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 403022,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072075,
+    "name": "[S] Weapon Enhancement Material",
+    "description": "Provides a large amount of experience when enhancing a weapon.",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 1500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 973,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072076,
+    "name": "[S] Armor Enhancement Material",
+    "description": "Provides a large amount of experience when enhancing Armor.",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100288,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 971,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 502400100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072077,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 2500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 969,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072078,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100288,
+    "price": 80,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 100,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 961,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072079,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100288,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 100,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 960,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072080,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100288,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 100,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 959,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072081,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100286,
+    "price": 20,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10000,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 956,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072082,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 4900120,
+    "currency": 4,
+    "currency_item_id": 1100288,
+    "price": 10,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10000,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 955,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072083,
+    "name": "Book of Secrets: Volume 1",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 999,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072084,
+    "name": "Book of Secrets: Volume 1",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 600,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 998,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072085,
+    "name": "Book of Secrets: Volume 2",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 1000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 2,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 997,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 304001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072086,
+    "name": "Book of Secrets: Volume 2",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 1200,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 2,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 996,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 304001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072087,
+    "name": "Book of Secrets: Volume 3",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 5000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 3,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 995,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 305001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072088,
+    "name": "Book of Secrets: Volume 3",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 6000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 3,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 994,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 305001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072089,
+    "name": "Amplification Badge",
+    "description": "Can be exchanged for items.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 12800,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 993,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100322,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072090,
+    "name": "Mining Caves Map II",
+    "description": "Use to attempt Get diggin'! Mining Caves.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 50,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 100,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 992,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 10,
+        "id": 821075,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072091,
+    "name": "Music Note Medal",
+    "description": "Valuable medal for musicians. Can be exchanged for soundtracks at the Concert Hall.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 12500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 991,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 920001,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072092,
+    "name": "Gold Piece",
+    "description": "Can be used to raise the level cap of any SS-rank Style.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 100,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 990,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072093,
+    "name": "Silver Piece",
+    "description": "Can be used to raise the level cap of any S-rank Style.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 60,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 40,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 989,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072094,
+    "name": "Silver Piece",
+    "description": "Can be used to raise the level cap of any S-rank Style.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 240,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 40,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 988,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072095,
+    "name": "Silver Piece",
+    "description": "Can be used to raise the level cap of any S-rank Style.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 360,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 40,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 987,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072096,
+    "name": "Orb Medal",
+    "description": "Can be exchanged for desired Orbs.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 50,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 12,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 986,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100252,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072097,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 55,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 60,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 985,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072098,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 220,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 60,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 984,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072099,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 330,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 60,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 983,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072100,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 10,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 982,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072101,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 50,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 981,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072102,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 100,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 980,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072103,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 40,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 979,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072104,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 200,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 100,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 978,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072105,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 200,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 977,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072106,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 400,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 976,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072107,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 600,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 975,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072108,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 800,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 974,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072109,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 1000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 973,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072110,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 1400,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 972,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072111,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 1800,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 971,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072112,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 2200,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 970,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072113,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 2600,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 969,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072114,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 3000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 968,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072115,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900034,
+    "currency": 4,
+    "currency_item_id": 1100421,
+    "price": 10,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10000,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 967,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072116,
+    "name": "Templar Galahad & The Sword of Death Ticket",
+    "description": "Use to take on one of two quests in Templar Galahad & The Sword of Death.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100442,
+    "price": 8,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 100,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9999,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 10,
+        "id": 821089,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072117,
+    "name": "Middle Floor Key",
+    "description": "Use to attempt To Death's Door: Middle Floor.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100440,
+    "price": 700,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9998,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 10,
+        "id": 821090,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072118,
+    "name": "Lower Floor Key",
+    "description": "Use to attempt To Death's Door: Lower Floor.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100441,
+    "price": 700,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9997,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 10,
+        "id": 821091,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072119,
+    "name": "SS Death Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Forfeit Your Friend's Life] Death.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 750,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9996,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 219205,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072120,
+    "name": "SS Galahad Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [The Ice Sword's True Powers] Galahad.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 750,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9995,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 211303,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072121,
+    "name": "SS Gray Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [The Call of Adventure] Gray.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 750,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9994,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 210308,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072122,
+    "name": "SS Death Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Revere Death] Death.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 750,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9993,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 219202,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072123,
+    "name": "SS Galahad Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [The Coveted Ice Sword] Galahad.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 750,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9992,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 211301,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072124,
+    "name": "SS Gray Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [I Want to Live Free] Gray.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 750,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9991,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 210307,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072125,
+    "name": "SS Gray Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [I Won't Let You Interfere] Gray.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 750,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9990,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 210305,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072126,
+    "name": "SS Gray Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Nothing Wrong with a Drink] Gray. ",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 750,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9989,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 210303,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072127,
+    "name": "SS Gray Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Seeker of the Blade's Truth] Gray. ",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 750,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9988,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 210302,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072128,
+    "name": "Platinum Ticket",
+    "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 3000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9987,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 8,
+        "id": 810003,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072129,
+    "name": "Book of Secrets: Volume 1",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9986,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072130,
+    "name": "Book of Secrets: Volume 1",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 2500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9985,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072131,
+    "name": "Book of Secrets: Volume 2",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 1000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 2,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9984,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 304001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072132,
+    "name": "Book of Secrets: Volume 2",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 5000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 2,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9983,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 304001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072133,
+    "name": "Book of Secrets: Volume 3",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 5000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 3,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9982,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 305001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072134,
+    "name": "Book of Secrets: Volume 3",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 25000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 3,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9981,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 305001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072135,
+    "name": "Amplification Badge",
+    "description": "Can be exchanged for items.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 100000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9980,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100322,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072136,
+    "name": "Mining Caves Map II",
+    "description": "Use to attempt Get diggin'! Mining Caves.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 2500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9979,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 10,
+        "id": 821075,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072137,
+    "name": "Music Note Medal",
+    "description": "Valuable medal for musicians. Can be exchanged for soundtracks at the Concert Hall.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 25000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 5,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9978,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 920001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072138,
+    "name": "Gold Piece",
+    "description": "Can be used to raise the level cap of any SS-rank Style.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 1000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9977,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072139,
+    "name": "Purple Gem",
+    "description": "SS-rank material used to awaken skills/spells at the Dojo. Can be obtained from events and other special venues.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 330,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 4,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9976,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 405012,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072140,
+    "name": "Blue Gem",
+    "description": "SS-rank material used to awaken skills/spells at the Dojo. Can be obtained from events and other special venues.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 330,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 4,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9975,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 405021,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072141,
+    "name": "Black Stone",
+    "description": "S-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"1-1. Polka Lynn Wood, Acrobat\" on Very Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100441,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 4,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9974,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 404002,
+        "quantity": 20
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072142,
+    "name": "Red Stone",
+    "description": "S-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"2-1. The Astronomer Shen Du\" on Very Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100441,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 4,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9973,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 404005,
+        "quantity": 20
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072143,
+    "name": "Yellow Stone",
+    "description": "S-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"1-1. Polka Lynn Wood, Acrobat\" on Very Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100441,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 4,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9972,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 404008,
+        "quantity": 20
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072144,
+    "name": "Purple Stone",
+    "description": "S-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"2-1. The Astronomer Shen Du\" on Very Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100441,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 4,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9971,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 404011,
+        "quantity": 20
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072145,
+    "name": "Green Stone",
+    "description": "S-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"3-1. The Bat King of Podorui\" on Very Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100442,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 4,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9970,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 404014,
+        "quantity": 20
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072146,
+    "name": "Orange Stone",
+    "description": "S-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"3-1. The Bat King of Podorui\" on Very Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100442,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 4,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9969,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 404017,
+        "quantity": 20
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072147,
+    "name": "Blue Stone",
+    "description": "S-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"4-1. Tu Kwai, Queen of Dae\" on Very Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100442,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 4,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9968,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 404020,
+        "quantity": 20
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072148,
+    "name": "White Stone",
+    "description": "S-rank material used to awaken skills/spells at the Dojo. Can be obtained from Home>Quests>Main (e.g., from \"5-1. The Wicked Witch of the East\" on Very Hard difficulty).",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100442,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 4,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9967,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 404023,
+        "quantity": 20
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072149,
+    "name": "[A] Weapon Enhancement Material",
+    "description": "Provides a fair amount of experience when enhancing a weapon.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100440,
+    "price": 40,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9966,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072150,
+    "name": "[A] Armor Enhancement Material",
+    "description": "Provides a fair amount of experience when enhancing Armor.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100440,
+    "price": 40,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9965,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 502300100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072151,
+    "name": "[A] Gear Enhancement Material",
+    "description": "Provides a fair amount of experience when enhancing Gear.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100440,
+    "price": 40,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9964,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 503300100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072152,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100440,
+    "price": 25,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9963,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072153,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100440,
+    "price": 25,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9962,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072154,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100440,
+    "price": 50,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9961,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072155,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100440,
+    "price": 50,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9960,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072156,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100440,
+    "price": 75,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9959,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072157,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100441,
+    "price": 25,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9958,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072158,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100441,
+    "price": 25,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9957,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072159,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100441,
+    "price": 50,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9956,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072160,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100441,
+    "price": 50,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9955,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072161,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100441,
+    "price": 75,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9954,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072162,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100442,
+    "price": 25,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9953,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072163,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100442,
+    "price": 25,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9952,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072164,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100442,
+    "price": 50,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9951,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072165,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100442,
+    "price": 50,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9950,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072166,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100442,
+    "price": 75,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9949,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072167,
+    "name": "Super Stamina Recovery Set",
+    "description": "30 Stamina Potions (Small) + 20 Stamina Potions (Medium) + 10 Stamina Potions (Large)",
+    "icon": 840045,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 13500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 2,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9948,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840003,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840002,
+        "quantity": 20
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 30
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072168,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9947,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072169,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 1000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9946,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072170,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 2000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9945,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072171,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 3000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9944,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072172,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 4000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9943,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072173,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 4500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 999,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9942,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072174,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 1000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 30,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9941,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072175,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100439,
+    "price": 10,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10000,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9940,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072176,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100442,
+    "price": 10,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10000,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9939,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072177,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100440,
+    "price": 10,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10000,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9938,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072178,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 4900262,
+    "currency": 4,
+    "currency_item_id": 1100441,
+    "price": 10,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10000,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 9937,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072179,
+    "name": "SS Myriam Style",
+    "description": "SS [Flame Vortex!] Myriam Style.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 2500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 999,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 14,
+        "id": 211406,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072180,
+    "name": "SS Myriam Piece",
+    "description": "Can be used to exchange for or raise the level cap of SS [Flame Vortex!] Myriam.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 15,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 600,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 998,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 3,
+        "id": 211406,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072181,
+    "name": "Platinum Ticket",
+    "description": "Collect 5 tickets to perform 1 Platinum Ticket Summon.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 30,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 997,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 8,
+        "id": 810003,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072182,
+    "name": "Book of Secrets: Volume 1",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 50,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 996,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072183,
+    "name": "Book of Secrets: Volume 2",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 100,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 2,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 995,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 304001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072184,
+    "name": "Book of Secrets: Volume 3",
+    "description": "Material used to awaken skills/spells at the Dojo.\nObtainable from weekly missions or events.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 500,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 3,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 994,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 305001,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072185,
+    "name": "Amplification Badge",
+    "description": "Can be exchanged for items.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 1000,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 993,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100322,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072186,
+    "name": "Mining Caves Map II",
+    "description": "Use to attempt Get diggin'! Mining Caves.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 5,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 992,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 10,
+        "id": 821075,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072187,
+    "name": "Red Gem",
+    "description": "SS-rank material used to awaken skills/spells at the Dojo. Can be obtained from events and other special venues.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 4,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 991,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 4,
+        "id": 405006,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072188,
+    "name": "[S] Weapon Enhancement Material",
+    "description": "Provides a large amount of experience when enhancing a weapon.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 15,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 990,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072189,
+    "name": "[A] Weapon Enhancement Material",
+    "description": "Provides a fair amount of experience when enhancing a weapon.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 8,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 989,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072190,
+    "name": "[S] Armor Enhancement Material",
+    "description": "Provides a large amount of experience when enhancing Armor.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 15,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 988,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 502400100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072191,
+    "name": "[A] Armor Enhancement Material",
+    "description": "Provides a fair amount of experience when enhancing Armor.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 8,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 987,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 502300100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072192,
+    "name": "[S] Gear Enhancement Material",
+    "description": "Provides a large amount of experience when enhancing Gear.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 15,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 986,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 503400100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072193,
+    "name": "[A] Gear Enhancement Material",
+    "description": "Provides a fair amount of experience when enhancing Gear.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 8,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 985,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 26,
+        "id": 503300100,
+        "quantity": 1
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072194,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 10,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 984,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072195,
+    "name": "Instant Expedition Ticket",
+    "description": "A ticket that allows you to instantly complete and return from an Expedition.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 25,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 50,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 983,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072196,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 150,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 982,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072197,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 300,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 981,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072198,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 450,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 980,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072199,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 600,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 979,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072200,
+    "name": "Stamina Potion (Small)",
+    "description": "Item that recovers 30 stamina.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 750,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 20,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 978,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072201,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 100,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 977,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1000072202,
+    "name": "Aurum",
+    "description": "Currency that can be used at the Forge and the Shop.",
+    "icon": 0,
+    "shop_id": 1004900035,
+    "currency": 4,
+    "currency_item_id": 1001100010,
+    "price": 10,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10000,
+    "start_at": 0,
+    "end_at": 0,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 976,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 10
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
     "id": 1000100001,
     "name": "Stamina Potion (Small)",
     "description": "Item that recovers 30 stamina.",
@@ -146402,6 +151992,111 @@
         "type": 1,
         "id": 100003,
         "quantity": 65000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1001000077,
+    "name": "To Death's Door Pack I",
+    "description": "Tap on the pack icon to check full contents. Purchase limit: 10",
+    "icon": 1001000069,
+    "shop_id": 1000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 200,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 10,
+    "start_at": 1632445200,
+    "end_at": 1633654799,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 20010,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100439,
+        "quantity": 13850
+      },
+      {
+        "type": 7,
+        "id": 1100440,
+        "quantity": 500
+      },
+      {
+        "type": 7,
+        "id": 1100441,
+        "quantity": 500
+      },
+      {
+        "type": 7,
+        "id": 1100442,
+        "quantity": 500
+      },
+      {
+        "type": 12,
+        "id": 840002,
+        "quantity": 10
+      },
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 25000
+      }
+    ],
+    "purchase_limit_reset_piercey": 0
+  },
+  {
+    "id": 1001000078,
+    "name": "To Death's Door Pack II",
+    "description": "Tap on the pack icon to check full contents. Purchase limit: 5",
+    "icon": 1001000070,
+    "shop_id": 1000002,
+    "currency": 2,
+    "currency_item_id": 0,
+    "price": 450,
+    "purchase_limit_type": 4,
+    "purchase_limit_count": 5,
+    "start_at": 1632445200,
+    "end_at": 1633654799,
+    "original_price": 0,
+    "ribbon_type": 0,
+    "priority": 20009,
+    "itunes_product_id": "",
+    "googleplay_product_id": "",
+    "undiscounted_itunes_product_id": "",
+    "undiscounted_googleplay_product_id": "",
+    "premium_login_bonus_id": 0,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100439,
+        "quantity": 43550
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810003,
+        "quantity": 50
+      },
+      {
+        "type": 12,
+        "id": 840002,
+        "quantity": 15
+      },
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 50000
       }
     ],
     "purchase_limit_reset_piercey": 0

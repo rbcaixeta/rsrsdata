@@ -6009,6 +6009,143 @@
     ]
   },
   {
+    "id": 110200088,
+    "name": "Marvelous Slash",
+    "rush_prefix": "Marvelous",
+    "rush_suffix": "Slash",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Slash) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "C",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1004,
+    "skill_effect": 140200094,
+    "skill_se_cue_sheet_name": "140200094",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30012,
+      30020
+    ]
+  },
+  {
+    "id": 110200089,
+    "name": "Chilly Wind",
+    "rush_prefix": "Chilly",
+    "rush_suffix": "Wind",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Slash+Cold) <br>Attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      1,
+      5
+    ],
+    "power_grade": "B",
+    "consume_bp": 5,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1003,
+    "skill_effect": 140200095,
+    "skill_se_cue_sheet_name": "140200095",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30007
+    ]
+  },
+  {
+    "id": 110200090,
+    "name": "Blade of Freezing",
+    "rush_prefix": "Blade of",
+    "rush_suffix": "Freezing",
+    "flavor_text": "Attack/Near/Direct/Delay/Single Foe (Slash+Cold) <br>Attack.<br>When the attack hits, there is a chance to reduce target's AGI (medium effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      1,
+      5
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010261
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1003,
+    "skill_effect": 140200096,
+    "skill_se_cue_sheet_name": "140200096",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
+    "id": 110200091,
+    "name": "Winter Storm",
+    "rush_prefix": "Winter",
+    "rush_suffix": "Storm",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Cold) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      5
+    ],
+    "power_grade": "A",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1004,
+    "skill_effect": 140200050,
+    "skill_se_cue_sheet_name": "140200050",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": []
+  },
+  {
     "id": 110200097,
     "name": "Shadow Blade",
     "rush_prefix": "Shadow",
@@ -26437,6 +26574,110 @@
     "awakening_material_set_ids": [
       30013,
       30021
+    ]
+  },
+  {
+    "id": 125600046,
+    "name": "Morte",
+    "rush_prefix": "Morte",
+    "rush_suffix": "Morte",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Shadow) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 56,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      8
+    ],
+    "power_grade": "E",
+    "consume_bp": 3,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 2012,
+    "skill_effect": 145600053,
+    "skill_se_cue_sheet_name": "145600002",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30001
+    ]
+  },
+  {
+    "id": 125600047,
+    "name": "Flash of Death",
+    "rush_prefix": "Flash",
+    "rush_suffix": "of Death",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Shadow+Slash) <br>Attack.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 56,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      8,
+      1
+    ],
+    "power_grade": "SS",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 2011,
+    "skill_effect": 145600054,
+    "skill_se_cue_sheet_name": "145600054",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
+    "id": 125600048,
+    "name": "Mortal Darkweb",
+    "rush_prefix": "Mortal",
+    "rush_suffix": "Darkweb",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Shadow) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 56,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      8
+    ],
+    "power_grade": "B",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 2012,
+    "skill_effect": 145600055,
+    "skill_se_cue_sheet_name": "145600055",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
     ]
   },
   {
@@ -67618,6 +67859,113 @@
     "awakening_material_set_ids": []
   },
   {
+    "id": 1110200020,
+    "name": "Chilly Wind",
+    "rush_prefix": "Chilly",
+    "rush_suffix": "Wind",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Slash+Cold) <br>Attack.<br>When the attack hits, there is a chance to reduce target's AGI (small effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      1,
+      5
+    ],
+    "power_grade": "B",
+    "consume_bp": 5,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010253
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1003,
+    "skill_effect": 140200095,
+    "skill_se_cue_sheet_name": "140200095",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30007
+    ]
+  },
+  {
+    "id": 1110200021,
+    "name": "Blade of Freezing",
+    "rush_prefix": "Blade of",
+    "rush_suffix": "Freezing",
+    "flavor_text": "Attack/Near/Direct/Delay/Single Foe (Slash+Cold) <br>Attack.<br>When the attack hits, there is a chance to reduce target's AGI (medium effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      1,
+      5
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010261
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1003,
+    "skill_effect": 140200096,
+    "skill_se_cue_sheet_name": "140200096",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
+    "id": 1110200022,
+    "name": "Winter Storm",
+    "rush_prefix": "Winter",
+    "rush_suffix": "Storm",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Cold) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      5
+    ],
+    "power_grade": "A",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040433
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1004,
+    "skill_effect": 140200050,
+    "skill_se_cue_sheet_name": "140200050",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": []
+  },
+  {
     "id": 1110300001,
     "name": "Wail",
     "rush_prefix": "Wail",
@@ -69595,6 +69943,79 @@
     "is_popup_text": 1,
     "max_awakening_count": 3,
     "awakening_material_set_ids": []
+  },
+  {
+    "id": 1125600006,
+    "name": "Flash of Death",
+    "rush_prefix": "Flash",
+    "rush_suffix": "of Death",
+    "flavor_text": "Attack/Far/Indirect/Fast/Single Foe (Shadow+Slash) <br>Attack.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 56,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      8,
+      1
+    ],
+    "power_grade": "SS",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 2011,
+    "skill_effect": 145600054,
+    "skill_se_cue_sheet_name": "145600054",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
+    "id": 1125600007,
+    "name": "Mortal Darkweb",
+    "rush_prefix": "Mortal",
+    "rush_suffix": "Darkweb",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Shadow) <br>All range attack.<br>When the attack hits, inflicts unconsciousness on target (low chance).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 56,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      8
+    ],
+    "power_grade": "B",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030382
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2012,
+    "skill_effect": 145600055,
+    "skill_se_cue_sheet_name": "145600055",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
+    ]
   },
   {
     "id": 1601000001,

@@ -1316,9 +1316,9 @@
       1100286,
       1100288
     ],
-    "priority": 6079,
-    "start_at": 1611709200,
-    "end_at": 1614214799
+    "priority": 6134,
+    "start_at": 1632445200,
+    "end_at": 1634864399
   },
   {
     "id": 4900122,
@@ -2132,6 +2132,21 @@
     "end_at": 1633309199
   },
   {
+    "id": 4900215,
+    "shop_type": 4,
+    "banner": 1000089,
+    "ribbon_type": 0,
+    "ribbon_start_at": 0,
+    "ribbon_end_at": 0,
+    "currency": 4,
+    "currency_item_ids": [
+      800086
+    ],
+    "priority": 10093,
+    "start_at": 1632445200,
+    "end_at": 1634864399
+  },
+  {
     "id": 4900216,
     "shop_type": 4,
     "banner": 1000090,
@@ -2253,6 +2268,69 @@
     "priority": 10085,
     "start_at": 1628816400,
     "end_at": 1631235599
+  },
+  {
+    "id": 4900257,
+    "shop_type": 4,
+    "banner": 901074,
+    "ribbon_type": 0,
+    "ribbon_start_at": 0,
+    "ribbon_end_at": 0,
+    "currency": 4,
+    "currency_item_ids": [
+      1100419
+    ],
+    "priority": 6137,
+    "start_at": 1632790800,
+    "end_at": 1634605199
+  },
+  {
+    "id": 4900261,
+    "shop_type": 4,
+    "banner": 1000113,
+    "ribbon_type": 0,
+    "ribbon_start_at": 0,
+    "ribbon_end_at": 0,
+    "currency": 4,
+    "currency_item_ids": [
+      800110
+    ],
+    "priority": 10094,
+    "start_at": 1632445200,
+    "end_at": 1634864399
+  },
+  {
+    "id": 4900262,
+    "shop_type": 4,
+    "banner": 901088,
+    "ribbon_type": 0,
+    "ribbon_start_at": 0,
+    "ribbon_end_at": 0,
+    "currency": 4,
+    "currency_item_ids": [
+      1100439,
+      1100440,
+      1100441,
+      1100442
+    ],
+    "priority": 6135,
+    "start_at": 1632445200,
+    "end_at": 1634864399
+  },
+  {
+    "id": 4900263,
+    "shop_type": 4,
+    "banner": 901089,
+    "ribbon_type": 0,
+    "ribbon_start_at": 0,
+    "ribbon_end_at": 0,
+    "currency": 4,
+    "currency_item_ids": [
+      1100277
+    ],
+    "priority": 6136,
+    "start_at": 1632445200,
+    "end_at": 1634864399
   },
   {
     "id": 4900269,
@@ -2843,5 +2921,35 @@
     "priority": 10091,
     "start_at": 1631581200,
     "end_at": 1634000399
+  },
+  {
+    "id": 1004900034,
+    "shop_type": 4,
+    "banner": 901017,
+    "ribbon_type": 0,
+    "ribbon_start_at": 0,
+    "ribbon_end_at": 0,
+    "currency": 4,
+    "currency_item_ids": [
+      1100421
+    ],
+    "priority": 6138,
+    "start_at": 1632790800,
+    "end_at": 1634864399
+  },
+  {
+    "id": 1004900035,
+    "shop_type": 4,
+    "banner": 1001000028,
+    "ribbon_type": 0,
+    "ribbon_start_at": 0,
+    "ribbon_end_at": 0,
+    "currency": 4,
+    "currency_item_ids": [
+      1001100010
+    ],
+    "priority": 6139,
+    "start_at": 1633050000,
+    "end_at": 1635469199
   }
 ]

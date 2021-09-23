@@ -6093,6 +6093,38 @@
     "state_icon": 2001
   },
   {
+    "id": 802010617,
+    "state_change_id": 900010017,
+    "name": "WIL Up",
+    "flavor_text": "Increases WIL.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 802010618,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "INT/WIL↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
     "id": 802010626,
     "state_change_id": 900010016,
     "name": "INT Up",
@@ -10792,6 +10824,22 @@
     "state_icon": 3001
   },
   {
+    "id": 802040358,
+    "state_change_id": 900040048,
+    "name": "Cold Attack Boost",
+    "flavor_text": "Increases damage dealt by cold attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Cold ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 802040359,
     "state_change_id": 900040048,
     "name": "Cold Attack Boost",
@@ -12145,6 +12193,79 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040611,
+    "state_change_id": 900040059,
+    "name": "Reanimate",
+    "flavor_text": "When knocked unconscious, return to 100% HP.",
+    "target_area": 1,
+    "state_vars": [
+      0,
+      100
+    ],
+    "text_pop": "Reanimate",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "Plane",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040614,
+    "state_change_id": 900050073,
+    "name": "Snow Flurry",
+    "flavor_text": "When landing an attack with Glacial Sword, Winter Storm will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      110200091
+    ],
+    "text_pop": "Snow Flurry",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040615,
+    "state_change_id": 900050073,
+    "name": "Snow Flurry",
+    "flavor_text": "When landing an attack with Chilly Wind, Winter Storm will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      110200091
+    ],
+    "text_pop": "Snow Flurry",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040616,
+    "state_change_id": 900050073,
+    "name": "Snow Flurry",
+    "flavor_text": "When landing an attack with Blade of Freezing, Winter Storm will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      110200091
+    ],
+    "text_pop": "Snow Flurry",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
     "direction_id": 1,
     "state_icon": 3001
   },
@@ -18181,6 +18302,97 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040024,
+    "state_change_id": 900040059,
+    "name": "Return from Death",
+    "flavor_text": "When knocked unconscious, return to 100% HP.",
+    "target_area": 1,
+    "state_vars": [
+      0,
+      100
+    ],
+    "text_pop": "Return from Death",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "Plane",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040025,
+    "state_change_id": 900050073,
+    "name": "Snow Flurry",
+    "flavor_text": "When landing a normal attack, Winter Storm will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110200022
+    ],
+    "text_pop": "Snow Flurry",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040026,
+    "state_change_id": 900050073,
+    "name": "Snow Flurry",
+    "flavor_text": "When landing an attack with Glacial Sword, Winter Storm will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110200022
+    ],
+    "text_pop": "Snow Flurry",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040027,
+    "state_change_id": 900050073,
+    "name": "Snow Flurry",
+    "flavor_text": "When landing an attack with Chilly Wind, Winter Storm will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110200022
+    ],
+    "text_pop": "Snow Flurry",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040028,
+    "state_change_id": 900050073,
+    "name": "Snow Flurry",
+    "flavor_text": "When landing an attack with Blade of Freezing, Winter Storm will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110200022
+    ],
+    "text_pop": "Snow Flurry",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
     "direction_id": 1,
     "state_icon": 3001
   },

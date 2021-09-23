@@ -486,6 +486,15 @@
     "sort_order": 2730
   },
   {
+    "id": 800086,
+    "name": "Ultra Deluxe Summon Medal XIII",
+    "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "icon": 800086,
+    "max_quantity": 99999999,
+    "expired_at": 1634864399,
+    "sort_order": 2720
+  },
+  {
     "id": 800087,
     "name": "Romancing Festival Medal: Abyss III",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -520,6 +529,15 @@
     "max_quantity": 99999999,
     "expired_at": 1631235599,
     "sort_order": 2865
+  },
+  {
+    "id": 800110,
+    "name": "Ultra Deluxe Summon Medal XII",
+    "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "icon": 800110,
+    "max_quantity": 99999999,
+    "expired_at": 1634864399,
+    "sort_order": 3080
   },
   {
     "id": 800112,
@@ -2133,6 +2151,60 @@
     "sort_order": 1570
   },
   {
+    "id": 1100419,
+    "name": "Precious Stone (Black) [Limited Time]",
+    "flavor_text": "Obtained from the Cave of Holy Stones. Can be exchanged for items. (Until [1634605199] <tz>)",
+    "icon": 1100376,
+    "max_quantity": 99999999,
+    "expired_at": 1634605199,
+    "sort_order": 3064
+  },
+  {
+    "id": 1100421,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1634864399] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1634864399,
+    "sort_order": 3065
+  },
+  {
+    "id": 1100439,
+    "name": "Lava Shard",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100418,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3085
+  },
+  {
+    "id": 1100440,
+    "name": "Netherworld Stone",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100419,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3095
+  },
+  {
+    "id": 1100441,
+    "name": "Netherworld Root",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100420,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3100
+  },
+  {
+    "id": 1100442,
+    "name": "Netherworld Lava",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100425,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3105
+  },
+  {
     "id": 1100452,
     "name": "Molt Piece",
     "flavor_text": "Proof of participating in Battle with Termites - Showdown (Real Queen).",
@@ -2446,6 +2518,15 @@
     "max_quantity": 99999999,
     "expired_at": 1626742799,
     "sort_order": 1835
+  },
+  {
+    "id": 1001100010,
+    "name": "Myriam Medal",
+    "flavor_text": "Can be exchanged for SS Myriam, Platinum Tickets, and other items at the Myriam Medal Exchange.",
+    "icon": 1001100009,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 1836
   },
   {
     "id": 1001100202,

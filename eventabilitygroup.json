@@ -2977,5 +2977,77 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 183
+  },
+  {
+    "id": 1000000324,
+    "event_ability_category_id": 1000000150,
+    "name": "[Ltd. Time] Cave of Weapon Holy Stones",
+    "flavor_text": "・2x attribute gains in Cave of Weapon Holy Stones",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 189
+  },
+  {
+    "id": 1000000325,
+    "event_ability_category_id": 1000000151,
+    "name": "[Ltd. Time] Cave of Armor Holy Stones",
+    "flavor_text": "・2x attribute gains in Cave of Armor Holy Stones",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 188
+  },
+  {
+    "id": 1000000326,
+    "event_ability_category_id": 1000000152,
+    "name": "[Ltd. Time] Cave of Gear Holy Stones",
+    "flavor_text": "・2x attribute gains in Cave of Gear Holy Stones",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 187
+  },
+  {
+    "id": 1000000327,
+    "event_ability_category_id": 1000000153,
+    "name": "[Ltd. Time] The Seekers' Path",
+    "flavor_text": "・2x attribute gains in The Seekers' Path",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 190
+  },
+  {
+    "id": 1000000328,
+    "event_ability_category_id": 1000000154,
+    "name": "[Ltd. Time] Battle with Death I",
+    "flavor_text": "・2x attribute gains in Main quests, and Battle with Death<br>・Bonus Bone Shard drops in Battle with Death",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 185
+  },
+  {
+    "id": 1000000329,
+    "event_ability_category_id": 1000000154,
+    "name": "[Ltd. Time] Battle with Death II",
+    "flavor_text": "・3x attribute gains in Main quests, and Battle with Death<br>・Bonus Bone Shard drops in Battle with Death",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 185
+  },
+  {
+    "id": 1000000330,
+    "event_ability_category_id": 1000000155,
+    "name": "[Ltd. Time] To Death's Door I",
+    "flavor_text": "・2x attribute gains in Main quests, and To Death's Door<br>・Bonus Lava Shard drops in To Death's Door",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 186
+  },
+  {
+    "id": 1000000331,
+    "event_ability_category_id": 1000000155,
+    "name": "[Ltd. Time] To Death's Door II",
+    "flavor_text": "・3x attribute gains in Main quests, and To Death's Door<br>・Bonus Lava Shard drops in To Death's Door",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 186
   }
 ]
