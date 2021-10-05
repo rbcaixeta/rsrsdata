@@ -67682,6 +67682,38 @@
     "awakening_material_set_ids": []
   },
   {
+    "id": 1110100019,
+    "name": "Imperial Sword",
+    "rush_prefix": "Imperial",
+    "rush_suffix": "Sword",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Slash+Sun) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1,
+      7
+    ],
+    "power_grade": "A",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1004,
+    "skill_effect": 1140100003,
+    "skill_se_cue_sheet_name": "1140100003",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": []
+  },
+  {
     "id": 1110200002,
     "name": "Moon Flash",
     "rush_prefix": "Moon",
@@ -67964,6 +67996,149 @@
     "is_popup_text": 1,
     "max_awakening_count": 3,
     "awakening_material_set_ids": []
+  },
+  {
+    "id": 1110200023,
+    "name": "Imperial Sword",
+    "rush_prefix": "Imperial",
+    "rush_suffix": "Sword",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Slash+Sun) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1,
+      7
+    ],
+    "power_grade": "A",
+    "consume_bp": 14,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1004,
+    "skill_effect": 1140200014,
+    "skill_se_cue_sheet_name": "1140100003",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
+    "id": 1110200024,
+    "name": "Sun Flash",
+    "rush_prefix": "Sun",
+    "rush_suffix": "Flash",
+    "flavor_text": "Attack/Far/Direct/All Foes (Slash+Sun) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 5,
+    "attack_attributes": [
+      1,
+      7
+    ],
+    "power_grade": "D",
+    "consume_bp": 5,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1004,
+    "skill_effect": 1140200015,
+    "skill_se_cue_sheet_name": "140100133",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30003
+    ]
+  },
+  {
+    "id": 1110200025,
+    "name": "Double Sun Slash",
+    "rush_prefix": "Double",
+    "rush_suffix": "Sun Slash",
+    "flavor_text": "Attack/Near/Indirect/Single Foe (Slash+Sun) <br>Attacks random enemies (2 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 9,
+    "attack_attributes": [
+      1,
+      7
+    ],
+    "power_grade": "D",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1004,
+    "skill_effect": 1140200016,
+    "skill_se_cue_sheet_name": "140200064",
+    "min_action_time": 2,
+    "max_action_time": 2,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30016,
+      30024
+    ]
+  },
+  {
+    "id": 1110200026,
+    "name": "Quadruple Moon Strike",
+    "rush_prefix": "Quadruple",
+    "rush_suffix": "Moon Strike",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Slash+Sun) <br>Attacks random enemies (4 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>Recovers the user's BP (+1) after each attack.",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 9,
+    "attack_attributes": [
+      1,
+      7
+    ],
+    "power_grade": "E",
+    "consume_bp": 14,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040419
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1004,
+    "skill_effect": 1140200017,
+    "skill_se_cue_sheet_name": "140100077",
+    "min_action_time": 4,
+    "max_action_time": 4,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
+    ]
   },
   {
     "id": 1110300001,
@@ -69760,6 +69935,88 @@
       30032,
       30040,
       30048
+    ]
+  },
+  {
+    "id": 1125500005,
+    "name": "Imperial Glory",
+    "rush_prefix": "Imperial",
+    "rush_suffix": "Glory",
+    "flavor_text": "Attack/Far/Indirect/Fast/All Foes (Sun) <br>All range attack.<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).<br>Imperial Sword is then activated.<br><br>Imperial Sword<br>Sword skill/Attack/Power: A/Indirect/All Foes (Slash+Sun) <br>All range attack.<br>(Uses skill/spell rank of Imperial Glory).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 55,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      7
+    ],
+    "power_grade": "E",
+    "consume_bp": 16,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801010006,
+      1801010007,
+      1801010008,
+      1801010009,
+      1801010010,
+      1801010011,
+      1801010012,
+      1801010013,
+      1801040019
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2010,
+    "skill_effect": 1145500001,
+    "skill_se_cue_sheet_name": "1145500001",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30026,
+      30034,
+      30042
+    ]
+  },
+  {
+    "id": 1125500006,
+    "name": "Imperial Shield",
+    "rush_prefix": "Imperial",
+    "rush_suffix": "Shield",
+    "flavor_text": "Support/Fast/All Allies<br>Grants all surviving allies Safeguard (1 turn(s)).<br><br>Safeguard<br>Decreases damage taken by 100%.<br>*Ineffective when inflicted with stun/sleep/paralysis/petrification.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 55,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 3,
+    "attack_attributes": [
+      7
+    ],
+    "power_grade": "-",
+    "consume_bp": 12,
+    "consume_lp": 2,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040020
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4002,
+    "skill_effect": 1145500002,
+    "skill_se_cue_sheet_name": "149900108",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30026,
+      30034,
+      30042
     ]
   },
   {

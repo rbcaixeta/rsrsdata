@@ -2439,6 +2439,15 @@
     "sort_order": 5012
   },
   {
+    "id": 1000800025,
+    "name": "Romancing Festival Medal XII",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800025,
+    "max_quantity": 99999999,
+    "expired_at": 1635814799,
+    "sort_order": 5013
+  },
+  {
     "id": 1001100001,
     "name": "Precious Stone [Limited Time]",
     "flavor_text": "Obtained from the Cave of Holy Stones. Can be exchanged for items. (Until [1618534799] <tz>)",
@@ -2527,6 +2536,24 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 1836
+  },
+  {
+    "id": 1001100011,
+    "name": "Banquet Drink",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100010,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 1900
+  },
+  {
+    "id": 1001100012,
+    "name": "Leon Medal II",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100011,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 1901
   },
   {
     "id": 1001100202,

@@ -3049,5 +3049,41 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 186
+  },
+  {
+    "id": 1000000332,
+    "event_ability_category_id": 1000000156,
+    "name": "[Ltd. Time] Intruders at the Imperial Banquet! I",
+    "flavor_text": "・2x attribute gains in Main quests, and Intruders at the Imperial Banquet!<br>・Bonus Leon Medal II drops in Intruders at the Imperial Banquet!<br>・Bonus Ceremony drops in Intruders at the Imperial Banquet! (Hard - Ultra Hard)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 191
+  },
+  {
+    "id": 1000000333,
+    "event_ability_category_id": 1000000156,
+    "name": "[Ltd. Time] Intruders at the Imperial Banquet! II",
+    "flavor_text": "・3x attribute gains in Intruders at the Imperial Banquet! (2x in Main)<br>・Bonus Leon Medal II drops in Intruders at the Imperial Banquet!<br>・Bonus Ceremony drops in Intruders at the Imperial Banquet! (Hard - Ultra Hard)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 191
+  },
+  {
+    "id": 1000000334,
+    "event_ability_category_id": 1000000157,
+    "name": "[Ltd. Time] Ryblov's Springs I",
+    "flavor_text": "・3x attribute gains in Ryblov's Springs (2x in Main)<br>・Polka Dot Towel drop +20% in Ryblov's Springs<br>・Bonus Peg Toy drops in Ryblov's Springs",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 192
+  },
+  {
+    "id": 1000000335,
+    "event_ability_category_id": 1000000157,
+    "name": "[Ltd. Time] Ryblov's Springs II",
+    "flavor_text": "・3x attribute gains in Ryblov's Springs (2x in Main)<br>・Polka Dot Towel drop +50% in Ryblov's Springs<br>・Bonus Peg Toy drops in Ryblov's Springs",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 192
   }
 ]

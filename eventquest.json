@@ -135624,5 +135624,1317 @@
     "point_bonuses": [],
     "quest_condition_id": 0,
     "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005011,
+    "quest_type": 1,
+    "name": "1. Intruders at the Imperial Banquet! (Normal)",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902401
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090745
+    ],
+    "enemy_drop_ids": [
+      1000010001
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005021,
+    "quest_type": 1,
+    "name": "2. Intruders at the Imperial Banquet! (Normal)",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902402
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090746
+    ],
+    "enemy_drop_ids": [
+      1000010002
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005031,
+    "quest_type": 1,
+    "name": "3. Intruders at the Imperial Banquet! (Normal)",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902403
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090747
+    ],
+    "enemy_drop_ids": [
+      1000010003
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005021
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1001100011
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005041,
+    "quest_type": 1,
+    "name": "4. Intruders at the Imperial Banquet! (Normal)",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902404
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090748
+    ],
+    "enemy_drop_ids": [
+      1000010004
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005051,
+    "quest_type": 1,
+    "name": "5. Intruders at the Imperial Banquet! (Normal)",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902405
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090749
+    ],
+    "enemy_drop_ids": [
+      1000010005
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005041
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1001100011
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005061,
+    "quest_type": 1,
+    "name": "6. Intruders at the Imperial Banquet! (Hard)",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902406
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090750
+    ],
+    "enemy_drop_ids": [
+      1000010006
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005071,
+    "quest_type": 1,
+    "name": "7. Intruders at the Imperial Banquet! (Hard)",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902407
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090751
+    ],
+    "enemy_drop_ids": [
+      1000010007
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005081,
+    "quest_type": 1,
+    "name": "8. Intruders at the Imperial Banquet! (Hard)",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902408
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090752
+    ],
+    "enemy_drop_ids": [
+      1000010008
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005071
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1001100011
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005091,
+    "quest_type": 1,
+    "name": "9. Intruders at the Imperial Banquet! (Hard)",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902409
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090753
+    ],
+    "enemy_drop_ids": [
+      1000010009
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005101,
+    "quest_type": 1,
+    "name": "10. Intruders at the Imperial Banquet! (Hard)",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902410
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090754
+    ],
+    "enemy_drop_ids": [
+      1000010010
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005091
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1001100011
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005111,
+    "quest_type": 1,
+    "name": "11. Intruders at the Imperial Banquet! (Very Hard)",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902501
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090755
+    ],
+    "enemy_drop_ids": [
+      1000010011
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005111,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005121,
+    "quest_type": 1,
+    "name": "12. Intruders at the Imperial Banquet! (Very Hard)",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902502
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090756
+    ],
+    "enemy_drop_ids": [
+      1000010012
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005121,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005131,
+    "quest_type": 1,
+    "name": "13. Intruders at the Imperial Banquet! (Very Hard)",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902503
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090757
+    ],
+    "enemy_drop_ids": [
+      1000010013
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005131,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005121
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1001100011
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005141,
+    "quest_type": 1,
+    "name": "14. Intruders at the Imperial Banquet! (Very Hard)",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902504
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090758
+    ],
+    "enemy_drop_ids": [
+      1000010014
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005141,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005131
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005151,
+    "quest_type": 1,
+    "name": "15. Intruders at the Imperial Banquet! (Very Hard)",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902505
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090759
+    ],
+    "enemy_drop_ids": [
+      1000010015
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005151,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005141
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1001100011
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005161,
+    "quest_type": 1,
+    "name": "16. Intruders at the Imperial Banquet! (Ultra Hard)",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902506
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090760
+    ],
+    "enemy_drop_ids": [
+      1000010016
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005161,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005171,
+    "quest_type": 1,
+    "name": "17. Intruders at the Imperial Banquet! (Ultra Hard)",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902507
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090761
+    ],
+    "enemy_drop_ids": [
+      1000010017
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005171,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005161
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005181,
+    "quest_type": 1,
+    "name": "18. Intruders at the Imperial Banquet! (Ultra Hard)",
+    "sort_order": 18,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902508
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090762
+    ],
+    "enemy_drop_ids": [
+      1000010018
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005181,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005171
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1001100011
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005191,
+    "quest_type": 1,
+    "name": "19. Intruders at the Imperial Banquet! (Ultra Hard)",
+    "sort_order": 19,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902509
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090763
+    ],
+    "enemy_drop_ids": [
+      1000010019
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005191,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005181
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005201,
+    "quest_type": 1,
+    "name": "20. Intruders at the Imperial Banquet! (Ultra Hard)",
+    "sort_order": 20,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902510
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1001100011
+      },
+      {
+        "type": 15,
+        "id": 1102403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1001100011,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1001100012,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000090764
+    ],
+    "enemy_drop_ids": [
+      1000010020
+    ],
+    "area_id": 1000001005,
+    "battle_id": 1911005201,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005191
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1001100011
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1911005211,
+    "quest_type": 1,
+    "name": "Intruders at the Imperial Banquet! (Romancing)",
+    "sort_order": 21,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 1000000004,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [
+      1019902511
+    ],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1000001005,
+    "battle_id": 1911005211,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      1911005201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
   }
 ]

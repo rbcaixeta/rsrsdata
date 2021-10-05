@@ -1772,6 +1772,16 @@
     "icon": 4010
   },
   {
+    "id": 702100647,
+    "name": "Valiance",
+    "flavor_text": "When all allies are still surviving, own attacks' damage increases (very large effect).",
+    "special_effect_ids": [
+      802040660
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702100650,
     "name": "Scrum Guard",
     "flavor_text": "When all allies are still surviving, reduces damage for all allies (medium effect).",
@@ -2281,6 +2291,16 @@
     "flavor_text": "[Start of round]<br>Grants all surviving allies a blunt attack boost (medium effect/3 turn(s)).",
     "special_effect_ids": [
       802040680
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 702200716,
+    "name": "Imperial Assault",
+    "flavor_text": "[Start of round]<br>Grants all surviving allies an attack boost (medium effect/1 turn(s)).",
+    "special_effect_ids": [
+      802040743
     ],
     "ability_when": 2,
     "icon": 4010
@@ -6439,6 +6459,17 @@
     "special_effect_ids": [
       1802040024,
       802040372
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 1702100012,
+    "name": "Indomitable",
+    "flavor_text": "When attacked, damage will be reduced (large effect).<br>When attacked and HP reaches 0, returns to 50% of Max HP (Max times: 1).",
+    "special_effect_ids": [
+      1802040029,
+      802040361
     ],
     "ability_when": 1,
     "icon": 4010
