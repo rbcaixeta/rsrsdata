@@ -93781,6 +93781,2110 @@
     "is_required_for_area_clear": 1
   },
   {
+    "id": 901133011,
+    "quest_type": 2,
+    "name": "1. The Dream Halloween Party!",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 0,
+    "scenario_id": 50036001,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133021,
+    "quest_type": 1,
+    "name": "2. Eerie Old Castle: Lobby I",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93301
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133031,
+    "quest_type": 1,
+    "name": "3. Eerie Old Castle: Lobby II",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93301
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133041,
+    "quest_type": 2,
+    "name": "4. Welcome to My Castle",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 0,
+    "scenario_id": 50036010,
+    "prev_quest_ids": [
+      901133031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133051,
+    "quest_type": 1,
+    "name": "5. Eerie Old Castle: Ground Floor",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93301
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133041
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133061,
+    "quest_type": 1,
+    "name": "6. Eerie Old Castle: Stairway",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93301
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133071,
+    "quest_type": 2,
+    "name": "7. The First: Skill Expert",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 0,
+    "scenario_id": 50036020,
+    "prev_quest_ids": [
+      901133061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133081,
+    "quest_type": 1,
+    "name": "8. Eerie Old Castle: Corridor I",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93301
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133091,
+    "quest_type": 1,
+    "name": "9. Eerie Old Castle: Corridor II",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93301
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133081
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133101,
+    "quest_type": 2,
+    "name": "10. The Second: Speed Expert",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 0,
+    "scenario_id": 50036030,
+    "prev_quest_ids": [
+      901133091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133111,
+    "quest_type": 1,
+    "name": "11. Eerie Old Castle: Study",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93301
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133121,
+    "quest_type": 1,
+    "name": "12. Eerie Old Castle: Hallway",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93301
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133131,
+    "quest_type": 2,
+    "name": "13. The Third: Spell Expert",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 0,
+    "scenario_id": 50036040,
+    "prev_quest_ids": [
+      901133121
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133141,
+    "quest_type": 1,
+    "name": "14. Eerie Old Castle: Chapel",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93301
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133131
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133151,
+    "quest_type": 1,
+    "name": "15. Eerie Old Castle: To Top Floor",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93301
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133141
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133161,
+    "quest_type": 2,
+    "name": "16. Bring It On",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 0,
+    "scenario_id": 50036050,
+    "prev_quest_ids": [
+      901133151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133171,
+    "quest_type": 2,
+    "name": "17. Congratulations on Your Graduation!",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 0,
+    "scenario_id": 50036060,
+    "prev_quest_ids": [
+      901133161
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133182,
+    "quest_type": 1,
+    "name": "1. Eerie Old Castle: Lobby I",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93302
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041112,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133192,
+    "quest_type": 1,
+    "name": "2. Eerie Old Castle: Lobby II",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93302
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041122,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133182
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133202,
+    "quest_type": 1,
+    "name": "3. Eerie Old Castle: Ground Floor",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93302
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041132,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133192
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133212,
+    "quest_type": 1,
+    "name": "4. Eerie Old Castle: Stairway",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93302
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041142,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133202
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133222,
+    "quest_type": 1,
+    "name": "5. Eerie Old Castle: Corridor I",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93302
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041152,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133212
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133232,
+    "quest_type": 1,
+    "name": "6. Eerie Old Castle: Corridor II",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93302
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041162,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133222
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133242,
+    "quest_type": 1,
+    "name": "7. Eerie Old Castle: Study",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93302
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041172,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133232
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133252,
+    "quest_type": 1,
+    "name": "8. Eerie Old Castle: Hallway",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93302
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041182,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133242
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133262,
+    "quest_type": 1,
+    "name": "9. Eerie Old Castle: Chapel",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93302
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041192,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133252
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133272,
+    "quest_type": 1,
+    "name": "10. Eerie Old Castle: To Top Floor",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93302
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041202,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133262
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133283,
+    "quest_type": 1,
+    "name": "1. Eerie Old Castle: Lobby I",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93303
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041213,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133272
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133293,
+    "quest_type": 1,
+    "name": "2. Eerie Old Castle: Lobby II",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93303
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041223,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133283
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133303,
+    "quest_type": 1,
+    "name": "3. Eerie Old Castle: Ground Floor",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 15,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93303
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041233,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133293
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133313,
+    "quest_type": 1,
+    "name": "4. Eerie Old Castle: Stairway",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93303
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041243,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133303
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133323,
+    "quest_type": 1,
+    "name": "5. Eerie Old Castle: Corridor I",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93303
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041253,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133313
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133333,
+    "quest_type": 1,
+    "name": "6. Eerie Old Castle: Corridor II",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93303
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041263,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133323
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133343,
+    "quest_type": 1,
+    "name": "7. Eerie Old Castle: Study",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93303
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041273,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133333
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133353,
+    "quest_type": 1,
+    "name": "8. Eerie Old Castle: Hallway",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93303
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041283,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133343
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133363,
+    "quest_type": 1,
+    "name": "9. Eerie Old Castle: Chapel",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93303
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041293,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133353
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133373,
+    "quest_type": 1,
+    "name": "10. Eerie Old Castle: To Top Floor",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93303
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041303,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133363
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133384,
+    "quest_type": 1,
+    "name": "1. Eerie Old Castle: Lobby I",
+    "sort_order": 1,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93304,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041314,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133373
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133394,
+    "quest_type": 1,
+    "name": "2. Eerie Old Castle: Lobby II",
+    "sort_order": 2,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93304,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041324,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133384
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133404,
+    "quest_type": 1,
+    "name": "3. Eerie Old Castle: Ground Floor",
+    "sort_order": 3,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93304,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041334,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133394
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133414,
+    "quest_type": 1,
+    "name": "4. Eerie Old Castle: Stairway",
+    "sort_order": 4,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93304,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041344,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133404
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133424,
+    "quest_type": 1,
+    "name": "5. Eerie Old Castle: Corridor I",
+    "sort_order": 5,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93304,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041354,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133414
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133434,
+    "quest_type": 1,
+    "name": "6. Eerie Old Castle: Corridor II",
+    "sort_order": 6,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93304,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041364,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133424
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133444,
+    "quest_type": 1,
+    "name": "7. Eerie Old Castle: Study",
+    "sort_order": 7,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93304,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041374,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133434
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133454,
+    "quest_type": 1,
+    "name": "8. Eerie Old Castle: Hallway",
+    "sort_order": 8,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93304,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041384,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133444
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133464,
+    "quest_type": 1,
+    "name": "9. Eerie Old Castle: Chapel",
+    "sort_order": 9,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93304,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041394,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133454
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100382
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901133474,
+    "quest_type": 1,
+    "name": "10. Eerie Old Castle: To Top Floor",
+    "sort_order": 10,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901119,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100382
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93304,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1133,
+    "battle_id": 900041404,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901133464
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
     "id": 901204011,
     "quest_type": 1,
     "name": "1. To Death's Door: Upper Floor",
@@ -124790,6 +126894,745 @@
     "scenario_id": 0,
     "prev_quest_ids": [
       911130171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134011,
+    "quest_type": 1,
+    "name": "1. Battle with Slugger",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93323,
+      93323,
+      93323
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134021,
+    "quest_type": 1,
+    "name": "2. Battle with Slugger",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93324,
+      93324,
+      93324
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134031,
+    "quest_type": 1,
+    "name": "3. Battle with Slugger",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93325,
+      93325,
+      93325
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134041,
+    "quest_type": 1,
+    "name": "4. Battle with Slugger",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93326,
+      93326,
+      93326
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134051,
+    "quest_type": 1,
+    "name": "5. Battle with Slugger",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93327,
+      93327,
+      93327
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134061,
+    "quest_type": 1,
+    "name": "6. Battle with Slugger",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93328,
+      93328,
+      93328
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134071,
+    "quest_type": 1,
+    "name": "7. Battle with Slugger",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93329,
+      93329,
+      93329
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134081,
+    "quest_type": 1,
+    "name": "8. Battle with Slugger",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93330,
+      93330,
+      93330
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134091,
+    "quest_type": 1,
+    "name": "9. Battle with Slugger",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93331,
+      93331,
+      93331
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134101,
+    "quest_type": 1,
+    "name": "10. Battle with Slugger",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93332,
+      93332,
+      93332
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134111,
+    "quest_type": 1,
+    "name": "11. Battle with Slugger (Ultra Hard)",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93333,
+      93333,
+      93333,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047111,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134121,
+    "quest_type": 1,
+    "name": "12. Battle with Slugger (Ultra Hard)",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93334,
+      93334,
+      93334,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047121,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134131,
+    "quest_type": 1,
+    "name": "13. Battle with Slugger (Ultra Hard)",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93335,
+      93335,
+      93335,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047131,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134121
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134141,
+    "quest_type": 1,
+    "name": "14. Battle with Slugger (Ultra Hard)",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93336,
+      93336,
+      93336,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047141,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134131
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134151,
+    "quest_type": 1,
+    "name": "15. Battle with Slugger (Ultra Hard)",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100385
+      },
+      {
+        "type": 7,
+        "id": 1100384
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93337,
+      93337,
+      93337,
+      93306
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047151,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134141
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911134161,
+    "quest_type": 1,
+    "name": "Battle with Slugger (Romancing)",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921046,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100222,
+        "quantity": 70
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1134,
+    "battle_id": 910047161,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911134151
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,

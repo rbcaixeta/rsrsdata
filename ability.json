@@ -6668,6 +6668,16 @@
     "icon": 4010
   },
   {
+    "id": 1702600010,
+    "name": "Here's Your Pumpkin",
+    "flavor_text": "When being attacked, increases all surviving allies' WIL (medium effect).",
+    "special_effect_ids": [
+      1802010005
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
     "id": 1708100001,
     "name": "Carapace",
     "flavor_text": "When attacked, damage will be reduced by 100% (Max times: 3).<br>*Only activates when hit by an attack.",
@@ -6786,6 +6796,26 @@
     "flavor_text": "When landing an attack, increases own AGI (medium chance/large effect).",
     "special_effect_ids": [
       1808010004
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 1708600006,
+    "name": "Reinforce (WIL)",
+    "flavor_text": "When being attacked, increases own WIL (medium chance/medium effect).",
+    "special_effect_ids": [
+      1808010005
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 1708600007,
+    "name": "Reinforce (INT)",
+    "flavor_text": "When being attacked, increases own INT (medium chance/medium effect).",
+    "special_effect_ids": [
+      1808010006
     ],
     "ability_when": 6,
     "icon": 4001

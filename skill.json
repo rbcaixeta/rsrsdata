@@ -13053,7 +13053,7 @@
     "name": "Feline Dance",
     "rush_prefix": "Feline",
     "rush_suffix": "Dance",
-    "flavor_text": "Support/Single Foe<br>Reduces targets STR and INT (low chance).",
+    "flavor_text": "Support/Single Foe<br>Reduces target's STR/INT (small effect).",
     "attack_distance": 2,
     "skill_type": 1,
     "battle_type": 5,
@@ -68711,6 +68711,42 @@
     ]
   },
   {
+    "id": 1110500009,
+    "name": "Little Witches",
+    "rush_prefix": "Little",
+    "rush_suffix": "Witches",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Blunt) <br>All range attack.<br>Increases the user's AGI (small effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "C",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010228
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500090,
+    "skill_se_cue_sheet_name": "140500090",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30010,
+      30018
+    ]
+  },
+  {
     "id": 1110600001,
     "name": "Sweet Trap",
     "rush_prefix": "Sweet",
@@ -70017,6 +70053,84 @@
       30026,
       30034,
       30042
+    ]
+  },
+  {
+    "id": 1125500007,
+    "name": "Photosphere Shot",
+    "rush_prefix": "Photosphere",
+    "rush_suffix": "Shot",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Sun) <br>Attack.<br>When the attack hits, there is a chance to reduce target's END (small effect).<br>When the attack hits, there is a chance to reduce target's WIL (small effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 55,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      7
+    ],
+    "power_grade": "B",
+    "consume_bp": 7,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010251,
+      801010255
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2009,
+    "skill_effect": 145500035,
+    "skill_se_cue_sheet_name": "145500035",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30011,
+      30019
+    ]
+  },
+  {
+    "id": 1125500008,
+    "name": "Princess Pumpkin's Party",
+    "rush_prefix": "Princess Pumpkin's",
+    "rush_suffix": "Party",
+    "flavor_text": "Support/All Allies<br>Cures all surviving allies from all status ailments.<br>Also increases all surviving allies' END/WIL/LOV/CHA (medium effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 55,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 3,
+    "attack_attributes": [
+      7
+    ],
+    "power_grade": "-",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040370,
+      1801010014,
+      1801010015,
+      1801010016,
+      1801010017
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4008,
+    "skill_effect": 1145500003,
+    "skill_se_cue_sheet_name": "1145500003",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30029,
+      30037,
+      30045
     ]
   },
   {

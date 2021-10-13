@@ -21511,6 +21511,38 @@
     ]
   },
   {
+    "id": 2792,
+    "name": "",
+    "flavor_text": "",
+    "icon": 0,
+    "event_ability_type": 1,
+    "rate": 0,
+    "reward_bonuses": [
+      {
+        "type": 7,
+        "id": 1100382,
+        "rate": 1.2000000476837158
+      }
+    ],
+    "drop_group_ids": []
+  },
+  {
+    "id": 2793,
+    "name": "",
+    "flavor_text": "",
+    "icon": 0,
+    "event_ability_type": 1,
+    "rate": 0,
+    "reward_bonuses": [
+      {
+        "type": 7,
+        "id": 1100382,
+        "rate": 1.5
+      }
+    ],
+    "drop_group_ids": []
+  },
+  {
     "id": 2794,
     "name": "",
     "flavor_text": "",
@@ -30306,6 +30338,18 @@
     "reward_bonuses": [],
     "drop_group_ids": [
       1000090801
+    ]
+  },
+  {
+    "id": 1000001524,
+    "name": "",
+    "flavor_text": "",
+    "icon": 0,
+    "event_ability_type": 4,
+    "rate": 0,
+    "reward_bonuses": [],
+    "drop_group_ids": [
+      1000090802
     ]
   }
 ]
