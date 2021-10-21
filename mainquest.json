@@ -44653,5 +44653,1769 @@
     "prev_quest_ids": [
       100206191
     ]
+  },
+  {
+    "id": 100207011,
+    "quest_type": 2,
+    "name": "7-1-1. End of Training",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 0,
+    "scenario_id": 10207001,
+    "prev_quest_ids": [
+      100206201
+    ]
+  },
+  {
+    "id": 100207012,
+    "quest_type": 1,
+    "name": "7-1-1. Returning to Vanguard I",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1090071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 403022
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000853,
+      870000134,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207171,
+      100206102
+    ]
+  },
+  {
+    "id": 100207013,
+    "quest_type": 1,
+    "name": "7-1-1. Returning to Vanguard I",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1090071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404023
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000851,
+      870000134,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207102,
+      100206103
+    ]
+  },
+  {
+    "id": 100207021,
+    "quest_type": 1,
+    "name": "7-1-2. Returning to Vanguard I",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1090071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000333,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207011
+    ]
+  },
+  {
+    "id": 100207022,
+    "quest_type": 1,
+    "name": "7-1-2. Returning to Vanguard II",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1050071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 403022
+      },
+      {
+        "type": 26,
+        "id": 502400100
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000853,
+      870000135,
+      870000136,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207012
+    ]
+  },
+  {
+    "id": 100207023,
+    "quest_type": 1,
+    "name": "7-1-2. Returning to Vanguard II",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1050071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404023
+      },
+      {
+        "type": 26,
+        "id": 502400100
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000851,
+      870000135,
+      870000136,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207013
+    ]
+  },
+  {
+    "id": 100207031,
+    "quest_type": 1,
+    "name": "7-1-3. Returning to Vanguard II",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1050071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000333,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207021
+    ]
+  },
+  {
+    "id": 100207032,
+    "quest_type": 1,
+    "name": "7-1-3. Returning to Vanguard III",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1100071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103402600
+      },
+      {
+        "type": 18,
+        "id": 409300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000859,
+      870000858,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207022
+    ]
+  },
+  {
+    "id": 100207033,
+    "quest_type": 1,
+    "name": "7-1-3. Returning to Vanguard III",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1100071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103402600
+      },
+      {
+        "type": 4,
+        "id": 403022
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 103402720,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000863,
+      870000853,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207023
+    ]
+  },
+  {
+    "id": 100207041,
+    "quest_type": 2,
+    "name": "7-1-4. Becoming the Archfiend",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 0,
+    "scenario_id": 10207010,
+    "prev_quest_ids": [
+      100207031
+    ]
+  },
+  {
+    "id": 100207042,
+    "quest_type": 1,
+    "name": "7-1-4. Returning to Vanguard IV",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1030051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103402600
+      },
+      {
+        "type": 18,
+        "id": 409300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000859,
+      870000855,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207032
+    ]
+  },
+  {
+    "id": 100207043,
+    "quest_type": 1,
+    "name": "7-1-4. Returning to Vanguard IV",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1150061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103402600
+      },
+      {
+        "type": 4,
+        "id": 403022
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000863,
+      870000853,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207033
+    ]
+  },
+  {
+    "id": 100207051,
+    "quest_type": 1,
+    "name": "7-1-5. Returning to Vanguard III",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1100071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 18,
+        "id": 409300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000334,
+      870000336,
+      870000080,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207041
+    ]
+  },
+  {
+    "id": 100207052,
+    "quest_type": 1,
+    "name": "7-1-5. Returning to Vanguard V",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 7,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1110071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104402900
+      },
+      {
+        "type": 15,
+        "id": 106402400
+      },
+      {
+        "type": 18,
+        "id": 409300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000849,
+      870000860,
+      870000862,
+      870000855,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207042
+    ]
+  },
+  {
+    "id": 100207053,
+    "quest_type": 1,
+    "name": "7-1-5. Returning to Vanguard V",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1110071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104402900
+      },
+      {
+        "type": 15,
+        "id": 106402400
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 104403040,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000850,
+      870000864,
+      870000866,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207043
+    ]
+  },
+  {
+    "id": 100207061,
+    "quest_type": 1,
+    "name": "7-1-6. Returning to Vanguard IV",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1030051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 18,
+        "id": 409300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000334,
+      870000336,
+      870000080,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207051
+    ]
+  },
+  {
+    "id": 100207062,
+    "quest_type": 1,
+    "name": "7-2-1. Returning to Vanguard VI",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 7,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1080021,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104402900
+      },
+      {
+        "type": 15,
+        "id": 106402400
+      },
+      {
+        "type": 18,
+        "id": 409300400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000860,
+      870000862,
+      870000856,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207052
+    ]
+  },
+  {
+    "id": 100207063,
+    "quest_type": 1,
+    "name": "7-2-1. Returning to Vanguard VI",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1080041,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104402900
+      },
+      {
+        "type": 15,
+        "id": 106402400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000864,
+      870000866,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207053
+    ]
+  },
+  {
+    "id": 100207071,
+    "quest_type": 2,
+    "name": "7-1-7. Ray of Hope",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 0,
+    "scenario_id": 10207020,
+    "prev_quest_ids": [
+      100207061
+    ]
+  },
+  {
+    "id": 100207072,
+    "quest_type": 1,
+    "name": "7-2-2. The Attack I",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 7,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1040031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104402900
+      },
+      {
+        "type": 15,
+        "id": 106402400
+      },
+      {
+        "type": 18,
+        "id": 409300400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000860,
+      870000862,
+      870000856,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207062
+    ]
+  },
+  {
+    "id": 100207073,
+    "quest_type": 1,
+    "name": "7-2-2. The Attack I",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104402900
+      },
+      {
+        "type": 15,
+        "id": 106402400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 106402550,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000864,
+      870000866,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207063
+    ]
+  },
+  {
+    "id": 100207081,
+    "quest_type": 1,
+    "name": "7-1-8. Returning to Vanguard V",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 7,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1110071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 18,
+        "id": 409305600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000848,
+      870000334,
+      870000336,
+      870000077,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 147,
+    "battle_id": 100207051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207071
+    ]
+  },
+  {
+    "id": 100207082,
+    "quest_type": 1,
+    "name": "7-2-3. The Attack II",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1140071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107402600
+      },
+      {
+        "type": 18,
+        "id": 409300500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000861,
+      870000857,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207072
+    ]
+  },
+  {
+    "id": 100207083,
+    "quest_type": 1,
+    "name": "7-2-3. The Attack II",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107402600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 502400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000865,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207073
+    ]
+  },
+  {
+    "id": 100207091,
+    "quest_type": 1,
+    "name": "7-2-1. Returning to Vanguard VI",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 7,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1080021,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 18,
+        "id": 409305600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000334,
+      870000336,
+      870000077,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207081
+    ]
+  },
+  {
+    "id": 100207092,
+    "quest_type": 1,
+    "name": "7-2-4. The Attack III",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 7,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1130071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107402600
+      },
+      {
+        "type": 18,
+        "id": 409300500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000861,
+      870000857,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207082
+    ]
+  },
+  {
+    "id": 100207093,
+    "quest_type": 1,
+    "name": "7-2-4. The Attack III",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1130071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107402600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 107402750,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 503400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000865,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207083
+    ]
+  },
+  {
+    "id": 100207101,
+    "quest_type": 2,
+    "name": "7-2-2. Death Bringer",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 0,
+    "scenario_id": 10207030,
+    "prev_quest_ids": [
+      100207091
+    ]
+  },
+  {
+    "id": 100207102,
+    "quest_type": 1,
+    "name": "7-2-5. The Attack IV",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 7,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1130081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107402600
+      },
+      {
+        "type": 18,
+        "id": 409300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000849,
+      870000861,
+      870000858,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207092
+    ]
+  },
+  {
+    "id": 100207103,
+    "quest_type": 1,
+    "name": "7-2-5. The Attack IV",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1130081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107402600
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000850,
+      870000865,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207093
+    ]
+  },
+  {
+    "id": 100207111,
+    "quest_type": 1,
+    "name": "7-2-3. The Attack I",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 7,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1040031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107300100
+      },
+      {
+        "type": 18,
+        "id": 409300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000335,
+      870000078,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207101
+    ]
+  },
+  {
+    "id": 100207121,
+    "quest_type": 1,
+    "name": "7-2-4. The Attack II",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1140071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107300100
+      },
+      {
+        "type": 18,
+        "id": 409300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000335,
+      870000078,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207111
+    ]
+  },
+  {
+    "id": 100207131,
+    "quest_type": 2,
+    "name": "7-2-5. In the Box",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 0,
+    "scenario_id": 10207040,
+    "prev_quest_ids": [
+      100207121
+    ]
+  },
+  {
+    "id": 100207141,
+    "quest_type": 1,
+    "name": "7-2-6. The Attack III",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 7,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1130071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 18,
+        "id": 409305400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000037,
+      870000079,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207131
+    ]
+  },
+  {
+    "id": 100207151,
+    "quest_type": 1,
+    "name": "7-2-7. The Attack IV",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 7,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1130081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 18,
+        "id": 409305400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000848,
+      870000037,
+      870000079,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 100207101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100207141
+    ]
+  },
+  {
+    "id": 100207161,
+    "quest_type": 2,
+    "name": "7-2-8. The True Archfiend",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 0,
+    "scenario_id": 10207050,
+    "prev_quest_ids": [
+      100207151
+    ]
+  },
+  {
+    "id": 100207171,
+    "quest_type": 2,
+    "name": "7-2-9. Immaculate Being",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 14,
+        "id": 715501,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 148,
+    "battle_id": 0,
+    "scenario_id": 10207060,
+    "prev_quest_ids": [
+      100207161
+    ]
   }
 ]

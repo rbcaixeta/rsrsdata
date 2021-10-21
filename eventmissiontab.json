@@ -520,6 +520,14 @@
     "is_pierceily": 0
   },
   {
+    "id": 138,
+    "name": "Ring Trial",
+    "start_at": 1635123600,
+    "end_at": 1636333199,
+    "priority": 10207,
+    "is_pierceily": 0
+  },
+  {
     "id": 152,
     "name": "To Death's Door",
     "start_at": 1632445200,
@@ -797,6 +805,22 @@
     "start_at": 1633424400,
     "end_at": 1634605199,
     "priority": 10203,
+    "is_pierceily": 0
+  },
+  {
+    "id": 1000000034,
+    "name": "Main Story Support Missions I",
+    "start_at": 1634864400,
+    "end_at": 1635469199,
+    "priority": 10206,
+    "is_pierceily": 1
+  },
+  {
+    "id": 1000000035,
+    "name": "Main Story Support Missions II",
+    "start_at": 1634864400,
+    "end_at": 1636073999,
+    "priority": 10205,
     "is_pierceily": 0
   }
 ]

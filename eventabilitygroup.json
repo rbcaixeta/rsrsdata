@@ -3148,5 +3148,41 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 193
+  },
+  {
+    "id": 1000000343,
+    "event_ability_category_id": 1000000161,
+    "name": "[Ltd. Time] Main Story Expansion I",
+    "flavor_text": "・2x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 196
+  },
+  {
+    "id": 1000000344,
+    "event_ability_category_id": 1000000161,
+    "name": "[Ltd. Time] Main Story Expansion II",
+    "flavor_text": "・3x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 196
+  },
+  {
+    "id": 1000000345,
+    "event_ability_category_id": 1000000162,
+    "name": "[Ltd. Time] Ring Trial I",
+    "flavor_text": "・2x attribute gains in Main quests, and Ring Trial<br>・Bonus Holy Spoils (Yellow) drops in Ring Trial",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 197
+  },
+  {
+    "id": 1000000346,
+    "event_ability_category_id": 1000000162,
+    "name": "[Ltd. Time] Ring Trial II",
+    "flavor_text": "・3x attribute gains in Ring Trial (2x in Main)<br>・Bonus Holy Spoils (Yellow) drops in Ring Trial",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 197
   }
 ]

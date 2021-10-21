@@ -540,6 +540,15 @@
     "sort_order": 2865
   },
   {
+    "id": 800095,
+    "name": "Ultra Deluxe Summon Medal XIV",
+    "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "icon": 800095,
+    "max_quantity": 99999999,
+    "expired_at": 1637283599,
+    "sort_order": 2790
+  },
+  {
     "id": 800110,
     "name": "Ultra Deluxe Summon Medal XII",
     "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
@@ -2187,6 +2196,42 @@
     "sort_order": 2855
   },
   {
+    "id": 1100401,
+    "name": "Ring Badge",
+    "flavor_text": "Obtained from the Ring Trial Exchange. Proof of victory in the Ring Trial.",
+    "icon": 1100403,
+    "max_quantity": 1,
+    "expired_at": 0,
+    "sort_order": 2950
+  },
+  {
+    "id": 1100402,
+    "name": "Soft Relic",
+    "flavor_text": "Obtained from the Ring Trial event. Can be exchanged for items.",
+    "icon": 1100400,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2945
+  },
+  {
+    "id": 1100403,
+    "name": "Holy Spoils (Yellow)",
+    "flavor_text": "Obtained from the Ring Trial event. Can be exchanged for items.",
+    "icon": 1100401,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2940
+  },
+  {
+    "id": 1100404,
+    "name": "Demonbird Bone",
+    "flavor_text": "Obtained from the Ring Trial event. Can be exchanged for items.",
+    "icon": 1100402,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2935
+  },
+  {
     "id": 1100412,
     "name": "Ox Bell",
     "flavor_text": "Can be exchanged for items at the Ox Bell Exchange. (Until [1616288399] <tz>)",
@@ -2608,6 +2653,15 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 1901
+  },
+  {
+    "id": 1001100013,
+    "name": "Mysterious Invitation [Ltd. Time]",
+    "flavor_text": "Can be exchanged for items at the Mysterious Invitation Exchange. (Until [1636937999] <tz>)",
+    "icon": 1001100012,
+    "max_quantity": 99999999,
+    "expired_at": 1636937999,
+    "sort_order": 1902
   },
   {
     "id": 1001100202,

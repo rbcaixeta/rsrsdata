@@ -129213,6 +129213,1649 @@
     "is_required_for_area_clear": 1
   },
   {
+    "id": 911183011,
+    "quest_type": 1,
+    "name": "1. Ring Trial (Easy)",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93947,
+      94022,
+      93972
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1100402
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183021,
+    "quest_type": 1,
+    "name": "2. Ring Trial (Normal)",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93948,
+      94023,
+      93973
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183031,
+    "quest_type": 1,
+    "name": "3. Ring Trial (Normal)",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93949,
+      94024,
+      93974
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183041,
+    "quest_type": 1,
+    "name": "4. Ring Trial (Normal)",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93950,
+      94025,
+      93975
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183051,
+    "quest_type": 1,
+    "name": "5. Ring Trial (Normal)",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93951,
+      94026,
+      93976
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183041
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1100402
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183061,
+    "quest_type": 1,
+    "name": "6. Ring Trial (Hard)",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 150
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93952,
+      94027,
+      93977
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183071,
+    "quest_type": 1,
+    "name": "7. Ring Trial (Hard)",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 150
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93953,
+      94028,
+      93978
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183081,
+    "quest_type": 1,
+    "name": "8. Ring Trial (Hard)",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 150
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93954,
+      94029,
+      93979
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183091,
+    "quest_type": 1,
+    "name": "9. Ring Trial (Hard)",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 150
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93955,
+      94030,
+      93980
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183101,
+    "quest_type": 1,
+    "name": "10. Ring Trial (Hard)",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 150
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93956,
+      94031,
+      93981
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183091
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1100402
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183111,
+    "quest_type": 1,
+    "name": "11. Ring Trial (Very Hard)",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 200
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 15
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93957,
+      94032,
+      93982
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053112,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183121,
+    "quest_type": 1,
+    "name": "12. Ring Trial (Very Hard)",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 200
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 15
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93958,
+      94033,
+      93983
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053123,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183131,
+    "quest_type": 1,
+    "name": "13. Ring Trial (Very Hard)",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 200
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 15
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93959,
+      94034,
+      93984
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053133,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183121
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183141,
+    "quest_type": 1,
+    "name": "14. Ring Trial (Very Hard)",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 200
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 15
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93960,
+      94035,
+      93985
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053143,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183131
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183151,
+    "quest_type": 1,
+    "name": "15. Ring Trial (Very Hard)",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 200
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 15
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93961,
+      94036,
+      93986
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053153,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183141
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1100402
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183161,
+    "quest_type": 1,
+    "name": "16. Ring Trial (Very Hard)",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 200
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 15
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93962,
+      94037,
+      93987
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053163,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183171,
+    "quest_type": 1,
+    "name": "17. Ring Trial (Very Hard)",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 200
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 15
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93963,
+      94038,
+      93988
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053173,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183161
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183181,
+    "quest_type": 1,
+    "name": "18. Ring Trial (Very Hard)",
+    "sort_order": 18,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 200
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 15
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93964,
+      94039,
+      93989
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053183,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183191,
+    "quest_type": 1,
+    "name": "19. Ring Trial (Very Hard)",
+    "sort_order": 19,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 200
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 15
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93965,
+      94040,
+      93990
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053193,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183181
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183201,
+    "quest_type": 1,
+    "name": "20. Ring Trial (Very Hard)",
+    "sort_order": 20,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 200
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 15
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93966,
+      94041,
+      93991
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053203,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183191
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1100402
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183211,
+    "quest_type": 1,
+    "name": "21. Ring Trial (Ultra Hard)",
+    "sort_order": 21,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 20
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93967,
+      94042,
+      93992
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053214,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183201
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1100402
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183221,
+    "quest_type": 1,
+    "name": "22. Ring Trial (Ultra Hard)",
+    "sort_order": 22,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 20
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93968,
+      94043,
+      93993
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053224,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183211
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1100402
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183231,
+    "quest_type": 1,
+    "name": "23. Ring Trial (Ultra Hard)",
+    "sort_order": 23,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 20
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93969,
+      94044,
+      93994
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053234,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183221
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1100402
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183241,
+    "quest_type": 1,
+    "name": "24. Ring Trial (Ultra Hard)",
+    "sort_order": 24,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 20
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93970,
+      94045,
+      93995
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053244,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183231
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1100402
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911183251,
+    "quest_type": 1,
+    "name": "25. Ring Trial (Ultra Hard)",
+    "sort_order": 25,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901125,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100402
+      },
+      {
+        "type": 7,
+        "id": 1100403
+      },
+      {
+        "type": 7,
+        "id": 1100404
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100402,
+        "quantity": 300
+      },
+      {
+        "type": 7,
+        "id": 1100403,
+        "quantity": 20
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93971,
+      94046,
+      93996
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1183,
+    "battle_id": 910053254,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911183241
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 1,
+        "bonus_rate": 10,
+        "reward_type": 7,
+        "reward_id": 1100402
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
     "id": 911262011,
     "quest_type": 1,
     "name": "1. Battle with Joker (Normal)",

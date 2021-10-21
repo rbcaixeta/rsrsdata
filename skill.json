@@ -50292,6 +50292,37 @@
     "awakening_material_set_ids": []
   },
   {
+    "id": 905212403,
+    "name": "All-in Assault",
+    "rush_prefix": "All-in Assault",
+    "rush_suffix": "All-in Assault",
+    "flavor_text": "Attack/Direct/(Blunt)<br>Attack.",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "S",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1009,
+    "skill_effect": 140500002,
+    "skill_se_cue_sheet_name": "140500002",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 0,
+    "awakening_material_set_ids": []
+  },
+  {
     "id": 905224203,
     "name": "Stalk",
     "rush_prefix": "Stalk",
@@ -69343,6 +69374,126 @@
     "min_action_time": 1,
     "max_action_time": 1,
     "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30027,
+      30035,
+      30043
+    ]
+  },
+  {
+    "id": 1110800002,
+    "name": "Lightstreak Lunge",
+    "rush_prefix": "Lightstreak",
+    "rush_suffix": "Lunge",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Pierce+Sun) <br>Attack [Critical: Undead, Demon].",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      3,
+      7
+    ],
+    "power_grade": "B",
+    "consume_bp": 5,
+    "consume_lp": 0,
+    "critical_targets": [
+      13,
+      12
+    ],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1018,
+    "skill_effect": 140800067,
+    "skill_se_cue_sheet_name": "140800067",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30002
+    ]
+  },
+  {
+    "id": 1110800003,
+    "name": "Light Geyser",
+    "rush_prefix": "Light",
+    "rush_suffix": "Geyser",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Pierce+Sun) <br>Attack [Critical: Undead, Demon].",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      3,
+      7
+    ],
+    "power_grade": "S",
+    "consume_bp": 9,
+    "consume_lp": 0,
+    "critical_targets": [
+      13,
+      12
+    ],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1018,
+    "skill_effect": 140800068,
+    "skill_se_cue_sheet_name": "140800068",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30016,
+      30024
+    ]
+  },
+  {
+    "id": 1110800004,
+    "name": "Shining Glory",
+    "rush_prefix": "Shining",
+    "rush_suffix": "Glory",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Pierce+Sun) <br>All range attack [Critical: Undead, Demon].<br>Increases all surviving allies' STR/DEX/AGI/INT (large effect).<br>Recovers all surviving allies' HP (small effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      3,
+      7
+    ],
+    "power_grade": "A",
+    "consume_bp": 11,
+    "consume_lp": 2,
+    "critical_targets": [
+      13,
+      12
+    ],
+    "additional_effect_ids": [
+      1801010018,
+      1801010019,
+      1801010020,
+      1801010021,
+      801010464
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1019,
+    "skill_effect": 140800069,
+    "skill_se_cue_sheet_name": "140800069",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
     "is_popup_text": 1,
     "max_awakening_count": 3,
     "awakening_material_set_ids": [

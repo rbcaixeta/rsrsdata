@@ -1874,5 +1874,61 @@
     "priority": 9994,
     "ribbon_text": "",
     "trigger_quest_id": 100103103
+  },
+  {
+    "id": 1000040157,
+    "event_mission_tab_id": 1000000034,
+    "start_at": 0,
+    "end_at": 0,
+    "summary": "5 Daily Main Quests",
+    "description": "Complete 5 Main Quests in one day",
+    "reward_type": 7,
+    "reward_id": 1001100013,
+    "reward_quantity": 5,
+    "priority": 9999,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
+  },
+  {
+    "id": 1000040158,
+    "event_mission_tab_id": 1000000034,
+    "start_at": 0,
+    "end_at": 0,
+    "summary": "10 Daily Main Quests",
+    "description": "Complete 10 Main Quests in one day",
+    "reward_type": 7,
+    "reward_id": 1001100013,
+    "reward_quantity": 5,
+    "priority": 9998,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
+  },
+  {
+    "id": 1000040159,
+    "event_mission_tab_id": 1000000034,
+    "start_at": 0,
+    "end_at": 0,
+    "summary": "20 Daily Main Quests",
+    "description": "Complete 20 Main Quests in one day",
+    "reward_type": 7,
+    "reward_id": 1001100013,
+    "reward_quantity": 5,
+    "priority": 9997,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
+  },
+  {
+    "id": 1000040160,
+    "event_mission_tab_id": 1000000034,
+    "start_at": 0,
+    "end_at": 0,
+    "summary": "30 Daily Main Quests",
+    "description": "Complete 30 Main Quests in one day",
+    "reward_type": 7,
+    "reward_id": 1001100013,
+    "reward_quantity": 5,
+    "priority": 9996,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
   }
 ]
