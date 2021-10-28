@@ -468,5 +468,35 @@
     "value": 30,
     "sort_order": 1211,
     "expired_at": 1638665999
+  },
+  {
+    "id": 1000840022,
+    "name": "Divine Tower: Matriarch Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1640739599] <tz>)",
+    "icon": 840049,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 1212,
+    "expired_at": 1640739599
+  },
+  {
+    "id": 1000840023,
+    "name": "Divine Tower: Matriarch Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1640739599] <tz>)",
+    "icon": 840050,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 1213,
+    "expired_at": 1640739599
+  },
+  {
+    "id": 1000840024,
+    "name": "Divine Tower: Matriarch Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1640739599] <tz>)",
+    "icon": 840051,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 1214,
+    "expired_at": 1640739599
   }
 ]

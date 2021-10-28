@@ -95885,6 +95885,4502 @@
     "is_required_for_area_clear": 1
   },
   {
+    "id": 901174011,
+    "quest_type": 2,
+    "name": "1. Selma's Strategy",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 0,
+    "scenario_id": 50029001,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174021,
+    "quest_type": 1,
+    "name": "2. Tower: Entrance I",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93563,
+      93603
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174031,
+    "quest_type": 1,
+    "name": "3. Tower: Entrance II",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93564,
+      93604
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174041,
+    "quest_type": 2,
+    "name": "4. An Unbridgeable Gap",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 0,
+    "scenario_id": 50029010,
+    "prev_quest_ids": [
+      901174031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174051,
+    "quest_type": 1,
+    "name": "5. Tower: Lower Floor I",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93565,
+      93605
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174061,
+    "quest_type": 1,
+    "name": "6. Tower: Lower Floor II",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93566,
+      93606
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174071,
+    "quest_type": 2,
+    "name": "7. Tracking Footprints",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 0,
+    "scenario_id": 50029020,
+    "prev_quest_ids": [
+      901174061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174081,
+    "quest_type": 1,
+    "name": "8. Tower: Middle Floor I",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93567,
+      93607
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174091,
+    "quest_type": 1,
+    "name": "9. Tower: Middle Floor II",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93568,
+      93608
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174101,
+    "quest_type": 2,
+    "name": "10. Smugglers",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 0,
+    "scenario_id": 50029030,
+    "prev_quest_ids": [
+      901174091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174111,
+    "quest_type": 1,
+    "name": "11. Together with Genny",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93569,
+      93609
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174121,
+    "quest_type": 1,
+    "name": "12. Tower Descent",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93570,
+      93610
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174131,
+    "quest_type": 2,
+    "name": "13. Because We're Friends",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 0,
+    "scenario_id": 50029040,
+    "prev_quest_ids": [
+      901174121
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174141,
+    "quest_type": 1,
+    "name": "14. The Empire's Siege I",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93571,
+      93611
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174131
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174151,
+    "quest_type": 2,
+    "name": "15. The Fate of Morastrum",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 0,
+    "scenario_id": 50029050,
+    "prev_quest_ids": [
+      901174141
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174161,
+    "quest_type": 1,
+    "name": "16. The Empire's Siege II",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93572,
+      93612
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174171,
+    "quest_type": 2,
+    "name": "17. Jo's Might",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 0,
+    "scenario_id": 50029060,
+    "prev_quest_ids": [
+      901174161
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174192,
+    "quest_type": 1,
+    "name": "1. Tower: Entrance I",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93573,
+      93613
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033112,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174202,
+    "quest_type": 1,
+    "name": "2. Tower: Entrance II",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93574,
+      93614
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033122,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174192
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174212,
+    "quest_type": 1,
+    "name": "3. Tower: Lower Floor I",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      },
+      {
+        "type": 7,
+        "id": 1100397
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93575,
+      93615,
+      92258
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033132,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174202
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174222,
+    "quest_type": 1,
+    "name": "4. Tower: Lower Floor II",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93576,
+      93616
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033142,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174212
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174232,
+    "quest_type": 1,
+    "name": "5. Tower: Middle Floor I",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93577,
+      93617
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033152,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174222
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174242,
+    "quest_type": 1,
+    "name": "6. Tower: Middle Floor II",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      },
+      {
+        "type": 7,
+        "id": 1100397
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93578,
+      93618,
+      92258
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033162,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174232
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174252,
+    "quest_type": 1,
+    "name": "7. Together with Genny",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93579,
+      93619
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033172,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174242
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174262,
+    "quest_type": 1,
+    "name": "8. Tower Descent",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93580,
+      93620
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033182,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174252
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174272,
+    "quest_type": 1,
+    "name": "9. The Empire's Siege I",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      },
+      {
+        "type": 7,
+        "id": 1100397
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93581,
+      93621,
+      92258
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033192,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174262
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174282,
+    "quest_type": 1,
+    "name": "10. The Empire's Siege II",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      },
+      {
+        "type": 7,
+        "id": 1100397
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93582,
+      93622,
+      92258
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033202,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174272
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174293,
+    "quest_type": 1,
+    "name": "1. Tower: Entrance I",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93583,
+      93623
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033213,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174282
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174294,
+    "quest_type": 1,
+    "name": "1. Tower: Entrance I",
+    "sort_order": 1,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93593,
+      93633
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900042314,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174383
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174303,
+    "quest_type": 1,
+    "name": "2. Tower: Entrance II",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93584,
+      93624
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033223,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174293
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174304,
+    "quest_type": 1,
+    "name": "2. Tower: Entrance II",
+    "sort_order": 2,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93594,
+      93634
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900042324,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174294
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174313,
+    "quest_type": 1,
+    "name": "3. Tower: Lower Floor I",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 15,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93585,
+      93625,
+      92259
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033233,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174303
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174314,
+    "quest_type": 1,
+    "name": "3. Tower: Lower Floor I",
+    "sort_order": 3,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93595,
+      93635,
+      92260
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900042334,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174304
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174323,
+    "quest_type": 1,
+    "name": "4. Tower: Lower Floor II",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93586,
+      93626
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033243,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174313
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174324,
+    "quest_type": 1,
+    "name": "4. Tower: Lower Floor II",
+    "sort_order": 4,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93596,
+      93636
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900042344,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174314
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174333,
+    "quest_type": 1,
+    "name": "5. Tower: Middle Floor I",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93587,
+      93627
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033253,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174323
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174334,
+    "quest_type": 1,
+    "name": "5. Tower: Middle Floor I",
+    "sort_order": 5,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93597,
+      93637
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900042354,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174324
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174343,
+    "quest_type": 1,
+    "name": "6. Tower: Middle Floor II",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93588,
+      93628,
+      92259
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033263,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174333
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174344,
+    "quest_type": 1,
+    "name": "6. Tower: Middle Floor II",
+    "sort_order": 6,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93598,
+      93638,
+      92260
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900042364,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174334
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174353,
+    "quest_type": 1,
+    "name": "7. Together with Genny",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93589,
+      93629
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033273,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174343
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174354,
+    "quest_type": 1,
+    "name": "7. Together with Genny",
+    "sort_order": 7,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93599,
+      93639
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900042374,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174344
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174363,
+    "quest_type": 1,
+    "name": "8. Tower Descent",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93590,
+      93630
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033283,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174353
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174364,
+    "quest_type": 1,
+    "name": "8. Tower Descent",
+    "sort_order": 8,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93600,
+      93640
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900042384,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174354
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174373,
+    "quest_type": 1,
+    "name": "9. The Empire's Siege I",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93591,
+      93631,
+      92259
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033293,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174363
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174374,
+    "quest_type": 1,
+    "name": "9. The Empire's Siege I",
+    "sort_order": 9,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93601,
+      93641,
+      92260
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900042394,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174364
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174383,
+    "quest_type": 1,
+    "name": "10. The Empire's Siege II",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93592,
+      93632,
+      92259
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900033303,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174373
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901174384,
+    "quest_type": 1,
+    "name": "10. The Empire's Siege II",
+    "sort_order": 10,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901123,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93602,
+      93642,
+      92260
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1174,
+    "battle_id": 900042404,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901174374
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175011,
+    "quest_type": 2,
+    "name": "1. Unrivaled and Unbridled",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 0,
+    "scenario_id": 50030001,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175021,
+    "quest_type": 1,
+    "name": "2. Tower: Middle Floor I",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93563,
+      93603
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175031,
+    "quest_type": 1,
+    "name": "3. Tower: Middle Floor II",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93564,
+      93604
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175041,
+    "quest_type": 2,
+    "name": "4. General Fullbright",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 0,
+    "scenario_id": 50030010,
+    "prev_quest_ids": [
+      901175031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175051,
+    "quest_type": 1,
+    "name": "5. Tower: Middle Floor III",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93565,
+      93605
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175061,
+    "quest_type": 1,
+    "name": "6. Tower: Middle Floor IV",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 6,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93566,
+      93606
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175071,
+    "quest_type": 2,
+    "name": "7. Hilda, Marquess of Loanne",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 0,
+    "scenario_id": 50030020,
+    "prev_quest_ids": [
+      901175061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175081,
+    "quest_type": 1,
+    "name": "8. Tower: Upper Floor I",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93567,
+      93607
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175091,
+    "quest_type": 1,
+    "name": "9. Tower: Upper Floor II",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93568,
+      93608
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175101,
+    "quest_type": 2,
+    "name": "10. Burning Ambition",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 0,
+    "scenario_id": 50030030,
+    "prev_quest_ids": [
+      901175091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175111,
+    "quest_type": 1,
+    "name": "11. Tower: Upper Floor III",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93569,
+      93609
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175121,
+    "quest_type": 1,
+    "name": "12. Tower: Upper Floor IV",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 8,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93570,
+      93610
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175131,
+    "quest_type": 2,
+    "name": "13. Ferdinand, Marquis of Loanne",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 0,
+    "scenario_id": 50030040,
+    "prev_quest_ids": [
+      901175121
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175141,
+    "quest_type": 1,
+    "name": "14. Tower: Top Floor",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93571,
+      93611
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175131
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175151,
+    "quest_type": 2,
+    "name": "15. Child of Destiny",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 0,
+    "scenario_id": 50030050,
+    "prev_quest_ids": [
+      901175141
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175161,
+    "quest_type": 2,
+    "name": "16. Happy Days",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 0,
+    "scenario_id": 50030060,
+    "prev_quest_ids": [
+      901175151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175171,
+    "quest_type": 1,
+    "name": "17. Wall of Imperial Soldiers",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93572,
+      93612
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175161
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175181,
+    "quest_type": 2,
+    "name": "18. Masked Man",
+    "sort_order": 18,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 0,
+    "scenario_id": 50030070,
+    "prev_quest_ids": [
+      901175171
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175192,
+    "quest_type": 1,
+    "name": "1. Tower: Middle Floor I",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93573,
+      93613
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034112,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175181
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175202,
+    "quest_type": 1,
+    "name": "2. Tower: Middle Floor II",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93574,
+      93614
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034122,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175192
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175212,
+    "quest_type": 1,
+    "name": "3. Tower: Middle Floor III",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      },
+      {
+        "type": 7,
+        "id": 1100397
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93575,
+      93615,
+      92626
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034132,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175202
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175222,
+    "quest_type": 1,
+    "name": "4. Tower: Middle Floor IV",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93576,
+      93616
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034142,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175212
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175232,
+    "quest_type": 1,
+    "name": "5. Tower: Upper Floor I",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93577,
+      93617
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034152,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175222
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175242,
+    "quest_type": 1,
+    "name": "6. Tower: Upper Floor II",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 11,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      },
+      {
+        "type": 7,
+        "id": 1100397
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93578,
+      93618,
+      92626
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034162,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175232
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175252,
+    "quest_type": 1,
+    "name": "7. Tower: Upper Floor III",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93579,
+      93619
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034172,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175242
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175262,
+    "quest_type": 1,
+    "name": "8. Tower: Upper Floor IV",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93580,
+      93620
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034182,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175252
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175272,
+    "quest_type": 1,
+    "name": "9. Tower: Top Floor",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      },
+      {
+        "type": 7,
+        "id": 1100397
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93581,
+      93621,
+      92626
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034192,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175262
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175282,
+    "quest_type": 1,
+    "name": "10. Wall of Imperial Soldiers",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      },
+      {
+        "type": 7,
+        "id": 1100397
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93582,
+      93622,
+      92626
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034202,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175272
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175293,
+    "quest_type": 1,
+    "name": "1. Tower: Middle Floor I",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93583,
+      93623
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034213,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175282
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175303,
+    "quest_type": 1,
+    "name": "2. Tower: Middle Floor II",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93584,
+      93624
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034223,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175293
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175313,
+    "quest_type": 1,
+    "name": "3. Tower: Middle Floor III",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 15,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93585,
+      93625,
+      92627
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034233,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175303
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175323,
+    "quest_type": 1,
+    "name": "4. Tower: Middle Floor IV",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93586,
+      93626
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034243,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175313
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175333,
+    "quest_type": 1,
+    "name": "5. Tower: Upper Floor I",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93587,
+      93627
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034253,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175323
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175343,
+    "quest_type": 1,
+    "name": "6. Tower: Upper Floor II",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93588,
+      93628,
+      92627
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034263,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175333
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175353,
+    "quest_type": 1,
+    "name": "7. Tower: Upper Floor III",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93589,
+      93629
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034273,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175343
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175363,
+    "quest_type": 1,
+    "name": "8. Tower: Upper Floor IV",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93590,
+      93630
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034283,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175353
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175373,
+    "quest_type": 1,
+    "name": "9. Tower: Top Floor",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 19,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93591,
+      93631,
+      92627
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034293,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175363
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175383,
+    "quest_type": 1,
+    "name": "10. Wall of Imperial Soldiers",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93592,
+      93632,
+      92627
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900034303,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175373
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175394,
+    "quest_type": 1,
+    "name": "1. Tower: Middle Floor I",
+    "sort_order": 1,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93593,
+      93633
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900043314,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175383
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175404,
+    "quest_type": 1,
+    "name": "2. Tower: Middle Floor II",
+    "sort_order": 2,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93594,
+      93634
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900043324,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175394
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175414,
+    "quest_type": 1,
+    "name": "3. Tower: Middle Floor III",
+    "sort_order": 3,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93595,
+      93635,
+      92628
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900043334,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175404
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175424,
+    "quest_type": 1,
+    "name": "4. Tower: Middle Floor IV",
+    "sort_order": 4,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93596,
+      93636
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900043344,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175414
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175434,
+    "quest_type": 1,
+    "name": "5. Tower: Upper Floor I",
+    "sort_order": 5,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93597,
+      93637
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900043354,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175424
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175444,
+    "quest_type": 1,
+    "name": "6. Tower: Upper Floor II",
+    "sort_order": 6,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93598,
+      93638,
+      92628
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900043364,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175434
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175454,
+    "quest_type": 1,
+    "name": "7. Tower: Upper Floor III",
+    "sort_order": 7,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93599,
+      93639
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900043374,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175444
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175464,
+    "quest_type": 1,
+    "name": "8. Tower: Upper Floor IV",
+    "sort_order": 8,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100397
+      },
+      {
+        "type": 7,
+        "id": 1100398
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93600,
+      93640
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900043384,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175454
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175474,
+    "quest_type": 1,
+    "name": "9. Tower: Top Floor",
+    "sort_order": 9,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93601,
+      93641,
+      92628
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900043394,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175464
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901175484,
+    "quest_type": 1,
+    "name": "10. Wall of Imperial Soldiers",
+    "sort_order": 10,
+    "difficulty": 4,
+    "clear_limit": 0,
+    "banner": 901124,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 18,
+        "id": 409512800
+      },
+      {
+        "type": 18,
+        "id": 409412600
+      },
+      {
+        "type": 18,
+        "id": 409312400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93602,
+      93642,
+      92628
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1175,
+    "battle_id": 900043404,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901175474
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
     "id": 901204011,
     "quest_type": 1,
     "name": "1. To Death's Door: Upper Floor",
