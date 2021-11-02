@@ -95885,6 +95885,2821 @@
     "is_required_for_area_clear": 1
   },
   {
+    "id": 901135011,
+    "quest_type": 1,
+    "name": "1. Expedition: Forneus's Minion",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93343,
+      93358,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901139011
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135021,
+    "quest_type": 1,
+    "name": "2. Expedition: Forneus's Minion",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93344,
+      93359,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135031,
+    "quest_type": 1,
+    "name": "3. Expedition: Forneus's Minion",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93345,
+      93360,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135041,
+    "quest_type": 1,
+    "name": "4. Expedition: Forneus's Minion",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93346,
+      93361,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135051,
+    "quest_type": 1,
+    "name": "5. Expedition: Forneus's Minion",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93347,
+      93362,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135041
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135061,
+    "quest_type": 1,
+    "name": "6. Expedition: Forneus's Minion",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93348,
+      93363,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135071,
+    "quest_type": 1,
+    "name": "7. Expedition: Forneus's Minion",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93349,
+      93364,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135081,
+    "quest_type": 1,
+    "name": "8. Expedition: Forneus's Minion",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93350,
+      93365,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135091,
+    "quest_type": 1,
+    "name": "9. Expedition: Forneus's Minion",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93351,
+      93366,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135101,
+    "quest_type": 1,
+    "name": "10. Expedition: Forneus's Minion",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93352,
+      93367,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135091
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135111,
+    "quest_type": 1,
+    "name": "11. Expedition: Forneus's Minion (Ultra Hard)",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93353,
+      93368,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008111,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135101
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135121,
+    "quest_type": 1,
+    "name": "12. Expedition: Forneus's Minion (Ultra Hard)",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93354,
+      93369,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008121,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135111
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135131,
+    "quest_type": 1,
+    "name": "13. Expedition: Forneus's Minion (Ultra Hard)",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93355,
+      93370,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008131,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135121
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135141,
+    "quest_type": 1,
+    "name": "14. Expedition: Forneus's Minion (Ultra Hard)",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93356,
+      93371,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008141,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135131
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901135151,
+    "quest_type": 1,
+    "name": "15. Expedition: Forneus's Minion (Ultra Hard)",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100390
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93357,
+      93372,
+      93414,
+      93433
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008151,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901135141
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136011,
+    "quest_type": 1,
+    "name": "[Unlock with Item] Expedition: Water Dragon",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 0,
+    "quest_ticket_id": 821077,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 18,
+        "id": 409513700,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008161,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136021,
+    "quest_type": 1,
+    "name": "1. Expedition: Water Dragon",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93343,
+      93373,
+      93414,
+      93417,
+      93419,
+      93421,
+      93423
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008161,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136011
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 901136031,
+    "quest_type": 1,
+    "name": "2. Expedition: Water Dragon",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93344,
+      93374,
+      93414,
+      93417,
+      93419,
+      93421,
+      93423
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008171,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136041,
+    "quest_type": 1,
+    "name": "3. Expedition: Water Dragon",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93345,
+      93375,
+      93414,
+      93417,
+      93419,
+      93421,
+      93423
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008181,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136051,
+    "quest_type": 1,
+    "name": "4. Expedition: Water Dragon",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93346,
+      93376,
+      93414,
+      93417,
+      93419,
+      93421,
+      93423
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008191,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136061,
+    "quest_type": 1,
+    "name": "5. Expedition: Water Dragon",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93347,
+      93377,
+      93414,
+      93417,
+      93419,
+      93421,
+      93423
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008201,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136051
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136071,
+    "quest_type": 1,
+    "name": "6. Expedition: Water Dragon",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93348,
+      93378,
+      93414,
+      93417,
+      93419,
+      93421,
+      93423
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008211,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136081,
+    "quest_type": 1,
+    "name": "7. Expedition: Water Dragon",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93349,
+      93379,
+      93414,
+      93417,
+      93419,
+      93421,
+      93423
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008221,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136091,
+    "quest_type": 1,
+    "name": "8. Expedition: Water Dragon",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93350,
+      93380,
+      93414,
+      93417,
+      93419,
+      93421,
+      93423
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008231,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136101,
+    "quest_type": 1,
+    "name": "9. Expedition: Water Dragon",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93351,
+      93381,
+      93414,
+      93417,
+      93419,
+      93421,
+      93423
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008241,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136111,
+    "quest_type": 1,
+    "name": "10. Expedition: Water Dragon",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93352,
+      93382,
+      93414,
+      93417,
+      93419,
+      93421,
+      93423
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008251,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136101
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136121,
+    "quest_type": 1,
+    "name": "11. Expedition: Water Dragon (Ultra Hard)",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93353,
+      93383,
+      93414,
+      93418,
+      93420,
+      93422,
+      93424
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008261,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136111
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136131,
+    "quest_type": 1,
+    "name": "12. Expedition: Water Dragon (Ultra Hard)",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93354,
+      93384,
+      93414,
+      93418,
+      93420,
+      93422,
+      93424
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008271,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136121
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136141,
+    "quest_type": 1,
+    "name": "13. Expedition: Water Dragon (Ultra Hard)",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93355,
+      93385,
+      93414,
+      93418,
+      93420,
+      93422,
+      93424
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008281,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136131
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136151,
+    "quest_type": 1,
+    "name": "14. Expedition: Water Dragon (Ultra Hard)",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93356,
+      93386,
+      93414,
+      93418,
+      93420,
+      93422,
+      93424
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008291,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136141
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901136161,
+    "quest_type": 1,
+    "name": "15. Expedition: Water Dragon (Ultra Hard)",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930075,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100391
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93357,
+      93387,
+      93414,
+      93418,
+      93420,
+      93422,
+      93424
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1136,
+    "battle_id": 980008301,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901136151
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137011,
+    "quest_type": 1,
+    "name": "[Unlock with Item] Expedition: Forneus",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 0,
+    "quest_ticket_id": 821078,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 18,
+        "id": 409513700,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008311,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137021,
+    "quest_type": 1,
+    "name": "1. Expedition: Forneus",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 9,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93343,
+      93388,
+      93414,
+      93425,
+      93429,
+      93427,
+      93431,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008311,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137011
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 0
+  },
+  {
+    "id": 901137031,
+    "quest_type": 1,
+    "name": "2. Expedition: Forneus",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 13,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93344,
+      93389,
+      93414,
+      93425,
+      93429,
+      93427,
+      93431,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008321,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137041,
+    "quest_type": 1,
+    "name": "3. Expedition: Forneus",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93345,
+      93390,
+      93414,
+      93425,
+      93429,
+      93427,
+      93431,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008331,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137051,
+    "quest_type": 1,
+    "name": "4. Expedition: Forneus",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93346,
+      93391,
+      93414,
+      93425,
+      93429,
+      93427,
+      93431,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008341,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137061,
+    "quest_type": 1,
+    "name": "5. Expedition: Forneus",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93347,
+      93392,
+      93414,
+      93425,
+      93429,
+      93427,
+      93431,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008351,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137051
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137071,
+    "quest_type": 1,
+    "name": "6. Expedition: Forneus",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93348,
+      93393,
+      93414,
+      93425,
+      93429,
+      93427,
+      93431,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008361,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137081,
+    "quest_type": 1,
+    "name": "7. Expedition: Forneus",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93349,
+      93394,
+      93414,
+      93425,
+      93429,
+      93427,
+      93431,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008371,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137091,
+    "quest_type": 1,
+    "name": "8. Expedition: Forneus",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93350,
+      93395,
+      93414,
+      93425,
+      93429,
+      93427,
+      93431,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008381,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137101,
+    "quest_type": 1,
+    "name": "9. Expedition: Forneus",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93351,
+      93396,
+      93414,
+      93425,
+      93429,
+      93427,
+      93431,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008391,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137111,
+    "quest_type": 1,
+    "name": "10. Expedition: Forneus",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93352,
+      93397,
+      93414,
+      93425,
+      93429,
+      93427,
+      93431,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008401,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137101
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137121,
+    "quest_type": 1,
+    "name": "11. Expedition: Forneus (Ultra Hard)",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93353,
+      93398,
+      93414,
+      93426,
+      93430,
+      93428,
+      93432,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008411,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137111
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137131,
+    "quest_type": 1,
+    "name": "12. Expedition: Forneus (Ultra Hard)",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93354,
+      93399,
+      93414,
+      93426,
+      93430,
+      93428,
+      93432,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008421,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137121
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137141,
+    "quest_type": 1,
+    "name": "13. Expedition: Forneus (Ultra Hard)",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93355,
+      93400,
+      93414,
+      93426,
+      93430,
+      93428,
+      93432,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008431,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137131
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137151,
+    "quest_type": 1,
+    "name": "14. Expedition: Forneus (Ultra Hard)",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93356,
+      93401,
+      93414,
+      93426,
+      93430,
+      93428,
+      93432,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008441,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137141
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901137161,
+    "quest_type": 1,
+    "name": "15. Expedition: Forneus (Ultra Hard)",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930076,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100389
+      },
+      {
+        "type": 7,
+        "id": 1100392
+      },
+      {
+        "type": 18,
+        "id": 409513700
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      93357,
+      93402,
+      93414,
+      93426,
+      93430,
+      93428,
+      93432,
+      93415
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1137,
+    "battle_id": 980008451,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      901137151
+    ],
+    "point_bonuses": [
+      {
+        "daily_limit": 3,
+        "bonus_rate": 3,
+        "reward_type": 7,
+        "reward_id": 1100389
+      }
+    ],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 901139011,
+    "quest_type": 1,
+    "name": "[Unlock with Item] Expedition: Forneus's Minion",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 930074,
+    "stamina": 0,
+    "quest_ticket_id": 821076,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1135,
+    "battle_id": 980008011,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
     "id": 901174011,
     "quest_type": 2,
     "name": "1. Selma's Strategy",
@@ -128066,6 +130881,52 @@
     "is_required_for_area_clear": 1
   },
   {
+    "id": 911112071,
+    "quest_type": 1,
+    "name": "Battle with Forneus (Romancing)",
+    "sort_order": 19,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048191,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138181
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
     "id": 911112191,
     "quest_type": 1,
     "name": "Battle with Orlouge (Romancing)",
@@ -132129,6 +134990,834 @@
     "scenario_id": 0,
     "prev_quest_ids": [
       911134151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138011,
+    "quest_type": 1,
+    "name": "1. Battle with Forneus",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911010201
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138021,
+    "quest_type": 1,
+    "name": "2. Battle with Forneus",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138031,
+    "quest_type": 1,
+    "name": "3. Battle with Forneus",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138041,
+    "quest_type": 1,
+    "name": "4. Battle with Forneus",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138051,
+    "quest_type": 1,
+    "name": "5. Battle with Forneus",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138061,
+    "quest_type": 1,
+    "name": "6. Battle with Forneus",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138071,
+    "quest_type": 1,
+    "name": "7. Battle with Forneus",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138081,
+    "quest_type": 1,
+    "name": "8. Battle with Forneus",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138091,
+    "quest_type": 1,
+    "name": "9. Battle with Forneus",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138101,
+    "quest_type": 1,
+    "name": "10. Battle with Forneus",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 2
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 10
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138111,
+    "quest_type": 1,
+    "name": "11. Battle with Forneus",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 2
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048111,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138121,
+    "quest_type": 1,
+    "name": "12. Battle with Forneus",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 2
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048121,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138111
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138131,
+    "quest_type": 1,
+    "name": "13. Battle with Forneus",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 2
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048131,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138121
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138141,
+    "quest_type": 1,
+    "name": "14. Battle with Forneus",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 2
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048141,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138131
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138151,
+    "quest_type": 1,
+    "name": "15. Battle with Forneus",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 5,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 2
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048151,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138141
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138161,
+    "quest_type": 1,
+    "name": "Battle with Forneus (Challenge 1)",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048161,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138151
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138171,
+    "quest_type": 1,
+    "name": "Battle with Forneus (Challenge 2)",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048171,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138161
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "is_required_for_area_clear": 1
+  },
+  {
+    "id": 911138181,
+    "quest_type": 1,
+    "name": "Battle with Forneus (Challenge 3)",
+    "sort_order": 18,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 921047,
+    "stamina": 0,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 7,
+        "id": 1100260,
+        "quantity": 1
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 1138,
+    "battle_id": 910048181,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      911138171
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,

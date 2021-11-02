@@ -6346,6 +6346,16 @@
     "icon": 4002
   },
   {
+    "id": 750100630,
+    "name": "Action Order Up (v. large)",
+    "flavor_text": "Increase in the action order value (very large effect).",
+    "special_effect_ids": [
+      850040641
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702100001,
     "name": "Warcry (Slash/Lightning)",
     "flavor_text": "Increases all surviving allies' slash attacks' damage (small effect).<br>Increases all surviving allies' lightning attacks' damage (small effect).",
@@ -6475,6 +6485,18 @@
     "icon": 4010
   },
   {
+    "id": 1702100013,
+    "name": "Impenetrable",
+    "flavor_text": "When attacked, damage taken will be reduced (large effect).<br>When HP is not full, attacks' damage increases (medium effect), and damage taken will be reduced further (medium effect).",
+    "special_effect_ids": [
+      802040361,
+      1802040018,
+      802040475
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -6503,6 +6525,16 @@
     ],
     "ability_when": 2,
     "icon": 4003
+  },
+  {
+    "id": 1702200005,
+    "name": "Pierce Clash",
+    "flavor_text": "[Start of round]<br>Grants all surviving allies a pierce attack boost (medium effect/3 turn(s)).",
+    "special_effect_ids": [
+      1802040030
+    ],
+    "ability_when": 2,
+    "icon": 4010
   },
   {
     "id": 1702300001,
@@ -6687,6 +6719,38 @@
     ],
     "ability_when": 6,
     "icon": 4001
+  },
+  {
+    "id": 1702600011,
+    "name": "Recurring Regen (STR)",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect), and increases own STR (medium effect).",
+    "special_effect_ids": [
+      802040622,
+      802010076
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 1702600012,
+    "name": "Recurring Regen (DEX)",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect), and increases own DEX (medium effect).",
+    "special_effect_ids": [
+      802040622,
+      802010082
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 1702600013,
+    "name": "Heightened Energy",
+    "flavor_text": "When landing an attack, recovers own BP (+1).",
+    "special_effect_ids": [
+      802040066
+    ],
+    "ability_when": 6,
+    "icon": 4007
   },
   {
     "id": 1708100001,

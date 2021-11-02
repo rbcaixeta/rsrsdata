@@ -12270,6 +12270,24 @@
     "state_icon": 3001
   },
   {
+    "id": 802040622,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Immediately recovers some amount of own HP.",
+    "target_area": 1,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 802040624,
     "state_change_id": 900040032,
     "name": "Evasion",
@@ -17465,6 +17483,22 @@
     "state_icon": 3001
   },
   {
+    "id": 850040641,
+    "state_change_id": 950040078,
+    "name": "Action Order Up (v. large)",
+    "flavor_text": "Increase in the action order value (very large effect).",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 1801010001,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -18097,6 +18131,24 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040021,
+    "state_change_id": 900050073,
+    "name": "Vertical Cross",
+    "flavor_text": "After attacking with Vertical Cross, attack with a row attack skill.",
+    "target_area": 1,
+    "state_vars": [
+      1110300008
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
     "direction_id": 1,
     "state_icon": 3001
   },
@@ -18750,6 +18802,22 @@
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "Plane",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040030,
+    "state_change_id": 900040048,
+    "name": "Pierce Attack Boost",
+    "flavor_text": "Increases damage dealt to enemies when using a pierce attack.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "Pierce ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
     "direction_id": 1,

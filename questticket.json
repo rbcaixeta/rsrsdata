@@ -47,7 +47,7 @@
   {
     "id": 821006,
     "name": "Practical Exam Ticket",
-    "flavor_text": "Used to attempt the Marquisate Practical Exams. (Until [1602377999] <tz>)",
+    "flavor_text": "Use to attempt the Marquisate Practical Exams. (Until [1602377999] <tz>)",
     "icon": 821006,
     "max_quantity": 99,
     "expired_at": 1602377999,
@@ -664,6 +664,33 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 1466
+  },
+  {
+    "id": 821076,
+    "name": "Expedition Compass (Forneus's Minion)",
+    "flavor_text": "Use to attempt Expedition: Forneus's Minion.",
+    "icon": 821076,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2656
+  },
+  {
+    "id": 821077,
+    "name": "Expedition Compass (Water Dragon)",
+    "flavor_text": "Use to attempt Expedition: Water Dragon.",
+    "icon": 821077,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2657
+  },
+  {
+    "id": 821078,
+    "name": "Expedition Compass (Forneus)",
+    "flavor_text": "Use to attempt Expedition: Forneus.",
+    "icon": 821078,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2658
   },
   {
     "id": 821079,

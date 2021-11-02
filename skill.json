@@ -68389,6 +68389,109 @@
     ]
   },
   {
+    "id": 1110300007,
+    "name": "Axe Volley",
+    "rush_prefix": "Axe",
+    "rush_suffix": "Volley",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Slash) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 3,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "B",
+    "consume_bp": 10,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1006,
+    "skill_effect": 140300060,
+    "skill_se_cue_sheet_name": "140300060",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30030,
+      30038,
+      30046
+    ]
+  },
+  {
+    "id": 1110300008,
+    "name": "Vertical Cross",
+    "rush_prefix": "Vertical",
+    "rush_suffix": "Cross",
+    "flavor_text": "Attack/Far/Direct/Row of Foes (Slash) <br>Ranged attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 3,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 6,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "A",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1006,
+    "skill_effect": 140300062,
+    "skill_se_cue_sheet_name": "140300062",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 0,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": []
+  },
+  {
+    "id": 1110300009,
+    "name": "Vertical Cross",
+    "rush_prefix": "Vertical",
+    "rush_suffix": "Cross",
+    "flavor_text": "Attack/Far/Direct/Column of Foes+Row of Foes (Slash) <br>First attacks column of foes, then attacks row of foes.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 3,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 7,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "A",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040021
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1006,
+    "skill_effect": 140300061,
+    "skill_se_cue_sheet_name": "140300061",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30027,
+      30035,
+      30043
+    ]
+  },
+  {
     "id": 1110400001,
     "name": "Dual Hammer",
     "rush_prefix": "Dual",
@@ -68775,6 +68878,41 @@
     "awakening_material_set_ids": [
       30010,
       30018
+    ]
+  },
+  {
+    "id": 1110500010,
+    "name": "Shenlong Firefist",
+    "rush_prefix": "Shenlong",
+    "rush_suffix": "Firefist",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Blunt) <br>Attack.",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "SSSS",
+    "consume_bp": 17,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1009,
+    "skill_effect": 140500006,
+    "skill_se_cue_sheet_name": "140500006",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30030,
+      30038,
+      30046
     ]
   },
   {
@@ -69344,6 +69482,77 @@
     "is_popup_text": 1,
     "max_awakening_count": 2,
     "awakening_material_set_ids": []
+  },
+  {
+    "id": 1110700003,
+    "name": "Dual Thrust",
+    "rush_prefix": "Dual",
+    "rush_suffix": "Thrust",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Pierce+Slash) <br>Attack.",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 7,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      3,
+      1
+    ],
+    "power_grade": "E",
+    "consume_bp": 1,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1014,
+    "skill_effect": 1140700001,
+    "skill_se_cue_sheet_name": "140100106",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30006
+    ]
+  },
+  {
+    "id": 1110700004,
+    "name": "Quadruple Pierce",
+    "rush_prefix": "Quadruple",
+    "rush_suffix": "Pierce",
+    "flavor_text": "Attack/Near/Direct/Delay/Single Foe (Pierce) <br>Attacks random enemies (4 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>Recovers the user's HP (very small effect) after each attack.",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 7,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 9,
+    "attack_attributes": [
+      3
+    ],
+    "power_grade": "E",
+    "consume_bp": 12,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010514
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1015,
+    "skill_effect": 1140700002,
+    "skill_se_cue_sheet_name": "140800050",
+    "min_action_time": 4,
+    "max_action_time": 4,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
   },
   {
     "id": 1110800001,

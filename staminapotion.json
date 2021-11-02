@@ -498,5 +498,35 @@
     "value": 90,
     "sort_order": 1214,
     "expired_at": 1640739599
+  },
+  {
+    "id": 1000840025,
+    "name": "1.5 Anniversary Eve Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1641085199] <tz>)",
+    "icon": 840029,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 1215,
+    "expired_at": 1641085199
+  },
+  {
+    "id": 1000840026,
+    "name": "1.5 Anniversary Eve Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1641085199] <tz>)",
+    "icon": 1000840006,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 1216,
+    "expired_at": 1641085199
+  },
+  {
+    "id": 1000840027,
+    "name": "1.5 Anniversary Eve Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1641085199] <tz>)",
+    "icon": 1000840007,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 1217,
+    "expired_at": 1641085199
   }
 ]

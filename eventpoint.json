@@ -531,6 +531,15 @@
     "sort_order": 2815
   },
   {
+    "id": 800093,
+    "name": "Romancing Festival Medal: Pinch",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800093,
+    "max_quantity": 99999999,
+    "expired_at": 1638233999,
+    "sort_order": 2825
+  },
+  {
     "id": 800094,
     "name": "Romancing Festival Medal: Gate",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -904,7 +913,7 @@
     "name": "Gem Medal",
     "flavor_text": "Can be exchanged for Gems at the Gem Medal Exchange.",
     "icon": 1100222,
-    "max_quantity": 9999,
+    "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 1052
   },
@@ -2178,6 +2187,42 @@
     "sort_order": 2700
   },
   {
+    "id": 1100389,
+    "name": "Fishtail",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100387,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2830
+  },
+  {
+    "id": 1100390,
+    "name": "Proof of Expedition (Forneus's Minion)",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100388,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2835
+  },
+  {
+    "id": 1100391,
+    "name": "Proof of Expedition (Water Dragon)",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100389,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2840
+  },
+  {
+    "id": 1100392,
+    "name": "Proof of Expedition (Forneus)",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100390,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2845
+  },
+  {
     "id": 1100393,
     "name": "Young Boy Medal",
     "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -2707,5 +2752,14 @@
     "max_quantity": 99999999,
     "expired_at": 1611277199,
     "sort_order": 1561
+  },
+  {
+    "id": 1001100204,
+    "name": "Special Platinum Medal [Ltd. Time]",
+    "flavor_text": "Can be exchanged for Styles at the Special Platinum Style Exchange opening on [1636506000] <tz>. (Until [1643590799] <tz>)",
+    "icon": 1001100204,
+    "max_quantity": 99999999,
+    "expired_at": 1643590799,
+    "sort_order": 1903
   }
 ]
