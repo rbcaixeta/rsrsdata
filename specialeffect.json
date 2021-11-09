@@ -6173,6 +6173,22 @@
     "state_icon": 2001
   },
   {
+    "id": 802010658,
+    "state_change_id": 900010012,
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "STR/END↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
     "id": 802010671,
     "state_change_id": 900010014,
     "name": "DEX Up",
@@ -12197,6 +12213,60 @@
     "state_icon": 3001
   },
   {
+    "id": 802040557,
+    "state_change_id": 900050073,
+    "name": "Divine Punishment",
+    "flavor_text": "When landing an attack with Holy Wrath, Repent! will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      110500119
+    ],
+    "text_pop": "Divine Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040558,
+    "state_change_id": 900050073,
+    "name": "Divine Punishment",
+    "flavor_text": "When landing an attack with Hat Trick, Repent! will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      110500119
+    ],
+    "text_pop": "Divine Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040559,
+    "state_change_id": 900050073,
+    "name": "Divine Punishment",
+    "flavor_text": "When landing an attack with an inherited skill/spell, Repent! will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      110500119
+    ],
+    "text_pop": "Divine Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 802040611,
     "state_change_id": 900040059,
     "name": "Reanimate",
@@ -17837,6 +17907,22 @@
     "state_icon": 2001
   },
   {
+    "id": 1801010022,
+    "state_change_id": 900010012,
+    "name": "STR Down",
+    "flavor_text": "Decreases STR.",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "STR↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2002
+  },
+  {
     "id": 1801010430,
     "state_change_id": 900010017,
     "name": "WIL Up",
@@ -18817,6 +18903,42 @@
     "text_pop": "Pierce ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040031,
+    "state_change_id": 900050073,
+    "name": "Divine Punishment",
+    "flavor_text": "When landing a normal attack, Repent! will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      110500119
+    ],
+    "text_pop": "Divine Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040032,
+    "state_change_id": 900050073,
+    "name": "Divine Punishment",
+    "flavor_text": "When landing an attack with Repent!, Repent! will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      110500119
+    ],
+    "text_pop": "Divine Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,

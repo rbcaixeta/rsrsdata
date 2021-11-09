@@ -3220,5 +3220,32 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 199
+  },
+  {
+    "id": 1000000351,
+    "event_ability_category_id": 1000000165,
+    "name": "[Ltd. Time] Main Story Expansion I",
+    "flavor_text": "・3x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 201
+  },
+  {
+    "id": 1000000352,
+    "event_ability_category_id": 1000000165,
+    "name": "[Ltd. Time] Main Story Expansion II",
+    "flavor_text": "・4x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 201
+  },
+  {
+    "id": 1000000353,
+    "event_ability_category_id": 1000000166,
+    "name": "[Ltd. Time] Treasure Cave",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Treasure Cave (Gold)<br>・Bonus Style Piece drops (very rare chance) for the Styles you use when clearing Treasure Cave",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 200
   }
 ]

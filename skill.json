@@ -13156,6 +13156,146 @@
     ]
   },
   {
+    "id": 110500116,
+    "name": "Holy Wrath",
+    "rush_prefix": "Holy",
+    "rush_suffix": "Wrath",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      6,
+      7
+    ],
+    "power_grade": "D",
+    "consume_bp": 7,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500107,
+    "skill_se_cue_sheet_name": "140500107",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30016,
+      30024
+    ]
+  },
+  {
+    "id": 110500117,
+    "name": "Hat Trick",
+    "rush_prefix": "Hat",
+    "rush_suffix": "Trick",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Slash+Cold) *M. Arts Special Skill (INT)<br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1,
+      5
+    ],
+    "power_grade": "D",
+    "consume_bp": 7,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500108,
+    "skill_se_cue_sheet_name": "140500108",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30015,
+      30023
+    ]
+  },
+  {
+    "id": 110500118,
+    "name": "Repent!",
+    "rush_prefix": "Repent!",
+    "rush_suffix": "Repent!",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Sun) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts confusion on target (low chance/4 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      7
+    ],
+    "power_grade": "A",
+    "consume_bp": 16,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030379
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500109,
+    "skill_se_cue_sheet_name": "140500109",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30032,
+      30040,
+      30048
+    ]
+  },
+  {
+    "id": 110500119,
+    "name": "Repent!",
+    "rush_prefix": "Repent!",
+    "rush_suffix": "Repent!",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Sun) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts confusion on target (low chance/4 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      7
+    ],
+    "power_grade": "A",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030379
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500109,
+    "skill_se_cue_sheet_name": "140500109",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": []
+  },
+  {
     "id": 110500144,
     "name": "Giant Swing",
     "rush_prefix": "Giant",
@@ -69555,6 +69695,42 @@
     ]
   },
   {
+    "id": 1110700005,
+    "name": "Lightspeed+",
+    "rush_prefix": "Light",
+    "rush_suffix": "Speed",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Pierce) <br>Attack.<br>Increases the user's AGI (small effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 7,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      3
+    ],
+    "power_grade": "B",
+    "consume_bp": 6,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010228
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1114,
+    "skill_effect": 140700047,
+    "skill_se_cue_sheet_name": "140700047",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30012,
+      30020
+    ]
+  },
+  {
     "id": 1110800001,
     "name": "Flamenco Muse",
     "rush_prefix": "Flamenco",
@@ -69709,6 +69885,79 @@
       30027,
       30035,
       30043
+    ]
+  },
+  {
+    "id": 1110800005,
+    "name": "Piercing Slash",
+    "rush_prefix": "Piercing",
+    "rush_suffix": "Slash",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Pierce+Slash) <br>Attack.<br>Increases the user's STR (small effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      3,
+      1
+    ],
+    "power_grade": "E",
+    "consume_bp": 1,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010225
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1018,
+    "skill_effect": 1140800001,
+    "skill_se_cue_sheet_name": "140700060",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30002
+    ]
+  },
+  {
+    "id": 1110800006,
+    "name": "Acupuncture+",
+    "rush_prefix": "Acu",
+    "rush_suffix": "Puncture",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Pierce) <br>Attack.<br>When the attack hits, reduces target's STR (large effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      3
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801010022
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1118,
+    "skill_effect": 140800058,
+    "skill_se_cue_sheet_name": "140800058",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
     ]
   },
   {

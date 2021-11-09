@@ -1854,6 +1854,17 @@
     "icon": 4010
   },
   {
+    "id": 702100713,
+    "name": "Strengthened Energy Ⅱ",
+    "flavor_text": "Attacks' damage increases (medium effect).<br><br>[Start of battle]<br>Recovers own BP (+2).",
+    "special_effect_ids": [
+      802040002,
+      802040322
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702200060,
     "name": "Self-Regeneration Ⅲ",
     "flavor_text": "[Start of round]<br>Recovers own HP (medium chance/large effect).",
@@ -2638,6 +2649,17 @@
     "special_effect_ids": [
       802010618,
       802010617
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300645,
+    "name": "Energize (STR/END)",
+    "flavor_text": "[Start of turn]<br>Increases own STR/END (medium effect).",
+    "special_effect_ids": [
+      802010658,
+      802010657
     ],
     "ability_when": 3,
     "icon": 4010
@@ -4826,6 +4848,18 @@
     "icon": 3009
   },
   {
+    "id": 702600540,
+    "name": "しんばつ",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「くいあらためよ」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「くいあらためよ」「R杯で伝承した技・術」「カウンター効果による反撃技・術」は含まない",
+    "special_effect_ids": [
+      802040557,
+      802040558,
+      802040559
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
     "id": 702600611,
     "name": "Snow Flurry",
     "flavor_text": "When landing an attack with either Glacial Sword, Chilly Wind, or Blade of Freezing, Winter Storm will be activated (medium chance).<br><br>Winter Storm<br>G. Sword skill/Attack/Power: A/All Foes (Cold)<br>All range attack. (Activates using skill Rank 1)",
@@ -6497,6 +6531,17 @@
     "icon": 4010
   },
   {
+    "id": 1702100014,
+    "name": "Soul of Spear",
+    "flavor_text": "When attacking with spears, attack damage increases (large effect), and damage taken will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040438,
+      802040045
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -6751,6 +6796,20 @@
     ],
     "ability_when": 6,
     "icon": 4007
+  },
+  {
+    "id": 1702600014,
+    "name": "Divine Punishment",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, Repent! will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "special_effect_ids": [
+      802040557,
+      802040558,
+      802040559,
+      1802040031,
+      1802040032
+    ],
+    "ability_when": 6,
+    "icon": 4010
   },
   {
     "id": 1708100001,
