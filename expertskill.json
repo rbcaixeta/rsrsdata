@@ -1,5 +1,16 @@
 [
   {
+    "id": 110100005,
+    "expert_skill_id": 110100112,
+    "rank": 30,
+    "materials": [
+      {
+        "id": 101001,
+        "quantity": 1
+      }
+    ]
+  },
+  {
     "id": 110100012,
     "expert_skill_id": 110100110,
     "rank": 30,
@@ -209,12 +220,34 @@
     ]
   },
   {
+    "id": 110900007,
+    "expert_skill_id": 110900047,
+    "rank": 30,
+    "materials": [
+      {
+        "id": 109009,
+        "quantity": 1
+      }
+    ]
+  },
+  {
     "id": 125200004,
     "expert_skill_id": 125200048,
     "rank": 30,
     "materials": [
       {
         "id": 252012,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 125300005,
+    "expert_skill_id": 125300013,
+    "rank": 30,
+    "materials": [
+      {
+        "id": 253013,
         "quantity": 1
       }
     ]

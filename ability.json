@@ -1730,6 +1730,17 @@
     "icon": 4005
   },
   {
+    "id": 702100533,
+    "name": "Butterfly and Bee",
+    "flavor_text": "[Full HP]<br>Attacks' damage increases (large effect), and damage taken will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040014,
+      802040605
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702100536,
     "name": "Song of Hope",
     "flavor_text": "When all allies are still surviving, increases attack damage for all allies (small effect), and reduces damage taken for all allies (small effect).",
@@ -1852,6 +1863,16 @@
     ],
     "ability_when": 1,
     "icon": 4010
+  },
+  {
+    "id": 702100693,
+    "name": "Vengeance Peck",
+    "flavor_text": "When being directly attacked, counterattacks with Liver Peck (high chance).<br><br>Counterattack: Liver Peck<br>M. Arts skill/Attack/Power: A/Direct/All Foes (Blunt)<br>Attack.<br>Recovers own HP (medium effect) and recovers own BP (+3). (Activates using skill Rank 1)",
+    "special_effect_ids": [
+      802040717
+    ],
+    "ability_when": 1,
+    "icon": 4005
   },
   {
     "id": 702100713,
@@ -2758,6 +2779,17 @@
     ],
     "ability_when": 4,
     "icon": 4008
+  },
+  {
+    "id": 702400696,
+    "name": "Delayed Heal Link",
+    "flavor_text": "[End of turn]<br>Recovers own and 1 random surviving ally's HP (medium chance/medium effect).",
+    "special_effect_ids": [
+      802040061,
+      802040733
+    ],
+    "ability_when": 4,
+    "icon": 4007
   },
   {
     "id": 702600057,
@@ -4906,6 +4938,37 @@
     "icon": 4010
   },
   {
+    "id": 702600667,
+    "name": "Tech Rhythm",
+    "flavor_text": "When landing an attack, increases own DEX (large effect).",
+    "special_effect_ids": [
+      802010081
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600692,
+    "name": "AGI Absorb",
+    "flavor_text": "When landing an attack, has a medium chance to:<br>Reduce target's AGI (medium effect) and increase own AGI (medium effect).",
+    "special_effect_ids": [
+      802010734,
+      802010085
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600699,
+    "name": "Chasing Break",
+    "flavor_text": "When landing a Normal Attack, Id Break will be activated (high chance).<br><br>Id Break<br>Bow skill/Attack/Indirect/Power: C/Single Foe (Pierce)<br>Attack.<br>When landing an attack, inflicts confusion on target (medium chance/4 turn(s)).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040720
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
     "id": 703100001,
     "name": "[Weapon Holy Stone] Power+",
     "flavor_text": "Attacks' damage increases.",
@@ -6542,6 +6605,17 @@
     "icon": 4010
   },
   {
+    "id": 1702100015,
+    "name": "Unite",
+    "flavor_text": "When all allies are still surviving, own attacks' damage increases (large effect), and reduces damage taken for oneself (medium effect).",
+    "special_effect_ids": [
+      1802040033,
+      802040494
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -6807,6 +6881,18 @@
       802040559,
       1802040031,
       1802040032
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 1702600015,
+    "name": "Chasing Break",
+    "flavor_text": "When landing an attack with either a Normal Attack, Rapid Volley+, or Petra Delta+, Id Break will be activated (high chance).<br><br>Id Break<br>Bow skill/Attack/Indirect/Power: C/Single Foe (Pierce)<br>Attack.<br>When landing an attack, inflicts confusion on target (medium chance/4 turn(s)).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040720,
+      1802040034,
+      1802040035
     ],
     "ability_when": 6,
     "icon": 4010

@@ -612,6 +612,15 @@
     "sort_order": 3300
   },
   {
+    "id": 800129,
+    "name": "SaGa Soul Medal II",
+    "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+    "icon": 800129,
+    "max_quantity": 99999999,
+    "expired_at": 1639702799,
+    "sort_order": 3425
+  },
+  {
     "id": 860001,
     "name": "White Crystal",
     "flavor_text": "Can be exchanged for Platinum Summon Tickets and other items.",
@@ -2367,6 +2376,15 @@
     "sort_order": 3105
   },
   {
+    "id": 1100450,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1639357199] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1639357199,
+    "sort_order": 3128
+  },
+  {
     "id": 1100452,
     "name": "Molt Piece",
     "flavor_text": "Proof of participating in Battle with Termites - Showdown (Real Queen).",
@@ -2752,6 +2770,24 @@
     "max_quantity": 99999999,
     "expired_at": 1636937999,
     "sort_order": 1902
+  },
+  {
+    "id": 1001100014,
+    "name": "Training Headband",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100013,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2850
+  },
+  {
+    "id": 1001100015,
+    "name": "Training Badge",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100014,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2855
   },
   {
     "id": 1001100202,

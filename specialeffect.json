@@ -6271,6 +6271,22 @@
     "state_icon": 3001
   },
   {
+    "id": 802010734,
+    "state_change_id": 900010015,
+    "name": "AGI Down",
+    "flavor_text": "Decreases AGI.",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "AGI↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2002
+  },
+  {
     "id": 802020099,
     "state_change_id": 900020020,
     "name": "Poison Res Up",
@@ -12267,6 +12283,24 @@
     "state_icon": 3001
   },
   {
+    "id": 802040605,
+    "state_change_id": 900040062,
+    "name": "Defend",
+    "flavor_text": "Decreases damage taken when HP is full.",
+    "target_area": 1,
+    "state_vars": [
+      80
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 802040611,
     "state_change_id": 900040059,
     "name": "Reanimate",
@@ -12632,6 +12666,60 @@
     "ignition_effect_id": "Plane",
     "animation_id": 0,
     "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040717,
+    "state_change_id": 900040034,
+    "name": "Vengeance Peck",
+    "flavor_text": "Counters direct enemy attacks with Liver Peck (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      110500153
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040720,
+    "state_change_id": 900050073,
+    "name": "Chasing Break",
+    "flavor_text": "When landing a normal attack, Id Break will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110900049
+    ],
+    "text_pop": "Chasing Break",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040733,
+    "state_change_id": 900050054,
+    "name": "Recovers Ally's HP",
+    "flavor_text": "Recovers a random surviving ally's HP.",
+    "target_area": 2,
+    "state_vars": [
+      5
+    ],
+    "text_pop": "Delayed Heal Link",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
     "direction_id": 1,
     "state_icon": 3001
   },
@@ -18062,7 +18150,7 @@
     "id": 1801040012,
     "state_change_id": 900040036,
     "name": "Counter",
-    "flavor_text": "Counter an enemy's attack.",
+    "flavor_text": "Evades a direct enemy attack and launches a counterattack.",
     "target_area": 1,
     "state_vars": [
       1110100008
@@ -18276,7 +18364,7 @@
     "id": 1801040362,
     "state_change_id": 900040036,
     "name": "Counter",
-    "flavor_text": "Counter an enemy's attack.",
+    "flavor_text": "Evades a direct enemy attack and launches a counterattack.",
     "target_area": 1,
     "state_vars": [
       110500030
@@ -18946,6 +19034,58 @@
     "state_icon": 3001
   },
   {
+    "id": 1802040033,
+    "state_change_id": 900040048,
+    "name": "All Allies Surviving Attack Boost",
+    "flavor_text": "Increases attack damage when all allies are surviving.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040034,
+    "state_change_id": 900050073,
+    "name": "Chasing Break",
+    "flavor_text": "When landing an attack with Rapid Volley+, Id Break will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110900049
+    ],
+    "text_pop": "Chasing Break",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040035,
+    "state_change_id": 900050073,
+    "name": "Chasing Break",
+    "flavor_text": "When landing an attack with Petra Delta+, Id Break will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110900049
+    ],
+    "text_pop": "Chasing Break",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 1802040362,
     "state_change_id": 900040048,
     "name": "Damage Up",
@@ -19259,10 +19399,28 @@
     "id": 1809040001,
     "state_change_id": 900040036,
     "name": "Counter",
-    "flavor_text": "Counter an enemy's attack.",
+    "flavor_text": "Evades a direct enemy attack and launches a counterattack.",
     "target_area": 1,
     "state_vars": [
       1607000002
+    ],
+    "text_pop": "Counter Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1809040002,
+    "state_change_id": 900040036,
+    "name": "Counter",
+    "flavor_text": "Evades a direct enemy attack and launches a counterattack.",
+    "target_area": 1,
+    "state_vars": [
+      1601000016
     ],
     "text_pop": "Counter Stance",
     "text_color": "FFFFFF",
