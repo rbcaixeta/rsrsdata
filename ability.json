@@ -4881,8 +4881,8 @@
   },
   {
     "id": 702600540,
-    "name": "しんばつ",
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「くいあらためよ」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「くいあらためよ」「R杯で伝承した技・術」「カウンター効果による反撃技・術」は含まない",
+    "name": "Divine Punishment",
+    "flavor_text": "When landing an attack with either Holy Wrath, Hat Trick, or an inherited Attack type skill/spell, Repent! will be activated (medium chance).<br>(Activates using skill Rank 1).",
     "special_effect_ids": [
       802040557,
       802040558,
@@ -6443,9 +6443,60 @@
     "icon": 4002
   },
   {
+    "id": 750100548,
+    "name": "Action Order Up (medium)",
+    "flavor_text": "Increases action order value (medium effect).",
+    "special_effect_ids": [
+      850040543
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 750100549,
+    "name": "Action Order Down (medium)",
+    "flavor_text": "Decreases action order value (medium effect).",
+    "special_effect_ids": [
+      850040523
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 750100556,
+    "name": "M. Arts Atk Boost (medium)",
+    "flavor_text": "When attacking with M. Arts, damage increases (medium effect).",
+    "special_effect_ids": [
+      850040548
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 750100557,
+    "name": "M. Arts Atk Boost (extreme) + Action Order Down (sm.)",
+    "flavor_text": "When attacking with M. Arts, damage increases (extreme effect).<br>Decreases action order value (small effect).",
+    "special_effect_ids": [
+      850040549,
+      850040550
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 750100558,
+    "name": "Pre-Action Defense Boost (v. large)",
+    "flavor_text": "Grants a defense boost (very large effect) before an action is made.",
+    "special_effect_ids": [
+      850040525
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
     "id": 750100630,
     "name": "Action Order Up (v. large)",
-    "flavor_text": "Increase in the action order value (very large effect).",
+    "flavor_text": "Increases action order value (very large effect).",
     "special_effect_ids": [
       850040641
     ],

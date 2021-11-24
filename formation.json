@@ -760,6 +760,70 @@
     ]
   },
   {
+    "id": 1028,
+    "name": "Deadly Pierce EX",
+    "flavor_text": "Improved Deadly Pierce formation that boosts attack and defense. The front member gains a Pre-Action Defense Boost, and the action order of the outer wings is increased.",
+    "positions": [
+      {
+        "x": 6,
+        "y": 25,
+        "formation_bonus_id": 1092
+      },
+      {
+        "x": 20,
+        "y": 10,
+        "formation_bonus_id": 1088
+      },
+      {
+        "x": 20,
+        "y": 40,
+        "formation_bonus_id": 1088
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1087
+      },
+      {
+        "x": 44,
+        "y": 25,
+        "formation_bonus_id": 1019
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "name": "Scattered",
+    "flavor_text": "Attack formation that boosts M. Arts skill damage for the front and middle. Front line gets AGI boost while the action order for middle and back is lowered. Good for controlling action order.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 20,
+        "formation_bonus_id": 1089
+      },
+      {
+        "x": 8,
+        "y": 30,
+        "formation_bonus_id": 1089
+      },
+      {
+        "x": 32,
+        "y": 25,
+        "formation_bonus_id": 1090
+      },
+      {
+        "x": 45,
+        "y": 8,
+        "formation_bonus_id": 1091
+      },
+      {
+        "x": 45,
+        "y": 42,
+        "formation_bonus_id": 1091
+      }
+    ]
+  },
+  {
     "id": 1031,
     "name": "Amazon Raid EX",
     "flavor_text": "Improved Amazon Raid formation that boosts attack further. For parties who mainly use Swords, G. Swords, Axes, Clubs, M. Arts and Spears.",

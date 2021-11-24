@@ -47975,6 +47975,132 @@
     ]
   },
   {
+    "id": 100208112,
+    "quest_type": 1,
+    "name": "8-3-1. World Tower: Middle Floor I",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 8,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1020081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 109403200
+      },
+      {
+        "type": 15,
+        "id": 153401000
+      },
+      {
+        "type": 4,
+        "id": 403004
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000905,
+      870000910,
+      870000937,
+      870000097,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208381,
+      100208102
+    ]
+  },
+  {
+    "id": 100208113,
+    "quest_type": 1,
+    "name": "8-3-1. World Tower: Middle Floor I",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1020081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404005
+      },
+      {
+        "type": 15,
+        "id": 109403200
+      },
+      {
+        "type": 15,
+        "id": 153401000
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 109403310,
+        "quantity": 1
+      },
+      {
+        "type": 15,
+        "id": 153401000,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000935,
+      870000924,
+      870000929,
+      870000134,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208202,
+      100208103
+    ]
+  },
+  {
     "id": 100208121,
     "quest_type": 1,
     "name": "8-2-4. World Tower: Lower Floor III",
@@ -48025,6 +48151,125 @@
     ]
   },
   {
+    "id": 100208122,
+    "quest_type": 1,
+    "name": "8-3-2. World Tower: Middle Floor II",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 8,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1100081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101403500
+      },
+      {
+        "type": 4,
+        "id": 403010
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000898,
+      870000938,
+      870000098,
+      870000099,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208112
+    ]
+  },
+  {
+    "id": 100208123,
+    "quest_type": 1,
+    "name": "8-3-2. World Tower: Middle Floor II",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1100081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404011
+      },
+      {
+        "type": 15,
+        "id": 101403500
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 101403630,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000936,
+      870000917,
+      870000135,
+      870000136,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208113
+    ]
+  },
+  {
     "id": 100208131,
     "quest_type": 2,
     "name": "8-2-5. Igomahl's Prophecy",
@@ -48054,6 +48299,128 @@
     "scenario_id": 10208040,
     "prev_quest_ids": [
       100208121
+    ]
+  },
+  {
+    "id": 100208132,
+    "quest_type": 1,
+    "name": "8-3-3. World Tower: Middle Floor III",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000039,
+    "number_of_story_banner": 8,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1130081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105403200
+      },
+      {
+        "type": 15,
+        "id": 155401000
+      },
+      {
+        "type": 17,
+        "id": 305300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000899,
+      870000911,
+      870000913,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208122
+    ]
+  },
+  {
+    "id": 100208133,
+    "quest_type": 1,
+    "name": "8-3-3. World Tower: Middle Floor III",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000039,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1130081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105403200
+      },
+      {
+        "type": 15,
+        "id": 155401000
+      },
+      {
+        "type": 4,
+        "id": 403004
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 105403320,
+        "quantity": 1
+      },
+      {
+        "type": 15,
+        "id": 155401000,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000918,
+      870000930,
+      870000937,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208123
     ]
   },
   {
@@ -48103,6 +48470,128 @@
     ]
   },
   {
+    "id": 100208142,
+    "quest_type": 1,
+    "name": "8-3-4. World Tower: Middle Floor IV",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000039,
+    "number_of_story_banner": 8,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1150071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108403200
+      },
+      {
+        "type": 15,
+        "id": 154401000
+      },
+      {
+        "type": 17,
+        "id": 307300400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000900,
+      870000909,
+      870000914,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208132
+    ]
+  },
+  {
+    "id": 100208143,
+    "quest_type": 1,
+    "name": "8-3-4. World Tower: Middle Floor IV",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000039,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1150071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108403200
+      },
+      {
+        "type": 15,
+        "id": 154401000
+      },
+      {
+        "type": 4,
+        "id": 403010
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 108403340,
+        "quantity": 1
+      },
+      {
+        "type": 15,
+        "id": 154401000,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000919,
+      870000928,
+      870000938,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208133
+    ]
+  },
+  {
     "id": 100208151,
     "quest_type": 1,
     "name": "8-2-7. World Tower: Lower Floor V",
@@ -48149,6 +48638,113 @@
     ]
   },
   {
+    "id": 100208152,
+    "quest_type": 1,
+    "name": "8-3-5. World Tower: Middle Floor V",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 8,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1060081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107402900
+      },
+      {
+        "type": 17,
+        "id": 307300400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000933,
+      870000904,
+      870000914,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208142
+    ]
+  },
+  {
+    "id": 100208153,
+    "quest_type": 1,
+    "name": "8-3-5. World Tower: Middle Floor V",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107402900
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 107403050,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000934,
+      870000923,
+      870000134,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208143
+    ]
+  },
+  {
     "id": 100208161,
     "quest_type": 2,
     "name": "8-2-8. Born for This",
@@ -48181,6 +48777,123 @@
     ]
   },
   {
+    "id": 100208162,
+    "quest_type": 1,
+    "name": "8-4-1. World Tower: Middle Floor VI",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 8,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1110051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403200
+      },
+      {
+        "type": 15,
+        "id": 156401000
+      },
+      {
+        "type": 17,
+        "id": 308300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000903,
+      870000912,
+      870000915,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208152
+    ]
+  },
+  {
+    "id": 100208163,
+    "quest_type": 1,
+    "name": "8-4-1. World Tower: Middle Floor VI",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1110051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403200
+      },
+      {
+        "type": 15,
+        "id": 156401000
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 104403200,
+        "quantity": 1
+      },
+      {
+        "type": 15,
+        "id": 156401000,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000922,
+      870000931,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208153
+    ]
+  },
+  {
     "id": 100208171,
     "quest_type": 2,
     "name": "8-2-9. Soul Connection",
@@ -48210,6 +48923,1235 @@
     "scenario_id": 10208060,
     "prev_quest_ids": [
       100208161
+    ]
+  },
+  {
+    "id": 100208172,
+    "quest_type": 1,
+    "name": "8-4-2. World Tower: Upper Floor I",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1040041,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403200
+      },
+      {
+        "type": 15,
+        "id": 151401000
+      },
+      {
+        "type": 17,
+        "id": 308300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000901,
+      870000907,
+      870000915,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208162
+    ]
+  },
+  {
+    "id": 100208173,
+    "quest_type": 1,
+    "name": "8-4-2. World Tower: Upper Floor I",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040041,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403200
+      },
+      {
+        "type": 15,
+        "id": 151401000
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 102403200,
+        "quantity": 1
+      },
+      {
+        "type": 15,
+        "id": 151401000,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000920,
+      870000926,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208163
+    ]
+  },
+  {
+    "id": 100208182,
+    "quest_type": 1,
+    "name": "8-4-3. World Tower: Upper Floor II",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1060091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103402900
+      },
+      {
+        "type": 15,
+        "id": 152401100
+      },
+      {
+        "type": 17,
+        "id": 306300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000902,
+      870000908,
+      870000916,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208172
+    ]
+  },
+  {
+    "id": 100208183,
+    "quest_type": 1,
+    "name": "8-4-3. World Tower: Upper Floor II",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103402900
+      },
+      {
+        "type": 15,
+        "id": 152401100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 103403020,
+        "quantity": 1
+      },
+      {
+        "type": 15,
+        "id": 152401100,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000921,
+      870000927,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208173
+    ]
+  },
+  {
+    "id": 100208192,
+    "quest_type": 1,
+    "name": "8-4-4. World Tower: Upper Floor III",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1010071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 106402700
+      },
+      {
+        "type": 15,
+        "id": 104403200
+      },
+      {
+        "type": 17,
+        "id": 308300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000906,
+      870000903,
+      870000915,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208182
+    ]
+  },
+  {
+    "id": 100208193,
+    "quest_type": 1,
+    "name": "8-4-4. World Tower: Upper Floor III",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1140091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 106402700
+      },
+      {
+        "type": 15,
+        "id": 104403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 106402850,
+        "quantity": 1
+      },
+      {
+        "type": 15,
+        "id": 104403340,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000925,
+      870000922,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208183
+    ]
+  },
+  {
+    "id": 100208202,
+    "quest_type": 1,
+    "name": "8-4-5. World Tower: Upper Floor IV",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1030211,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403200
+      },
+      {
+        "type": 17,
+        "id": 306300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000933,
+      870000901,
+      870000916,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208192
+    ]
+  },
+  {
+    "id": 100208203,
+    "quest_type": 1,
+    "name": "8-4-5. World Tower: Upper Floor IV",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1030211,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403200
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 16,
+        "id": 202500500,
+        "quantity": 1
+      },
+      {
+        "type": 19,
+        "id": 1028,
+        "quantity": 1
+      },
+      {
+        "type": 15,
+        "id": 102403340,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000934,
+      870000920,
+      870000134,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208193
+    ]
+  },
+  {
+    "id": 100208211,
+    "quest_type": 2,
+    "name": "8-3-1. Meeting Vassault",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020811,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 0,
+    "scenario_id": 10209001,
+    "prev_quest_ids": [
+      100208171
+    ]
+  },
+  {
+    "id": 100208221,
+    "quest_type": 1,
+    "name": "8-3-2. World Tower: Middle Floor I",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 8,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1020081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 109300300
+      },
+      {
+        "type": 15,
+        "id": 151300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000890,
+      870000891,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208211
+    ]
+  },
+  {
+    "id": 100208231,
+    "quest_type": 1,
+    "name": "8-3-3. World Tower: Middle Floor II",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 8,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1100081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101200100
+      },
+      {
+        "type": 15,
+        "id": 151300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000886,
+      870000891,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208221
+    ]
+  },
+  {
+    "id": 100208241,
+    "quest_type": 2,
+    "name": "8-3-4. The Waiting Ones",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020811,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 0,
+    "scenario_id": 10209010,
+    "prev_quest_ids": [
+      100208231
+    ]
+  },
+  {
+    "id": 100208251,
+    "quest_type": 1,
+    "name": "8-3-5. World Tower: Middle Floor III",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000039,
+    "number_of_story_banner": 8,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1130081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105300200
+      },
+      {
+        "type": 15,
+        "id": 152300300
+      },
+      {
+        "type": 17,
+        "id": 305300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000887,
+      870000892,
+      870000894,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208241
+    ]
+  },
+  {
+    "id": 100208261,
+    "quest_type": 1,
+    "name": "8-3-6. World Tower: Middle Floor IV",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000039,
+    "number_of_story_banner": 8,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1150071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105300200
+      },
+      {
+        "type": 15,
+        "id": 152300300
+      },
+      {
+        "type": 17,
+        "id": 307300400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000887,
+      870000892,
+      870000895,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208251
+    ]
+  },
+  {
+    "id": 100208271,
+    "quest_type": 2,
+    "name": "8-3-7. Becoming the Matriarch",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020811,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 0,
+    "scenario_id": 10209020,
+    "prev_quest_ids": [
+      100208261
+    ]
+  },
+  {
+    "id": 100208281,
+    "quest_type": 1,
+    "name": "8-3-8. World Tower: Middle Floor V",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 8,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1060081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108300300
+      },
+      {
+        "type": 15,
+        "id": 155300300
+      },
+      {
+        "type": 17,
+        "id": 307300400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000932,
+      870000888,
+      870000893,
+      870000895,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 151,
+    "battle_id": 100209051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208271
+    ]
+  },
+  {
+    "id": 100208291,
+    "quest_type": 1,
+    "name": "8-4-1. World Tower: Middle Floor VI",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 8,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1110051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108300300
+      },
+      {
+        "type": 15,
+        "id": 155300300
+      },
+      {
+        "type": 17,
+        "id": 308300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000888,
+      870000893,
+      870000896,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208281
+    ]
+  },
+  {
+    "id": 100208301,
+    "quest_type": 2,
+    "name": "8-4-2. Ray of Hope",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020811,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 0,
+    "scenario_id": 10209030,
+    "prev_quest_ids": [
+      100208291
+    ]
+  },
+  {
+    "id": 100208311,
+    "quest_type": 1,
+    "name": "8-4-3. World Tower: Upper Floor I",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1040041,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107300300
+      },
+      {
+        "type": 15,
+        "id": 104300300
+      },
+      {
+        "type": 17,
+        "id": 308300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000884,
+      870000883,
+      870000896,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208301
+    ]
+  },
+  {
+    "id": 100208321,
+    "quest_type": 1,
+    "name": "8-4-4. World Tower: Upper Floor II",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1060091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103300300
+      },
+      {
+        "type": 15,
+        "id": 102300100
+      },
+      {
+        "type": 17,
+        "id": 306300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000882,
+      870000889,
+      870000897,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208311
+    ]
+  },
+  {
+    "id": 100208331,
+    "quest_type": 2,
+    "name": "8-4-5. Hold My Hand",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020811,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 0,
+    "scenario_id": 10209040,
+    "prev_quest_ids": [
+      100208321
+    ]
+  },
+  {
+    "id": 100208341,
+    "quest_type": 1,
+    "name": "8-4-6. World Tower: Upper Floor III",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1010071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 15,
+        "id": 104300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000037,
+      870000885,
+      870000883,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208331
+    ]
+  },
+  {
+    "id": 100208351,
+    "quest_type": 1,
+    "name": "8-4-7. World Tower: Upper Floor IV",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1030211,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 503300100
+      },
+      {
+        "type": 15,
+        "id": 102300100
+      },
+      {
+        "type": 17,
+        "id": 306300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000932,
+      870000038,
+      870000889,
+      870000897,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 100209101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100208341
+    ]
+  },
+  {
+    "id": 100208361,
+    "quest_type": 2,
+    "name": "8-4-8. Rally 'Round the Matriarch!",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020811,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 0,
+    "scenario_id": 10209050,
+    "prev_quest_ids": [
+      100208351
+    ]
+  },
+  {
+    "id": 100208371,
+    "quest_type": 2,
+    "name": "8-4-9. Return to Vanguard",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020811,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 0,
+    "scenario_id": 10209060,
+    "prev_quest_ids": [
+      100208361
+    ]
+  },
+  {
+    "id": 100208381,
+    "quest_type": 2,
+    "name": "8-4-10. Stolen",
+    "sort_order": 18,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020811,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 152,
+    "battle_id": 0,
+    "scenario_id": 10209070,
+    "prev_quest_ids": [
+      100208371
     ]
   }
 ]

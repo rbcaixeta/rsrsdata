@@ -3274,5 +3274,32 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 203
+  },
+  {
+    "id": 1000000357,
+    "event_ability_category_id": 1000000170,
+    "name": "[Ltd. Time] Cave of Weapon Holy Stones",
+    "flavor_text": "・2x attribute gains in Cave of Weapon Holy Stones",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 207
+  },
+  {
+    "id": 1000000358,
+    "event_ability_category_id": 1000000171,
+    "name": "[Ltd. Time] Cave of Armor Holy Stones",
+    "flavor_text": "・2x attribute gains in Cave of Armor Holy Stones",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 206
+  },
+  {
+    "id": 1000000359,
+    "event_ability_category_id": 1000000172,
+    "name": "[Ltd. Time] Cave of Gear Holy Stones",
+    "flavor_text": "・2x attribute gains in Cave of Gear Holy Stones",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 205
   }
 ]

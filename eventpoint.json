@@ -2151,6 +2151,15 @@
     "sort_order": 2775
   },
   {
+    "id": 1100381,
+    "name": "Horse Ingot",
+    "flavor_text": "Can be exchanged for items.",
+    "icon": 1100381,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 2780
+  },
+  {
     "id": 1100382,
     "name": "Ghost Plushie",
     "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -2655,6 +2664,24 @@
     "sort_order": 5017
   },
   {
+    "id": 1000800029,
+    "name": "Ultra Deluxe Summon Medal XV",
+    "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "icon": 1000800029,
+    "max_quantity": 99999999,
+    "expired_at": 1640221199,
+    "sort_order": 5018
+  },
+  {
+    "id": 1000800030,
+    "name": "Romancing Festival Medal XVI",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800030,
+    "max_quantity": 99999999,
+    "expired_at": 1642208399,
+    "sort_order": 5019
+  },
+  {
     "id": 1001100001,
     "name": "Precious Stone [Limited Time]",
     "flavor_text": "Obtained from the Cave of Holy Stones. Can be exchanged for items. (Until [1618534799] <tz>)",
@@ -2788,6 +2815,24 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 2855
+  },
+  {
+    "id": 1001100016,
+    "name": "Thank You Medal [Ltd. Time]",
+    "flavor_text": "Can be exchanged for items at the Thank You Medal Exchange. (Until [1639616399] <tz>)",
+    "icon": 1001100015,
+    "max_quantity": 99999999,
+    "expired_at": 1639616399,
+    "sort_order": 2860
+  },
+  {
+    "id": 1001100017,
+    "name": "Precious Stone (Black) [Limited Time]",
+    "flavor_text": "Obtained from the Cave of Holy Stones. Can be exchanged for items. (Until [1642208399] <tz>)",
+    "icon": 1100376,
+    "max_quantity": 99999999,
+    "expired_at": 1642208399,
+    "sort_order": 2865
   },
   {
     "id": 1001100202,
