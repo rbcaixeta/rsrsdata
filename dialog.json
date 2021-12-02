@@ -1449,6 +1449,15 @@
     "button1": "OK"
   },
   {
+    "id": 163,
+    "name": "Common_MissionExpired_Confirm",
+    "title": "Ended",
+    "text": "Mission availablity period has ended.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
     "id": 164,
     "name": "Guild_Edit_Shortage",
     "title": "Guild Settings",
@@ -1492,5 +1501,149 @@
     "dialog_type": 2,
     "button2": "Cancel",
     "button1": "Retreat"
+  },
+  {
+    "id": 169,
+    "name": "BoxGacha_Reset_Confirm",
+    "title": "Confirm Reward Reset",
+    "text": "When you reset the rewards, all rewards in the BOX will be replaced by those in the next BOX.<br>You cannot revert to the previous BOX after the reset.<br>Proceed?",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Reset"
+  },
+  {
+    "id": 170,
+    "name": "BoxGacha_Reset_Complete",
+    "title": "Reward Reset Completed",
+    "text": "Rewards have been reset.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 171,
+    "name": "BoxGacha_Information_Confirm",
+    "title": "BOX Info",
+    "text": "BOX is empty.<br>To proceed to the next BOX, tap \"Reset Rewards\" on the Event BOX Surprises page.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 172,
+    "name": "BoxGacha_ItemExchange_End",
+    "title": "All Items Exchanged",
+    "text": "All items exchanged for all BOXes.<br>\nYou will not be able to exchange for any more items or reset the rewards.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 173,
+    "name": "BoxGacha_Expired_Confirm",
+    "title": "Expired",
+    "text": "The availability period for the Event BOX Surprises has ended.<br>Returning to Home page.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 174,
+    "name": "PresentBox_Expired_Confirm",
+    "title": "Expired",
+    "text": "Cannot view message because storage period has ended.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 175,
+    "name": "FavoriteArmorSet_Delete_Complete",
+    "title": "Confirm",
+    "text": "Deleted from Favorites.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 176,
+    "name": "BoxGacha_ResetItem_Confirm",
+    "title": "Reward-Reset Item Obtained",
+    "text": "Reward-Reset Item obtained.<br>You may reset the rewards from the Event BOX Surprises page.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 193,
+    "name": "auto_rematch_Battle_Confirm",
+    "title": "Confirm",
+    "text": "Stop auto rematch.<br>Proceed?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 194,
+    "name": "auto_rematch_Battle_End_1",
+    "title": "Auto Rematch Stopped",
+    "text": "Auto rematch has stopped because all stamina has been used.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 195,
+    "name": "auto_rematch_Battle_End_2",
+    "title": "Auto Rematch Stopped",
+    "text": "Auto rematch has stopped because all items for taking on the quest have been used.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 196,
+    "name": "auto_rematch_Battle_End_3",
+    "title": "Auto Rematch Stopped",
+    "text": "Auto rematch has stopped because all daily rematches have been used.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 197,
+    "name": "auto_rematch_Battle_End_4",
+    "title": "Auto Rematch Stopped",
+    "text": "Auto rematch has stopped because all Auto Rematch Tickets have been used.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 198,
+    "name": "auto_rematch_Battle_End_5",
+    "title": "Auto Rematch Stopped",
+    "text": "Auto rematch has stopped because party was defeated.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 199,
+    "name": "auto_rematch_Battle_End_6",
+    "title": "Auto Rematch Stopped",
+    "text": "Auto rematch has stopped because the date has changed.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 200,
+    "name": "auto_rematch_Battle_End_7",
+    "title": "Auto Rematch Stopped",
+    "text": "Auto rematch has stopped because the game was closed.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
   }
 ]

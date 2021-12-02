@@ -30,6 +30,16 @@
     "sort_order": 998
   },
   {
+    "id": 606001,
+    "name": "[SS] Slash Flashstone",
+    "flavor_text": "Material used to evolve SS Swords, SS G. Swords, and SS Axes. Can be used in the Forge. Obtainable from events.",
+    "equipment_material_category_id": 0,
+    "icon": 606001,
+    "selling_price": 50,
+    "rarity": 5,
+    "sort_order": 1005
+  },
+  {
     "id": 613001,
     "name": "[A] Blunt Glowstone",
     "flavor_text": "Material used to evolve Clubs, M. Arts weapons, and Guns. Can be combined into S-rank stones at the Forge. Obtained from Ruins Exploration quests (Home>Quests>Daily).",
@@ -58,6 +68,16 @@
     "selling_price": 50,
     "rarity": 5,
     "sort_order": 997
+  },
+  {
+    "id": 616001,
+    "name": "[SS] Blunt Flashstone",
+    "flavor_text": "Material used to evolve SS Clubs, SS M. Arts weapons, and SS Guns. Can be used in the Forge. Obtainable from events.",
+    "equipment_material_category_id": 0,
+    "icon": 616001,
+    "selling_price": 50,
+    "rarity": 5,
+    "sort_order": 1004
   },
   {
     "id": 623001,
@@ -90,6 +110,16 @@
     "sort_order": 996
   },
   {
+    "id": 626001,
+    "name": "[SS] Pierce Flashstone",
+    "flavor_text": "Material used to evolve SS S. Swords, SS Spears, and SS Bows. Can be used in the Forge. Obtainable from events.",
+    "equipment_material_category_id": 0,
+    "icon": 626001,
+    "selling_price": 50,
+    "rarity": 5,
+    "sort_order": 1003
+  },
+  {
     "id": 633001,
     "name": "[A] Staff Glowstone",
     "flavor_text": "Material used to evolve Staves. Can be combined into S-rank stones at the Forge. Obtained from Ruins Exploration quests (Home>Quests>Daily).",
@@ -118,6 +148,16 @@
     "selling_price": 50,
     "rarity": 5,
     "sort_order": 995
+  },
+  {
+    "id": 636001,
+    "name": "[SS] Staff Flashstone",
+    "flavor_text": "Material used to evolve SS Staves. Can be used in the Forge. Obtainable from events.",
+    "equipment_material_category_id": 0,
+    "icon": 636001,
+    "selling_price": 50,
+    "rarity": 5,
+    "sort_order": 1002
   },
   {
     "id": 643001,
@@ -208,5 +248,25 @@
     "selling_price": 50,
     "rarity": 5,
     "sort_order": 999
+  },
+  {
+    "id": 674001,
+    "name": "[S] Modstone I",
+    "flavor_text": "Material used to evolve SS weapons. Can be used in the Forge. Obtainable from events.",
+    "equipment_material_category_id": 0,
+    "icon": 674001,
+    "selling_price": 20,
+    "rarity": 4,
+    "sort_order": 1000
+  },
+  {
+    "id": 675001,
+    "name": "[SS] Modstone II",
+    "flavor_text": "Material used to evolve SS weapons. Can be used in the Forge. Obtainable from events.",
+    "equipment_material_category_id": 0,
+    "icon": 675001,
+    "selling_price": 50,
+    "rarity": 5,
+    "sort_order": 1001
   }
 ]

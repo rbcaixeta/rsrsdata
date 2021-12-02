@@ -1230,6 +1230,16 @@
     "icon": 2001
   },
   {
+    "id": 702100360,
+    "name": "Flame Amp Ⅲ",
+    "flavor_text": "Heat attacks' damage increases (large effect).",
+    "special_effect_ids": [
+      802040350
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702100361,
     "name": "Flame Amp Ⅱ",
     "flavor_text": "Heat attacks' damage increases (medium effect).",
@@ -1345,6 +1355,16 @@
     "flavor_text": "When attacking with M. Arts, damage increases (medium effect).",
     "special_effect_ids": [
       802040369
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100381,
+    "name": "Shade Amp Ⅲ",
+    "flavor_text": "Shadow attacks' damage increases (large effect).",
+    "special_effect_ids": [
+      802040371
     ],
     "ability_when": 1,
     "icon": 4010
@@ -1757,6 +1777,68 @@
     "flavor_text": "When being directly attacked, counterattacks with Gong Ringer+ (high chance).<br>(Activates using skill Rank 1).",
     "special_effect_ids": [
       802040535
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100542,
+    "name": "High Roller",
+    "flavor_text": "Attacks' damage increases (large effect).<br>Single-foe attacks' damage increases (medium effect).<br>(A single-foe attack will receive both buffs).",
+    "special_effect_ids": [
+      802040001,
+      802040521,
+      802040685
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100544,
+    "name": "Evasive Counter Ⅲ",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with a pierce spear skill (high chance).",
+    "special_effect_ids": [
+      802040539
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100552,
+    "name": "Crescent Moon Dance",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Demilune (medium chance).<br><br>Counterattack: Demilune<br>Attack/Power: D/Single Foe (Slash+Lightning).<br>Attack. (Activates using skill Rank 1)",
+    "special_effect_ids": [
+      802040544
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100604,
+    "name": "Pity",
+    "flavor_text": "When being directly attacked, counterattacks with Swirl of Sorrow (high chance).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040607
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100605,
+    "name": "Tide Turner",
+    "flavor_text": "When HP is not full, attacks' damage increases (very large effect).",
+    "special_effect_ids": [
+      802040608
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100606,
+    "name": "Calamity",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Clear Ice (medium chance).<br><br>Counterattack: Clear Ice<br>Attack/Power: C/Single Foe (Shadow+Cold) *M. Arts Special Skill (INT)<br>Attack.<br>When the attack hits, inflicts petrification on target (low chance/5 turn(s)).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040609
     ],
     "ability_when": 1,
     "icon": 4005
@@ -2278,6 +2360,17 @@
     "icon": 3001
   },
   {
+    "id": 702200541,
+    "name": "Inhibitor Ⅲ (END/AGI)",
+    "flavor_text": "[Start of round]<br>Reduces all enemies' END/AGI (large effect).",
+    "special_effect_ids": [
+      802010553,
+      802010537
+    ],
+    "ability_when": 2,
+    "icon": 4003
+  },
+  {
     "id": 702200620,
     "name": "Vital INT",
     "flavor_text": "[Start of round]<br>Increases all surviving allies' INT (medium effect).",
@@ -2664,6 +2757,39 @@
     "icon": 4007
   },
   {
+    "id": 702300554,
+    "name": "Tempest Protection",
+    "flavor_text": "[Start of turn]<br>Has a high chance to:<br>Increase a random surviving ally's AGI (large effect).<br>And grant a random surviving ally an attack boost (large effect/2 turn(s)).",
+    "special_effect_ids": [
+      802040546,
+      802040547
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300600,
+    "name": "Bell Ringer",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a taunt stance (small effect/4 turn(s)), and increases own INT (medium effect).",
+    "special_effect_ids": [
+      802040602,
+      802010601
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300601,
+    "name": "Rejuvenate (INT/CHA)",
+    "flavor_text": "[Start of turn]<br>Increases own INT/CHA (medium chance/large effect).",
+    "special_effect_ids": [
+      802010555,
+      802010600
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
     "id": 702300613,
     "name": "Energize (INT/WIL)",
     "flavor_text": "[Start of turn]<br>Increases own INT/WIL (medium effect).",
@@ -2765,6 +2891,17 @@
     "special_effect_ids": [
       802040495,
       802040497
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
+    "id": 702400559,
+    "name": "Starry Night Rose",
+    "flavor_text": "[End of turn]<br>Has a medium chance to:<br>Recover own HP (medium effect) and recover own BP (+1). ",
+    "special_effect_ids": [
+      802040061,
+      802040312
     ],
     "ability_when": 4,
     "icon": 4007
@@ -4892,6 +5029,48 @@
     "icon": 4010
   },
   {
+    "id": 702600546,
+    "name": "Absorb Magic",
+    "flavor_text": "When landing an attack, has a medium chance to:<br>Reduce target's INT (medium effect) and increase own INT (medium effect).",
+    "special_effect_ids": [
+      802010556,
+      802010603
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600553,
+    "name": "Resonance Form",
+    "flavor_text": "When landing an attack with Jolt Sword or Luna Fulgur, Demilune Echo will be activated (medium chance).<br><br>Demilune Echo<br>Attack/Power: S/Single Foe (Slash+Lightning).<br>Attack. (Activates using skill Rank 1)",
+    "special_effect_ids": [
+      802040554,
+      802040545
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600607,
+    "name": "Charming Breach",
+    "flavor_text": "When landing an attack, inflicts charm on target (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030244
+    ],
+    "ability_when": 6,
+    "icon": 3007
+  },
+  {
+    "id": 702600608,
+    "name": "All Gooey",
+    "flavor_text": "When being attacked, increases all surviving allies' END (medium effect).",
+    "special_effect_ids": [
+      802010610
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
     "id": 702600611,
     "name": "Snow Flurry",
     "flavor_text": "When landing an attack with either Glacial Sword, Chilly Wind, or Blade of Freezing, Winter Storm will be activated (medium chance).<br><br>Winter Storm<br>G. Sword skill/Attack/Power: A/All Foes (Cold)<br>All range attack. (Activates using skill Rank 1)",
@@ -6199,6 +6378,26 @@
     "icon": 4010
   },
   {
+    "id": 708100058,
+    "name": "Silver Slash",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with Silver Sword (high chance).",
+    "special_effect_ids": [
+      808040065
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 708100060,
+    "name": "Pity",
+    "flavor_text": "When being directly attacked, counterattacks with Swirl of Sorrow (high chance).",
+    "special_effect_ids": [
+      808040067
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
     "id": 708300012,
     "name": "Reinforce (STR)",
     "flavor_text": "[Start of turn]<br>Increases own STR (large effect).",
@@ -6430,6 +6629,16 @@
     ],
     "ability_when": 6,
     "icon": 4010
+  },
+  {
+    "id": 708600061,
+    "name": "All Gooey",
+    "flavor_text": "When being attacked, increases all surviving allies' END (medium effect).",
+    "special_effect_ids": [
+      808010068
+    ],
+    "ability_when": 6,
+    "icon": 4001
   },
   {
     "id": 750100529,

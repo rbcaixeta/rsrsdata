@@ -1441,6 +1441,17 @@
     ]
   },
   {
+    "id": 148,
+    "name": "Quest_Before",
+    "title": "Quest Briefing",
+    "size": 2,
+    "banners": [
+      9434,
+      9506,
+      1022
+    ]
+  },
+  {
     "id": 150,
     "name": "Quest_Event_994",
     "title": "Pandemonium of Memory",
@@ -1603,13 +1614,25 @@
     ]
   },
   {
+    "id": 167,
+    "name": "Disabled",
+    "title": "出撃前情報",
+    "size": 2,
+    "banners": [
+      9434,
+      9506,
+      1021
+    ]
+  },
+  {
     "id": 168,
     "name": "Quest_Before",
     "title": "Quest Briefing",
     "size": 2,
     "banners": [
       9434,
-      9506
+      9506,
+      1022
     ]
   },
   {
@@ -1722,7 +1745,7 @@
   },
   {
     "id": 180,
-    "name": "_Event_1025",
+    "name": "Quest_Event_1025",
     "title": "Merry Christmas! Santa Clash",
     "size": 3,
     "banners": [
@@ -3014,6 +3037,19 @@
     ]
   },
   {
+    "id": 320,
+    "name": "",
+    "title": "Favorite Equipment",
+    "size": 3,
+    "banners": [
+      2301,
+      2302,
+      2303,
+      2304,
+      2305
+    ]
+  },
+  {
     "id": 321,
     "name": "Quest_Event_1133",
     "title": "Castle Party & Final Trial",
@@ -3156,6 +3192,18 @@
     ]
   },
   {
+    "id": 336,
+    "name": "Quest_Event_1176",
+    "title": "1st Veiled World Tower",
+    "size": 3,
+    "banners": [
+      9840,
+      9841,
+      9842,
+      9872
+    ]
+  },
+  {
     "id": 337,
     "name": "Quest_Event_1183",
     "title": "Ring Trial",
@@ -3165,6 +3213,109 @@
       9848,
       9850,
       9851
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Quest_Event_1177",
+    "title": "1.5 Anniv.! Treasure Den (Aurum)",
+    "size": 3,
+    "banners": [
+      9854,
+      9855,
+      9856
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Quest_Event_1178",
+    "title": "1.5 Anniv.! Treasure Den (Enhance. Matl.)",
+    "size": 3,
+    "banners": [
+      9857,
+      9858,
+      9859
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Quest_Event_1179",
+    "title": "1.5 Anniv.! Treasure Den (Evolution Matl.)",
+    "size": 3,
+    "banners": [
+      9860,
+      9861,
+      9862
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Quest_Event_1180",
+    "title": "1.5 Anniv.! Treasure Den (Awaken. Matl.)",
+    "size": 3,
+    "banners": [
+      9863,
+      9864,
+      9865
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Quest_Event_1181",
+    "title": "1.5 Anniv.! Treasure Den (Holy Stone)",
+    "size": 3,
+    "banners": [
+      9866,
+      9867,
+      9868
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Quest_Event_1182",
+    "title": "1.5 Anniv.! Treasure Den (Gold)",
+    "size": 3,
+    "banners": [
+      9869,
+      9870,
+      9871
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Quest_Event_2005",
+    "title": "2nd Anniv.! Romancing Battle",
+    "size": 3,
+    "banners": [
+      9875,
+      9876,
+      9877,
+      9878,
+      9879,
+      9880,
+      9881,
+      9882
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Quest_Event_2005",
+    "title": "2nd Anniv.! Romancing Battle",
+    "size": 3,
+    "banners": [
+      9875
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Quest_Event_1185",
+    "title": "2nd Veiled World Tower",
+    "size": 3,
+    "banners": [
+      9903,
+      9873,
+      9904,
+      9905
     ]
   },
   {
@@ -3419,6 +3570,15 @@
     "size": 3,
     "banners": [
       1000000029
+    ]
+  },
+  {
+    "id": 1000000019,
+    "name": "Quest_Daily_7",
+    "title": "1.5 Anniversary Quest",
+    "size": 3,
+    "banners": [
+      1000000030
     ]
   }
 ]

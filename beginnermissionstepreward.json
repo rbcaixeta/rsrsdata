@@ -4,20 +4,71 @@
     "step": 1,
     "reward_type": 14,
     "reward_id": 223211,
-    "reward_quantity": 1
+    "reward_quantity": 1,
+    "beginner_mission_group_id": 1
   },
   {
     "id": 2,
     "step": 2,
     "reward_type": 3,
     "reward_id": 223211,
-    "reward_quantity": 100
+    "reward_quantity": 100,
+    "beginner_mission_group_id": 1
   },
   {
     "id": 3,
     "step": 3,
     "reward_type": 8,
     "reward_id": 810003,
-    "reward_quantity": 50
+    "reward_quantity": 50,
+    "beginner_mission_group_id": 1
+  },
+  {
+    "id": 4,
+    "step": 1,
+    "reward_type": 14,
+    "reward_id": 229207,
+    "reward_quantity": 1,
+    "beginner_mission_group_id": 2
+  },
+  {
+    "id": 5,
+    "step": 2,
+    "reward_type": 8,
+    "reward_id": 810001,
+    "reward_quantity": 1,
+    "beginner_mission_group_id": 2
+  },
+  {
+    "id": 6,
+    "step": 3,
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 100,
+    "beginner_mission_group_id": 2
+  },
+  {
+    "id": 7,
+    "step": 1,
+    "reward_type": 8,
+    "reward_id": 810001,
+    "reward_quantity": 1,
+    "beginner_mission_group_id": 3
+  },
+  {
+    "id": 8,
+    "step": 2,
+    "reward_type": 8,
+    "reward_id": 810001,
+    "reward_quantity": 1,
+    "beginner_mission_group_id": 3
+  },
+  {
+    "id": 9,
+    "step": 3,
+    "reward_type": 8,
+    "reward_id": 810001,
+    "reward_quantity": 1,
+    "beginner_mission_group_id": 3
   }
 ]

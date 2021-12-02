@@ -6120,5 +6120,49 @@
     "battle_id": 1950010003,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1000000008,
+    "name": "1.5 Anniversary Quest",
+    "sort_order": 1,
+    "banner": 1000901004,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810030
+      },
+      {
+        "type": 12,
+        "id": 840074
+      },
+      {
+        "type": 12,
+        "id": 840073
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000092691,
+      1000092692,
+      1000092693,
+      1000092694,
+      1000092695,
+      1000092696
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1000001012,
+    "battle_id": 1950010002,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
   }
 ]

@@ -268,5 +268,545 @@
     "reward_id": 105001,
     "reward_quantity": 50,
     "priority": 9999971
+  },
+  {
+    "id": 50130,
+    "step": 1,
+    "summary": "Complete Forest of Mystery Lv. 1<br>(Unlock via Main 4-2-10)",
+    "description": "Complete Forest of Mystery Lv. 1 (Quests > Challenge > Forest of Mystery).",
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 30,
+    "priority": 9999999
+  },
+  {
+    "id": 50131,
+    "step": 1,
+    "summary": "Return Instantly<br>from 20 Expeditions<br>(Dojo)",
+    "description": "Return instantly from 20 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+    "reward_type": 12,
+    "reward_id": 840001,
+    "reward_quantity": 100,
+    "priority": 9999998
+  },
+  {
+    "id": 50132,
+    "step": 1,
+    "summary": "Wicked Witch<br>(Main 5-2-12)",
+    "description": "Defeat Wicked Witch in Episode 5-2-12 of the Main Story, \"The Witch\" on Normal difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999997
+  },
+  {
+    "id": 50133,
+    "step": 1,
+    "summary": "Water Dragon<br>(Main 1-2-6)",
+    "description": "Defeat Water Dragon in Episode 1-2-6 of the Main Story, \"Summit's Gate\" on Hard difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999996
+  },
+  {
+    "id": 50134,
+    "step": 1,
+    "summary": "Complete Spiral Corridor Floor 10",
+    "description": "Complete Spiral Corridor Floor 10 (Quests > Challenge > Spiral Corridor)",
+    "reward_type": 1,
+    "reward_id": 100003,
+    "reward_quantity": 50000,
+    "priority": 9999995
+  },
+  {
+    "id": 50135,
+    "step": 1,
+    "summary": "Spriggan<br>(Main 2-2-5)",
+    "description": "Defeat Spriggan in Episode 2-2-5 of the Main Story, \"Underground Inhabitant\" on Hard difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999994
+  },
+  {
+    "id": 50136,
+    "step": 1,
+    "summary": "Awaken a Skill/Spell 1 Time<br>(Dojo)",
+    "description": "Awaken a skill or spell 1 time (Dojo > Awaken Skills/Spells)",
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 30,
+    "priority": 9999993
+  },
+  {
+    "id": 50137,
+    "step": 1,
+    "summary": "Defeat 500 Enemies",
+    "description": "Defeat 500 enemies total in any quest",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999992
+  },
+  {
+    "id": 50138,
+    "step": 1,
+    "summary": "Yami<br>(Main 3-2-3)",
+    "description": "Defeat Yami in Episode 3-2-3 of the Main Story, \"Castle Keeper\" on Hard difficulty (Quests > Main).",
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 100,
+    "priority": 9999991
+  },
+  {
+    "id": 50140,
+    "step": 2,
+    "summary": "Return Instantly<br>from 50 Expeditions<br>(Dojo)",
+    "description": "Return instantly from 50 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 20,
+    "priority": 9999989
+  },
+  {
+    "id": 50141,
+    "step": 2,
+    "summary": "Tu Kwai<br>(Main 4-2-5)",
+    "description": "Defeat Tu Kwai in Episode 4-2-5 of the Main Story, \"Crimson Commander\" on Hard difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999988
+  },
+  {
+    "id": 50142,
+    "step": 2,
+    "summary": "Water Dragon<br>(Main 1-2-6)",
+    "description": "Defeat Water Dragon in Episode 1-2-6 of the Main Story, \"Summit's Gate\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999987
+  },
+  {
+    "id": 50143,
+    "step": 2,
+    "summary": "Unlock Style Level Cap<br>7 Times<br>(Dojo)",
+    "description": "Unlock Style Level Cap 7 times (Dojo > Unlock Style Level Cap).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 10,
+    "priority": 9999986
+  },
+  {
+    "id": 50144,
+    "step": 2,
+    "summary": "Complete Forest of Mystery Lv. 2",
+    "description": "Complete Forest of Mystery Lv. 2 (Quests > Challenge > Forest of Mystery).",
+    "reward_type": 9,
+    "reward_id": 820001,
+    "reward_quantity": 3,
+    "priority": 9999985
+  },
+  {
+    "id": 50145,
+    "step": 2,
+    "summary": "Yami<br>(Main 3-2-3)",
+    "description": "Defeat Yami in Episode 3-2-3 of the Main Story, \"Castle Keeper\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999984
+  },
+  {
+    "id": 50146,
+    "step": 2,
+    "summary": "Complete<br>Iron Ruins<br>Lv. 5",
+    "description": "Complete Iron Ruins Lv.5 (Quests > Daily > Ruins Exploration: Tri Glowstones)",
+    "reward_type": 1,
+    "reward_id": 100003,
+    "reward_quantity": 100000,
+    "priority": 9999983
+  },
+  {
+    "id": 50147,
+    "step": 2,
+    "summary": "Evolve Equipment 2 Times<br>(Forge)",
+    "description": "Evolve equipment 2 times at the Forge (obtain materials from quests: Quests > Daily > Ruins Exploration).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999982
+  },
+  {
+    "id": 50148,
+    "step": 2,
+    "summary": "Tu Kwai<br>(Main 4-2-5)",
+    "description": "Defeat Tu Kwai in Episode 4-2-5 of the Main Story, \"Crimson Commander\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 200,
+    "priority": 9999981
+  },
+  {
+    "id": 50150,
+    "step": 3,
+    "summary": "Return Instantly<br>from 100 Expeditions<br>(Dojo)",
+    "description": "Return instantly from 100 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999979
+  },
+  {
+    "id": 50151,
+    "step": 3,
+    "summary": "Unlock Style Level Cap<br>10 Times<br>(Dojo)",
+    "description": "Unlock Style Level Cap 10 times (Dojo > Unlock Style Level Cap).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999978
+  },
+  {
+    "id": 50152,
+    "step": 3,
+    "summary": "Wicked Witch<br>(Main 5-2-6)",
+    "description": "Defeat Wicked Witch in Episode 5-2-6 of the Main Story, \"The Witch\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999977
+  },
+  {
+    "id": 50153,
+    "step": 3,
+    "summary": "Complete Forest of Mystery Lv. 4",
+    "description": "Complete Forest of Mystery Lv. 4 (Quests > Challenge > Forest of Mystery).",
+    "reward_type": 9,
+    "reward_id": 820001,
+    "reward_quantity": 3,
+    "priority": 9999976
+  },
+  {
+    "id": 50154,
+    "step": 3,
+    "summary": "Complete<br>Iron Ruins<br>Lv. 6",
+    "description": "Complete Iron Ruins Lv.6 (Quests > Daily > Ruins Exploration: Tri Glowstones)",
+    "reward_type": 1,
+    "reward_id": 100003,
+    "reward_quantity": 100000,
+    "priority": 9999975
+  },
+  {
+    "id": 50155,
+    "step": 3,
+    "summary": "Evolve Equipment 3 Times<br>(Forge)",
+    "description": "Evolve equipment 3 times at the Forge (obtain materials from quests: Quests > Daily > Ruins Exploration).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999974
+  },
+  {
+    "id": 50156,
+    "step": 3,
+    "summary": "Complete Spiral Corridor Floor 20",
+    "description": "Complete Spiral Corridor Floor 20 (Quests > Challenge > Spiral Corridor)",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999973
+  },
+  {
+    "id": 50157,
+    "step": 3,
+    "summary": "Defeat 1,500 Enemies",
+    "description": "Defeat 1,500 enemies total in any quest",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999972
+  },
+  {
+    "id": 50158,
+    "step": 3,
+    "summary": "Revenant<br>(Main 6-1-5)",
+    "description": "Defeat Revenant in Episode 6-1-5 of the Main Story, \"Mountain Entrance\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999971
+  },
+  {
+    "id": 50230,
+    "step": 1,
+    "summary": "Evolve Equipment 4 Times<br>(Forge)",
+    "description": "Evolve equipment 4 times at the Forge (obtain materials from quests: Quests > Daily > Ruins Exploration).",
+    "reward_type": 1,
+    "reward_id": 100003,
+    "reward_quantity": 100000,
+    "priority": 9999999
+  },
+  {
+    "id": 50231,
+    "step": 1,
+    "summary": "Return Instantly<br>from 120 Expeditions<br>(Dojo)",
+    "description": "Return instantly from 120 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999998
+  },
+  {
+    "id": 50232,
+    "step": 1,
+    "summary": "Complete Forest of Mystery Lv. 6",
+    "description": "Complete Forest of Mystery Lv. 6 (Quests > Challenge > Forest of Mystery).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999997
+  },
+  {
+    "id": 50233,
+    "step": 1,
+    "summary": "Unlock Style Level Cap<br>15 Times<br>(Dojo)",
+    "description": "Unlock Style Level Cap 15 times (Dojo > Unlock Style Level Cap).",
+    "reward_type": 2,
+    "reward_id": 105001,
+    "reward_quantity": 50,
+    "priority": 9999996
+  },
+  {
+    "id": 50234,
+    "step": 1,
+    "summary": "Defeat 2,000 Enemies",
+    "description": "Defeat 2,000 enemies total in any quest",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999995
+  },
+  {
+    "id": 50235,
+    "step": 1,
+    "summary": "Complete Spiral Corridor Floor 25",
+    "description": "Complete Spiral Corridor Floor 25 (Quests > Challenge > Spiral Corridor)",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999994
+  },
+  {
+    "id": 50236,
+    "step": 1,
+    "summary": "Giant<br>(Main 6-2-5)",
+    "description": "Defeat Giant in Episode 6-2-5 of the Main Story, \"Follow the Butterfly\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999993
+  },
+  {
+    "id": 50237,
+    "step": 1,
+    "summary": "Pyrohydra<br>(Main 7-2-5)",
+    "description": "Defeat Pyrohydra in Episode 7-2-5 of the Main Story, \"Netherworld Departure\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999992
+  },
+  {
+    "id": 50238,
+    "step": 1,
+    "summary": "Kzinssie<br>(Main 8-2-5)",
+    "description": "Defeat Kzinssie in Episode 8-2-5 of the Main Story, \"Battle with Kzinssie\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 200,
+    "priority": 9999991
+  },
+  {
+    "id": 50239,
+    "step": 2,
+    "summary": "Evolve Equipment 7 Times<br>(Forge)",
+    "description": "Evolve equipment 7 times at the Forge (obtain materials from quests: Quests > Daily > Ruins Exploration).",
+    "reward_type": 1,
+    "reward_id": 100003,
+    "reward_quantity": 100000,
+    "priority": 9999989
+  },
+  {
+    "id": 50240,
+    "step": 2,
+    "summary": "Return Instantly<br>from 150 Expeditions<br>(Dojo)",
+    "description": "Return instantly from 150 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999988
+  },
+  {
+    "id": 50241,
+    "step": 2,
+    "summary": "Complete<br>Iron Ruins<br>Lv. 10",
+    "description": "Complete Iron Ruins Lv.10 (Quests > Daily > Ruins Exploration: Tri Glowstones)",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999987
+  },
+  {
+    "id": 50242,
+    "step": 2,
+    "summary": "Unlock Style Level Cap<br>20 Times<br>(Dojo)",
+    "description": "Unlock Style Level Cap 20 times (Dojo > Unlock Style Level Cap).",
+    "reward_type": 2,
+    "reward_id": 105001,
+    "reward_quantity": 50,
+    "priority": 9999986
+  },
+  {
+    "id": 50243,
+    "step": 2,
+    "summary": "Defeat 3,000 Enemies",
+    "description": "Defeat 3,000 enemies total in any quest",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999985
+  },
+  {
+    "id": 50244,
+    "step": 2,
+    "summary": "Complete Forest of Mystery Lv. 8",
+    "description": "Complete Forest of Mystery Lv. 8 (Quests > Challenge > Forest of Mystery).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999984
+  },
+  {
+    "id": 50245,
+    "step": 2,
+    "summary": "Wicked Witch<br>(Main 10-2-5)",
+    "description": "Defeat Wicked Witch in Episode 10-2-5 of the Main Story, \"Final Battle\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999983
+  },
+  {
+    "id": 50246,
+    "step": 2,
+    "summary": "Ice Dragon<br>(Main 11-2-5)",
+    "description": "Defeat Ice Dragon in Episode 11-2-5 of the Main Story, \"Eastern Cave\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999982
+  },
+  {
+    "id": 50247,
+    "step": 2,
+    "summary": "Barthelemy<br>(Main 13-2-5)",
+    "description": "Defeat Barthelemy in Episode 13-2-5 of the Main Story, \"Surpassing Father\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 500,
+    "priority": 9999981
+  },
+  {
+    "id": 50248,
+    "step": 3,
+    "summary": "Evolve Equipment 10 Times<br>(Forge)",
+    "description": "Evolve equipment 10 times at the Forge (obtain materials from quests: Quests > Daily > Ruins Exploration).",
+    "reward_type": 1,
+    "reward_id": 100003,
+    "reward_quantity": 100000,
+    "priority": 9999979
+  },
+  {
+    "id": 50249,
+    "step": 3,
+    "summary": "Return Instantly<br>from 200 Expeditions<br>(Dojo)",
+    "description": "Return instantly from 200 Expeditions at the Dojo (Home > Dojo > Expeditions).",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999978
+  },
+  {
+    "id": 50250,
+    "step": 3,
+    "summary": "Complete 1. Barthelemy's Training: Slash",
+    "description": "Complete 1. Barthelemy's Training: Slash (Quests > Event > Barthelemy's Training: Slash)",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999977
+  },
+  {
+    "id": 50251,
+    "step": 3,
+    "summary": "Unlock Style Level Cap<br>30 Times<br>(Dojo)",
+    "description": "Unlock Style Level Cap 30 times (Dojo > Unlock Style Level Cap).",
+    "reward_type": 2,
+    "reward_id": 105001,
+    "reward_quantity": 50,
+    "priority": 9999976
+  },
+  {
+    "id": 50252,
+    "step": 3,
+    "summary": "Defeat 4,000 Enemies",
+    "description": "Defeat 4,000 enemies total in any quest",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999975
+  },
+  {
+    "id": 50253,
+    "step": 3,
+    "summary": "Complete Spiral Corridor Floor 30",
+    "description": "Complete Spiral Corridor Floor 30 (Quests > Challenge > Spiral Corridor)",
+    "reward_type": 8,
+    "reward_id": 810003,
+    "reward_quantity": 20,
+    "priority": 9999974
+  },
+  {
+    "id": 50254,
+    "step": 3,
+    "summary": "Dae's Colossus<br>(Main 14-2-6)",
+    "description": "Defeat Dae's Colossus in Episode 14-2-6 of the Main Story, \"Dae's Colossus\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999973
+  },
+  {
+    "id": 50255,
+    "step": 3,
+    "summary": "Crystal Dragon<br>(Main 15-2-5)",
+    "description": "Defeat Crystal Dragon in Episode 15-2-5 of the Main Story, \"Tracing a Dark Howl\" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 30,
+    "priority": 9999972
+  },
+  {
+    "id": 50256,
+    "step": 3,
+    "summary": "Byunei<br>(Gaiden 2-5)",
+    "description": "Defeat Byunei in Gaiden 2-5 of the Main Story, \"Byunei, Lord of the Dragons \" on Very Hard difficulty (Quests > Main).",
+    "reward_type": 3,
+    "reward_id": 229207,
+    "reward_quantity": 100,
+    "priority": 9999971
   }
 ]

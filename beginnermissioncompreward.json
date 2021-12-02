@@ -3,6 +3,21 @@
     "id": 1,
     "reward_type": 8,
     "reward_id": 810001,
-    "reward_quantity": 1
+    "reward_quantity": 1,
+    "beginner_mission_group_id": 1
+  },
+  {
+    "id": 2,
+    "reward_type": 1,
+    "reward_id": 100002,
+    "reward_quantity": 3000,
+    "beginner_mission_group_id": 2
+  },
+  {
+    "id": 3,
+    "reward_type": 1,
+    "reward_id": 100002,
+    "reward_quantity": 5000,
+    "beginner_mission_group_id": 3
   }
 ]

@@ -3301,5 +3301,32 @@
     "icon": 4010,
     "applies_to_all_styles": 1,
     "priority": 205
+  },
+  {
+    "id": 1000000360,
+    "event_ability_category_id": 1000000173,
+    "name": "[Ltd. Time] 1.5 Anniv.! Boot Camp",
+    "flavor_text": "・3x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 208
+  },
+  {
+    "id": 1000000361,
+    "event_ability_category_id": 1000000174,
+    "name": "[Ltd. Time] 1.5 Anniversary Quest",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the 1.5 Anniversary Quest",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 209
+  },
+  {
+    "id": 1000000362,
+    "event_ability_category_id": 1000000175,
+    "name": "[Ltd. Time] 1.5 Anniv.! Treasure Den",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Treasure Den (Gold)<br>・Bonus Style Piece drops (very rare chance) for the Styles you use when clearing Treasure Den",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 210
   }
 ]

@@ -112,5 +112,87 @@
       93298,
       1000090513
     ]
+  },
+  {
+    "id": 900014,
+    "name": "New Year's Food Box [Ltd. Time]",
+    "description": "Open from Items>Treasure Box. You may get any of the items from Rewards. (Until 2/12/2021, 4:00)",
+    "rarity": 5,
+    "max_quantity": 9999,
+    "expired_at": 1613069999,
+    "icon": 900016,
+    "sort_order": 1060,
+    "drop_group_ids": [
+      95234,
+      95234,
+      95234,
+      95234
+    ]
+  },
+  {
+    "id": 900015,
+    "name": "Ox Fortune Slip (Small Luck) [Ltd. Time]",
+    "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until 2/15/2021, 4:00)",
+    "rarity": 3,
+    "max_quantity": 9999,
+    "expired_at": 1613329199,
+    "icon": 900019,
+    "sort_order": 1065,
+    "drop_group_ids": [
+      95277,
+      95278,
+      95279,
+      95280,
+      95281,
+      95282,
+      95283,
+      95284,
+      95285,
+      95286
+    ]
+  },
+  {
+    "id": 900016,
+    "name": "Ox Fortune Slip (Medium Luck) [Ltd. Time]",
+    "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until 2/15/2021, 4:00)",
+    "rarity": 4,
+    "max_quantity": 9999,
+    "expired_at": 1613329199,
+    "icon": 900018,
+    "sort_order": 1070,
+    "drop_group_ids": [
+      95267,
+      95268,
+      95269,
+      95270,
+      95271,
+      95272,
+      95273,
+      95274,
+      95275,
+      95276
+    ]
+  },
+  {
+    "id": 900017,
+    "name": "Ox Fortune Slip (Large Luck) [Ltd. Time]",
+    "description": "Open from Items>Treasure Box. You will get the items from Rewards. (Until 2/15/2021, 4:00)",
+    "rarity": 5,
+    "max_quantity": 9999,
+    "expired_at": 1613329199,
+    "icon": 900017,
+    "sort_order": 1075,
+    "drop_group_ids": [
+      95257,
+      95258,
+      95259,
+      95260,
+      95261,
+      95262,
+      95263,
+      95264,
+      95265,
+      95266
+    ]
   }
 ]

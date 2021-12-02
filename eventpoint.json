@@ -558,6 +558,15 @@
     "sort_order": 2790
   },
   {
+    "id": 800096,
+    "name": "Romancing Festival Medal: Dragon",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800096,
+    "max_quantity": 99999999,
+    "expired_at": 1640825999,
+    "sort_order": 2910
+  },
+  {
     "id": 800103,
     "name": "Romancing Festival Medal: Creator",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -697,7 +706,7 @@
     "name": "Hidden Dojo Emblem: Purple",
     "flavor_text": "Proof of victory in the Hidden Dojo. Can be exchanged for items.",
     "icon": 882001,
-    "max_quantity": 9999,
+    "max_quantity": 99999,
     "expired_at": 0,
     "sort_order": 9699
   },
@@ -706,7 +715,7 @@
     "name": "Hidden Dojo Emblem: Green",
     "flavor_text": "Proof of victory in the Hidden Dojo. Can be exchanged for items.",
     "icon": 882002,
-    "max_quantity": 9999,
+    "max_quantity": 99999,
     "expired_at": 0,
     "sort_order": 9698
   },
@@ -2327,8 +2336,8 @@
     "flavor_text": "Can be exchanged for items at the Ox Bell Exchange. (Until [1616288399] <tz>)",
     "icon": 1100412,
     "max_quantity": 99999999,
-    "expired_at": 1616288399,
-    "sort_order": 1570
+    "expired_at": 0,
+    "sort_order": 3020
   },
   {
     "id": 1100419,
@@ -2860,5 +2869,14 @@
     "max_quantity": 99999999,
     "expired_at": 1643590799,
     "sort_order": 1903
+  },
+  {
+    "id": 1001100205,
+    "name": "1.5 Anniversary Coin [Ltd. Time]",
+    "flavor_text": "Can be exchanged for items at the 1.5 Anniversary Coin Exchange. (Until [1642208399] <tz>)",
+    "icon": 1001100205,
+    "max_quantity": 99999999,
+    "expired_at": 1642208399,
+    "sort_order": 1902
   }
 ]

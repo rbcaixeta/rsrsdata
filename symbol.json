@@ -1971,7 +1971,7 @@
     "y": -4,
     "illust_category": 1,
     "illust": 1040,
-    "priority": 1,
+    "priority": 10,
     "group_id": 2590,
     "in_group_priority": 99
   },
@@ -2236,6 +2236,19 @@
     "in_group_priority": 99
   },
   {
+    "id": 1182,
+    "name": "World Tower",
+    "flavor_text": "An unknown space within the World Tower.",
+    "map_id": 1,
+    "x": -19,
+    "y": -4,
+    "illust_category": 1,
+    "illust": 1042,
+    "priority": 1,
+    "group_id": 1020,
+    "in_group_priority": 99
+  },
+  {
     "id": 1183,
     "name": "World Tower",
     "flavor_text": "A Divine Tower that stretches to the sky.",
@@ -2260,6 +2273,45 @@
     "priority": 1,
     "group_id": 2565,
     "in_group_priority": 90
+  },
+  {
+    "id": 1186,
+    "name": "World Tower",
+    "flavor_text": "An unknown space within the World Tower.",
+    "map_id": 1,
+    "x": -19,
+    "y": -4,
+    "illust_category": 1,
+    "illust": 1042,
+    "priority": 1,
+    "group_id": 1020,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1187,
+    "name": "Treasure Den",
+    "flavor_text": "A very large cave used by Don Scaccini to stash his fortune.",
+    "map_id": 1,
+    "x": -15,
+    "y": -15,
+    "illust_category": 1,
+    "illust": 1018,
+    "priority": 1,
+    "group_id": 2045,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1188,
+    "name": "Treasure Den (Gold)",
+    "flavor_text": "A large cave used by Don Scaccini to stash his fortune.",
+    "map_id": 1,
+    "x": -15,
+    "y": -10,
+    "illust_category": 1,
+    "illust": 1018,
+    "priority": 1,
+    "group_id": 2046,
+    "in_group_priority": 99
   },
   {
     "id": 1210,

@@ -51,7 +51,7 @@
     "id": 9,
     "key": "material_max_quantity",
     "type": "integer",
-    "value": "999"
+    "value": "9999"
   },
   {
     "id": 10,
@@ -88,5 +88,29 @@
     "key": "guild_name_update_aurum",
     "type": "integer",
     "value": "50000"
+  },
+  {
+    "id": 16,
+    "key": "event_ability_potion_limit_seconds",
+    "type": "integer",
+    "value": "86400"
+  },
+  {
+    "id": 17,
+    "key": "favorite_armor_set_group_count",
+    "type": "integer",
+    "value": "10"
+  },
+  {
+    "id": 18,
+    "key": "favorite_armor_set_count",
+    "type": "integer",
+    "value": "5"
+  },
+  {
+    "id": 21,
+    "key": "auto_rematch_daily_default_count",
+    "type": "integer",
+    "value": "50"
   }
 ]
