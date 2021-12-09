@@ -567,6 +567,24 @@
     "sort_order": 2910
   },
   {
+    "id": 800100,
+    "name": "Romancing Festival Medal: Fire",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800100,
+    "max_quantity": 99999999,
+    "expired_at": 1641517199,
+    "sort_order": 2930
+  },
+  {
+    "id": 800101,
+    "name": "Romancing Festival Medal: Water",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800101,
+    "max_quantity": 99999999,
+    "expired_at": 1641517199,
+    "sort_order": 2925
+  },
+  {
     "id": 800103,
     "name": "Romancing Festival Medal: Creator",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -982,7 +1000,7 @@
   },
   {
     "id": 1100227,
-    "name": "Deity's Forgiveness",
+    "name": "Celestial's Forgiveness",
     "flavor_text": "Obtained from the Macha's Descent event. Can be exchanged for items.",
     "icon": 1100227,
     "max_quantity": 99999999,
@@ -2329,6 +2347,24 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 2935
+  },
+  {
+    "id": 1100405,
+    "name": "1.5 Anniversary Balloon [Ltd. Time]",
+    "flavor_text": "Obtained from the 1.5 Anniv.! Romancing Battle event. Can be exchanged for items. (Until [1642208399] <tz>)",
+    "icon": 1100405,
+    "max_quantity": 99999999,
+    "expired_at": 1642208399,
+    "sort_order": 2915
+  },
+  {
+    "id": 1100406,
+    "name": "1.5 Anniversary Party Popper [Ltd. Time]",
+    "flavor_text": "Obtained from the 1.5 Anniv.! Romancing Battle event. Can be exchanged for items. (Until [1642208399] <tz>)",
+    "icon": 1100406,
+    "max_quantity": 99999999,
+    "expired_at": 1642208399,
+    "sort_order": 2910
   },
   {
     "id": 1100412,

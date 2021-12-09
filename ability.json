@@ -6642,7 +6642,7 @@
   },
   {
     "id": 750100529,
-    "name": "Pre-Action Def. Boost (v. large) + Action Order Down (med.)",
+    "name": "Pre-Action Def. Boost + Action Order Down",
     "flavor_text": "Grants a defense boost (very large effect) before an action is made.<br>Decreases action order value (medium effect).",
     "special_effect_ids": [
       850040525,
@@ -6876,6 +6876,26 @@
     "icon": 4010
   },
   {
+    "id": 1702100016,
+    "name": "Racing Thunder Counter",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Racing Thunder (high chance).<br><br>Counterattack: Racing Thunder<br>Sword skill/Attack/Power: D/Row of Foes (Slash+Lightning)<br>Ranged attack.<br>When the attack hits, there is a chance to reduce target's DEX (small effect).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1802040036
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 1702100017,
+    "name": "Piercing Slash Counter",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Piercing Slash (high chance).<br><br>Counterattack: Piercing Slash<br>Spear skill/Attack/Power: E/Single Foe (Pierce+Slash)<br>Attack.<br>Increases own STR (small effect).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1802040038
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -6911,6 +6931,17 @@
     "flavor_text": "[Start of round]<br>Grants all surviving allies a pierce attack boost (medium effect/3 turn(s)).",
     "special_effect_ids": [
       1802040030
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 1702200006,
+    "name": "Veteran's Composure",
+    "flavor_text": "[Start of round]<br>Increases own DEX (large effect), and has oneself enter an evasive stance (1 turn(s)).",
+    "special_effect_ids": [
+      802010388,
+      1802040001
     ],
     "ability_when": 2,
     "icon": 4010
@@ -6978,12 +7009,33 @@
     "icon": 4010
   },
   {
+    "id": 1702300007,
+    "name": "Gale Blessing",
+    "flavor_text": "[Start of turn]<br>Increases a random surviving ally's AGI (medium effect).<br>Grants a random surviving ally an attack boost (medium effect/2 turn(s)).",
+    "special_effect_ids": [
+      1802040037,
+      802040678
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
     "id": 1702400001,
     "name": "Leader's Missions",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and recovers own BP (+1). ",
     "special_effect_ids": [
       802010689,
       802040460
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
+    "id": 1702400002,
+    "name": "Recovering Regen Ⅳ",
+    "flavor_text": "[End of turn]<br>Recovers own HP (medium chance/large effect).",
+    "special_effect_ids": [
+      802040060
     ],
     "ability_when": 4,
     "icon": 4007
@@ -7206,6 +7258,26 @@
     ],
     "ability_when": 1,
     "icon": 4005
+  },
+  {
+    "id": 1708100006,
+    "name": "Flame Ward",
+    "flavor_text": "Nullifies attacks which have heat damage. Also counterattacks with a heat fire spell when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).",
+    "special_effect_ids": [
+      1808040009
+    ],
+    "ability_when": 1,
+    "icon": 2001
+  },
+  {
+    "id": 1708100007,
+    "name": "Frost Ward",
+    "flavor_text": "Nullifies attacks which have cold damage. Also counterattacks with a cold water spell when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).",
+    "special_effect_ids": [
+      1808040010
+    ],
+    "ability_when": 1,
+    "icon": 2003
   },
   {
     "id": 1708300001,

@@ -3284,7 +3284,7 @@
   {
     "id": 344,
     "name": "Quest_Event_2005",
-    "title": "2nd Anniv.! Romancing Battle",
+    "title": "1.5 Anniv.! Romancing Battle",
     "size": 3,
     "banners": [
       9875,
@@ -3292,15 +3292,13 @@
       9877,
       9878,
       9879,
-      9880,
-      9881,
-      9882
+      9880
     ]
   },
   {
     "id": 345,
     "name": "Quest_Event_2005",
-    "title": "2nd Anniv.! Romancing Battle",
+    "title": "1.5 Anniv.! Romancing Battle",
     "size": 3,
     "banners": [
       9875
@@ -3574,11 +3572,20 @@
   },
   {
     "id": 1000000019,
-    "name": "Quest_Daily_7",
+    "name": "Quest_Daily_1000001012",
     "title": "1.5 Anniversary Quest",
     "size": 3,
     "banners": [
       1000000030
+    ]
+  },
+  {
+    "id": 1000000020,
+    "name": "Quest_Event_1000001013",
+    "title": "Battle with the New Eight Stars",
+    "size": 3,
+    "banners": [
+      1000000031
     ]
   }
 ]

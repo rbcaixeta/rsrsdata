@@ -1695,7 +1695,7 @@
     "id": 1000000279,
     "login_bonus_type": 1,
     "name": "1.5 Anniversary Login Bonus",
-    "display_priority": 1849
+    "display_priority": 3000
   },
   {
     "id": 1000000280,
@@ -1720,5 +1720,29 @@
     "login_bonus_type": 1,
     "name": "1.5 Anniv.! Treasure Den Grand Opening Login Bonus",
     "display_priority": 1848
+  },
+  {
+    "id": 1000000284,
+    "login_bonus_type": 1,
+    "name": "1.5 Anniv.! Romancing Battle Grand Opening Login Bonus",
+    "display_priority": 1849
+  },
+  {
+    "id": 1000000285,
+    "login_bonus_type": 1,
+    "name": "2nd Veiled World Tower Grand Opening Login Bonus",
+    "display_priority": 1850
+  },
+  {
+    "id": 1000000286,
+    "login_bonus_type": 1,
+    "name": "Battle with the New Eight Stars Grand Opening Login Bonus",
+    "display_priority": 1851
+  },
+  {
+    "id": 1000000287,
+    "login_bonus_type": 5,
+    "name": "7-Day Jewel Pack Login Bonus",
+    "display_priority": 998
   }
 ]

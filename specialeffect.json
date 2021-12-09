@@ -1694,6 +1694,24 @@
     "state_icon": 3001
   },
   {
+    "id": 801010531,
+    "state_change_id": 900050079,
+    "name": "Recoil Damage (80% Max HP)",
+    "flavor_text": "When attacking, consume 80% of Max HP.",
+    "target_area": 1,
+    "state_vars": [
+      1
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "SelfHarm",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2002
+  },
+  {
     "id": 801020266,
     "state_change_id": 900020020,
     "name": "Poison Res Up",
@@ -19205,6 +19223,24 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040023,
+    "state_change_id": 900050073,
+    "name": "Luna Fulgur",
+    "flavor_text": "Attacks with Demilune Echo after attacking with Luna Fulgur.",
+    "target_area": 1,
+    "state_vars": [
+      110100094
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 1801040115,
     "state_change_id": 900040063,
     "name": "Morale Up (large)",
@@ -19964,6 +20000,58 @@
     "state_icon": 3001
   },
   {
+    "id": 1802040036,
+    "state_change_id": 900040036,
+    "name": "Racing Thunder Counter",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Racing Thunder (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110100020
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040037,
+    "state_change_id": 900010015,
+    "name": "AGI Up",
+    "flavor_text": "Increases AGI.",
+    "target_area": 2,
+    "state_vars": [],
+    "text_pop": "AGI↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 1802040038,
+    "state_change_id": 900040036,
+    "name": "Piercing Slash Counter",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Piercing Slash (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110800007
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 1802040362,
     "state_change_id": 900040048,
     "name": "Damage Up",
@@ -20270,6 +20358,44 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040009,
+    "state_change_id": 900040065,
+    "name": "Flame Ward",
+    "flavor_text": "Nullifies attacks which have heat damage. Also counterattacks with heat damage when being directly attacked.",
+    "target_area": 1,
+    "state_vars": [
+      1651000007,
+      4
+    ],
+    "text_pop": "Flame Ward",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "selfburning",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040010,
+    "state_change_id": 900040066,
+    "name": "Frost Ward",
+    "flavor_text": "Nullifies attacks which have cold damage. Also counterattacks with cold damage when being directly attacked.",
+    "target_area": 1,
+    "state_vars": [
+      1652000004,
+      5
+    ],
+    "text_pop": "Frost Ward",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "145200022",
+    "animation_id": 0,
+    "display_flag": 1,
     "direction_id": 1,
     "state_icon": 3001
   },

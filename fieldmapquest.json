@@ -14070,6 +14070,5872 @@
     ]
   },
   {
+    "id": 972005001,
+    "quest_type": 1,
+    "name": "Eastern Continent 1",
+    "sort_order": 1,
+    "field_map_node_id": 10106001,
+    "battle_id": 511010010,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100400,
+      100430,
+      100460,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005002,
+    "quest_type": 1,
+    "name": "Eastern Continent 2",
+    "sort_order": 2,
+    "field_map_node_id": 10106002,
+    "battle_id": 511010011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100401,
+      100431,
+      100461,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005003,
+    "quest_type": 1,
+    "name": "Eastern Continent 3",
+    "sort_order": 3,
+    "field_map_node_id": 10106003,
+    "battle_id": 511010011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100402,
+      100432,
+      100462,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005004,
+    "quest_type": 1,
+    "name": "Eastern Continent 4",
+    "sort_order": 4,
+    "field_map_node_id": 10106004,
+    "battle_id": 511010068,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100403,
+      100433,
+      100463,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005005,
+    "quest_type": 1,
+    "name": "Eastern Continent 5",
+    "sort_order": 5,
+    "field_map_node_id": 10106005,
+    "battle_id": 511010012,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100404,
+      100434,
+      100464,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005006,
+    "quest_type": 1,
+    "name": "Eastern Continent 6",
+    "sort_order": 6,
+    "field_map_node_id": 10106006,
+    "battle_id": 511010013,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100405,
+      100435,
+      100465,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005007,
+    "quest_type": 1,
+    "name": "Eastern Continent 7",
+    "sort_order": 7,
+    "field_map_node_id": 10106007,
+    "battle_id": 511010014,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100406,
+      100436,
+      100466,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005008,
+    "quest_type": 1,
+    "name": "Eastern Continent 8",
+    "sort_order": 8,
+    "field_map_node_id": 10106008,
+    "battle_id": 511010002,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 15,
+        "id": 101500700,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100407,
+      100437,
+      100467,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972005009,
+    "quest_type": 1,
+    "name": "Eastern Continent 9",
+    "sort_order": 9,
+    "field_map_node_id": 10106009,
+    "battle_id": 511010015,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100408,
+      100438,
+      100468,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005010,
+    "quest_type": 1,
+    "name": "Eastern Continent 10",
+    "sort_order": 10,
+    "field_map_node_id": 10106010,
+    "battle_id": 511010015,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100409,
+      100439,
+      100469,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005011,
+    "quest_type": 1,
+    "name": "Eastern Continent 11",
+    "sort_order": 11,
+    "field_map_node_id": 10106011,
+    "battle_id": 511010015,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100410,
+      100440,
+      100470,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005012,
+    "quest_type": 1,
+    "name": "Eastern Continent 12",
+    "sort_order": 12,
+    "field_map_node_id": 10106012,
+    "battle_id": 511010069,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100411,
+      100441,
+      100471,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005013,
+    "quest_type": 1,
+    "name": "Eastern Continent 13",
+    "sort_order": 13,
+    "field_map_node_id": 10106013,
+    "battle_id": 511010015,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100412,
+      100442,
+      100472,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005014,
+    "quest_type": 1,
+    "name": "Eastern Continent 14",
+    "sort_order": 14,
+    "field_map_node_id": 10106014,
+    "battle_id": 511010016,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100413,
+      100443,
+      100473,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005015,
+    "quest_type": 1,
+    "name": "Eastern Continent 15",
+    "sort_order": 15,
+    "field_map_node_id": 10106015,
+    "battle_id": 511010017,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100414,
+      100444,
+      100474,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005016,
+    "quest_type": 1,
+    "name": "Eastern Continent 16",
+    "sort_order": 16,
+    "field_map_node_id": 10106016,
+    "battle_id": 511010003,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 16,
+        "id": 204500500,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100415,
+      100445,
+      100475,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972005017,
+    "quest_type": 1,
+    "name": "Eastern Continent 17",
+    "sort_order": 17,
+    "field_map_node_id": 10106017,
+    "battle_id": 511010018,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100416,
+      100446,
+      100476,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005018,
+    "quest_type": 1,
+    "name": "Eastern Continent 18",
+    "sort_order": 18,
+    "field_map_node_id": 10106018,
+    "battle_id": 511010019,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100417,
+      100447,
+      100477,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005019,
+    "quest_type": 1,
+    "name": "Eastern Continent 19",
+    "sort_order": 19,
+    "field_map_node_id": 10106019,
+    "battle_id": 511010020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100418,
+      100448,
+      100478,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005020,
+    "quest_type": 1,
+    "name": "Eastern Continent 20",
+    "sort_order": 20,
+    "field_map_node_id": 10106020,
+    "battle_id": 511010070,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100419,
+      100449,
+      100479,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005021,
+    "quest_type": 1,
+    "name": "Eastern Continent 21",
+    "sort_order": 21,
+    "field_map_node_id": 10106021,
+    "battle_id": 511010020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100420,
+      100450,
+      100480,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005022,
+    "quest_type": 1,
+    "name": "Eastern Continent 22",
+    "sort_order": 22,
+    "field_map_node_id": 10106022,
+    "battle_id": 511010021,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100421,
+      100451,
+      100481,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005023,
+    "quest_type": 1,
+    "name": "Eastern Continent 23",
+    "sort_order": 23,
+    "field_map_node_id": 10106023,
+    "battle_id": 511010022,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100422,
+      100452,
+      100482,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005024,
+    "quest_type": 1,
+    "name": "Northern Continent 1",
+    "sort_order": 24,
+    "field_map_node_id": 10106024,
+    "battle_id": 511010023,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100400,
+      100430,
+      100460,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005025,
+    "quest_type": 1,
+    "name": "Northern Continent 2",
+    "sort_order": 25,
+    "field_map_node_id": 10106025,
+    "battle_id": 511010024,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100401,
+      100431,
+      100461,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005026,
+    "quest_type": 1,
+    "name": "Northern Continent 3",
+    "sort_order": 26,
+    "field_map_node_id": 10106026,
+    "battle_id": 511010025,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100402,
+      100432,
+      100462,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005027,
+    "quest_type": 1,
+    "name": "Northern Continent 4",
+    "sort_order": 27,
+    "field_map_node_id": 10106027,
+    "battle_id": 511010071,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100403,
+      100433,
+      100463,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005028,
+    "quest_type": 1,
+    "name": "Northern Continent 5",
+    "sort_order": 28,
+    "field_map_node_id": 10106028,
+    "battle_id": 511010025,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100404,
+      100434,
+      100464,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005029,
+    "quest_type": 1,
+    "name": "Northern Continent 6",
+    "sort_order": 29,
+    "field_map_node_id": 10106029,
+    "battle_id": 511010026,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100405,
+      100435,
+      100465,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005030,
+    "quest_type": 1,
+    "name": "Northern Continent 7",
+    "sort_order": 30,
+    "field_map_node_id": 10106030,
+    "battle_id": 511010027,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100406,
+      100436,
+      100466,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005031,
+    "quest_type": 1,
+    "name": "Northern Continent 8",
+    "sort_order": 31,
+    "field_map_node_id": 10106031,
+    "battle_id": 511010004,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 15,
+        "id": 105500600,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100407,
+      100437,
+      100467,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972005032,
+    "quest_type": 1,
+    "name": "Northern Continent 9",
+    "sort_order": 32,
+    "field_map_node_id": 10106032,
+    "battle_id": 511010028,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100408,
+      100438,
+      100468,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005033,
+    "quest_type": 1,
+    "name": "Northern Continent 10",
+    "sort_order": 33,
+    "field_map_node_id": 10106033,
+    "battle_id": 511010029,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100409,
+      100439,
+      100469,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005034,
+    "quest_type": 1,
+    "name": "Northern Continent 11",
+    "sort_order": 34,
+    "field_map_node_id": 10106034,
+    "battle_id": 511010030,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100410,
+      100440,
+      100470,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005035,
+    "quest_type": 1,
+    "name": "Northern Continent 12",
+    "sort_order": 35,
+    "field_map_node_id": 10106035,
+    "battle_id": 511010072,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100411,
+      100441,
+      100471,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005036,
+    "quest_type": 1,
+    "name": "Northern Continent 13",
+    "sort_order": 36,
+    "field_map_node_id": 10106036,
+    "battle_id": 511010031,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100412,
+      100442,
+      100472,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005037,
+    "quest_type": 1,
+    "name": "Northern Continent 14",
+    "sort_order": 37,
+    "field_map_node_id": 10106037,
+    "battle_id": 511010029,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100413,
+      100443,
+      100473,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005038,
+    "quest_type": 1,
+    "name": "Northern Continent 15",
+    "sort_order": 38,
+    "field_map_node_id": 10106038,
+    "battle_id": 511010028,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100414,
+      100444,
+      100474,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005039,
+    "quest_type": 1,
+    "name": "Northern Continent 16",
+    "sort_order": 39,
+    "field_map_node_id": 10106039,
+    "battle_id": 511010005,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 16,
+        "id": 204500600,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100415,
+      100445,
+      100475,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972005040,
+    "quest_type": 1,
+    "name": "Northern Continent 17",
+    "sort_order": 40,
+    "field_map_node_id": 10106040,
+    "battle_id": 511010032,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100416,
+      100446,
+      100476,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005041,
+    "quest_type": 1,
+    "name": "Northern Continent 18",
+    "sort_order": 41,
+    "field_map_node_id": 10106041,
+    "battle_id": 511010033,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100417,
+      100447,
+      100477,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005042,
+    "quest_type": 1,
+    "name": "Northern Continent 19",
+    "sort_order": 42,
+    "field_map_node_id": 10106042,
+    "battle_id": 511010034,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100418,
+      100448,
+      100478,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005043,
+    "quest_type": 1,
+    "name": "Northern Continent 20",
+    "sort_order": 43,
+    "field_map_node_id": 10106043,
+    "battle_id": 511010073,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100419,
+      100449,
+      100479,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005044,
+    "quest_type": 1,
+    "name": "Northern Continent 21",
+    "sort_order": 44,
+    "field_map_node_id": 10106044,
+    "battle_id": 511010035,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100420,
+      100450,
+      100480,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005045,
+    "quest_type": 1,
+    "name": "Northern Continent 22",
+    "sort_order": 45,
+    "field_map_node_id": 10106045,
+    "battle_id": 511010036,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100421,
+      100451,
+      100481,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005046,
+    "quest_type": 1,
+    "name": "Northern Continent 23",
+    "sort_order": 46,
+    "field_map_node_id": 10106046,
+    "battle_id": 511010037,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100422,
+      100452,
+      100482,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005047,
+    "quest_type": 1,
+    "name": "Western Continent 1",
+    "sort_order": 47,
+    "field_map_node_id": 10106047,
+    "battle_id": 511010038,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100400,
+      100430,
+      100460,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005048,
+    "quest_type": 1,
+    "name": "Western Continent 2",
+    "sort_order": 48,
+    "field_map_node_id": 10106048,
+    "battle_id": 511010039,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100401,
+      100431,
+      100461,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005049,
+    "quest_type": 1,
+    "name": "Western Continent 3",
+    "sort_order": 49,
+    "field_map_node_id": 10106049,
+    "battle_id": 511010040,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100402,
+      100432,
+      100462,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005050,
+    "quest_type": 1,
+    "name": "Western Continent 4",
+    "sort_order": 50,
+    "field_map_node_id": 10106050,
+    "battle_id": 511010074,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100403,
+      100433,
+      100463,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005051,
+    "quest_type": 1,
+    "name": "Western Continent 5",
+    "sort_order": 51,
+    "field_map_node_id": 10106051,
+    "battle_id": 511010041,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100404,
+      100434,
+      100464,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005052,
+    "quest_type": 1,
+    "name": "Western Continent 6",
+    "sort_order": 52,
+    "field_map_node_id": 10106052,
+    "battle_id": 511010042,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100405,
+      100435,
+      100465,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005053,
+    "quest_type": 1,
+    "name": "Western Continent 7",
+    "sort_order": 53,
+    "field_map_node_id": 10106053,
+    "battle_id": 511010043,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100406,
+      100436,
+      100466,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005054,
+    "quest_type": 1,
+    "name": "Western Continent 8",
+    "sort_order": 54,
+    "field_map_node_id": 10106054,
+    "battle_id": 511010006,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 15,
+        "id": 107500400,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100407,
+      100437,
+      100467,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972005055,
+    "quest_type": 1,
+    "name": "Western Continent 9",
+    "sort_order": 55,
+    "field_map_node_id": 10106055,
+    "battle_id": 511010044,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100408,
+      100438,
+      100468,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005056,
+    "quest_type": 1,
+    "name": "Western Continent 10",
+    "sort_order": 56,
+    "field_map_node_id": 10106056,
+    "battle_id": 511010044,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100409,
+      100439,
+      100469,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005057,
+    "quest_type": 1,
+    "name": "Western Continent 11",
+    "sort_order": 57,
+    "field_map_node_id": 10106057,
+    "battle_id": 511010075,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100410,
+      100440,
+      100470,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005058,
+    "quest_type": 1,
+    "name": "Western Continent 12",
+    "sort_order": 58,
+    "field_map_node_id": 10106058,
+    "battle_id": 511010076,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100411,
+      100441,
+      100471,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005059,
+    "quest_type": 1,
+    "name": "Western Continent 13",
+    "sort_order": 59,
+    "field_map_node_id": 10106059,
+    "battle_id": 511010045,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100412,
+      100442,
+      100472,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005060,
+    "quest_type": 1,
+    "name": "Western Continent 14",
+    "sort_order": 60,
+    "field_map_node_id": 10106060,
+    "battle_id": 511010046,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100413,
+      100443,
+      100473,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005061,
+    "quest_type": 1,
+    "name": "Western Continent 15",
+    "sort_order": 61,
+    "field_map_node_id": 10106061,
+    "battle_id": 511010047,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100414,
+      100444,
+      100474,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005062,
+    "quest_type": 1,
+    "name": "Western Continent 16",
+    "sort_order": 62,
+    "field_map_node_id": 10106062,
+    "battle_id": 511010007,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 15,
+        "id": 108500500,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100415,
+      100445,
+      100475,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972005063,
+    "quest_type": 1,
+    "name": "Western Continent 17",
+    "sort_order": 63,
+    "field_map_node_id": 10106063,
+    "battle_id": 511010048,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100416,
+      100446,
+      100476,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005064,
+    "quest_type": 1,
+    "name": "Western Continent 18",
+    "sort_order": 64,
+    "field_map_node_id": 10106064,
+    "battle_id": 511010049,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100417,
+      100447,
+      100477,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005065,
+    "quest_type": 1,
+    "name": "Western Continent 19",
+    "sort_order": 65,
+    "field_map_node_id": 10106065,
+    "battle_id": 511010050,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100418,
+      100448,
+      100478,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005066,
+    "quest_type": 1,
+    "name": "Western Continent 20",
+    "sort_order": 66,
+    "field_map_node_id": 10106066,
+    "battle_id": 511010077,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100419,
+      100449,
+      100479,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005067,
+    "quest_type": 1,
+    "name": "Western Continent 21",
+    "sort_order": 67,
+    "field_map_node_id": 10106067,
+    "battle_id": 511010051,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100420,
+      100450,
+      100480,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005068,
+    "quest_type": 1,
+    "name": "Western Continent 22",
+    "sort_order": 68,
+    "field_map_node_id": 10106068,
+    "battle_id": 511010052,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100421,
+      100451,
+      100481,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005069,
+    "quest_type": 1,
+    "name": "Western Continent 23",
+    "sort_order": 69,
+    "field_map_node_id": 10106069,
+    "battle_id": 511010053,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100422,
+      100452,
+      100482,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005070,
+    "quest_type": 1,
+    "name": "Southern Continent 1",
+    "sort_order": 70,
+    "field_map_node_id": 10106070,
+    "battle_id": 511010054,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100400,
+      100430,
+      100460,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005071,
+    "quest_type": 1,
+    "name": "Southern Continent 2",
+    "sort_order": 71,
+    "field_map_node_id": 10106071,
+    "battle_id": 511010054,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 7,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100401,
+      100431,
+      100461,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005072,
+    "quest_type": 1,
+    "name": "Southern Continent 3",
+    "sort_order": 72,
+    "field_map_node_id": 10106072,
+    "battle_id": 511010055,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100402,
+      100432,
+      100462,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005073,
+    "quest_type": 1,
+    "name": "Southern Continent 4",
+    "sort_order": 73,
+    "field_map_node_id": 10106073,
+    "battle_id": 511010078,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 12,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100403,
+      100433,
+      100463,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005074,
+    "quest_type": 1,
+    "name": "Southern Continent 5",
+    "sort_order": 74,
+    "field_map_node_id": 10106074,
+    "battle_id": 511010056,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 14,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100404,
+      100434,
+      100464,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005075,
+    "quest_type": 1,
+    "name": "Southern Continent 6",
+    "sort_order": 75,
+    "field_map_node_id": 10106075,
+    "battle_id": 511010057,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 16,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100405,
+      100435,
+      100465,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005076,
+    "quest_type": 1,
+    "name": "Southern Continent 7",
+    "sort_order": 76,
+    "field_map_node_id": 10106076,
+    "battle_id": 511010058,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 17,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100406,
+      100436,
+      100466,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005077,
+    "quest_type": 1,
+    "name": "Southern Continent 8",
+    "sort_order": 77,
+    "field_map_node_id": 10106077,
+    "battle_id": 511010008,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 18,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 15,
+        "id": 154500400,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100407,
+      100437,
+      100467,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972005078,
+    "quest_type": 1,
+    "name": "Southern Continent 9",
+    "sort_order": 78,
+    "field_map_node_id": 10106078,
+    "battle_id": 511010059,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100408,
+      100438,
+      100468,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005079,
+    "quest_type": 1,
+    "name": "Southern Continent 10",
+    "sort_order": 79,
+    "field_map_node_id": 10106079,
+    "battle_id": 511010060,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 20,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100409,
+      100439,
+      100469,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005080,
+    "quest_type": 1,
+    "name": "Southern Continent 11",
+    "sort_order": 80,
+    "field_map_node_id": 10106080,
+    "battle_id": 511010061,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100410,
+      100440,
+      100470,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005081,
+    "quest_type": 1,
+    "name": "Southern Continent 12",
+    "sort_order": 81,
+    "field_map_node_id": 10106081,
+    "battle_id": 511010079,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100411,
+      100441,
+      100471,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005082,
+    "quest_type": 1,
+    "name": "Southern Continent 13",
+    "sort_order": 82,
+    "field_map_node_id": 10106082,
+    "battle_id": 511010062,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 21,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100412,
+      100442,
+      100472,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005083,
+    "quest_type": 1,
+    "name": "Southern Continent 14",
+    "sort_order": 83,
+    "field_map_node_id": 10106083,
+    "battle_id": 511010080,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100413,
+      100443,
+      100473,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005084,
+    "quest_type": 1,
+    "name": "Southern Continent 15",
+    "sort_order": 84,
+    "field_map_node_id": 10106084,
+    "battle_id": 511010061,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 22,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100414,
+      100444,
+      100474,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005085,
+    "quest_type": 1,
+    "name": "Southern Continent 16",
+    "sort_order": 85,
+    "field_map_node_id": 10106085,
+    "battle_id": 511010009,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 15,
+        "id": 156500400,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100415,
+      100445,
+      100475,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972005086,
+    "quest_type": 1,
+    "name": "Southern Continent 17",
+    "sort_order": 86,
+    "field_map_node_id": 10106086,
+    "battle_id": 511010063,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100416,
+      100446,
+      100476,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005087,
+    "quest_type": 1,
+    "name": "Southern Continent 18",
+    "sort_order": 87,
+    "field_map_node_id": 10106087,
+    "battle_id": 511010063,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100417,
+      100447,
+      100477,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005088,
+    "quest_type": 1,
+    "name": "Southern Continent 19",
+    "sort_order": 88,
+    "field_map_node_id": 10106088,
+    "battle_id": 511010064,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100418,
+      100448,
+      100478,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 2
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005089,
+    "quest_type": 1,
+    "name": "Southern Continent 20",
+    "sort_order": 89,
+    "field_map_node_id": 10106089,
+    "battle_id": 511010081,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100419,
+      100449,
+      100479,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005090,
+    "quest_type": 1,
+    "name": "Southern Continent 21",
+    "sort_order": 90,
+    "field_map_node_id": 10106090,
+    "battle_id": 511010065,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100420,
+      100450,
+      100480,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005091,
+    "quest_type": 1,
+    "name": "Southern Continent 22",
+    "sort_order": 91,
+    "field_map_node_id": 10106091,
+    "battle_id": 511010066,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100421,
+      100451,
+      100481,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 8,
+        "id": 810030,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005092,
+    "quest_type": 1,
+    "name": "Southern Continent 23",
+    "sort_order": 92,
+    "field_map_node_id": 10106092,
+    "battle_id": 511010067,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100422,
+      100452,
+      100482,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830008,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972005093,
+    "quest_type": 1,
+    "name": "Last Battle",
+    "sort_order": 93,
+    "field_map_node_id": 10106093,
+    "battle_id": 511010001,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 23,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100405
+      },
+      {
+        "type": 7,
+        "id": 1100406
+      },
+      {
+        "type": 5,
+        "id": 674001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      },
+      {
+        "type": 7,
+        "id": 1100405,
+        "quantity": 1000
+      },
+      {
+        "type": 7,
+        "id": 1100406,
+        "quantity": 1000
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100422,
+      100452,
+      100482,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840072,
+        "quantity": 20
+      }
+    ]
+  },
+  {
+    "id": 972006001,
+    "quest_type": 1,
+    "name": "Unlock Co-op Mode (Dummy)",
+    "sort_order": 1,
+    "field_map_node_id": 10107001,
+    "battle_id": 511010010,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100361
+      },
+      {
+        "type": 7,
+        "id": 1100362
+      },
+      {
+        "type": 10,
+        "id": 821074
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100123,
+      100124,
+      100345
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ]
+  },
+  {
     "id": 990041010,
     "quest_type": 2,
     "name": "To the Decisive Battle",
