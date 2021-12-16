@@ -1752,6 +1752,7 @@
       9446,
       9447,
       9448,
+      9798,
       9450
     ]
   },
@@ -3317,6 +3318,20 @@
     ]
   },
   {
+    "id": 359,
+    "name": "Quest_Event_1184",
+    "title": "Merry Christmas! Starry Night Gift",
+    "size": 3,
+    "banners": [
+      9908,
+      9909,
+      9910,
+      9911,
+      9912,
+      9798
+    ]
+  },
+  {
     "id": 376,
     "name": "Quest_Event_1204",
     "title": "To Death's Door",
@@ -3339,6 +3354,18 @@
     "banners": [
       9971,
       9972
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Quest_Event_1184",
+    "title": "Merry Christmas! Starry Night Gift",
+    "size": 3,
+    "banners": [
+      9909,
+      9910,
+      9911,
+      9912
     ]
   },
   {
@@ -3586,6 +3613,15 @@
     "size": 3,
     "banners": [
       1000000031
+    ]
+  },
+  {
+    "id": 1000000021,
+    "name": "Quest_Event_1000001014",
+    "title": "Starry Night Trials",
+    "size": 3,
+    "banners": [
+      1000000032
     ]
   }
 ]

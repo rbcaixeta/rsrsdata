@@ -2929,6 +2929,16 @@
     "icon": 4007
   },
   {
+    "id": 702400762,
+    "name": "Healing Energy",
+    "flavor_text": "[End of turn]<br>Recovers all surviving allies' HP (high chance/very small effect).",
+    "special_effect_ids": [
+      802010778
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
     "id": 702600057,
     "name": "Glimmer of Hope",
     "flavor_text": "When attacked and HP reaches 0, recovers a surviving ally's HP (large effect).",
@@ -6896,6 +6906,18 @@
     "icon": 4005
   },
   {
+    "id": 1702100018,
+    "name": "Dire Amp Attack",
+    "flavor_text": "Attacks' damage increases (large effect).<br>When HP is not full, attacks' damage increases further (medium effect), and damage taken will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040001,
+      1802040018,
+      802040475
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -7018,6 +7040,17 @@
     ],
     "ability_when": 3,
     "icon": 4001
+  },
+  {
+    "id": 1702300008,
+    "name": "Energize (INT/CHA)",
+    "flavor_text": "[Start of turn]<br>Increases own INT/CHA (medium effect).",
+    "special_effect_ids": [
+      1802010006,
+      1802010007
+    ],
+    "ability_when": 3,
+    "icon": 4010
   },
   {
     "id": 1702400001,
@@ -7289,6 +7322,16 @@
     ],
     "ability_when": 3,
     "icon": 3001
+  },
+  {
+    "id": 1708300002,
+    "name": "Activate Antibodies Ⅲ",
+    "flavor_text": "[End of turn]<br>Cures all status ailments of a random surviving ally (high chance).",
+    "special_effect_ids": [
+      802040071
+    ],
+    "ability_when": 4,
+    "icon": 4008
   },
   {
     "id": 1708400001,

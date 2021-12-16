@@ -6655,6 +6655,24 @@
     "state_icon": 2002
   },
   {
+    "id": 802010778,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 3,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 802020099,
     "state_change_id": 900020020,
     "name": "Poison Res Up",
@@ -19403,6 +19421,38 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 1802010006,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "INT/CHA↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 1802010007,
+    "state_change_id": 900010019,
+    "name": "CHA Up",
+    "flavor_text": "Increases CHA.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
     "direction_id": 1,
     "state_icon": 2001
   },

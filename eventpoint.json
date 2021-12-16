@@ -594,6 +594,24 @@
     "sort_order": 2931
   },
   {
+    "id": 800104,
+    "name": "Romancing Festival Medal: Bell",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800104,
+    "max_quantity": 99999999,
+    "expired_at": 1642121999,
+    "sort_order": 2934
+  },
+  {
+    "id": 800105,
+    "name": "Romancing Festival Medal: Prayer",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800105,
+    "max_quantity": 99999999,
+    "expired_at": 1642121999,
+    "sort_order": 2933
+  },
+  {
     "id": 800110,
     "name": "Ultra Deluxe Summon Medal XII",
     "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
@@ -2367,6 +2385,15 @@
     "sort_order": 2910
   },
   {
+    "id": 1100407,
+    "name": "Starry Night Event BOX Surprises Ticket [Ltd. Time]",
+    "flavor_text": "A ticket for pulling the Starry Night Event BOX Surprises. (Until [1642121999] <tz>)",
+    "icon": 1100407,
+    "max_quantity": 99999999,
+    "expired_at": 1642121999,
+    "sort_order": 2550
+  },
+  {
     "id": 1100412,
     "name": "Ox Bell",
     "flavor_text": "Can be exchanged for items at the Ox Bell Exchange. (Until [1616288399] <tz>)",
@@ -2914,5 +2941,14 @@
     "max_quantity": 99999999,
     "expired_at": 1642208399,
     "sort_order": 1902
+  },
+  {
+    "id": 1001100206,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1641949199] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1641949199,
+    "sort_order": 3128
   }
 ]
