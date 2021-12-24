@@ -11340,6 +11340,22 @@
     "state_icon": 3001
   },
   {
+    "id": 802040365,
+    "state_change_id": 900040048,
+    "name": "G. Sword Attack Boost",
+    "flavor_text": "Increases damage dealt by G. Sword attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 802040366,
     "state_change_id": 900040048,
     "name": "G. Sword Attack Boost",
@@ -13328,6 +13344,24 @@
     "state_icon": 3001
   },
   {
+    "id": 802040732,
+    "state_change_id": 900050054,
+    "name": "HP Self-Recovery",
+    "flavor_text": "Immediately recovers some amount of own HP.",
+    "target_area": 1,
+    "state_vars": [
+      5
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 802040733,
     "state_change_id": 900050054,
     "name": "Recovers Ally's HP",
@@ -14866,7 +14900,7 @@
   {
     "id": 808010015,
     "state_change_id": 900010015,
-    "name": "Turn Start: AGI Up",
+    "name": "AGI Up",
     "flavor_text": "Increases AGI.",
     "target_area": 1,
     "state_vars": [],
@@ -14882,7 +14916,7 @@
   {
     "id": 808010016,
     "state_change_id": 900010016,
-    "name": "Turn Start: INT Up",
+    "name": "INT Up",
     "flavor_text": "Increases INT.",
     "target_area": 1,
     "state_vars": [],
@@ -14898,8 +14932,8 @@
   {
     "id": 808010017,
     "state_change_id": 900010016,
-    "name": "Turn Start: INT Up",
-    "flavor_text": "On start of turn, has a medium chance to increase INT for all allies.",
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
     "target_area": 3,
     "state_vars": [],
     "text_pop": "INT↑",
@@ -18925,6 +18959,38 @@
     "state_icon": 2002
   },
   {
+    "id": 1801010023,
+    "state_change_id": 900010017,
+    "name": "WIL Down",
+    "flavor_text": "Decreases WIL.",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "WIL↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2002
+  },
+  {
+    "id": 1801010024,
+    "state_change_id": 900010017,
+    "name": "WIL Up",
+    "flavor_text": "Increases WIL.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "WIL↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "1145200001",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
     "id": 1801010430,
     "state_change_id": 900010017,
     "name": "WIL Up",
@@ -19259,6 +19325,40 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040024,
+    "state_change_id": 900040063,
+    "name": "Morale Up (medium)",
+    "flavor_text": "Increases damage dealt to enemies (can't stack).",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040025,
+    "state_change_id": 900040076,
+    "name": "Guard Up (medium)",
+    "flavor_text": "Decreases damage taken (can't stack).",
+    "target_area": 3,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 1801040115,
     "state_change_id": 900040063,
     "name": "Morale Up (large)",
@@ -19455,6 +19555,24 @@
     "display_flag": 0,
     "direction_id": 1,
     "state_icon": 2001
+  },
+  {
+    "id": 1802010008,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 3,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
   },
   {
     "id": 1802040001,

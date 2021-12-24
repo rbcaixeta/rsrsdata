@@ -3446,6 +3446,40 @@
     ]
   },
   {
+    "id": 110100119,
+    "name": "Sun Flash",
+    "rush_prefix": "Sun",
+    "rush_suffix": "Flash",
+    "flavor_text": "Attack/Far/Direct/All Foes (Slash+Sun) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 5,
+    "attack_attributes": [
+      1,
+      7
+    ],
+    "power_grade": "D",
+    "consume_bp": 5,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1002,
+    "skill_effect": 140100133,
+    "skill_se_cue_sheet_name": "140100133",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30003
+    ]
+  },
+  {
     "id": 110100147,
     "name": "Dual Thrust",
     "rush_prefix": "Dual",
@@ -6634,6 +6668,41 @@
     "is_popup_text": 1,
     "max_awakening_count": 1,
     "awakening_material_set_ids": []
+  },
+  {
+    "id": 110200113,
+    "name": "Spinning Slash",
+    "rush_prefix": "Spinning",
+    "rush_suffix": "Slash",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Slash) <br>Attack.<br>Increases the user's STR (small effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "B",
+    "consume_bp": 5,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010225
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1003,
+    "skill_effect": 140200122,
+    "skill_se_cue_sheet_name": "140200122",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30005
+    ]
   },
   {
     "id": 110300000,
@@ -77032,7 +77101,7 @@
     "critical_targets": [],
     "additional_effect_ids": [],
     "normal_attack": 0,
-    "skill_icon": 1004,
+    "skill_icon": 1002,
     "skill_effect": 1140100003,
     "skill_se_cue_sheet_name": "1140100003",
     "min_action_time": 1,
@@ -77149,6 +77218,42 @@
       30032,
       30040,
       30048
+    ]
+  },
+  {
+    "id": 1110100023,
+    "name": "Holy Shining Sword",
+    "rush_prefix": "Holy",
+    "rush_suffix": "Shining Sword",
+    "flavor_text": "Attack/Far/Indirect/Fast/All Foes (Slash+Sun) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1,
+      7
+    ],
+    "power_grade": "A",
+    "consume_bp": 15,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1002,
+    "skill_effect": 1140100004,
+    "skill_se_cue_sheet_name": "1140100004",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30026,
+      30034,
+      30042
     ]
   },
   {
@@ -77569,6 +77674,46 @@
     "skill_se_cue_sheet_name": "140100077",
     "min_action_time": 4,
     "max_action_time": 4,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
+    ]
+  },
+  {
+    "id": 1110200027,
+    "name": "Overflowing Feelings",
+    "rush_prefix": "Overflowing",
+    "rush_suffix": "Feelings",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Blunt+Sun) <br>All range attack.<br>Grants all surviving allies Morale Up (medium) (2 turn(s)) and Guard Up (medium) (2 turn(s)).<br>Recovers the user's BP (+2).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2,
+      7
+    ],
+    "power_grade": "A",
+    "consume_bp": 16,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040024,
+      1801040025,
+      801040417
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1004,
+    "skill_effect": 1140200018,
+    "skill_se_cue_sheet_name": "140800016",
+    "min_action_time": 1,
+    "max_action_time": 1,
     "is_consumed_when_over_kill": 0,
     "is_popup_text": 1,
     "max_awakening_count": 3,
@@ -79886,6 +80031,45 @@
     "max_awakening_count": 1,
     "awakening_material_set_ids": [
       30008
+    ]
+  },
+  {
+    "id": 1125200008,
+    "name": "Forest Geyser",
+    "rush_prefix": "Forest",
+    "rush_suffix": "Geyser",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Cold+Slash) <br>All range attack.<br>When the attack hits, reduces target's WIL (small effect).<br>Increases all surviving allies' WIL (small effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 52,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      5,
+      1
+    ],
+    "power_grade": "B",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801010023,
+      1801010024
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2004,
+    "skill_effect": 1145200001,
+    "skill_se_cue_sheet_name": "1145200001",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
     ]
   },
   {

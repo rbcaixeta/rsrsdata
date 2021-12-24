@@ -886,7 +886,7 @@
   {
     "id": 1076,
     "name": "Macha",
-    "flavor_text": "A goddess who appeared on a\nwhim. One of the twelve\nDeities, her magic is\noverwhelmingly powerful.",
+    "flavor_text": "A goddess who appears on a whim. One of the Twelve Celestials, her magic overwhelms all others.",
     "map_id": 1,
     "x": -11,
     "y": 1,
@@ -2324,6 +2324,58 @@
     "illust": 1018,
     "priority": 1,
     "group_id": 2046,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1189,
+    "name": "Vanguard",
+    "flavor_text": "The year is coming to a close. Do you have any unfinished resolutions?",
+    "map_id": 1,
+    "x": -17,
+    "y": 2,
+    "illust_category": 1,
+    "illust": 1022,
+    "priority": 1,
+    "group_id": 2512,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1190,
+    "name": "Vanguard",
+    "flavor_text": "The year is coming to a close. Do you have any unfinished resolutions?",
+    "map_id": 1,
+    "x": -17,
+    "y": 2,
+    "illust_category": 1,
+    "illust": 1022,
+    "priority": 1,
+    "group_id": 2512,
+    "in_group_priority": 98
+  },
+  {
+    "id": 1191,
+    "name": "World Tower",
+    "flavor_text": "An unknown space within the World Tower.",
+    "map_id": 1,
+    "x": -19,
+    "y": -4,
+    "illust_category": 1,
+    "illust": 1042,
+    "priority": 1,
+    "group_id": 1020,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1199,
+    "name": "Treasure Cave",
+    "flavor_text": "One of several secret locations in which Don Scaccini has stashed his fortune.",
+    "map_id": 1,
+    "x": -15,
+    "y": -15,
+    "illust_category": 1,
+    "illust": 1018,
+    "priority": 1,
+    "group_id": 2045,
     "in_group_priority": 99
   },
   {

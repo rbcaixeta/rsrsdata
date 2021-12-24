@@ -6918,6 +6918,28 @@
     "icon": 4010
   },
   {
+    "id": 1702100019,
+    "name": "Soul of G. Sword",
+    "flavor_text": "When attacking with G. Swords, attack damage increases (large effect), and damage taken will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040365,
+      802040045
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 1702100020,
+    "name": "Strengthened Bravery Ⅱ",
+    "flavor_text": "When HP is full, attacks' damage increases (large effect).<br><br>[Start of battle]<br>Recovers own BP (+2).",
+    "special_effect_ids": [
+      802040014,
+      802040322
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -6967,6 +6989,17 @@
     ],
     "ability_when": 2,
     "icon": 4010
+  },
+  {
+    "id": 1702200007,
+    "name": "Energy Well",
+    "flavor_text": "[Start of round]<br>Recovers own HP (large effect) and recovers own BP (+1). ",
+    "special_effect_ids": [
+      802040060,
+      802040312
+    ],
+    "ability_when": 2,
+    "icon": 4007
   },
   {
     "id": 1702300001,
@@ -7241,6 +7274,17 @@
     ],
     "ability_when": 6,
     "icon": 4010
+  },
+  {
+    "id": 1702600016,
+    "name": "Benevolent Teaching",
+    "flavor_text": "When recovery actions are made, recovers own HP (medium effect).<br>And recovers all surviving allies' HP (very small effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802040732,
+      1802010008
+    ],
+    "ability_when": 6,
+    "icon": 4007
   },
   {
     "id": 1708100001,

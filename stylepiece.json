@@ -706,7 +706,7 @@
   {
     "id": 213101,
     "name": "S Aldora Piece",
-    "flavor_text": "Can be used to either exchange for or raise the level cap of S [All to Survive] Aldora.",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of S [For Survival] Aldora.",
     "icon": 213101,
     "selling_price": 60,
     "exchange_cost": 150
@@ -714,7 +714,7 @@
   {
     "id": 213102,
     "name": "SS Aldora Piece",
-    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Take It Seriously!] Aldora.",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [It's a Serious Match!] Aldora.",
     "icon": 213102,
     "selling_price": 100,
     "exchange_cost": 250
@@ -842,7 +842,7 @@
   {
     "id": 219302,
     "name": "SS Schirach Piece",
-    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Overflowing Dark Power] Schirach.",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Overflowing Powers of Darkness] Schirach.",
     "icon": 219302,
     "selling_price": 100,
     "exchange_cost": 250
@@ -4234,7 +4234,7 @@
   {
     "id": 810104,
     "name": "SS Golden Baum Piece",
-    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Enjoy the Show!] Golden Baum.",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Talent Show] Golden Baum.",
     "icon": 810104,
     "selling_price": 100,
     "exchange_cost": 250
@@ -4250,7 +4250,7 @@
   {
     "id": 810204,
     "name": "SS Minstrel Piece",
-    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [First Dream of the New Year] Minstrel.",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [First Dream of the Year] Minstrel.",
     "icon": 810204,
     "selling_price": 100,
     "exchange_cost": 250
@@ -4384,10 +4384,34 @@
     "exchange_cost": 250
   },
   {
+    "id": 1000610101,
+    "name": "SS Urpina Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm Ready] Urpina.",
+    "icon": 1000610101,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 1000610201,
+    "name": "SS Leonard Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Take This!] Leonard.",
+    "icon": 1000610201,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
     "id": 1000611201,
     "name": "SS Elisabeth Piece",
     "flavor_text": "Can be used to either exchange for or raise the level cap of SS [I'm Not Stingy] Elisabeth.",
     "icon": 1000611201,
+    "selling_price": 100,
+    "exchange_cost": 250
+  },
+  {
+    "id": 1000615501,
+    "name": "SS Sasha Piece",
+    "flavor_text": "Can be used to either exchange for or raise the level cap of SS [Don't Say a Word] Sasha.",
+    "icon": 1000615501,
     "selling_price": 100,
     "exchange_cost": 250
   }

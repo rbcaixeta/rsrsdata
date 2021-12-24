@@ -3418,5 +3418,41 @@
     "icon": 4010,
     "applies_to_all_styles": 1,
     "priority": 214
+  },
+  {
+    "id": 1000000373,
+    "event_ability_category_id": 1000000180,
+    "name": "[Ltd. Time] Macha's Descent I",
+    "flavor_text": "・3x attribute gains in Macha's Descent<br>・Bonus Celestial's Forgiveness drops in Macha's Descent",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 215
+  },
+  {
+    "id": 1000000374,
+    "event_ability_category_id": 1000000180,
+    "name": "[Ltd. Time] Macha's Descent II",
+    "flavor_text": "・4x attribute gains in Macha's Descent<br>・Bonus Celestial's Forgiveness drops in Macha's Descent",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 215
+  },
+  {
+    "id": 1000000375,
+    "event_ability_category_id": 1000000181,
+    "name": "[Ltd. Time] New Year's 108 Quest Rush I",
+    "flavor_text": "・3x attribute gains in New Year's 108 Quest Rush (2x in Main)<br>・Bonus Soba Noodles drops in New Year's 108 Quest Rush",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 216
+  },
+  {
+    "id": 1000000376,
+    "event_ability_category_id": 1000000181,
+    "name": "[Ltd. Time] New Year's 108 Quest Rush II",
+    "flavor_text": "・4x attribute gains in New Year's 108 Quest Rush (3x in Main)<br>・Bonus Soba Noodles drops in New Year's 108 Quest Rush",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 216
   }
 ]
