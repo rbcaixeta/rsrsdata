@@ -5107,6 +5107,45 @@
     "is_required_for_area_clear": 1
   },
   {
+    "id": 391200030,
+    "name": "Lucky Fortune Slip Quest",
+    "sort_order": 1,
+    "banner": 930085,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 28,
+        "id": 900017
+      },
+      {
+        "type": 28,
+        "id": 900016
+      },
+      {
+        "type": 28,
+        "id": 900015
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210001216
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1200,
+    "battle_id": 950007006,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
     "id": 921089010,
     "name": "1. Boots Trial - Hard",
     "sort_order": 1,

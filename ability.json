@@ -6940,6 +6940,29 @@
     "icon": 4010
   },
   {
+    "id": 1702100021,
+    "name": "Decisive Battle",
+    "flavor_text": "Attacks' damage increases (large effect).<br>When HP is not full, attacks' damage increases further (medium effect).<br>When at critical HP, attacks' damage increases even further (medium effect).",
+    "special_effect_ids": [
+      802040001,
+      1802040018,
+      1802040039
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 1702100022,
+    "name": "Soul of Sword",
+    "flavor_text": "When attacking with Swords, attack damage increases (large effect), and damage taken will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040423,
+      802040045
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -7081,6 +7104,17 @@
     "special_effect_ids": [
       1802010006,
       1802010007
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300009,
+    "name": "Healer's Power",
+    "flavor_text": "[Start of turn]<br>Recovers own HP (very small effect), and grants oneself a defense boost (very large effect/1 turn(s)).",
+    "special_effect_ids": [
+      1802040040,
+      1802040041
     ],
     "ability_when": 3,
     "icon": 4010

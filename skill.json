@@ -77257,6 +77257,44 @@
     ]
   },
   {
+    "id": 1110100024,
+    "name": "Left Fork",
+    "rush_prefix": "Left",
+    "rush_suffix": "Fork",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Slash) <br>Attacks random enemies (5 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>After attacking, increases the user's STR/INT (small effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 9,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "E",
+    "consume_bp": 16,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801010025,
+      1801010026
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1002,
+    "skill_effect": 140100093,
+    "skill_se_cue_sheet_name": "140100093",
+    "min_action_time": 5,
+    "max_action_time": 5,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
+    ]
+  },
+  {
     "id": 1110200002,
     "name": "Moon Flash",
     "rush_prefix": "Moon",
@@ -78111,6 +78149,44 @@
       30030,
       30038,
       30046
+    ]
+  },
+  {
+    "id": 1110400003,
+    "name": "Fuji Eggplant",
+    "rush_prefix": "Fuji",
+    "rush_suffix": "Eggplant",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Blunt+Sun) <br>All range attack.<br>Grants all surviving allies Morale Up (medium) (2 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 4,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2,
+      7
+    ],
+    "power_grade": "C",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040476
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1008,
+    "skill_effect": 140400049,
+    "skill_se_cue_sheet_name": "140400049",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
     ]
   },
   {
@@ -79773,6 +79849,79 @@
     ]
   },
   {
+    "id": 1125100004,
+    "name": "Fire Whirl",
+    "rush_prefix": "Fire",
+    "rush_suffix": "Whirl",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Heat+Slash) <br>Attack.<br>After attacking, the user takes recoil damage (30% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      4,
+      1
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 14,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010482
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2001,
+    "skill_effect": 140100094,
+    "skill_se_cue_sheet_name": "140100094",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30026,
+      30034,
+      30042
+    ]
+  },
+  {
+    "id": 1125100005,
+    "name": "Molten Flame",
+    "rush_prefix": "Molten",
+    "rush_suffix": "Flame",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Heat) <br>All range attack.<br>After attacking, the user takes recoil damage (15% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      4
+    ],
+    "power_grade": "D",
+    "consume_bp": 4,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010475
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2002,
+    "skill_effect": 145100050,
+    "skill_se_cue_sheet_name": "145100050",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30002
+    ]
+  },
+  {
     "id": 1125200001,
     "name": "Ice Javelins",
     "rush_prefix": "Ice",
@@ -80444,6 +80593,44 @@
       30029,
       30037,
       30045
+    ]
+  },
+  {
+    "id": 1125500009,
+    "name": "Dawn",
+    "rush_prefix": "Dawn",
+    "rush_suffix": "Dawn",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Sun+Heat) <br>All range attack [Critical: Undead, Demon].",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 55,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      7,
+      4
+    ],
+    "power_grade": "D",
+    "consume_bp": 7,
+    "consume_lp": 0,
+    "critical_targets": [
+      13,
+      12
+    ],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 2010,
+    "skill_effect": 145500032,
+    "skill_se_cue_sheet_name": "145500032",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30016,
+      30024
     ]
   },
   {

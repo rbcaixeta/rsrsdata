@@ -472,6 +472,14 @@
     "bgm": 0
   },
   {
+    "id": 1000284,
+    "name": "Romancing Festival",
+    "display_on_hour": 0,
+    "gacha_banner": 1000303,
+    "new_badge_illust": 10011,
+    "bgm": 120057
+  },
+  {
     "id": 1000295,
     "name": "Ultra Deluxe Summon",
     "display_on_hour": 0,
@@ -2158,5 +2166,37 @@
     "gacha_banner": 1000000315,
     "new_badge_illust": 1000010003,
     "bgm": 0
+  },
+  {
+    "id": 1000000202,
+    "name": "New Year's All-Star Platinum Ticket Summon",
+    "display_on_hour": 1,
+    "gacha_banner": 9000045,
+    "new_badge_illust": 10011,
+    "bgm": 0
+  },
+  {
+    "id": 1000000203,
+    "name": "Ultra Deluxe Summon",
+    "display_on_hour": 1,
+    "gacha_banner": 0,
+    "new_badge_illust": 10011,
+    "bgm": 0
+  },
+  {
+    "id": 1000000204,
+    "name": "Ultra Deluxe Summon",
+    "display_on_hour": 1,
+    "gacha_banner": 1000309,
+    "new_badge_illust": 10011,
+    "bgm": 0
+  },
+  {
+    "id": 1000000205,
+    "name": "Romancing Festival",
+    "display_on_hour": 1,
+    "gacha_banner": 0,
+    "new_badge_illust": 10011,
+    "bgm": 120057
   }
 ]

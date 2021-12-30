@@ -3454,5 +3454,50 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 216
+  },
+  {
+    "id": 1000000377,
+    "event_ability_category_id": 1000000182,
+    "name": "[Ltd. Time] Lucky White Cat I",
+    "flavor_text": "・3x attribute gains in Lucky White Cat (2x in Main)<br>・Divine Liquor drop +20% in Lucky White Cat<br>・Bonus Eyeless Daruma drops in Lucky White Cat",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 217
+  },
+  {
+    "id": 1000000378,
+    "event_ability_category_id": 1000000182,
+    "name": "[Ltd. Time] Lucky White Cat II",
+    "flavor_text": "・3x attribute gains in Lucky White Cat (2x in Main)<br>・Divine Liquor drop +50% in Lucky White Cat<br>・Bonus Eyeless Daruma drops in Lucky White Cat",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 217
+  },
+  {
+    "id": 1000000379,
+    "event_ability_category_id": 1000000183,
+    "name": "[Ltd. Time] Zodiac Battle & Evil God Tower I",
+    "flavor_text": "・3x attribute gains in Zodiac Battle & Evil God Tower (2x in Main)<br>・Red Envelope drop +20% in Zodiac Battle & Evil God Tower<br>・Bonus Red & White Fishcake drops in Zodiac Battle & Evil God Tower",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 218
+  },
+  {
+    "id": 1000000380,
+    "event_ability_category_id": 1000000183,
+    "name": "[Ltd. Time] Zodiac Battle & Evil God Tower II",
+    "flavor_text": "・4x attribute gains in Zodiac Battle & Evil God Tower (3x in Main)<br>・Red Envelope drop +50% in Zodiac Battle & Evil God Tower<br>・Bonus Red & White Fishcake drops in Zodiac Battle & Evil God Tower",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 218
+  },
+  {
+    "id": 1000000381,
+    "event_ability_category_id": 1000000184,
+    "name": "[Ltd. Time] Lucky Fortune Slip Quest",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Lucky Fortune Slip Quest",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 219
   }
 ]

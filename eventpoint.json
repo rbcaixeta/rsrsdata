@@ -612,6 +612,24 @@
     "sort_order": 2933
   },
   {
+    "id": 800107,
+    "name": "Romancing Festival Medal XVIII",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800107,
+    "max_quantity": 99999999,
+    "expired_at": 1643417999,
+    "sort_order": 3037
+  },
+  {
+    "id": 800108,
+    "name": "Ultra Deluxe Summon Medal XVI",
+    "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "icon": 800108,
+    "max_quantity": 99999999,
+    "expired_at": 1643417999,
+    "sort_order": 3036
+  },
+  {
     "id": 800110,
     "name": "Ultra Deluxe Summon Medal XII",
     "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
@@ -2417,8 +2435,35 @@
     "flavor_text": "Can be exchanged for items at the Ox Bell Exchange. (Until [1616288399] <tz>)",
     "icon": 1100412,
     "max_quantity": 99999999,
-    "expired_at": 0,
+    "expired_at": 1616288399,
     "sort_order": 3020
+  },
+  {
+    "id": 1100416,
+    "name": "Red Envelope",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100415,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3025
+  },
+  {
+    "id": 1100417,
+    "name": "Red & White Fishcake",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100416,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3030
+  },
+  {
+    "id": 1100418,
+    "name": "Chestnut Mash",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100417,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3035
   },
   {
     "id": 1100419,
@@ -2473,6 +2518,15 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 3105
+  },
+  {
+    "id": 1100447,
+    "name": "Flashstone Medal",
+    "flavor_text": "Can be exchanged for Flashstones at the Flashstone Medal Exchange.",
+    "icon": 1100447,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3110
   },
   {
     "id": 1100450,

@@ -2379,6 +2379,32 @@
     "in_group_priority": 99
   },
   {
+    "id": 1200,
+    "name": "Shrine Path Tea Shop",
+    "flavor_text": "A special event seems to be taking place at a nearby shrine.",
+    "map_id": 1,
+    "x": 7,
+    "y": 0,
+    "illust_category": 1,
+    "illust": 1043,
+    "priority": 1,
+    "group_id": 2610,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1205,
+    "name": "Vanguard",
+    "flavor_text": "The streets are bustling with New Year's celebrations.",
+    "map_id": 1,
+    "x": -17,
+    "y": 2,
+    "illust_category": 1,
+    "illust": 1022,
+    "priority": 1,
+    "group_id": 3011,
+    "in_group_priority": 99
+  },
+  {
     "id": 1210,
     "name": "Request",
     "flavor_text": "You must choose either Galahad or the Sword of Death.",
