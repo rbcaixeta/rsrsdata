@@ -3499,5 +3499,23 @@
     "icon": 4010,
     "applies_to_all_styles": 1,
     "priority": 219
+  },
+  {
+    "id": 1000000382,
+    "event_ability_category_id": 1000000185,
+    "name": "[Ltd. Time] New Year's All-Star Conquest I",
+    "flavor_text": "・3x attribute gains in New Year's All-Star Conquest (2x in Main)",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 220
+  },
+  {
+    "id": 1000000383,
+    "event_ability_category_id": 1000000186,
+    "name": "[Ltd. Time] New Year's All-Star Conquest II",
+    "flavor_text": "・4x attribute gains in New Year's All-Star Conquest (3x in Main)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 220
   }
 ]
