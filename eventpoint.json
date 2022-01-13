@@ -648,6 +648,15 @@
     "sort_order": 3124
   },
   {
+    "id": 800113,
+    "name": "Ultra Deluxe Summon Medal XVII",
+    "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "icon": 800113,
+    "max_quantity": 99999999,
+    "expired_at": 1645145999,
+    "sort_order": 3146
+  },
+  {
     "id": 800122,
     "name": "Romancing Festival Medal I",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -3220,5 +3229,14 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 3020
+  },
+  {
+    "id": 1001100209,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1644109199] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1644109199,
+    "sort_order": 3128
   }
 ]

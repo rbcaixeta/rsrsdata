@@ -1865,6 +1865,16 @@
     "icon": 4010
   },
   {
+    "id": 702100624,
+    "name": "Demonfire Domain",
+    "flavor_text": "Nullifies attacks which have heat damage. Also counterattacks with Flame Hawk when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).<br><br>Counterattack: Flame Hawk<br>Axe skill/Attack/Power: C/Row of Foes (Slash+Heat) <br>Ranged attack. (Activates using skill Rank 1)",
+    "special_effect_ids": [
+      802040634
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
     "id": 702100647,
     "name": "Valiance",
     "flavor_text": "When all allies are still surviving, own attacks' damage increases (very large effect).",
@@ -2799,6 +2809,17 @@
     ],
     "ability_when": 3,
     "icon": 4010
+  },
+  {
+    "id": 702300628,
+    "name": "Rejuvenate (DEX/AGI)",
+    "flavor_text": "[Start of turn]<br>Increases own DEX/AGI (medium chance/large effect).",
+    "special_effect_ids": [
+      802010639,
+      802010486
+    ],
+    "ability_when": 3,
+    "icon": 4001
   },
   {
     "id": 702300645,
@@ -4829,6 +4850,16 @@
     "icon": 4001
   },
   {
+    "id": 702600421,
+    "name": "DEX Surge Ⅱ",
+    "flavor_text": "When landing a Weak attack, increases own DEX (medium effect).",
+    "special_effect_ids": [
+      802010410
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
     "id": 702600426,
     "name": "STR Surge Ⅲ",
     "flavor_text": "When landing a Weak attack, increases own STR (large effect).",
@@ -5114,6 +5145,16 @@
     ],
     "ability_when": 6,
     "icon": 4010
+  },
+  {
+    "id": 702600625,
+    "name": "Enervate Ⅳ (END)",
+    "flavor_text": "When landing an attack, reduces target's END (medium chance/very large effect).",
+    "special_effect_ids": [
+      802010635
+    ],
+    "ability_when": 6,
+    "icon": 4003
   },
   {
     "id": 702600658,
@@ -6954,9 +6995,30 @@
   {
     "id": 1702100022,
     "name": "Soul of Sword",
-    "flavor_text": "When attacking with Swords, attack damage increases (large effect), and damage taken will be reduced (medium effect).",
+    "flavor_text": "When attacking with swords, attack damage increases (large effect), and damage taken will be reduced (medium effect).",
     "special_effect_ids": [
       802040423,
+      802040045
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 1702100023,
+    "name": "Cracked Lightning Counter",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Cracked Lightning (high chance).<br><br>Counterattack: Cracked Lightning<br>M. Arts skill/Attack/Power: E/All Foes (Blunt+Lightning)<br>All range attack.<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1802040042
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 1702100024,
+    "name": "Soul of Axe",
+    "flavor_text": "When attacking with axes, attack damage increases (large effect), and damage taken will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040426,
       802040045
     ],
     "ability_when": 1,

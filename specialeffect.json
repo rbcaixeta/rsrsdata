@@ -4567,6 +4567,58 @@
     "state_icon": 3001
   },
   {
+    "id": 801040488,
+    "state_change_id": 900050073,
+    "name": "Roaring Thunder",
+    "flavor_text": "Attacks with a single foe attack skill after attacking with Roaring Thunder.",
+    "target_area": 1,
+    "state_vars": [
+      110500137
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 801040489,
+    "state_change_id": 900050073,
+    "name": "Delay Break",
+    "flavor_text": "Attacks with a column attack skill after attacking with Delay Break.",
+    "target_area": 1,
+    "state_vars": [
+      110300065
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 801040490,
+    "state_change_id": 900040100,
+    "name": "Hearsay (Heat)",
+    "flavor_text": "On Heat Attacks: Increases damage dealt to enemies (can't stack).",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "Heat ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "140300067",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
     "id": 801040491,
     "state_change_id": 900040047,
     "name": "Stealth (small)",
@@ -6077,6 +6129,22 @@
     "state_icon": 2001
   },
   {
+    "id": 802010410,
+    "state_change_id": 900010014,
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "DEX↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
     "id": 802010415,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -6500,6 +6568,38 @@
     "target_area": 3,
     "state_vars": [],
     "text_pop": "INT↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 802010635,
+    "state_change_id": 900010013,
+    "name": "END Down",
+    "flavor_text": "Decreases END.",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "END↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2002
+  },
+  {
+    "id": 802010639,
+    "state_change_id": 900010014,
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "DEX/AGI↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -13120,6 +13220,25 @@
     "state_icon": 3001
   },
   {
+    "id": 802040634,
+    "state_change_id": 900040065,
+    "name": "Demonfire Domain",
+    "flavor_text": "Nullifies attacks which have heat damage. Also counterattacks with Flame Hawk when being directly attacked.",
+    "target_area": 1,
+    "state_vars": [
+      110300066,
+      4
+    ],
+    "text_pop": "Demonfire Domain",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "selfburning",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 802040660,
     "state_change_id": 900040048,
     "name": "All Allies Surviving Attack Boost",
@@ -19391,6 +19510,74 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040026,
+    "state_change_id": 900050073,
+    "name": "Roaring Thunder",
+    "flavor_text": "Attacks with a single foe attack skill after attacking with Roaring Thunder.",
+    "target_area": 1,
+    "state_vars": [
+      1110500011
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040027,
+    "state_change_id": 900050073,
+    "name": "Delay Break",
+    "flavor_text": "Attacks with a column attack skill after attacking with Delay Break.",
+    "target_area": 1,
+    "state_vars": [
+      1110300010
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040028,
+    "state_change_id": 900040048,
+    "name": "Slash Attack Boost",
+    "flavor_text": "Increases damage dealt to enemies when using a slash attack.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "Slash ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040029,
+    "state_change_id": 900040048,
+    "name": "Heat Attack Boost",
+    "flavor_text": "Increases damage dealt to enemies when using a heat attack.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "Heat ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 1801040115,
     "state_change_id": 900040063,
     "name": "Morale Up (large)",
@@ -20300,6 +20487,24 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040042,
+    "state_change_id": 900040036,
+    "name": "Cracked Lightning Counter",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Cracked Lightning (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110500014
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
     "direction_id": 1,
     "state_icon": 3001
   },
