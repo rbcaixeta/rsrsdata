@@ -7025,6 +7025,16 @@
     "icon": 4010
   },
   {
+    "id": 1702100025,
+    "name": "Calamity",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Clear Ice (high chance).<br><br>Counterattack: Clear Ice<br>Attack/Power: C/Single Foe (Shadow+Cold) *M. Arts Special Skill (INT)<br>Attack.<br>When the attack hits, inflicts petrification on target (low chance/5 turn(s)).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1802040044
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -7378,6 +7388,38 @@
     "special_effect_ids": [
       802040732,
       1802010008
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 1702600017,
+    "name": "Charming Practice Ⅰ",
+    "flavor_text": "When landing an attack, inflicts charm on target (high chance/4 turn(s)).<br>When landing an attack, recovers own BP (high chance/+1).",
+    "special_effect_ids": [
+      802030244,
+      802040066
+    ],
+    "ability_when": 6,
+    "icon": 3007
+  },
+  {
+    "id": 1702600018,
+    "name": "Vampire Pulse",
+    "flavor_text": "When landing an attack, has a medium chance to:<br>Recover own HP (medium effect) and recover all surviving allies' HP (very small effect).",
+    "special_effect_ids": [
+      802040063,
+      1802040043
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 1702600019,
+    "name": "Painful Lesson Ⅲ",
+    "flavor_text": "When being attacked, recovers own BP (high chance/+1).",
+    "special_effect_ids": [
+      802040069
     ],
     "ability_when": 6,
     "icon": 4007

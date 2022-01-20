@@ -247,7 +247,7 @@
     "name": "Pickaxe",
     "flavor_text": "Item required for excavating Holy Stones and Holy Stone Shards.",
     "icon": 821025,
-    "max_quantity": 9999,
+    "max_quantity": 99999,
     "expired_at": 0,
     "sort_order": 1090
   },
@@ -754,6 +754,15 @@
     "max_quantity": 99999,
     "expired_at": 1642381199,
     "sort_order": 2673
+  },
+  {
+    "id": 821088,
+    "name": "Hexagonal Kite",
+    "flavor_text": "Use to attempt Grand New Year's Showdown: Kite Flying. (Until [1643936399] <tz>)",
+    "icon": 821089,
+    "max_quantity": 99999999,
+    "expired_at": 1643936399,
+    "sort_order": 2674
   },
   {
     "id": 821089,

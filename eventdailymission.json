@@ -2532,5 +2532,19 @@
     "priority": 9996,
     "ribbon_text": "",
     "trigger_quest_id": 0
+  },
+  {
+    "id": 1000040204,
+    "event_mission_tab_id": 1000000052,
+    "start_at": 0,
+    "end_at": 0,
+    "summary": "3 Daily Quests",
+    "description": "Complete any 3 quests in one day",
+    "reward_type": 8,
+    "reward_id": 810031,
+    "reward_quantity": 15,
+    "priority": 9999,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
   }
 ]

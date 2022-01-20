@@ -630,6 +630,15 @@
     "sort_order": 3036
   },
   {
+    "id": 800109,
+    "name": "Romancing Festival Medal XX",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800109,
+    "max_quantity": 99999999,
+    "expired_at": 1645145999,
+    "sort_order": 3060
+  },
+  {
     "id": 800110,
     "name": "Ultra Deluxe Summon Medal XII",
     "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
@@ -2637,6 +2646,33 @@
     "sort_order": 3046
   },
   {
+    "id": 1100436,
+    "name": "Old Lucky Rake",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100423,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3057
+  },
+  {
+    "id": 1100437,
+    "name": "Purification Wand",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100424,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3058
+  },
+  {
+    "id": 1100438,
+    "name": "Kite String",
+    "flavor_text": "Proof that you participated in the Grand New Year's Showdown: Kite Flying event.",
+    "icon": 1100422,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3059
+  },
+  {
     "id": 1100439,
     "name": "Lava Shard",
     "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -3238,5 +3274,14 @@
     "max_quantity": 99999999,
     "expired_at": 1644109199,
     "sort_order": 3128
+  },
+  {
+    "id": 1001100210,
+    "name": "Precious Stone (Black) [Limited Time]",
+    "flavor_text": "Obtained from the Cave of Holy Stones. Can be exchanged for items. (Until [1645491599] <tz>)",
+    "icon": 1100376,
+    "max_quantity": 99999999,
+    "expired_at": 1645491599,
+    "sort_order": 2865
   }
 ]

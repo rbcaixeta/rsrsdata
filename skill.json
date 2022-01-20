@@ -14542,9 +14542,9 @@
   },
   {
     "id": 110500126,
-    "name": "Grief",
-    "rush_prefix": "Grief",
-    "rush_suffix": "Grief",
+    "name": "Sorrows",
+    "rush_prefix": "Sorrows",
+    "rush_suffix": "Sorrows",
     "flavor_text": "Attack/Far/Indirect/Single Foe (Blunt+Shadow) *M. Arts Special Skill (INT)<br>Attack.<br>When the attack hits, there is a chance to reduce target's AGI (small effect).",
     "attack_distance": 2,
     "skill_type": 1,
@@ -14579,8 +14579,8 @@
   {
     "id": 110500127,
     "name": "Hymn of the Night Wind",
-    "rush_prefix": "Hymn of",
-    "rush_suffix": "of Victory",
+    "rush_prefix": "Hymn",
+    "rush_suffix": "of the Night Wind",
     "flavor_text": "Attack/Far/Indirect/All Foes (Blunt+Shadow) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts stun on target (medium chance).",
     "attack_distance": 2,
     "skill_type": 1,
@@ -31184,7 +31184,7 @@
     "name": "First Slash",
     "rush_prefix": "First Slash",
     "rush_suffix": "First Slash",
-    "flavor_text": "Attack/Direct/(Slash) <br>All range attack.<br>Increases the user's END (small effect).",
+    "flavor_text": "Attack/Direct/(Slash) <br>Attack.<br>Increases the user's END (small effect).",
     "attack_distance": 2,
     "skill_type": 1,
     "battle_type": 1,
@@ -31315,7 +31315,7 @@
     "name": "Radiant Blade",
     "rush_prefix": "Radiant Blade",
     "rush_suffix": "Radiant Blade",
-    "flavor_text": "Attack/Indirect/(Slash+Sun) <br>All range attack [Critical: Undead].",
+    "flavor_text": "Attack/Indirect/(Slash+Sun) <br>Attack [Critical: Undead].",
     "attack_distance": 2,
     "skill_type": 1,
     "battle_type": 1,
@@ -33411,7 +33411,7 @@
   {
     "id": 602065501,
     "name": "Holy Light",
-    "rush_prefix": "Holy",
+    "rush_prefix": "Holy Light",
     "rush_suffix": "Holy Light",
     "flavor_text": "Attack/Indirect/(Sun) <br>Attack.",
     "attack_distance": 2,
@@ -37066,9 +37066,9 @@
   },
   {
     "id": 605067401,
-    "name": "Grief",
-    "rush_prefix": "Grief",
-    "rush_suffix": "Grief",
+    "name": "Sorrows",
+    "rush_prefix": "Sorrows",
+    "rush_suffix": "Sorrows",
     "flavor_text": "Attack/Indirect/(Blunt+Shadow) *M. Arts Special Skill (INT)<br>Attack.<br>When the attack hits, there is a chance to reduce target's AGI (small effect).",
     "attack_distance": 2,
     "skill_type": 1,
@@ -41412,7 +41412,7 @@
     "name": "Fiery Shuttlecock",
     "rush_prefix": "Fiery Shuttlecock",
     "rush_suffix": "Fiery Shuttlecock",
-    "flavor_text": "Attack/Indirect/(Heat)<br>Attack.<br>Attacks random enemies (2 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
+    "flavor_text": "Attack/Indirect/(Heat)<br>Attacks random enemies (2 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
     "attack_distance": 2,
     "skill_type": 2,
     "battle_type": 51,
@@ -41792,7 +41792,7 @@
     "id": 652011443,
     "name": "Heaven's Thunder",
     "rush_prefix": "Heaven's Thunder",
-    "rush_suffix": "Thunder",
+    "rush_suffix": "Heaven's Thunder",
     "flavor_text": "Attack/Indirect/(Lightning) <br>Attack.<br>When the attack hits, inflicts paralysis on target (medium chance/4 turn(s)).",
     "attack_distance": 2,
     "skill_type": 2,
@@ -77742,6 +77742,82 @@
     ]
   },
   {
+    "id": 1110100025,
+    "name": "Yaezakura",
+    "rush_prefix": "Yae",
+    "rush_suffix": "Zakura",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Slash+Shadow) <br>Attack.<br>Increases the user's LOV/CHA (medium effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      1,
+      8
+    ],
+    "power_grade": "B",
+    "consume_bp": 7,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801010027,
+      1801010028
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1001,
+    "skill_effect": 140100095,
+    "skill_se_cue_sheet_name": "140100095",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30010,
+      30018
+    ]
+  },
+  {
+    "id": 1110100026,
+    "name": "Charming Plum",
+    "rush_prefix": "Charming",
+    "rush_suffix": "Plum",
+    "flavor_text": "Attack/Near/Direct/Fast/Column of Foes (Slash) <br>Ranged attack.<br>Increases all surviving allies' LOV/CHA (large effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 7,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "S",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010481,
+      801010478
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1002,
+    "skill_effect": 140100096,
+    "skill_se_cue_sheet_name": "140100096",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
+    ]
+  },
+  {
     "id": 1110200002,
     "name": "Moon Flash",
     "rush_prefix": "Moon",
@@ -79235,6 +79311,156 @@
     "is_popup_text": 1,
     "max_awakening_count": 1,
     "awakening_material_set_ids": []
+  },
+  {
+    "id": 1110500015,
+    "name": "Sorrows",
+    "rush_prefix": "Sorrows",
+    "rush_suffix": "Sorrows",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Blunt+Shadow) *M. Arts Special Skill (INT)<br>Attack.<br>When the attack hits, inflicts stun on target (medium chance).<br>When the attack hits, there is a chance to reduce target's AGI (small effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      2,
+      8
+    ],
+    "power_grade": "D",
+    "consume_bp": 4,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030346,
+      801010253
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1009,
+    "skill_effect": 140500113,
+    "skill_se_cue_sheet_name": "140500113",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30001
+    ]
+  },
+  {
+    "id": 1110500016,
+    "name": "Hymn of the Night Wind",
+    "rush_prefix": "Hymn",
+    "rush_suffix": "of the Night Wind",
+    "flavor_text": "Attack/Far/Indirect/Fast/All Foes (Blunt+Shadow) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts stun on target (medium chance).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2,
+      8
+    ],
+    "power_grade": "C",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030346
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500122,
+    "skill_se_cue_sheet_name": "140500122",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
+    ]
+  },
+  {
+    "id": 1110500017,
+    "name": "Dark Nebula",
+    "rush_prefix": "Dark",
+    "rush_suffix": "Nebula",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Shadow) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts stun on target (high chance).<br>When the attack hits, there is a chance to reduce target's WIL (medium effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      8
+    ],
+    "power_grade": "A",
+    "consume_bp": 15,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030386,
+      801010263
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500123,
+    "skill_se_cue_sheet_name": "140500123",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
+    ]
+  },
+  {
+    "id": 1110500018,
+    "name": "Kiai",
+    "rush_prefix": "Kiai",
+    "rush_suffix": "Kiai",
+    "flavor_text": "Support/Fast/Self<br>Grants the user Morale Up (medium) (2 turn(s)).<br>Grants the user Guard Up (medium) (2 turn(s)).<br>Recovers the user's BP (+1).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 3,
+    "attack_method": 1,
+    "attack_area": 1,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "-",
+    "consume_bp": 1,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040437,
+      801040424,
+      801040419
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4010,
+    "skill_effect": 140100064,
+    "skill_se_cue_sheet_name": "140100064",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30002
+    ]
   },
   {
     "id": 1110600001,

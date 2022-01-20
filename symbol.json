@@ -2405,6 +2405,32 @@
     "in_group_priority": 99
   },
   {
+    "id": 1202,
+    "name": "Grand New Year's Showdown",
+    "flavor_text": "New Year's is still underway. It's a battle of song and dance!",
+    "map_id": 1,
+    "x": 9,
+    "y": 2,
+    "illust_category": 1,
+    "illust": 1044,
+    "priority": 1,
+    "group_id": 2700,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1203,
+    "name": "Grand New Year's Showdown",
+    "flavor_text": "New Year's is still underway. It's a battle of song and dance!",
+    "map_id": 1,
+    "x": 9,
+    "y": 2,
+    "illust_category": 1,
+    "illust": 1044,
+    "priority": 1,
+    "group_id": 2700,
+    "in_group_priority": 99
+  },
+  {
     "id": 1205,
     "name": "Vanguard",
     "flavor_text": "The streets are bustling with New Year's celebrations.",
@@ -2571,6 +2597,19 @@
     "illust": 1009,
     "priority": 1,
     "group_id": 2505,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1000000005,
+    "name": "Golden Baum",
+    "flavor_text": "Mutated Golden Baum specimen, found in a Grave. Did the mutation come about from distortions in space and time that occur in Graves?",
+    "map_id": 1,
+    "x": -15,
+    "y": -4,
+    "illust_category": 2,
+    "illust": 1991431,
+    "priority": 10,
+    "group_id": 2001,
     "in_group_priority": 99
   }
 ]

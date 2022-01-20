@@ -3526,5 +3526,23 @@
     "icon": 4010,
     "applies_to_all_styles": 1,
     "priority": 222
+  },
+  {
+    "id": 1000000385,
+    "event_ability_category_id": 1000000188,
+    "name": "[Ltd. Time] Grand New Year's Showdown I",
+    "flavor_text": "・3x attribute gains in Grand New Year's Showdown (2x in Main)<br>・Bonus Purification Wand drops in Grand New Year's Showdown",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 220
+  },
+  {
+    "id": 1000000386,
+    "event_ability_category_id": 1000000188,
+    "name": "[Ltd. Time] Grand New Year's Showdown II",
+    "flavor_text": "・4x attribute gains in Grand New Year's Showdown (3x in Main)<br>・Bonus Purification Wand drops in Grand New Year's Showdown",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 220
   }
 ]
