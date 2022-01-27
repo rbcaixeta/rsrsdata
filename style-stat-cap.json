@@ -1396,14 +1396,14 @@
     "modifier_char_wil": 0,
     "modifier_char_lov": 1,
     "modifier_char_cha": 1,
-    "modifier_str": 3,
-    "modifier_end": -3,
+    "modifier_str": -1,
+    "modifier_end": 0,
     "modifier_dex": 0,
-    "modifier_agi": 3,
-    "modifier_int": -3,
+    "modifier_agi": 8,
+    "modifier_int": 2,
     "modifier_wil": 0,
-    "modifier_lov": 0,
-    "modifier_cha": 0
+    "modifier_lov": -3,
+    "modifier_cha": -4
   },
   {
     "styleId": 238302,
@@ -1895,7 +1895,7 @@
     "modifier_dex": 0,
     "modifier_agi": 4,
     "modifier_int": 1,
-    "modifier_wil": 0,
+    "modifier_wil": -3,
     "modifier_lov": 0,
     "modifier_cha": 1
   },
@@ -9723,7 +9723,7 @@
     "modifier_dex": 0,
     "modifier_agi": 4,
     "modifier_int": 0,
-    "modifier_wil": 0,
+    "modifier_wil": -4,
     "modifier_lov": 0,
     "modifier_cha": 0
   },
