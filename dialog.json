@@ -1575,6 +1575,42 @@
     "button1": "OK"
   },
   {
+    "id": 177,
+    "name": "Option_NotificationSetting_Confirm",
+    "title": "Confirm",
+    "text": "Go to device settings?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 183,
+    "name": "BattleFes_Retry_Confirm",
+    "title": "Confirm Restart",
+    "text": "Restart?<br>Restarting means retreating from the quest and starting all over again.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Restart"
+  },
+  {
+    "id": 184,
+    "name": "BattleFes_RetireOrRetry_Confirm",
+    "title": "Confirm",
+    "text": "If you retreat, you will fail the quest.<br>Restarting means retreating from the quest and starting all over again.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Retreat"
+  },
+  {
+    "id": 185,
+    "name": "BattleFes_Retire_Confirm",
+    "title": "Confirm",
+    "text": "If you retreat, you will fail the quest.<br>Retreat?",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Retreat"
+  },
+  {
     "id": 193,
     "name": "auto_rematch_Battle_Confirm",
     "title": "Confirm",

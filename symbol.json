@@ -2444,6 +2444,32 @@
     "in_group_priority": 99
   },
   {
+    "id": 1206,
+    "name": "Solitary Island",
+    "flavor_text": "A small island afloat in the Silent Sea.",
+    "map_id": 1,
+    "x": -13,
+    "y": -2,
+    "illust_category": 1,
+    "illust": 1039,
+    "priority": 1,
+    "group_id": 1019,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1209,
+    "name": "Cave of Hidden Treasures",
+    "flavor_text": "A cave rumored to hold mountains of treasure, but with great treasure comes great demonic beasts.",
+    "map_id": 1,
+    "x": -15,
+    "y": -12,
+    "illust_category": 1,
+    "illust": 1018,
+    "priority": 1,
+    "group_id": 2703,
+    "in_group_priority": 99
+  },
+  {
     "id": 1210,
     "name": "Request",
     "flavor_text": "You must choose either Galahad or the Sword of Death.",
@@ -2494,6 +2520,32 @@
     "priority": 1,
     "group_id": 2705,
     "in_group_priority": 98
+  },
+  {
+    "id": 1214,
+    "name": "Cave of Hidden Treasures",
+    "flavor_text": "A cave rumored to hold mountains of treasure, but with great treasure comes great demonic beasts.",
+    "map_id": 1,
+    "x": -15,
+    "y": -12,
+    "illust_category": 1,
+    "illust": 1018,
+    "priority": 1,
+    "group_id": 2703,
+    "in_group_priority": 98
+  },
+  {
+    "id": 1215,
+    "name": "Cave of Hidden Treasures",
+    "flavor_text": "A cave rumored to hold mountains of treasure, but with great treasure comes great demonic beasts.",
+    "map_id": 1,
+    "x": -15,
+    "y": -12,
+    "illust_category": 1,
+    "illust": 1018,
+    "priority": 1,
+    "group_id": 2703,
+    "in_group_priority": 97
   },
   {
     "id": 1216,

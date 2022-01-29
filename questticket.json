@@ -792,6 +792,24 @@
     "sort_order": 2752
   },
   {
+    "id": 821092,
+    "name": "Shovel [Ltd. Time]",
+    "flavor_text": "Use to attempt Dig! Treasure Excavation. (Until [1644713999] <tz>)",
+    "icon": 821092,
+    "max_quantity": 99999999,
+    "expired_at": 1644713999,
+    "sort_order": 2678
+  },
+  {
+    "id": 821093,
+    "name": "Golden Shovel [Ltd. Time]",
+    "flavor_text": "Use to attempt Dig! Great Treasure Excavation. (Until [1644713999] <tz>)",
+    "icon": 821093,
+    "max_quantity": 99999999,
+    "expired_at": 1644713999,
+    "sort_order": 2679
+  },
+  {
     "id": 821094,
     "name": "Termite Nest Map [Ltd. Time]",
     "flavor_text": "Use to attempt Battle with Termites - Showdown (Real Queen). (Until [1627001999] <tz>)",
@@ -799,6 +817,15 @@
     "max_quantity": 99999,
     "expired_at": 1627001999,
     "sort_order": 3116
+  },
+  {
+    "id": 821095,
+    "name": "Golden Pickaxe",
+    "flavor_text": "Item required for excavating Holy Stones and Holy Stone Shards in the Cave of Holy Stones (Gold).",
+    "icon": 821095,
+    "max_quantity": 9999,
+    "expired_at": 0,
+    "sort_order": 3132
   },
   {
     "id": 1000821001,

@@ -824,6 +824,38 @@
     ]
   },
   {
+    "id": 1030,
+    "name": "Multi-Counter",
+    "flavor_text": "Counter formation that raises counterattack damage for front two who draw enemy attacks. Boosts middle line's INT/LOV. Good for assigning roles.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 12,
+        "formation_bonus_id": 1093
+      },
+      {
+        "x": 8,
+        "y": 38,
+        "formation_bonus_id": 1093
+      },
+      {
+        "x": 30,
+        "y": 12,
+        "formation_bonus_id": 1096
+      },
+      {
+        "x": 30,
+        "y": 38,
+        "formation_bonus_id": 1096
+      },
+      {
+        "x": 45,
+        "y": 25,
+        "formation_bonus_id": 1094
+      }
+    ]
+  },
+  {
     "id": 1031,
     "name": "Amazon Raid EX",
     "flavor_text": "Improved Amazon Raid formation that boosts attack further. For parties who mainly use Swords, G. Swords, Axes, Clubs, M. Arts and Spears.",

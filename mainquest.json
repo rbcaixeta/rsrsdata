@@ -50153,5 +50153,1714 @@
     "prev_quest_ids": [
       100208371
     ]
+  },
+  {
+    "id": 100209011,
+    "quest_type": 2,
+    "name": "9-1-1. Prophet Supreme",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 0,
+    "scenario_id": 10210001,
+    "prev_quest_ids": [
+      100208381
+    ]
+  },
+  {
+    "id": 100209012,
+    "quest_type": 1,
+    "name": "9-1-1. To the Wastelands I",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 9,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1120081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 403013
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000043,
+      870000097,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209171,
+      100208202
+    ]
+  },
+  {
+    "id": 100209013,
+    "quest_type": 1,
+    "name": "9-1-1. To the Wastelands I",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1120081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404014
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000950,
+      870000134,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209102,
+      100208203
+    ]
+  },
+  {
+    "id": 100209021,
+    "quest_type": 1,
+    "name": "9-1-2. To the Wastelands I",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 9,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1120081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000435,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209011
+    ]
+  },
+  {
+    "id": 100209022,
+    "quest_type": 1,
+    "name": "9-1-2. To the Wastelands II",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 9,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1050091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 403016
+      },
+      {
+        "type": 26,
+        "id": 502400100
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000044,
+      870000098,
+      870000099,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209012
+    ]
+  },
+  {
+    "id": 100209023,
+    "quest_type": 1,
+    "name": "9-1-2. To the Wastelands II",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1050091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404017
+      },
+      {
+        "type": 26,
+        "id": 502400100
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000951,
+      870000135,
+      870000136,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209013
+    ]
+  },
+  {
+    "id": 100209031,
+    "quest_type": 1,
+    "name": "9-1-3. To the Wastelands II",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 9,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1050091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000435,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209021
+    ]
+  },
+  {
+    "id": 100209032,
+    "quest_type": 1,
+    "name": "9-1-3. To the Wastelands III",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 9,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1040091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101404100
+      },
+      {
+        "type": 18,
+        "id": 409300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000939,
+      870000957,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209022
+    ]
+  },
+  {
+    "id": 100209033,
+    "quest_type": 1,
+    "name": "9-1-3. To the Wastelands III",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101404100
+      },
+      {
+        "type": 4,
+        "id": 403013
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 101404230,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000943,
+      870000952,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209023
+    ]
+  },
+  {
+    "id": 100209041,
+    "quest_type": 2,
+    "name": "9-1-4. Best Served Hot",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 0,
+    "scenario_id": 10210010,
+    "prev_quest_ids": [
+      100209031
+    ]
+  },
+  {
+    "id": 100209042,
+    "quest_type": 1,
+    "name": "9-1-4. To the Wastelands IV",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 9,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1080071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101404100
+      },
+      {
+        "type": 18,
+        "id": 409300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000939,
+      870000954,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209032
+    ]
+  },
+  {
+    "id": 100209043,
+    "quest_type": 1,
+    "name": "9-1-4. To the Wastelands IV",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1080071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101404100
+      },
+      {
+        "type": 4,
+        "id": 403016
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000943,
+      870000953,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209033
+    ]
+  },
+  {
+    "id": 100209051,
+    "quest_type": 1,
+    "name": "9-1-5. To the Wastelands III",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 9,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1040091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105300300
+      },
+      {
+        "type": 18,
+        "id": 409300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000436,
+      870000080,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209041
+    ]
+  },
+  {
+    "id": 100209052,
+    "quest_type": 1,
+    "name": "9-1-5. To the Wastelands V",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 9,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1030081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105403500
+      },
+      {
+        "type": 18,
+        "id": 409300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000948,
+      870000940,
+      870000954,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209042
+    ]
+  },
+  {
+    "id": 100209053,
+    "quest_type": 1,
+    "name": "9-1-5. To the Wastelands V",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1030081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105403500
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 105403620,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000949,
+      870000944,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209043
+    ]
+  },
+  {
+    "id": 100209061,
+    "quest_type": 1,
+    "name": "9-1-6. To the Wastelands IV",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 9,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1080071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105300300
+      },
+      {
+        "type": 18,
+        "id": 409300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000436,
+      870000080,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209051
+    ]
+  },
+  {
+    "id": 100209062,
+    "quest_type": 1,
+    "name": "9-2-1. To the Wastelands VI",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000039,
+    "number_of_story_banner": 9,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1180061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105403500
+      },
+      {
+        "type": 18,
+        "id": 409300400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000940,
+      870000955,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209052
+    ]
+  },
+  {
+    "id": 100209063,
+    "quest_type": 1,
+    "name": "9-2-1. To the Wastelands VI",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000039,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1180061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105403500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000944,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209053
+    ]
+  },
+  {
+    "id": 100209071,
+    "quest_type": 2,
+    "name": "9-1-7. I Deserve",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 0,
+    "scenario_id": 10210020,
+    "prev_quest_ids": [
+      100209061
+    ]
+  },
+  {
+    "id": 100209072,
+    "quest_type": 1,
+    "name": "9-2-2. To the Wastelands VII",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 9,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1080061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108403500
+      },
+      {
+        "type": 18,
+        "id": 409300400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000941,
+      870000955,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209062
+    ]
+  },
+  {
+    "id": 100209073,
+    "quest_type": 1,
+    "name": "9-2-2. To the Wastelands VII",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1080101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108403500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 108403640,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000945,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209063
+    ]
+  },
+  {
+    "id": 100209081,
+    "quest_type": 1,
+    "name": "9-1-8. To the Wastelands V",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 9,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1030081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108300200
+      },
+      {
+        "type": 18,
+        "id": 409305600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000947,
+      870000437,
+      870000077,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 153,
+    "battle_id": 100210051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209071
+    ]
+  },
+  {
+    "id": 100209082,
+    "quest_type": 1,
+    "name": "9-2-3. To the Wastelands VIII",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 9,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1020091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108403500
+      },
+      {
+        "type": 18,
+        "id": 409300500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000941,
+      870000956,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209072
+    ]
+  },
+  {
+    "id": 100209083,
+    "quest_type": 1,
+    "name": "9-2-3. To the Wastelands VIII",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1020091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108403500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 502400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000945,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209073
+    ]
+  },
+  {
+    "id": 100209091,
+    "quest_type": 1,
+    "name": "9-2-1. To the Wastelands VI",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000039,
+    "number_of_story_banner": 9,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1180061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108300200
+      },
+      {
+        "type": 18,
+        "id": 409305600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000437,
+      870000077,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209081
+    ]
+  },
+  {
+    "id": 100209092,
+    "quest_type": 1,
+    "name": "9-2-4. To the Wastelands IX",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 9,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1100101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403500
+      },
+      {
+        "type": 18,
+        "id": 409300500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000942,
+      870000956,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209082
+    ]
+  },
+  {
+    "id": 100209093,
+    "quest_type": 1,
+    "name": "9-2-4. To the Wastelands IX",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1100101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 102403640,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 503400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000946,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209083
+    ]
+  },
+  {
+    "id": 100209101,
+    "quest_type": 2,
+    "name": "9-2-2. Death's Clutches",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 0,
+    "scenario_id": 10210030,
+    "prev_quest_ids": [
+      100209091
+    ]
+  },
+  {
+    "id": 100209102,
+    "quest_type": 1,
+    "name": "9-2-5. To the Wastelands X",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 9,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1021691,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403500
+      },
+      {
+        "type": 18,
+        "id": 409300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000948,
+      870000942,
+      870000957,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209092
+    ]
+  },
+  {
+    "id": 100209103,
+    "quest_type": 1,
+    "name": "9-2-5. To the Wastelands X",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1021691,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403500
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000949,
+      870000946,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209093
+    ]
+  },
+  {
+    "id": 100209111,
+    "quest_type": 1,
+    "name": "9-2-3. To the Wastelands VII",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 9,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1080061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102300300
+      },
+      {
+        "type": 18,
+        "id": 409300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000438,
+      870000078,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209101
+    ]
+  },
+  {
+    "id": 100209121,
+    "quest_type": 1,
+    "name": "9-2-4. To the Wastelands VIII",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000082,
+    "number_of_story_banner": 9,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1020091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102300300
+      },
+      {
+        "type": 18,
+        "id": 409300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000438,
+      870000078,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209111
+    ]
+  },
+  {
+    "id": 100209131,
+    "quest_type": 2,
+    "name": "9-2-5. Killer of My Daughters",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 0,
+    "scenario_id": 10210040,
+    "prev_quest_ids": [
+      100209121
+    ]
+  },
+  {
+    "id": 100209141,
+    "quest_type": 1,
+    "name": "9-2-6. To the Wastelands IX",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 9,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1100101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 18,
+        "id": 409305400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000037,
+      870000079,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209131
+    ]
+  },
+  {
+    "id": 100209151,
+    "quest_type": 1,
+    "name": "9-2-7. To the Wastelands X",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 9,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1021691,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 503300100
+      },
+      {
+        "type": 18,
+        "id": 409305400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000947,
+      870000038,
+      870000079,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 100210101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100209141
+    ]
+  },
+  {
+    "id": 100209161,
+    "quest_type": 2,
+    "name": "9-2-8. Bertrand",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 0,
+    "scenario_id": 10210050,
+    "prev_quest_ids": [
+      100209151
+    ]
+  },
+  {
+    "id": 100209171,
+    "quest_type": 2,
+    "name": "9-2-9. Robin Family",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10020901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 154,
+    "battle_id": 0,
+    "scenario_id": 10210060,
+    "prev_quest_ids": [
+      100209161
+    ]
   }
 ]

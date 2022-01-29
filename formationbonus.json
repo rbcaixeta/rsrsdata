@@ -975,6 +975,45 @@
     "ability_id": 750100558
   },
   {
+    "id": 1093,
+    "flavor_text": "WIL and CHA increased by 50%. More likely to be targeted by enemies.",
+    "wanryoku_coefficient": 100,
+    "tairyoku_coefficient": 100,
+    "kiyousa_coefficient": 100,
+    "subayasa_coefficient": 100,
+    "chiryoku_coefficient": 100,
+    "seishin_coefficient": 150,
+    "ai_coefficient": 100,
+    "miryoku_coefficient": 150,
+    "ability_id": 750100623
+  },
+  {
+    "id": 1094,
+    "flavor_text": "STR and DEX increased by 25%, but AGI decreased by 50%. Much less likely to be targeted by enemies.",
+    "wanryoku_coefficient": 125,
+    "tairyoku_coefficient": 100,
+    "kiyousa_coefficient": 125,
+    "subayasa_coefficient": 50,
+    "chiryoku_coefficient": 100,
+    "seishin_coefficient": 100,
+    "ai_coefficient": 100,
+    "miryoku_coefficient": 100,
+    "ability_id": 0
+  },
+  {
+    "id": 1096,
+    "flavor_text": "INT and LOV increased by 25%. Less likely to be targeted by enemies.",
+    "wanryoku_coefficient": 100,
+    "tairyoku_coefficient": 100,
+    "kiyousa_coefficient": 100,
+    "subayasa_coefficient": 100,
+    "chiryoku_coefficient": 125,
+    "seishin_coefficient": 100,
+    "ai_coefficient": 125,
+    "miryoku_coefficient": 100,
+    "ability_id": 0
+  },
+  {
     "id": 1098,
     "flavor_text": "STR increased by 50%. More likely to be targeted by enemies.",
     "wanryoku_coefficient": 150,

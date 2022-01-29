@@ -49,12 +49,16 @@
     "enemy_drop_ids": [],
     "area_id": 501,
     "battle_id": 430001001,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 430000021,
@@ -106,14 +110,18 @@
     "enemy_drop_ids": [],
     "area_id": 501,
     "battle_id": 430001002,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       430000011
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 430000031,
@@ -165,14 +173,18 @@
     "enemy_drop_ids": [],
     "area_id": 501,
     "battle_id": 430001003,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       430000021
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 430000041,
@@ -224,14 +236,18 @@
     "enemy_drop_ids": [],
     "area_id": 501,
     "battle_id": 430001004,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       430000031
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 430000051,
@@ -283,14 +299,18 @@
     "enemy_drop_ids": [],
     "area_id": 501,
     "battle_id": 430001005,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       430000041
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 430000061,
@@ -342,14 +362,18 @@
     "enemy_drop_ids": [],
     "area_id": 501,
     "battle_id": 430001006,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       430000051
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 430000071,
@@ -401,14 +425,18 @@
     "enemy_drop_ids": [],
     "area_id": 501,
     "battle_id": 430001007,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       430000061
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 430000081,
@@ -460,14 +488,18 @@
     "enemy_drop_ids": [],
     "area_id": 501,
     "battle_id": 430001008,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       430000071
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 430000091,
@@ -519,14 +551,18 @@
     "enemy_drop_ids": [],
     "area_id": 501,
     "battle_id": 430001009,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       430000081
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 430000101,
@@ -578,14 +614,18 @@
     "enemy_drop_ids": [],
     "area_id": 501,
     "battle_id": 430001010,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       430000091
     ],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 440000011,
@@ -633,12 +673,16 @@
     "enemy_drop_ids": [],
     "area_id": 911,
     "battle_id": 920001011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 440000021,
@@ -686,12 +730,16 @@
     "enemy_drop_ids": [],
     "area_id": 911,
     "battle_id": 920001011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 450000011,
@@ -739,12 +787,16 @@
     "enemy_drop_ids": [],
     "area_id": 912,
     "battle_id": 920001021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 900000011,
@@ -787,12 +839,16 @@
     "enemy_drop_ids": [],
     "area_id": 1002,
     "battle_id": 950006011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 900000021,
@@ -840,12 +896,16 @@
     "enemy_drop_ids": [],
     "area_id": 1002,
     "battle_id": 950006011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 900000031,
@@ -893,12 +953,16 @@
     "enemy_drop_ids": [],
     "area_id": 1170,
     "battle_id": 950006011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 900000041,
@@ -956,12 +1020,16 @@
     "enemy_drop_ids": [],
     "area_id": 1170,
     "battle_id": 950006011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000011,
@@ -996,12 +1064,16 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000021,
@@ -1036,14 +1108,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000011
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000031,
@@ -1078,14 +1154,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013031,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000021
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000041,
@@ -1120,14 +1200,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013041,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000031
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000051,
@@ -1162,14 +1246,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013051,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000041
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000061,
@@ -1204,14 +1292,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013061,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000051
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000071,
@@ -1246,14 +1338,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013071,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000061
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000081,
@@ -1288,14 +1384,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013081,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000071
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000091,
@@ -1330,14 +1430,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013091,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000081
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000101,
@@ -1372,14 +1476,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013101,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000091
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000111,
@@ -1414,14 +1522,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013111,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000101
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000121,
@@ -1456,14 +1568,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013121,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000111
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000131,
@@ -1498,14 +1614,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013131,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000121
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000141,
@@ -1540,14 +1660,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013141,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000131
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000151,
@@ -1582,14 +1706,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013151,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000141
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000161,
@@ -1624,14 +1752,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013161,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000151
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000171,
@@ -1666,14 +1798,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013171,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000161
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000181,
@@ -1708,14 +1844,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013181,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000171
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000191,
@@ -1750,14 +1890,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013191,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000181
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000201,
@@ -1794,14 +1938,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013201,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000191
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000211,
@@ -1838,14 +1986,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013211,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000201
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000221,
@@ -1882,14 +2034,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013221,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000211
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000231,
@@ -1926,14 +2082,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013231,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000221
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000241,
@@ -1970,14 +2130,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013241,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000231
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000251,
@@ -2014,14 +2178,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013251,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000241
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000261,
@@ -2058,14 +2226,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013261,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000251
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000271,
@@ -2102,14 +2274,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013271,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000261
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000281,
@@ -2146,14 +2322,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013281,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000271
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000291,
@@ -2190,14 +2370,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013291,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000281
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000301,
@@ -2234,14 +2418,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013301,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000291
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000311,
@@ -2278,14 +2466,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013311,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000301
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000321,
@@ -2322,14 +2514,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013321,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000311
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000331,
@@ -2366,14 +2562,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013331,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000321
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000341,
@@ -2410,14 +2610,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013341,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000331
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000351,
@@ -2454,14 +2658,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013351,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000341
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000361,
@@ -2498,14 +2706,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013361,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000351
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000371,
@@ -2542,14 +2754,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013371,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000361
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000381,
@@ -2586,14 +2802,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013381,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000371
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000391,
@@ -2630,14 +2850,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013391,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000381
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000401,
@@ -2674,14 +2898,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013401,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000391
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000411,
@@ -2718,14 +2946,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013411,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000401
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000421,
@@ -2762,14 +2994,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013421,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000411
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000431,
@@ -2806,14 +3042,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013431,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000421
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000441,
@@ -2850,14 +3090,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013441,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000431
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000451,
@@ -2894,14 +3138,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013451,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000441
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000461,
@@ -2938,14 +3186,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013461,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000451
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000471,
@@ -2982,14 +3234,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013471,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000461
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000481,
@@ -3026,14 +3282,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013481,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000471
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000491,
@@ -3070,14 +3330,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013491,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000481
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 910000501,
@@ -3114,14 +3378,18 @@
     "enemy_drop_ids": [],
     "area_id": 976,
     "battle_id": 910013501,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [
       910000491
     ],
     "point_bonuses": [],
     "quest_condition_id": 1001,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 1,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 920000011,
@@ -3169,12 +3437,16 @@
     "enemy_drop_ids": [],
     "area_id": 927,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 920000021,
@@ -3222,12 +3494,16 @@
     "enemy_drop_ids": [],
     "area_id": 927,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 920000031,
@@ -3275,12 +3551,16 @@
     "enemy_drop_ids": [],
     "area_id": 928,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 920000041,
@@ -3328,12 +3608,16 @@
     "enemy_drop_ids": [],
     "area_id": 984,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 920000051,
@@ -3381,12 +3665,16 @@
     "enemy_drop_ids": [],
     "area_id": 984,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 920000061,
@@ -3434,12 +3722,16 @@
     "enemy_drop_ids": [],
     "area_id": 985,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921105141,
@@ -3487,12 +3779,16 @@
     "enemy_drop_ids": [],
     "area_id": 1051,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921105261,
@@ -3540,12 +3836,16 @@
     "enemy_drop_ids": [],
     "area_id": 1052,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921111911,
@@ -3593,12 +3893,16 @@
     "enemy_drop_ids": [],
     "area_id": 1119,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921112031,
@@ -3646,12 +3950,16 @@
     "enemy_drop_ids": [],
     "area_id": 1120,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921117211,
@@ -3700,12 +4008,16 @@
     "enemy_drop_ids": [],
     "area_id": 1172,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921117331,
@@ -3754,12 +4066,16 @@
     "enemy_drop_ids": [],
     "area_id": 1173,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921117711,
@@ -3808,12 +4124,16 @@
     "enemy_drop_ids": [],
     "area_id": 1177,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921117811,
@@ -3862,12 +4182,16 @@
     "enemy_drop_ids": [],
     "area_id": 1178,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921117911,
@@ -3916,12 +4240,16 @@
     "enemy_drop_ids": [],
     "area_id": 1179,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921118011,
@@ -3970,12 +4298,16 @@
     "enemy_drop_ids": [],
     "area_id": 1180,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921118111,
@@ -4025,12 +4357,16 @@
     "enemy_drop_ids": [],
     "area_id": 1181,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 921118211,
@@ -4079,12 +4415,16 @@
     "enemy_drop_ids": [],
     "area_id": 1182,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922105151,
@@ -4132,12 +4472,16 @@
     "enemy_drop_ids": [],
     "area_id": 1051,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922105261,
@@ -4185,12 +4529,16 @@
     "enemy_drop_ids": [],
     "area_id": 1052,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922111921,
@@ -4238,12 +4586,16 @@
     "enemy_drop_ids": [],
     "area_id": 1119,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922112041,
@@ -4291,12 +4643,16 @@
     "enemy_drop_ids": [],
     "area_id": 1120,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922117221,
@@ -4345,12 +4701,16 @@
     "enemy_drop_ids": [],
     "area_id": 1172,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922117341,
@@ -4399,12 +4759,16 @@
     "enemy_drop_ids": [],
     "area_id": 1173,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922117721,
@@ -4453,12 +4817,16 @@
     "enemy_drop_ids": [],
     "area_id": 1177,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922117821,
@@ -4507,12 +4875,16 @@
     "enemy_drop_ids": [],
     "area_id": 1178,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922117921,
@@ -4561,12 +4933,16 @@
     "enemy_drop_ids": [],
     "area_id": 1179,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922118021,
@@ -4615,12 +4991,16 @@
     "enemy_drop_ids": [],
     "area_id": 1180,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922118121,
@@ -4674,12 +5054,16 @@
     "enemy_drop_ids": [],
     "area_id": 1181,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 922118221,
@@ -4728,12 +5112,16 @@
     "enemy_drop_ids": [],
     "area_id": 1182,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 1921100311,
@@ -4782,12 +5170,16 @@
     "enemy_drop_ids": [],
     "area_id": 1000001003,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 1921100321,
@@ -4836,12 +5228,16 @@
     "enemy_drop_ids": [],
     "area_id": 1000001003,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 1921100411,
@@ -4890,12 +5286,16 @@
     "enemy_drop_ids": [],
     "area_id": 1000001004,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 1921100421,
@@ -4944,12 +5344,16 @@
     "enemy_drop_ids": [],
     "area_id": 1000001004,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 1921100611,
@@ -4998,12 +5402,16 @@
     "enemy_drop_ids": [],
     "area_id": 1000001006,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 1921100621,
@@ -5052,12 +5460,16 @@
     "enemy_drop_ids": [],
     "area_id": 1000001006,
     "battle_id": 920002011,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 1921100711,
@@ -5106,12 +5518,16 @@
     "enemy_drop_ids": [],
     "area_id": 1000001007,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   },
   {
     "id": 1921100721,
@@ -5160,11 +5576,15 @@
     "enemy_drop_ids": [],
     "area_id": 1000001007,
     "battle_id": 920002021,
+    "max_turn": 0,
     "scenario_id": 0,
     "prev_quest_ids": [],
     "point_bonuses": [],
     "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
     "is_required_for_area_clear": 0,
-    "is_guaranteed_growth": 0
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "raid_piercemage_reward_group_id": 0
   }
 ]

@@ -3544,5 +3544,59 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 220
+  },
+  {
+    "id": 1000000387,
+    "event_ability_category_id": 1000000189,
+    "name": "[Ltd. Time] Explore! Hidden Treasure Cave I",
+    "flavor_text": "・3x attribute gains in Explore! Hidden Treasure Cave (2x in Main)<br>・Safety Rope drop +20% in Explore! Hidden Treasure Cave",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 224
+  },
+  {
+    "id": 1000000388,
+    "event_ability_category_id": 1000000189,
+    "name": "[Ltd. Time] Explore! Hidden Treasure Cave II",
+    "flavor_text": "・4x attribute gains in Explore! Hidden Treasure Cave (3x in Main)<br>・Safety Rope drop +50% in Explore! Hidden Treasure Cave",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 224
+  },
+  {
+    "id": 1000000389,
+    "event_ability_category_id": 1000000190,
+    "name": "[Ltd. Time] Minstrel's Music & Valentine's I",
+    "flavor_text": "・3x attribute gains in Minstrel's Music & Valentine's (2x in Main)<br>・Handmade Chocolate drop +20% in Minstrel's Music & Valentine's<br>・Bonus Special Chocolate drops in Minstrel's Music & Valentine's",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 227
+  },
+  {
+    "id": 1000000390,
+    "event_ability_category_id": 1000000190,
+    "name": "[Ltd. Time] Minstrel's Music & Valentine's II",
+    "flavor_text": "・3x attribute gains in Minstrel's Music & Valentine's (2x in Main)<br>・Handmade Chocolate drop +50% in Minstrel's Music & Valentine's<br>・Bonus Special Chocolate drops in Minstrel's Music & Valentine's",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 227
+  },
+  {
+    "id": 1000000391,
+    "event_ability_category_id": 1000000191,
+    "name": "[Ltd. Time] Dig! Great Treasure Excavation",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Dig! Great Treasure Excavation",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 225
+  },
+  {
+    "id": 1000000392,
+    "event_ability_category_id": 1000000192,
+    "name": "[Ltd. Time] Lunar New Year 2022! Quest",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the Lunar New Year 2022! Quest",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 226
   }
 ]

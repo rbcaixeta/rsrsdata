@@ -6203,5 +6203,49 @@
     "battle_id": 1950010002,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1
+  },
+  {
+    "id": 1000000009,
+    "name": "Lunar New Year 2022! Quest",
+    "sort_order": 1,
+    "banner": 1000901005,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810032
+      },
+      {
+        "type": 12,
+        "id": 840087
+      },
+      {
+        "type": 12,
+        "id": 840086
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000092870,
+      1000092871,
+      1000092872,
+      1000092873,
+      1000092874,
+      1000092875
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1000001017,
+    "battle_id": 1950010004,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
   }
 ]

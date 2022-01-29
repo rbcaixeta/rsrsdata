@@ -336,6 +336,13 @@
     "holy_stone_type": 3
   },
   {
+    "id": 4099,
+    "name": "Accessory Holy Stone (Accessory Holy Stone Excavation)",
+    "flavor_text": "Holy Stones that can be attached to Accessories. They are of Rank 1-10 and may possess a random ability.",
+    "icon": 4001,
+    "holy_stone_type": 4
+  },
+  {
     "id": 5001,
     "name": "Weapon Holy Stone (Shadow in the Cave of Holy Stones)",
     "flavor_text": "Holy Stones that can be attached to Weapons. They are of Rank 1-10 and may possess a random ability.",
@@ -376,5 +383,40 @@
     "flavor_text": "Holy Stones that can be attached to Gear. They are of Rank 1-10 and may possess a random ability.",
     "icon": 3001,
     "holy_stone_type": 3
+  },
+  {
+    "id": 5007,
+    "name": "Accessory Holy Stone (Treasure Den)",
+    "flavor_text": "Holy Stones that can be attached to Accessories. They are of Rank 1-10 and may possess a random ability.",
+    "icon": 4001,
+    "holy_stone_type": 4
+  },
+  {
+    "id": 6001,
+    "name": "Weapon Holy Stone (Gold Excavation)",
+    "flavor_text": "Holy Stones that can be attached to Weapons. They are of Rank 5-10 and may possess a random ability.",
+    "icon": 1001,
+    "holy_stone_type": 1
+  },
+  {
+    "id": 6002,
+    "name": "Armor Holy Stone (Gold Excavation)",
+    "flavor_text": "Holy Stones that can be attached to Armor. They are of Rank 5-10 and may possess a random ability.",
+    "icon": 2001,
+    "holy_stone_type": 2
+  },
+  {
+    "id": 6003,
+    "name": "Gear Holy Stone (Gold Excavation)",
+    "flavor_text": "Holy Stones that can be attached to Gear. They are of Rank 5-10 and may possess a random ability.",
+    "icon": 3001,
+    "holy_stone_type": 3
+  },
+  {
+    "id": 6004,
+    "name": "Accessory Holy Stone (Gold Excavation)",
+    "flavor_text": "Holy Stones that can be attached to Accessories. They are of Rank 5-10 and may possess a random ability.",
+    "icon": 4001,
+    "holy_stone_type": 4
   }
 ]
