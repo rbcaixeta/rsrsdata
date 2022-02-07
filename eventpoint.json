@@ -3105,6 +3105,15 @@
     "sort_order": 3040
   },
   {
+    "id": 1000800034,
+    "name": "Romancing Festival Medal XXIII",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800034,
+    "max_quantity": 99999999,
+    "expired_at": 1646701199,
+    "sort_order": 3090
+  },
+  {
     "id": 1001100001,
     "name": "Precious Stone [Limited Time]",
     "flavor_text": "Obtained from the Cave of Holy Stones. Can be exchanged for items. (Until [1618534799] <tz>)",
@@ -3328,5 +3337,32 @@
     "max_quantity": 99999999,
     "expired_at": 1645491599,
     "sort_order": 2865
+  },
+  {
+    "id": 1001100211,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1646441999] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1646441999,
+    "sort_order": 3128
+  },
+  {
+    "id": 1001100212,
+    "name": "Sweet Rice Dumpling",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100212,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3129
+  },
+  {
+    "id": 1001100213,
+    "name": "Lantern",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100213,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3130
   }
 ]

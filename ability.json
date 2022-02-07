@@ -2030,6 +2030,17 @@
     "icon": 4010
   },
   {
+    "id": 702101046,
+    "name": "Reinvigorate Ⅰ (INT)",
+    "flavor_text": "When landing an attack, increases own INT (medium effect), and recovers own BP (+1).",
+    "special_effect_ids": [
+      802010603,
+      802040742
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
     "id": 702200060,
     "name": "Self-Regeneration Ⅲ",
     "flavor_text": "[Start of round]<br>Recovers own HP (medium chance/large effect).",
@@ -5070,7 +5081,7 @@
   {
     "id": 702600476,
     "name": "Hermit's Teaching",
-    "flavor_text": "When recovery actions are made, increases target's INT and WIL (large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "flavor_text": "When recovery actions are made, increases target's INT/WIL (large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
     "special_effect_ids": [
       802010466,
       802010467
@@ -5133,7 +5144,7 @@
   {
     "id": 702600505,
     "name": "Prism Soul",
-    "flavor_text": "When landing an attack, increases own STR and AGI (medium chance/very large effect).",
+    "flavor_text": "When landing an attack, increases own STR/AGI (medium chance/very large effect).",
     "special_effect_ids": [
       802010324,
       802010327
@@ -17364,6 +17375,16 @@
     ],
     "ability_when": 1,
     "icon": 4002
+  },
+  {
+    "id": 1702100028,
+    "name": "Soul Painter",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Colorful Slash (medium chance).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1802040045
+    ],
+    "ability_when": 1,
+    "icon": 4005
   },
   {
     "id": 1702200002,

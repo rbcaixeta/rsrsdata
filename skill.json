@@ -82992,6 +82992,94 @@
     ]
   },
   {
+    "id": 1110100027,
+    "name": "Colorful Slash",
+    "rush_prefix": "Colorful",
+    "rush_suffix": "Slash",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Slash+Pierce) <br>All range attack.<br>Increases the user's STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).<br>Also recovers the user's HP (small effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1,
+      3
+    ],
+    "power_grade": "B",
+    "consume_bp": 12,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801010031,
+      1801010032,
+      1801010033,
+      1801010034,
+      1801010035,
+      1801010036,
+      1801010037,
+      1801010038,
+      801040411
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1002,
+    "skill_effect": 1140100005,
+    "skill_se_cue_sheet_name": "1140100005",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30029,
+      30037,
+      30045
+    ]
+  },
+  {
+    "id": 1110100028,
+    "name": "Colorful Slash",
+    "rush_prefix": "Colorful",
+    "rush_suffix": "Slash",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Slash+Pierce) <br>All range attack.<br>Increases the user's STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).<br>Also recovers the user's HP (small effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1,
+      3
+    ],
+    "power_grade": "B",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801010031,
+      1801010032,
+      1801010033,
+      1801010034,
+      1801010035,
+      1801010036,
+      1801010037,
+      1801010038,
+      801040411
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1002,
+    "skill_effect": 1140100005,
+    "skill_se_cue_sheet_name": "1140100005",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": []
+  },
+  {
     "id": 1110200002,
     "name": "Moon Flash",
     "rush_prefix": "Moon",
@@ -85947,6 +86035,44 @@
     ]
   },
   {
+    "id": 1110900005,
+    "name": "Flickering Lanterns",
+    "rush_prefix": "Flickering",
+    "rush_suffix": "Lanterns",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Pierce+Heat) <br>All range attack.<br>When the attack hits, inflicts charm on target (medium chance/4 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 9,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      3,
+      4
+    ],
+    "power_grade": "A",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030351
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1017,
+    "skill_effect": 1140900001,
+    "skill_se_cue_sheet_name": "1140900001",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30026,
+      30034,
+      30042
+    ]
+  },
+  {
     "id": 1125100001,
     "name": "Scattered Explosions",
     "rush_prefix": "Scattered",
@@ -86417,6 +86543,44 @@
     "skill_icon": 2004,
     "skill_effect": 1145200001,
     "skill_se_cue_sheet_name": "1145200001",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
+    "id": 1125200009,
+    "name": "Icy Sky Lantern",
+    "rush_prefix": "Icy",
+    "rush_suffix": "Sky Lantern",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Cold+Sun) <br>All range attack.<br>When the attack hits, there is a chance to reduce target's DEX (medium effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 52,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      5,
+      7
+    ],
+    "power_grade": "B",
+    "consume_bp": 12,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010260
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2004,
+    "skill_effect": 1145200003,
+    "skill_se_cue_sheet_name": "1145200003",
     "min_action_time": 1,
     "max_action_time": 1,
     "is_consumed_when_over_kill": 0,
