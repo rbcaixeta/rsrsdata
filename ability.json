@@ -2030,6 +2030,17 @@
     "icon": 4010
   },
   {
+    "id": 702100740,
+    "name": "Tenacity",
+    "flavor_text": "Attacks' damage increases (medium effect).<br>When attacked and HP reaches 0, returns to 50% of Max HP (Max times: 1).",
+    "special_effect_ids": [
+      802040823,
+      802040002
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702101046,
     "name": "Reinvigorate Ⅰ (INT)",
     "flavor_text": "When landing an attack, increases own INT (medium effect), and recovers own BP (+1).",

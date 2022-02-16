@@ -5146,6 +5146,49 @@
     "is_required_for_area_clear": 1
   },
   {
+    "id": 391220010,
+    "name": "Dark Stars Grand Opening Quest",
+    "sort_order": 1,
+    "banner": 930107,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810033
+      },
+      {
+        "type": 12,
+        "id": 840094
+      },
+      {
+        "type": 11,
+        "id": 830001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210001731,
+      210001732,
+      210001733,
+      210001734,
+      210001735
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1220,
+    "battle_id": 950025011,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1
+  },
+  {
     "id": 921089010,
     "name": "1. Boots Trial - Hard",
     "sort_order": 1,

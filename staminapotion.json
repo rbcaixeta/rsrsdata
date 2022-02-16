@@ -340,6 +340,36 @@
     "expired_at": 1630544399
   },
   {
+    "id": 840094,
+    "name": "Dark Stars Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1650070799] <tz>)",
+    "icon": 840094,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 3160,
+    "expired_at": 1650070799
+  },
+  {
+    "id": 840095,
+    "name": "Dark Stars Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1650070799] <tz>)",
+    "icon": 840095,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 3162,
+    "expired_at": 1650070799
+  },
+  {
+    "id": 840096,
+    "name": "Dark Stars Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1650070799] <tz>)",
+    "icon": 840096,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 3164,
+    "expired_at": 1650070799
+  },
+  {
     "id": 840101,
     "name": "SF1 Remastered Release Stamina Potion (Sm.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1623718799] <tz>)",

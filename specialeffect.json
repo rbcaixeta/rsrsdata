@@ -14160,6 +14160,25 @@
     "state_icon": 3001
   },
   {
+    "id": 802040823,
+    "state_change_id": 900040059,
+    "name": "Tenacity",
+    "flavor_text": "When knocked unconscious, return to 50% HP.",
+    "target_area": 1,
+    "state_vars": [
+      0,
+      50
+    ],
+    "text_pop": "Tenacity",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "Plane",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 803010190,
     "state_change_id": 900010012,
     "name": "STR Up",

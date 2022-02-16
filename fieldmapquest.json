@@ -25326,6 +25326,4918 @@
     ]
   },
   {
+    "id": 972008001,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 1",
+    "sort_order": 1,
+    "field_map_node_id": 10109001,
+    "battle_id": 511013019,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008002,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 2",
+    "sort_order": 2,
+    "field_map_node_id": 10109002,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008003,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 3",
+    "sort_order": 3,
+    "field_map_node_id": 10109003,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008004,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 4",
+    "sort_order": 4,
+    "field_map_node_id": 10109004,
+    "battle_id": 511013012,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008005,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 5",
+    "sort_order": 5,
+    "field_map_node_id": 10109005,
+    "battle_id": 511013012,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008006,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 6",
+    "sort_order": 6,
+    "field_map_node_id": 10109006,
+    "battle_id": 511013012,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008007,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 7",
+    "sort_order": 7,
+    "field_map_node_id": 10109007,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008008,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 8",
+    "sort_order": 8,
+    "field_map_node_id": 10109008,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008009,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 9",
+    "sort_order": 9,
+    "field_map_node_id": 10109009,
+    "battle_id": 511013030,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008010,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 10",
+    "sort_order": 10,
+    "field_map_node_id": 10109010,
+    "battle_id": 511013012,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008011,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 11",
+    "sort_order": 11,
+    "field_map_node_id": 10109011,
+    "battle_id": 511013023,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008012,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 12",
+    "sort_order": 12,
+    "field_map_node_id": 10109012,
+    "battle_id": 511013012,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008013,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 13",
+    "sort_order": 13,
+    "field_map_node_id": 10109013,
+    "battle_id": 511013013,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100946,
+      100947,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008014,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 14",
+    "sort_order": 14,
+    "field_map_node_id": 10109014,
+    "battle_id": 511013013,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008015,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 15",
+    "sort_order": 15,
+    "field_map_node_id": 10109015,
+    "battle_id": 511013013,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008016,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 16",
+    "sort_order": 16,
+    "field_map_node_id": 10109016,
+    "battle_id": 511013024,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008017,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 17",
+    "sort_order": 17,
+    "field_map_node_id": 10109017,
+    "battle_id": 511013013,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008018,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 18",
+    "sort_order": 18,
+    "field_map_node_id": 10109018,
+    "battle_id": 511013013,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008019,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 19",
+    "sort_order": 19,
+    "field_map_node_id": 10109019,
+    "battle_id": 511013002,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100964,
+      100965,
+      100738,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008020,
+    "quest_type": 1,
+    "name": "[4] Path to Byunei 20",
+    "sort_order": 20,
+    "field_map_node_id": 10109020,
+    "battle_id": 511013006,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 0,
+    "quest_ticket_id": 821098,
+    "quest_ticket_quantity": 30,
+    "typical_enemy_ids": [
+      29902301
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      100945
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972008021,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 1",
+    "sort_order": 21,
+    "field_map_node_id": 10109021,
+    "battle_id": 511013019,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008022,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 2",
+    "sort_order": 22,
+    "field_map_node_id": 10109022,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008023,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 3",
+    "sort_order": 23,
+    "field_map_node_id": 10109023,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008024,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 4",
+    "sort_order": 24,
+    "field_map_node_id": 10109024,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008025,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 5",
+    "sort_order": 25,
+    "field_map_node_id": 10109025,
+    "battle_id": 511013030,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008026,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 6",
+    "sort_order": 26,
+    "field_map_node_id": 10109026,
+    "battle_id": 511013017,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008027,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 7",
+    "sort_order": 27,
+    "field_map_node_id": 10109027,
+    "battle_id": 511013017,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008028,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 8",
+    "sort_order": 28,
+    "field_map_node_id": 10109028,
+    "battle_id": 511013017,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100948,
+      100949,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008029,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 9",
+    "sort_order": 29,
+    "field_map_node_id": 10109029,
+    "battle_id": 511013017,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008030,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 10",
+    "sort_order": 30,
+    "field_map_node_id": 10109030,
+    "battle_id": 511013028,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008031,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 11",
+    "sort_order": 31,
+    "field_map_node_id": 10109031,
+    "battle_id": 511013017,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008032,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 12",
+    "sort_order": 32,
+    "field_map_node_id": 10109032,
+    "battle_id": 511013018,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008033,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 13",
+    "sort_order": 33,
+    "field_map_node_id": 10109033,
+    "battle_id": 511013018,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008034,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 14",
+    "sort_order": 34,
+    "field_map_node_id": 10109034,
+    "battle_id": 511013018,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008035,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 15",
+    "sort_order": 35,
+    "field_map_node_id": 10109035,
+    "battle_id": 511013029,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008036,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 16",
+    "sort_order": 36,
+    "field_map_node_id": 10109036,
+    "battle_id": 511013018,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008037,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 17",
+    "sort_order": 37,
+    "field_map_node_id": 10109037,
+    "battle_id": 511013018,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008038,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 18",
+    "sort_order": 38,
+    "field_map_node_id": 10109038,
+    "battle_id": 511013018,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008039,
+    "quest_type": 1,
+    "name": "[3] Path to Aunus 19",
+    "sort_order": 39,
+    "field_map_node_id": 10109039,
+    "battle_id": 511013004,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100964,
+      100965,
+      100738,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008040,
+    "quest_type": 1,
+    "name": "[4] Path to Aunus 20",
+    "sort_order": 40,
+    "field_map_node_id": 10109040,
+    "battle_id": 511013008,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 0,
+    "quest_ticket_id": 821098,
+    "quest_ticket_quantity": 30,
+    "typical_enemy_ids": [
+      29918101
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      100945
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972008041,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 1",
+    "sort_order": 41,
+    "field_map_node_id": 10109041,
+    "battle_id": 511013019,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008042,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 2",
+    "sort_order": 42,
+    "field_map_node_id": 10109042,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008043,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 3",
+    "sort_order": 43,
+    "field_map_node_id": 10109043,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100950,
+      100951,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008044,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 4",
+    "sort_order": 44,
+    "field_map_node_id": 10109044,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008045,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 5",
+    "sort_order": 45,
+    "field_map_node_id": 10109045,
+    "battle_id": 511013014,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008046,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 6",
+    "sort_order": 46,
+    "field_map_node_id": 10109046,
+    "battle_id": 511013014,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008047,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 7",
+    "sort_order": 47,
+    "field_map_node_id": 10109047,
+    "battle_id": 511013014,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008048,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 8",
+    "sort_order": 48,
+    "field_map_node_id": 10109048,
+    "battle_id": 511013025,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008049,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 9",
+    "sort_order": 49,
+    "field_map_node_id": 10109049,
+    "battle_id": 511013016,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008050,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 10",
+    "sort_order": 50,
+    "field_map_node_id": 10109050,
+    "battle_id": 511013016,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008051,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 11",
+    "sort_order": 51,
+    "field_map_node_id": 10109051,
+    "battle_id": 511013027,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008052,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 12",
+    "sort_order": 52,
+    "field_map_node_id": 10109052,
+    "battle_id": 511013015,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008053,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 13",
+    "sort_order": 53,
+    "field_map_node_id": 10109053,
+    "battle_id": 511013015,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008054,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 14",
+    "sort_order": 54,
+    "field_map_node_id": 10109054,
+    "battle_id": 511013015,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008055,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 15",
+    "sort_order": 55,
+    "field_map_node_id": 10109055,
+    "battle_id": 511013015,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008056,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 16",
+    "sort_order": 56,
+    "field_map_node_id": 10109056,
+    "battle_id": 511013026,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100952,
+      100953,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008057,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 17",
+    "sort_order": 57,
+    "field_map_node_id": 10109057,
+    "battle_id": 511013016,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008058,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 18",
+    "sort_order": 58,
+    "field_map_node_id": 10109058,
+    "battle_id": 511013016,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008059,
+    "quest_type": 1,
+    "name": "[2] Path to Forneus 19",
+    "sort_order": 59,
+    "field_map_node_id": 10109059,
+    "battle_id": 511013003,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100964,
+      100965,
+      100738,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008060,
+    "quest_type": 1,
+    "name": "[4] Path to Forneus 20",
+    "sort_order": 60,
+    "field_map_node_id": 10109060,
+    "battle_id": 511013007,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 0,
+    "quest_ticket_id": 821098,
+    "quest_ticket_quantity": 30,
+    "typical_enemy_ids": [
+      29903201
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      100945
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "id": 972008061,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 1",
+    "sort_order": 61,
+    "field_map_node_id": 10109061,
+    "battle_id": 511013019,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008062,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 2",
+    "sort_order": 62,
+    "field_map_node_id": 10109062,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008063,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 3",
+    "sort_order": 63,
+    "field_map_node_id": 10109063,
+    "battle_id": 511013020,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008064,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 4",
+    "sort_order": 64,
+    "field_map_node_id": 10109064,
+    "battle_id": 511013009,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008065,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 5",
+    "sort_order": 65,
+    "field_map_node_id": 10109065,
+    "battle_id": 511013009,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008066,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 6",
+    "sort_order": 66,
+    "field_map_node_id": 10109066,
+    "battle_id": 511013030,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008067,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 7",
+    "sort_order": 67,
+    "field_map_node_id": 10109067,
+    "battle_id": 511013010,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008068,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 8",
+    "sort_order": 68,
+    "field_map_node_id": 10109068,
+    "battle_id": 511013010,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008069,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 9",
+    "sort_order": 69,
+    "field_map_node_id": 10109069,
+    "battle_id": 511013010,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008070,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 10",
+    "sort_order": 70,
+    "field_map_node_id": 10109070,
+    "battle_id": 511013021,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008071,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 11",
+    "sort_order": 71,
+    "field_map_node_id": 10109071,
+    "battle_id": 511013011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100954,
+      100955,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008072,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 12",
+    "sort_order": 72,
+    "field_map_node_id": 10109072,
+    "battle_id": 511013011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100956,
+      100957,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008073,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 13",
+    "sort_order": 73,
+    "field_map_node_id": 10109073,
+    "battle_id": 511013011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100956,
+      100957,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008074,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 14",
+    "sort_order": 74,
+    "field_map_node_id": 10109074,
+    "battle_id": 511013011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100956,
+      100957,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008075,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 15",
+    "sort_order": 75,
+    "field_map_node_id": 10109075,
+    "battle_id": 511013022,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100956,
+      100957,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008076,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 16",
+    "sort_order": 76,
+    "field_map_node_id": 10109076,
+    "battle_id": 511013011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100956,
+      100957,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008077,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 17",
+    "sort_order": 77,
+    "field_map_node_id": 10109077,
+    "battle_id": 511013011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100956,
+      100957,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008078,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 18",
+    "sort_order": 78,
+    "field_map_node_id": 10109078,
+    "battle_id": 511013011,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100956,
+      100957,
+      100737,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008079,
+    "quest_type": 1,
+    "name": "[1] Path to Alloces 19",
+    "sort_order": 79,
+    "field_map_node_id": 10109079,
+    "battle_id": 511013001,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      },
+      {
+        "type": 10,
+        "id": 821098
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      100964,
+      100965,
+      100738,
+      100483,
+      100484
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": 972008080,
+    "quest_type": 1,
+    "name": "[4] Path to Alloces 20",
+    "sort_order": 80,
+    "field_map_node_id": 10109080,
+    "battle_id": 511013005,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 0,
+    "quest_ticket_id": 821098,
+    "quest_ticket_quantity": 30,
+    "typical_enemy_ids": [
+      29909701
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100458
+      },
+      {
+        "type": 7,
+        "id": 1100459
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      100945
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840094,
+        "quantity": 10
+      }
+    ]
+  },
+  {
     "id": 990041010,
     "quest_type": 2,
     "name": "To the Decisive Battle",

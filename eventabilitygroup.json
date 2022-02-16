@@ -3625,5 +3625,32 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 229
+  },
+  {
+    "id": 1000000396,
+    "event_ability_category_id": 1000000195,
+    "name": "[Ltd. Time] Dark Stars Grand Opening Quest",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the Dark Stars Grand Opening Quest",
+    "icon": 4010,
+    "applies_to_all_styles": 1,
+    "priority": 230
+  },
+  {
+    "id": 1000000397,
+    "event_ability_category_id": 1000000196,
+    "name": "[Ltd. Time] Abyss Sinistrals Conquest I",
+    "flavor_text": "・3x attribute gains in Abyss Sinistrals Conquest (2x in Main)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 231
+  },
+  {
+    "id": 1000000398,
+    "event_ability_category_id": 1000000197,
+    "name": "[Ltd. Time] Abyss Sinistrals Conquest II",
+    "flavor_text": "・4x attribute gains in Abyss Sinistrals Conquest (3x in Main)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 231
   }
 ]
