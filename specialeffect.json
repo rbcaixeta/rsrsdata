@@ -14160,6 +14160,24 @@
     "state_icon": 3001
   },
   {
+    "id": 802040750,
+    "state_change_id": 900050054,
+    "name": "Breath of Invigoration Ⅰ",
+    "flavor_text": "Immediately recovers some amount of own HP.",
+    "target_area": 1,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 802040823,
     "state_change_id": 900040059,
     "name": "Tenacity",
@@ -27986,6 +28004,56 @@
     "text_pop": "",
     "text_color": "",
     "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040046,
+    "state_change_id": 900040048,
+    "name": "Damage Up",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040047,
+    "state_change_id": 900040062,
+    "name": "Defend",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      50
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040048,
+    "state_change_id": 900040048,
+    "name": "Spear Attack Boost",
+    "flavor_text": "Increases damage dealt by spear attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 0,

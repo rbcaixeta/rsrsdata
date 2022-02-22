@@ -3652,5 +3652,41 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 231
+  },
+  {
+    "id": 1000000400,
+    "event_ability_category_id": 1000000199,
+    "name": "[Ltd. Time] Demon Tower: Saruin I",
+    "flavor_text": "・3x attribute gains in Demon Tower: Saruin (2x in Main)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 233
+  },
+  {
+    "id": 1000000401,
+    "event_ability_category_id": 1000000199,
+    "name": "[Ltd. Time] Demon Tower: Saruin II",
+    "flavor_text": "・4x attribute gains in Demon Tower: Saruin (3x in Main)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 233
+  },
+  {
+    "id": 1000000402,
+    "event_ability_category_id": 1000000200,
+    "name": "[Ltd. Time] Final Battle with Saruin I",
+    "flavor_text": "・3x attribute gains in Final Battle with Saruin (2x in Main)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 234
+  },
+  {
+    "id": 1000000403,
+    "event_ability_category_id": 1000000200,
+    "name": "[Ltd. Time] Final Battle with Saruin II",
+    "flavor_text": "・4x attribute gains in Final Battle with Saruin (3x in Main)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 234
   }
 ]

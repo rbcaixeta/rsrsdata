@@ -2019,6 +2019,17 @@
     "icon": 4005
   },
   {
+    "id": 702100694,
+    "name": "High Battle Tension",
+    "flavor_text": "Attacks' damage increases (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+1).",
+    "special_effect_ids": [
+      802040346,
+      802040323
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702100713,
     "name": "Strengthened Energy Ⅱ",
     "flavor_text": "Attacks' damage increases (medium effect).<br><br>[Start of battle]<br>Recovers own BP (+2).",
@@ -5427,6 +5438,17 @@
     ],
     "ability_when": 6,
     "icon": 4010
+  },
+  {
+    "id": 702600712,
+    "name": "Breath of Invigoration Ⅰ",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect), and recovers own BP (+1).",
+    "special_effect_ids": [
+      802040750,
+      802040742
+    ],
+    "ability_when": 6,
+    "icon": 4007
   },
   {
     "id": 703100001,
@@ -17398,6 +17420,16 @@
     "icon": 4005
   },
   {
+    "id": 1702100029,
+    "name": "Spear Prowess Ⅳ",
+    "flavor_text": "When attacking with spears, damage increases (very large effect).",
+    "special_effect_ids": [
+      1802040048
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -17561,6 +17593,17 @@
     "special_effect_ids": [
       1802010009,
       1802010010
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300011,
+    "name": "Enmity",
+    "flavor_text": "[Start of turn]<br>Has a very high chance to:<br>Grant oneself an attack boost (extreme effect/2 turn(s)), and grant oneself a defense boost (extreme effect/2 turn(s)).",
+    "special_effect_ids": [
+      1802040046,
+      1802040047
     ],
     "ability_when": 3,
     "icon": 4010
