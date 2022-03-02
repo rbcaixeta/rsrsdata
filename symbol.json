@@ -2587,6 +2587,19 @@
     "in_group_priority": 99
   },
   {
+    "id": 1219,
+    "name": "Cursed One",
+    "flavor_text": "The threat of the Archfiend spreads across the world. Innumerable Cursed Ones roam near the Wastelands.",
+    "map_id": 1,
+    "x": 15,
+    "y": 0,
+    "illust_category": 2,
+    "illust": 1992271,
+    "priority": 1,
+    "group_id": 2708,
+    "in_group_priority": 99
+  },
+  {
     "id": 1220,
     "name": "Vanguard",
     "flavor_text": "Grand festivities are afoot. The city is bustling in preparation for a celebration.",
@@ -2624,6 +2637,32 @@
     "priority": 1,
     "group_id": 2536,
     "in_group_priority": 99
+  },
+  {
+    "id": 1223,
+    "name": "Eastern Mountains",
+    "flavor_text": "A mountainous area near the Wastelands.",
+    "map_id": 1,
+    "x": 15,
+    "y": -2,
+    "illust_category": 1,
+    "illust": 1010,
+    "priority": 1,
+    "group_id": 1014,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1225,
+    "name": "Cursed One",
+    "flavor_text": "The threat of the Archfiend spreads across the world. Innumerable Cursed Ones roam near the Wastelands.",
+    "map_id": 1,
+    "x": 15,
+    "y": 0,
+    "illust_category": 2,
+    "illust": 1992281,
+    "priority": 1,
+    "group_id": 2708,
+    "in_group_priority": 98
   },
   {
     "id": 1227,

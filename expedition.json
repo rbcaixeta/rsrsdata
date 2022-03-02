@@ -178,5 +178,23 @@
     "flavor_text": "Recommended for characters with up to 850 HP and up to 75 in all attributes",
     "background_id": 700000024,
     "sort_order": 90
+  },
+  {
+    "id": 6700012,
+    "name": "Wastelands",
+    "required_quest_id": 100209151,
+    "required_hours": 21,
+    "difficulty": 4,
+    "growth_difficulty": 83,
+    "recommended_status": 85,
+    "jewel_cost": 2500,
+    "ticket_cost": 50,
+    "drop_group_ids": [
+      880000021,
+      880000022
+    ],
+    "flavor_text": "Recommended for characters with up to 950 HP and up to 85 in all attributes",
+    "background_id": 700000022,
+    "sort_order": 89
   }
 ]

@@ -51862,5 +51862,1838 @@
     "prev_quest_ids": [
       100209161
     ]
+  },
+  {
+    "id": 100210011,
+    "quest_type": 2,
+    "name": "10-1-1. To Recreate",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021001,
+    "number_of_story_banner": 10,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 0,
+    "scenario_id": 10211001,
+    "prev_quest_ids": [
+      100209171
+    ]
+  },
+  {
+    "id": 100210012,
+    "quest_type": 1,
+    "name": "10-1-1. Heart of Clay I",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1010111,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 403019
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000971,
+      870000134,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210191,
+      100209102
+    ]
+  },
+  {
+    "id": 100210013,
+    "quest_type": 1,
+    "name": "10-1-1. Heart of Clay I",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010111,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404020
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000970,
+      870000134,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210102,
+      100209103
+    ]
+  },
+  {
+    "id": 100210021,
+    "quest_type": 2,
+    "name": "10-1-2. A Girl Named Dahao",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021001,
+    "number_of_story_banner": 10,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 0,
+    "scenario_id": 10211010,
+    "prev_quest_ids": [
+      100210011
+    ]
+  },
+  {
+    "id": 100210022,
+    "quest_type": 1,
+    "name": "10-1-2. Heart of Clay II",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1130061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 403019
+      },
+      {
+        "type": 26,
+        "id": 502400100
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000971,
+      870000135,
+      870000136,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210012
+    ]
+  },
+  {
+    "id": 100210023,
+    "quest_type": 1,
+    "name": "10-1-2. Heart of Clay II",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1130061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404020
+      },
+      {
+        "type": 26,
+        "id": 502400100
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000970,
+      870000135,
+      870000136,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210013
+    ]
+  },
+  {
+    "id": 100210031,
+    "quest_type": 1,
+    "name": "10-1-3. Heart of Clay I",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1010111,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000333,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210021
+    ]
+  },
+  {
+    "id": 100210032,
+    "quest_type": 1,
+    "name": "10-1-3. Heart of Clay III",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1120081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103403200
+      },
+      {
+        "type": 16,
+        "id": 204300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000959,
+      870000332,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210022
+    ]
+  },
+  {
+    "id": 100210033,
+    "quest_type": 1,
+    "name": "10-1-3. Heart of Clay III",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1120081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103403200
+      },
+      {
+        "type": 4,
+        "id": 403019
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 103403320,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000963,
+      870000971,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210023
+    ]
+  },
+  {
+    "id": 100210041,
+    "quest_type": 1,
+    "name": "10-1-4. Heart of Clay II",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1130061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000333,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210031
+    ]
+  },
+  {
+    "id": 100210042,
+    "quest_type": 1,
+    "name": "10-1-4. Heart of Clay IV",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1030381,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103403200
+      },
+      {
+        "type": 16,
+        "id": 203300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000959,
+      870000329,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210032
+    ]
+  },
+  {
+    "id": 100210043,
+    "quest_type": 1,
+    "name": "10-1-4. Heart of Clay IV",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1030381,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103403200
+      },
+      {
+        "type": 4,
+        "id": 403019
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000963,
+      870000971,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210033
+    ]
+  },
+  {
+    "id": 100210051,
+    "quest_type": 2,
+    "name": "10-1-5. Heroes of 300 Years Past",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021001,
+    "number_of_story_banner": 10,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 0,
+    "scenario_id": 10211020,
+    "prev_quest_ids": [
+      100210041
+    ]
+  },
+  {
+    "id": 100210052,
+    "quest_type": 1,
+    "name": "10-1-5. Clumps of Soil I",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1150071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403500
+      },
+      {
+        "type": 15,
+        "id": 106403000
+      },
+      {
+        "type": 16,
+        "id": 203300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000968,
+      870000960,
+      870000962,
+      870000329,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210042
+    ]
+  },
+  {
+    "id": 100210053,
+    "quest_type": 1,
+    "name": "10-1-5. Clumps of Soil I",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1150101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403500
+      },
+      {
+        "type": 15,
+        "id": 106403000
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 104403640,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000969,
+      870000964,
+      870000966,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210043
+    ]
+  },
+  {
+    "id": 100210061,
+    "quest_type": 1,
+    "name": "10-1-6. Heart of Clay III",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1120081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 16,
+        "id": 204300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000334,
+      870000336,
+      870000072,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210051
+    ]
+  },
+  {
+    "id": 100210062,
+    "quest_type": 1,
+    "name": "10-2-1. Clumps of Soil II",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1140101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403500
+      },
+      {
+        "type": 15,
+        "id": 106403000
+      },
+      {
+        "type": 16,
+        "id": 202300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000960,
+      870000962,
+      870000330,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210052
+    ]
+  },
+  {
+    "id": 100210063,
+    "quest_type": 1,
+    "name": "10-2-1. Clumps of Soil II",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1140101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403500
+      },
+      {
+        "type": 15,
+        "id": 106403000
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000964,
+      870000966,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210053
+    ]
+  },
+  {
+    "id": 100210071,
+    "quest_type": 1,
+    "name": "10-1-7. Heart of Clay IV",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1030381,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 16,
+        "id": 203300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000334,
+      870000336,
+      870000069,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210061
+    ]
+  },
+  {
+    "id": 100210072,
+    "quest_type": 1,
+    "name": "10-2-2. Sibling Rivalry I",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1130091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403500
+      },
+      {
+        "type": 15,
+        "id": 106403000
+      },
+      {
+        "type": 16,
+        "id": 202300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000960,
+      870000962,
+      870000330,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210062
+    ]
+  },
+  {
+    "id": 100210073,
+    "quest_type": 1,
+    "name": "10-2-2. Sibling Rivalry I",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1130091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403500
+      },
+      {
+        "type": 15,
+        "id": 106403000
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 106403150,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000964,
+      870000966,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210063
+    ]
+  },
+  {
+    "id": 100210081,
+    "quest_type": 2,
+    "name": "10-1-8. People You Want to Believe In",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021001,
+    "number_of_story_banner": 10,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 0,
+    "scenario_id": 10211030,
+    "prev_quest_ids": [
+      100210071
+    ]
+  },
+  {
+    "id": 100210082,
+    "quest_type": 1,
+    "name": "10-2-3. Sibling Rivalry II",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1120091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403200
+      },
+      {
+        "type": 16,
+        "id": 201300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000961,
+      870000331,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210072
+    ]
+  },
+  {
+    "id": 100210083,
+    "quest_type": 1,
+    "name": "10-2-3. Sibling Rivalry II",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1120091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 502400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000965,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210073
+    ]
+  },
+  {
+    "id": 100210091,
+    "quest_type": 1,
+    "name": "10-1-9. Clumps of Soil I",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1150071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 16,
+        "id": 203300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000967,
+      870000334,
+      870000336,
+      870000069,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 155,
+    "battle_id": 100211051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210081
+    ]
+  },
+  {
+    "id": 100210092,
+    "quest_type": 1,
+    "name": "10-2-4. Family Meeting I",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1040461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403200
+      },
+      {
+        "type": 16,
+        "id": 201300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000961,
+      870000331,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210082
+    ]
+  },
+  {
+    "id": 100210093,
+    "quest_type": 1,
+    "name": "10-2-4. Family Meeting I",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 107403350,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 503400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000965,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210083
+    ]
+  },
+  {
+    "id": 100210101,
+    "quest_type": 1,
+    "name": "10-2-1. Clumps of Soil II",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 10,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1140101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 16,
+        "id": 202300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000334,
+      870000336,
+      870000070,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210091
+    ]
+  },
+  {
+    "id": 100210102,
+    "quest_type": 1,
+    "name": "10-2-5. Family Meeting II",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1992291,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403200
+      },
+      {
+        "type": 16,
+        "id": 204300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000968,
+      870000961,
+      870000332,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210092
+    ]
+  },
+  {
+    "id": 100210103,
+    "quest_type": 1,
+    "name": "10-2-5. Family Meeting II",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1992291,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403200
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000969,
+      870000965,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210093
+    ]
+  },
+  {
+    "id": 100210111,
+    "quest_type": 2,
+    "name": "10-2-2. Onward, Vanguard!",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021001,
+    "number_of_story_banner": 10,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 0,
+    "scenario_id": 10211040,
+    "prev_quest_ids": [
+      100210101
+    ]
+  },
+  {
+    "id": 100210121,
+    "quest_type": 2,
+    "name": "10-2-3. A Lynn Wood Reunion",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021001,
+    "number_of_story_banner": 10,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 0,
+    "scenario_id": 10211050,
+    "prev_quest_ids": [
+      100210111
+    ]
+  },
+  {
+    "id": 100210131,
+    "quest_type": 2,
+    "name": "10-2-4. Jo & Bert",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021001,
+    "number_of_story_banner": 10,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 0,
+    "scenario_id": 10211060,
+    "prev_quest_ids": [
+      100210121
+    ]
+  },
+  {
+    "id": 100210141,
+    "quest_type": 1,
+    "name": "10-2-5. Sibling Rivalry I",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1130091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107300100
+      },
+      {
+        "type": 16,
+        "id": 202300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000335,
+      870000070,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210131
+    ]
+  },
+  {
+    "id": 100210151,
+    "quest_type": 1,
+    "name": "10-2-6. Sibling Rivalry II",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1120041,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107300100
+      },
+      {
+        "type": 16,
+        "id": 201300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000967,
+      870000335,
+      870000071,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210141
+    ]
+  },
+  {
+    "id": 100210161,
+    "quest_type": 2,
+    "name": "10-2-7. Prophecy Fulfilled",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021001,
+    "number_of_story_banner": 10,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 0,
+    "scenario_id": 10211070,
+    "prev_quest_ids": [
+      100210151
+    ]
+  },
+  {
+    "id": 100210171,
+    "quest_type": 1,
+    "name": "10-2-8. Family Meeting I",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1040461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 16,
+        "id": 201300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000037,
+      870000071,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210161
+    ]
+  },
+  {
+    "id": 100210181,
+    "quest_type": 1,
+    "name": "10-2-9. Family Meeting II",
+    "sort_order": 18,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000106,
+    "number_of_story_banner": 10,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1992291,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 16,
+        "id": 204300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 10,
+        "id": 821102,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000967,
+      870000037,
+      870000072,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 100211101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100210171
+    ]
+  },
+  {
+    "id": 100210191,
+    "quest_type": 2,
+    "name": "10-2-10. Chief Astronomer Shen Du",
+    "sort_order": 19,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021001,
+    "number_of_story_banner": 10,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 14,
+        "id": 710901,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 156,
+    "battle_id": 0,
+    "scenario_id": 10211080,
+    "prev_quest_ids": [
+      100210181
+    ]
   }
 ]

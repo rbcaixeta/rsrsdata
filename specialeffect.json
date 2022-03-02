@@ -3964,7 +3964,7 @@
     "id": 801040397,
     "state_change_id": 900040035,
     "name": "Demilune Counter",
-    "flavor_text": "Counters direct enemy attacks with Demilune<br>and decreases damage taken.",
+    "flavor_text": "Counters direct enemy attacks with Demilune and decreases damage taken.",
     "target_area": 1,
     "state_vars": [
       110100040,
@@ -4285,7 +4285,7 @@
     "id": 801040438,
     "state_change_id": 900040035,
     "name": "Torrential Storm",
-    "flavor_text": "Counters direct enemy attacks with Whirlpool<br>and decreases damage taken.",
+    "flavor_text": "Counters direct enemy attacks with Whirlpool and decreases damage taken.",
     "target_area": 1,
     "state_vars": [
       125200039,
@@ -4336,7 +4336,7 @@
     "id": 801040446,
     "state_change_id": 900040035,
     "name": "Counter",
-    "flavor_text": "Counters direct enemy attacks with a specific skill<br>and decreases damage taken.",
+    "flavor_text": "Counters direct enemy attacks with a specific skill and decreases damage taken.",
     "target_area": 1,
     "state_vars": [
       110200075,
@@ -4618,7 +4618,7 @@
     "id": 801040483,
     "state_change_id": 900040035,
     "name": "Savage Lion",
-    "flavor_text": "Counters direct enemy attacks with Savage Lion<br>and decreases damage taken.",
+    "flavor_text": "Counters direct enemy attacks with Savage Lion and decreases damage taken.",
     "target_area": 1,
     "state_vars": [
       110200094,
@@ -12479,7 +12479,7 @@
     "id": 802040476,
     "state_change_id": 900040035,
     "name": "Counter Defense",
-    "flavor_text": "Counters direct enemy attacks with 3 Mistresses (high chance)<br>and decreases damage taken.",
+    "flavor_text": "Counters direct enemy attacks with 3 Mistresses and decreases damage taken (high chance).",
     "target_area": 1,
     "state_vars": [
       125600041,
@@ -12498,7 +12498,7 @@
     "id": 802040478,
     "state_change_id": 900040035,
     "name": "Frying Pan Whack",
-    "flavor_text": "Counters direct enemy attacks with Frying Pan (high chance)<br>and decreases damage taken.",
+    "flavor_text": "Counters direct enemy attacks with Frying Pan and decreases damage taken (high chance).",
     "target_area": 1,
     "state_vars": [
       110400041,
@@ -12621,7 +12621,7 @@
     "id": 802040488,
     "state_change_id": 900040035,
     "name": "Counter Defense",
-    "flavor_text": "Counters direct enemy attacks with a normal attack<br>and decreases damage taken (high chance).",
+    "flavor_text": "Counters direct enemy attacks with a normal attack and decreases damage taken (high chance).",
     "target_area": 1,
     "state_vars": [
       110500029,
@@ -13695,7 +13695,7 @@
     "id": 802040645,
     "state_change_id": 900040035,
     "name": "Turbulence",
-    "flavor_text": "Counters direct enemy attacks with Air Bolt<br>and decreases damage taken.",
+    "flavor_text": "Counters direct enemy attacks with Air Bolt and decreases damage taken.",
     "target_area": 1,
     "state_vars": [
       125400032,
@@ -27539,7 +27539,7 @@
     "id": 1802040019,
     "state_change_id": 900040035,
     "name": "Counter Shot",
-    "flavor_text": "Counters direct enemy attacks with Derringer<br>and decreases damage taken.",
+    "flavor_text": "Counters direct enemy attacks with Derringer and decreases damage taken.",
     "target_area": 1,
     "state_vars": [
       110600033,
@@ -28057,6 +28057,24 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040049,
+    "state_change_id": 900050055,
+    "name": "Turn Start: Recover BP",
+    "flavor_text": "On start of turn, has a medium chance to recover some amount of BP.",
+    "target_area": 1,
+    "state_vars": [
+      2
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
     "direction_id": 1,
     "state_icon": 3001
   },

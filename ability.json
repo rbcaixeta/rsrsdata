@@ -17609,6 +17609,17 @@
     "icon": 4010
   },
   {
+    "id": 1702300012,
+    "name": "Reflexes Ⅱ",
+    "flavor_text": "[Start of turn]<br>Has a medium chance to:<br>Have oneself enter an evasive stance (1 turn(s)).<br>And recover own BP (+2).",
+    "special_effect_ids": [
+      802040624,
+      1802040049
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
     "id": 1702400001,
     "name": "Leader's Missions",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and recovers own BP (+1). ",
