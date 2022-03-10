@@ -3654,6 +3654,15 @@
     "priority": 231
   },
   {
+    "id": 1000000399,
+    "event_ability_category_id": 1000000198,
+    "name": "[Ltd. Time] The Seekers' Path",
+    "flavor_text": "・2x attribute gains in The Seekers' Path",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 237
+  },
+  {
     "id": 1000000400,
     "event_ability_category_id": 1000000199,
     "name": "[Ltd. Time] Demon Tower: Saruin I",
@@ -3724,5 +3733,32 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 235
+  },
+  {
+    "id": 1000000408,
+    "event_ability_category_id": 1000000203,
+    "name": "[Ltd. Time] Beast Hunt",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the Beast Hunt Quest",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 240
+  },
+  {
+    "id": 1000000409,
+    "event_ability_category_id": 1000000204,
+    "name": "[Ltd. Time] Beast Hunt I",
+    "flavor_text": "・2x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 239
+  },
+  {
+    "id": 1000000410,
+    "event_ability_category_id": 1000000205,
+    "name": "[Ltd. Time] Beast Hunt II",
+    "flavor_text": "・3x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 238
   }
 ]

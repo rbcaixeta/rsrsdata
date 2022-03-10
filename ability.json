@@ -17430,6 +17430,17 @@
     "icon": 4010
   },
   {
+    "id": 1702100030,
+    "name": "Soul of M. Arts",
+    "flavor_text": "When attacking with M. Arts, attack damage increases (large effect), and damage taken will be reduced (medium effect).",
+    "special_effect_ids": [
+      802040368,
+      802040045
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -17490,6 +17501,17 @@
     ],
     "ability_when": 2,
     "icon": 4007
+  },
+  {
+    "id": 1702200009,
+    "name": "Demonic Tide",
+    "flavor_text": "[Start of round]<br>Grants oneself an attack boost (very large effect/1 turn(s)).<br>Also increases own INT (large effect).",
+    "special_effect_ids": [
+      1802040050,
+      1802010011
+    ],
+    "ability_when": 2,
+    "icon": 4010
   },
   {
     "id": 1702300001,
@@ -17615,6 +17637,16 @@
     "special_effect_ids": [
       802040624,
       1802040049
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300013,
+    "name": "Slash Blitz",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies a slash attack boost (medium effect/1 turn(s)). (Max times: 3).",
+    "special_effect_ids": [
+      1802040051
     ],
     "ability_when": 3,
     "icon": 4010

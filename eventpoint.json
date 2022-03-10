@@ -702,6 +702,15 @@
     "sort_order": 3218
   },
   {
+    "id": 800121,
+    "name": "Ultra Deluxe Summon Medal XX",
+    "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "icon": 800121,
+    "max_quantity": 99999999,
+    "expired_at": 1649379599,
+    "sort_order": 3250
+  },
+  {
     "id": 800122,
     "name": "Romancing Festival Medal I",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -2943,6 +2952,24 @@
     "sort_order": 3196
   },
   {
+    "id": 1100472,
+    "name": "Luminous Stone (Red)",
+    "flavor_text": "Obtained from corresponding events.",
+    "icon": 1100472,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3212
+  },
+  {
+    "id": 1100474,
+    "name": "Precious Stone [Limited Time]",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items. (Until [1649033999] <tz>)",
+    "icon": 1100233,
+    "max_quantity": 99999999,
+    "expired_at": 1649033999,
+    "sort_order": 3206
+  },
+  {
     "id": 1100481,
     "name": "Checkered Cape Piece",
     "flavor_text": "Obtained from the Battle with Joker event. Can be exchanged for items.",
@@ -2959,6 +2986,15 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 3252
+  },
+  {
+    "id": 1100483,
+    "name": "Beast Hunt Ticket [Ltd. Time]",
+    "flavor_text": "A ticket for pulling the Beast Hunt Event BOX Surprises. (Until [1648429199] <tz>)",
+    "icon": 1100483,
+    "max_quantity": 99999999,
+    "expired_at": 1648429199,
+    "sort_order": 3246
   },
   {
     "id": 1000800004,
@@ -3490,5 +3526,14 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 3130
+  },
+  {
+    "id": 1001100214,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1648774799] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1648774799,
+    "sort_order": 3153
   }
 ]

@@ -83080,6 +83080,112 @@
     "awakening_material_set_ids": []
   },
   {
+    "id": 1110100029,
+    "name": "Nocturnal Chase",
+    "rush_prefix": "Nocturnal",
+    "rush_suffix": "Chase",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Slash+Shadow) <br>Attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      1,
+      8
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1001,
+    "skill_effect": 140100101,
+    "skill_se_cue_sheet_name": "140100101",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": []
+  },
+  {
+    "id": 1110100030,
+    "name": "Lunar Slash",
+    "rush_prefix": "Lunar",
+    "rush_suffix": "Slash",
+    "flavor_text": "Attack/Near/Direct/Fast/Single Foe (Slash) <br>Attack.<br>After attacking, the user enters a defensive counter stance (1 turn(s)).<br><br>Counterattack: Lunar Stream<br>Sword skill/Attack/Power: C/Direct/Single Foe (Slash+Lightning)<br>Attack.<br>When the attack hits, there is a chance to reduce target's STR (small effect).<br>(Uses skill rank of Lunar Slash).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "C",
+    "consume_bp": 7,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040032
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1001,
+    "skill_effect": 140100102,
+    "skill_se_cue_sheet_name": "140100102",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30013,
+      30021
+    ]
+  },
+  {
+    "id": 1110100031,
+    "name": "Demilune Burst+",
+    "rush_prefix": "Demilune",
+    "rush_suffix": "Burst",
+    "flavor_text": "Attack/Far/Direct/All Foes (Slash+Lightning) <br>All range attack.<br><change>Demilune Echo is then activated.<br><br>Demilune Echo<br>Sword skill/Attack/Power: S/Near/Direct/Single Foe (Slash+Lightning)<br>Attack. (Uses skill rank of Demilune Burst+)</change>",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 5,
+    "attack_attributes": [
+      1,
+      6
+    ],
+    "power_grade": "B",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040023
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1102,
+    "skill_effect": 1140100058,
+    "skill_se_cue_sheet_name": "140100058",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
+    ]
+  },
+  {
     "id": 1110200002,
     "name": "Moon Flash",
     "rush_prefix": "Moon",
@@ -84875,6 +84981,44 @@
     ]
   },
   {
+    "id": 1110500020,
+    "name": "Northern Trail",
+    "rush_prefix": "Northern",
+    "rush_suffix": "Trail",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Blunt+Cold) <br>Attack.<br>Puts all surviving allies into a defense boost stance (medium effect/2 turn(s)).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      2,
+      5
+    ],
+    "power_grade": "S",
+    "consume_bp": 12,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040031
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1009,
+    "skill_effect": 140500132,
+    "skill_se_cue_sheet_name": "140500132",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30032,
+      30040,
+      30048
+    ]
+  },
+  {
     "id": 1110600001,
     "name": "Sweet Trap",
     "rush_prefix": "Sweet",
@@ -86291,6 +86435,44 @@
     ]
   },
   {
+    "id": 1125100006,
+    "name": "Twilight Fall",
+    "rush_prefix": "Twilight",
+    "rush_suffix": "Fall",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Heat+Shadow) <br>Attack.<br>When the attack hits, inflicts unconsciousness on target (low chance).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      4,
+      8
+    ],
+    "power_grade": "SS",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030382
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2001,
+    "skill_effect": 145100056,
+    "skill_se_cue_sheet_name": "145100056",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
+    ]
+  },
+  {
     "id": 1125200001,
     "name": "Ice Javelins",
     "rush_prefix": "Ice",
@@ -86617,6 +86799,44 @@
     "skill_icon": 2004,
     "skill_effect": 1145200003,
     "skill_se_cue_sheet_name": "1145200003",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
+    "id": 1125200010,
+    "name": "Dry Slot",
+    "rush_prefix": "Dry",
+    "rush_suffix": "Slot",
+    "flavor_text": "Attack/Far/Indirect/Fast/All Foes (Cold+Shadow) <br>All range attack.<br>Nocturnal Chase is then activated.<br><br>Nocturnal Chase<br>Sword skill/Attack/Power: SSS/Indirect/Single Foe (Slash+Shadow)<br>Attack. (Uses skill/spell rank of Dry Slot)",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 52,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      5,
+      8
+    ],
+    "power_grade": "A",
+    "consume_bp": 16,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040030
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2004,
+    "skill_effect": 145200073,
+    "skill_se_cue_sheet_name": "145200073",
     "min_action_time": 1,
     "max_action_time": 1,
     "is_consumed_when_over_kill": 0,
