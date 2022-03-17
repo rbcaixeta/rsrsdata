@@ -370,6 +370,36 @@
     "expired_at": 1650070799
   },
   {
+    "id": 840098,
+    "name": "Battle Prep Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1652835599] <tz>)",
+    "icon": 840098,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 3230,
+    "expired_at": 1652835599
+  },
+  {
+    "id": 840099,
+    "name": "Battle Prep Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1652835599] <tz>)",
+    "icon": 840099,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 3232,
+    "expired_at": 1652835599
+  },
+  {
+    "id": 840100,
+    "name": "Battle Prep Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1652835599] <tz>)",
+    "icon": 840100,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 3234,
+    "expired_at": 1652835599
+  },
+  {
     "id": 840101,
     "name": "SF1 Remastered Release Stamina Potion (Sm.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1623718799] <tz>)",

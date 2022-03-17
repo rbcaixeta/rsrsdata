@@ -1977,6 +1977,16 @@
     "icon": 4005
   },
   {
+    "id": 702100664,
+    "name": "Defensive Counter Ⅳ",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with a blunt Gun skill (very high chance).",
+    "special_effect_ids": [
+      802040682
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
     "id": 702100668,
     "name": "Bulwark",
     "flavor_text": "When attacked, damage will be reduced (extreme effect) (Max times: 3).<br>*Only activates when hit by an attack.",
@@ -2004,6 +2014,28 @@
     "special_effect_ids": [
       802040001,
       802040005
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100676,
+    "name": "Prosperous Glow",
+    "flavor_text": "Increases all surviving allies' sun attacks' damage (medium effect).",
+    "special_effect_ids": [
+      802040691
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100680,
+    "name": "Unyielding Tenacity",
+    "flavor_text": "When attacked and HP reaches 0, returns to 30% of Max HP (Max times: 1).<br>When at critical HP, own attacks' damage increases (extreme effect), and reduces damage taken for oneself (extreme effect). ",
+    "special_effect_ids": [
+      802040696,
+      802040704,
+      802040705
     ],
     "ability_when": 1,
     "icon": 4010
@@ -2555,6 +2587,16 @@
     ],
     "ability_when": 2,
     "icon": 4010
+  },
+  {
+    "id": 702200679,
+    "name": "INT Well Ⅳ",
+    "flavor_text": "[Start of round]<br>Increases own INT (very large effect).",
+    "special_effect_ids": [
+      802010694
+    ],
+    "ability_when": 2,
+    "icon": 4001
   },
   {
     "id": 702200716,
@@ -5414,6 +5456,16 @@
     "flavor_text": "When landing an attack, increases own DEX (large effect).",
     "special_effect_ids": [
       802010081
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600678,
+    "name": "STR Surge Ⅳ",
+    "flavor_text": "When landing a Weak attack, increases own STR (very large effect).",
+    "special_effect_ids": [
+      802010695
     ],
     "ability_when": 6,
     "icon": 4001

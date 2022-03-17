@@ -1758,6 +1758,86 @@
     "state_icon": 3001
   },
   {
+    "id": 801010518,
+    "state_change_id": 900010012,
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "STR↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "140300069",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 801010519,
+    "state_change_id": 900010014,
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "Attributes↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "140800083",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 801010520,
+    "state_change_id": 900010017,
+    "name": "WIL Up",
+    "flavor_text": "Increases WIL.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 801010521,
+    "state_change_id": 900010018,
+    "name": "LOV Up",
+    "flavor_text": "Increases LOV.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 801010522,
+    "state_change_id": 900010019,
+    "name": "CHA Up",
+    "flavor_text": "Increases CHA.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
     "id": 801010523,
     "state_change_id": 900050054,
     "name": "Recover HP (very small)",
@@ -1774,6 +1854,40 @@
     "display_flag": 1,
     "direction_id": 1,
     "state_icon": 3001
+  },
+  {
+    "id": 801010525,
+    "state_change_id": 900010013,
+    "name": "END Down",
+    "flavor_text": "Decreases END.",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "END↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2002
+  },
+  {
+    "id": 801010526,
+    "state_change_id": 900050079,
+    "name": "Recoil Damage (10% Max HP)",
+    "flavor_text": "When attacking, use up 10% of max HP.",
+    "target_area": 1,
+    "state_vars": [
+      1
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "SelfHarm",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2002
   },
   {
     "id": 801010531,
@@ -4148,6 +4262,24 @@
     "target_area": 1,
     "state_vars": [
       2
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 801040418,
+    "state_change_id": 900050055,
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
+    "target_area": 3,
+    "state_vars": [
+      1
     ],
     "text_pop": "BP+",
     "text_color": "5BFF24",
@@ -7140,6 +7272,38 @@
     "display_flag": 0,
     "direction_id": 1,
     "state_icon": 3001
+  },
+  {
+    "id": 802010694,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "INT↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 802010695,
+    "state_change_id": 900010012,
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "STR↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
   },
   {
     "id": 802010734,
@@ -14020,6 +14184,25 @@
     "state_icon": 3001
   },
   {
+    "id": 802040682,
+    "state_change_id": 900040035,
+    "name": "Counter Defense",
+    "flavor_text": "Counters direct enemy attacks with a normal attack and decreases damage taken (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      110600010,
+      65
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 802040683,
     "state_change_id": 900040062,
     "name": "Bulwark",
@@ -14047,6 +14230,75 @@
     "text_pop": "Single ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040691,
+    "state_change_id": 900040048,
+    "name": "Sun Attack Boost",
+    "flavor_text": "Increases damage dealt to enemies when using a sun attack.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "Sun ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040696,
+    "state_change_id": 900040059,
+    "name": "Unyielding Tenacity",
+    "flavor_text": "When knocked unconscious, return to 30% HP.",
+    "target_area": 1,
+    "state_vars": [
+      0,
+      30
+    ],
+    "text_pop": "Unyielding Tenacity",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "Plane",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040704,
+    "state_change_id": 900040048,
+    "name": "ATK Boost at Critical HP",
+    "flavor_text": "Increases attack damage when HP is critically low.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040705,
+    "state_change_id": 900040062,
+    "name": "DEF Boost at Critical HP",
+    "flavor_text": "Decreases damage taken when HP is critically low.",
+    "target_area": 1,
+    "state_vars": [
+      50
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 0,
@@ -25818,6 +26070,31 @@
     "state_icon": 3001
   },
   {
+    "id": 809040341,
+    "state_change_id": 900050104,
+    "name": "Remove Attributes Buff",
+    "flavor_text": "Removes buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "target_area": 8,
+    "state_vars": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_pop": "Remove Buffs",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 0,
+    "state_icon": 2002
+  },
+  {
     "id": 850040523,
     "state_change_id": 950040078,
     "name": "Action Order Down (medium)",
@@ -26590,6 +26867,22 @@
     "state_icon": 1034
   },
   {
+    "id": 1801030002,
+    "state_change_id": 900030004,
+    "name": "Paralysis",
+    "flavor_text": "Character is incapacitated.<br>Recovers after some number of turns.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Paralysis",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 1034
+  },
+  {
     "id": 1801040001,
     "state_change_id": 900040036,
     "name": "Counter",
@@ -27045,6 +27338,24 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040033,
+    "state_change_id": 900050073,
+    "name": "Hammer Roll",
+    "flavor_text": "Attacks with Heavy Impact after attacking with Hammer Roll.",
+    "target_area": 1,
+    "state_vars": [
+      1110400005
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
     "direction_id": 1,
     "state_icon": 3001
   },
