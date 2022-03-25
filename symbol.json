@@ -2704,6 +2704,32 @@
     "in_group_priority": 95
   },
   {
+    "id": 1230,
+    "name": "Random Cave",
+    "flavor_text": "An ordinary cave. Seems to be rich in ore and more.",
+    "map_id": 1,
+    "x": 3,
+    "y": 2,
+    "illust_category": 1,
+    "illust": 1005,
+    "priority": 1,
+    "group_id": 2713,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1231,
+    "name": "Water Lord",
+    "flavor_text": "An Edelritter with the strength of a monster thanks to the Egg.",
+    "map_id": 1,
+    "x": -11,
+    "y": 15,
+    "illust_category": 2,
+    "illust": 1991991,
+    "priority": 1,
+    "group_id": 2714,
+    "in_group_priority": 99
+  },
+  {
     "id": 1234,
     "name": "Joker",
     "flavor_text": "The mysterious man who killed Emelia's fiance, Ren. Face is always covered with a mask like the joker from a deck of cards.",

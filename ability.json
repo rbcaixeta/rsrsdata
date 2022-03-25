@@ -17493,6 +17493,27 @@
     "icon": 4010
   },
   {
+    "id": 1702100031,
+    "name": "Dual Counter",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with Dual Cutting Lunge (very high chance).<br><br>Counterattack: Dual Cutting Lunge<br>G. Sword skill/Attack/Power: A/Direct/Single Foe (Slash+Heat)<br>Attack.<br>Increases own STR (large effect).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1802040052
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 1702100032,
+    "name": "Strengthened Unity Ⅱ",
+    "flavor_text": "When all allies are still surviving, own attacks' damage increases (large effect).<br><br>[Start of battle]<br>Recovers own BP (+2).",
+    "special_effect_ids": [
+      1802040033,
+      802040322
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",

@@ -28493,6 +28493,25 @@
     "state_icon": 3001
   },
   {
+    "id": 1802040052,
+    "state_change_id": 900040035,
+    "name": "Dual Counter",
+    "flavor_text": "Counters direct enemy attacks with Dual Cutting Lunge and decreases damage taken (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      110200107,
+      65
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 1802040362,
     "state_change_id": 900040048,
     "name": "Damage Up",

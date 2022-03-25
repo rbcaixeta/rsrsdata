@@ -3832,5 +3832,41 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 245
+  },
+  {
+    "id": 1000000419,
+    "event_ability_category_id": 1000000211,
+    "name": "[Ltd. Time] Gustave's Sword I",
+    "flavor_text": "・3x attribute gains in Gustave's Sword",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 246
+  },
+  {
+    "id": 1000000420,
+    "event_ability_category_id": 1000000211,
+    "name": "[Ltd. Time] Gustave's Sword II",
+    "flavor_text": "・4x attribute gains in Gustave's Sword (3x in Main)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 246
+  },
+  {
+    "id": 1000000421,
+    "event_ability_category_id": 1000000212,
+    "name": "[Ltd. Time] Battle with Water Lord I",
+    "flavor_text": "・3x attribute gains in Battle with Water Lord<br>・Bonus Water Beast Claw drops in Battle with Water Lord・Bonus (Water/Wind) Zephyr Staff drops in Battle with Water Lord (Hard - Ultra Hard)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 247
+  },
+  {
+    "id": 1000000422,
+    "event_ability_category_id": 1000000212,
+    "name": "[Ltd. Time] Battle with Water Lord II",
+    "flavor_text": "・4x attribute gains in Battle with Water Lord (3x in Main)<br>・Bonus Water Beast Claw drops in Battle with Water Lord・Bonus (Water/Wind) Zephyr Staff drops in Battle with Water Lord (Hard - Ultra Hard)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 247
   }
 ]
