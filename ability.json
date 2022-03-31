@@ -1937,6 +1937,17 @@
     "icon": 4005
   },
   {
+    "id": 702100649,
+    "name": "Warcry (Slash/Lightning)",
+    "flavor_text": "Increases all surviving allies' slash attacks' damage (small effect).<br>Increases all surviving allies' lightning attacks' damage (small effect).",
+    "special_effect_ids": [
+      802040502,
+      802040662
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702100650,
     "name": "Scrum Guard",
     "flavor_text": "When all allies are still surviving, reduces damage for all allies (medium effect).",
@@ -2062,12 +2073,188 @@
     "icon": 4010
   },
   {
+    "id": 702100704,
+    "name": "Fortified Fortress",
+    "flavor_text": "When attacked, damage will be reduced by 100% (high chance).",
+    "special_effect_ids": [
+      802040735
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100705,
+    "name": "Sword Prowess Ⅳ",
+    "flavor_text": "When attacking with swords, damage increases (very large effect).",
+    "special_effect_ids": [
+      802040736
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100706,
+    "name": "Hyper Over Tension",
+    "flavor_text": "Attacks' damage increases (very large effect).<br>Own combo/OD attacks' damage increases (large effect).<br>(An OverDrive Combo attack will receive both buffs).",
+    "special_effect_ids": [
+      802040346,
+      802040007,
+      802040006
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100707,
+    "name": "Froststrike Ward",
+    "flavor_text": "Nullifies attacks which have cold damage. Also counterattacks with a cold club skill when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).",
+    "special_effect_ids": [
+      802040737
+    ],
+    "ability_when": 1,
+    "icon": 1007
+  },
+  {
+    "id": 702100709,
+    "name": "S. Sword Prowess Ⅳ",
+    "flavor_text": "When attacking with S. Swords, damage increases (very large effect).",
+    "special_effect_ids": [
+      802040738
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100710,
+    "name": "Warcry (Pierce/Sun)",
+    "flavor_text": "Increases all surviving allies' pierce attacks' damage (small effect).<br>Increases all surviving allies' sun attacks' damage (small effect).",
+    "special_effect_ids": [
+      802040647,
+      802040484
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702100713,
     "name": "Strengthened Energy Ⅱ",
     "flavor_text": "Attacks' damage increases (medium effect).<br><br>[Start of battle]<br>Recovers own BP (+2).",
     "special_effect_ids": [
       802040002,
       802040322
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100715,
+    "name": "Fired Up Ⅵ",
+    "flavor_text": "Attacks' damage increases (extreme effect).",
+    "special_effect_ids": [
+      802040741
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100717,
+    "name": "Shade Amp Ⅳ",
+    "flavor_text": "Shadow attacks' damage increases (very large effect).",
+    "special_effect_ids": [
+      802040744
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100720,
+    "name": "Absorbing Light",
+    "flavor_text": "Nullifies attacks which have sun damage. Also counterattacks with Mirage Blade+ when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).<br><br>Counterattack: Mirage Blade+<br>Sword skill/Attack/Power: C/Direct/All Foes (Slash)<br>All range attack.<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040747
+    ],
+    "ability_when": 1,
+    "icon": 1002
+  },
+  {
+    "id": 702100721,
+    "name": "Headbutt Counter",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with Headbutt.<br><br>Counterattack: Headbutt<br>Staff skill/Attack/Power: A/Direct/Single Foe (Blunt)<br>Attack.<br>When the attack hits, there is a chance to reduce target's INT (small effect).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040748
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100722,
+    "name": "Leaping Counter",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Jumping Shot (high chance).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      802040749
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100723,
+    "name": "G. Sword Prowess Ⅳ",
+    "flavor_text": "When attacking with G. Swords, damage increases (very large effect).",
+    "special_effect_ids": [
+      802040752
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100726,
+    "name": "Asura's Price",
+    "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacking with swords, attack damage increases further (extreme effect).<br>Loses 3 LP at start of battle as recoil damage.",
+    "special_effect_ids": [
+      802040741,
+      802040803,
+      802040805
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100727,
+    "name": "Fantasia",
+    "flavor_text": "When being attacked, evades enemy's attack (high chance).",
+    "special_effect_ids": [
+      802040765
+    ],
+    "ability_when": 1,
+    "icon": 4006
+  },
+  {
+    "id": 702100728,
+    "name": "Fireworks Counter",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with Fireworks (high chance).<br><br>Counterattack: Fireworks<br>M. Arts skill/Attack/Power: C/Indirect/All Foes (Heat) *M. Arts Special Skill (INT)<br>All range attack. (Activates using skill Rank 1)<br>Recovers all surviving allies' BP (+1).",
+    "special_effect_ids": [
+      802040796
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 702100730,
+    "name": "Ironwall Defense Ⅵ",
+    "flavor_text": "When attacked, damage will be reduced (extreme effect).",
+    "special_effect_ids": [
+      802040768
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100738,
+    "name": "カウンターハイテンション",
+    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>カウンター攻撃の場合、さらに与ダメージが上昇する( 効果特大 )",
+    "special_effect_ids": [
+      802040346,
+      802040012
     ],
     "ability_when": 1,
     "icon": 4010
@@ -2082,6 +2269,78 @@
     ],
     "ability_when": 1,
     "icon": 4010
+  },
+  {
+    "id": 702100743,
+    "name": "Weak Point Focus Ⅴ",
+    "flavor_text": "Weak attacks' damage increases (extreme effect).",
+    "special_effect_ids": [
+      802040802
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100746,
+    "name": "霊銀の壁",
+    "flavor_text": "攻撃を受けた時<br>被ダメージを100%カットする( 上限回数:3 ※攻撃が命中した時のみ発動 )",
+    "special_effect_ids": [
+      802040809
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 702100750,
+    "name": "勇健強撃Ⅴ",
+    "flavor_text": "[HP満タン時] <br>与ダメージが上昇する( 効果極大 )",
+    "special_effect_ids": [
+      802040813
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702100757,
+    "name": "奇偶活性(知力、素早さ)",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の知力を上昇させる( 効果特大 )<br>バトル開始から数えて偶数ターン目の開始時、自身の素早さを上昇させる( 効果特大 )",
+    "special_effect_ids": [
+      802040819,
+      802040820
+    ],
+    "ability_when": 1,
+    "icon": 4001
+  },
+  {
+    "id": 702100760,
+    "name": "奇偶活性(素早さ、腕力)",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の素早さを上昇させる( 効果特大 )<br>バトル開始から数えて偶数ターン目の開始時、自身の腕力を上昇させる( 効果特大 )",
+    "special_effect_ids": [
+      802040822,
+      802040821
+    ],
+    "ability_when": 1,
+    "icon": 4001
+  },
+  {
+    "id": 702100769,
+    "name": "ロビンズリベンジ",
+    "flavor_text": "攻撃を受けた時 <br>熱属性を含むダメージを無効化する<br>さらに、直接攻撃に対してロビンズムーブで反撃をする<br>( パリイを使用したターンは反撃しない )<br><br>反撃技：ロビンズムーブ<br>剣技/攻撃/威力B/直接/敵横一列 ( 斬+打 ) <br>範囲攻撃する<br>攻撃命中時に確率で、対象の精神を低下させる( 効果小 )<br>さらに、自身を挑発状態にする( 効果中/効果4ターン )<br>( 技Rank1で発動 )",
+    "special_effect_ids": [
+      802040837
+    ],
+    "ability_when": 1,
+    "icon": 1002
+  },
+  {
+    "id": 702100770,
+    "name": "おしおきボム",
+    "flavor_text": "攻撃を受けた時 <br>冷属性を含むダメージを無効化する<br>さらに、直接攻撃に対してロビンボムで反撃をする<br>( パリイを使用したターンは反撃しない )<br><br>反撃技：ロビンボム<br>弓技/攻撃/威力D/間接/敵全体 ( 打+熱 ) <br>全体攻撃する<br>攻撃命中時、対象をスタンさせる( 確率小 )<br>( 技Rank1で発動 )",
+    "special_effect_ids": [
+      802040838
+    ],
+    "ability_when": 1,
+    "icon": 1017
   },
   {
     "id": 702101046,
@@ -2405,16 +2664,6 @@
     "icon": 4003
   },
   {
-    "id": 702200462,
-    "name": "Viral Paralysis",
-    "flavor_text": "[Start of round]<br>Inflicts paralysis on all enemies (medium chance/4 turn(s)).",
-    "special_effect_ids": [
-      802030453
-    ],
-    "ability_when": 2,
-    "icon": 3004
-  },
-  {
     "id": 702200463,
     "name": "Viral Sleep",
     "flavor_text": "[Start of round]<br>Inflicts sleep on all enemies (medium chance/4 turn(s)).",
@@ -2599,6 +2848,61 @@
     "icon": 4001
   },
   {
+    "id": 702200681,
+    "name": "Raiding Roar",
+    "flavor_text": "[Start of round]<br>Grants oneself an attack boost (very large effect/1 turn(s)).<br>Increases own STR (large effect).",
+    "special_effect_ids": [
+      802040666,
+      802010710
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 702200683,
+    "name": "Inhibitor Ⅲ (AGI/WIL)",
+    "flavor_text": "[Start of round]<br>Reduces all enemies' AGI/WIL (large effect).",
+    "special_effect_ids": [
+      802010707,
+      802010708
+    ],
+    "ability_when": 2,
+    "icon": 4003
+  },
+  {
+    "id": 702200686,
+    "name": "Haste",
+    "flavor_text": "[Start of round]<br>Increases all surviving allies' action order value (medium effect/1 turn(s)).",
+    "special_effect_ids": [
+      802040711
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
+    "id": 702200687,
+    "name": "Inhibitor Ⅲ (DEX/AGI)",
+    "flavor_text": "[Start of round]<br>Reduces all enemies' DEX/AGI (large effect).",
+    "special_effect_ids": [
+      802010712,
+      802010537
+    ],
+    "ability_when": 2,
+    "icon": 4003
+  },
+  {
+    "id": 702200714,
+    "name": "Princess's Hope",
+    "flavor_text": "[Start of round]<br>Increases own DEX/INT (medium effect), and has oneself enter an evasive stance (1 turn(s)).",
+    "special_effect_ids": [
+      802010739,
+      802010740,
+      802040624
+    ],
+    "ability_when": 2,
+    "icon": 4010
+  },
+  {
     "id": 702200716,
     "name": "Imperial Assault",
     "flavor_text": "[Start of round]<br>Grants all surviving allies an attack boost (medium effect/1 turn(s)).",
@@ -2607,6 +2911,36 @@
     ],
     "ability_when": 2,
     "icon": 4010
+  },
+  {
+    "id": 702200729,
+    "name": "Mystic Manner",
+    "flavor_text": "[Start of round]<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (large effect), and grants oneself a defense boost (extreme effect/1 turn(s)) and an attack boost (large effect/1 turn(s)).",
+    "special_effect_ids": [
+      802040797,
+      802040800,
+      802010804,
+      802010757,
+      802010758,
+      802010759,
+      802010760,
+      802010761,
+      802010762,
+      802010763
+    ],
+    "ability_when": 2,
+    "icon": 4001
+  },
+  {
+    "id": 702200764,
+    "name": "正面衝突",
+    "flavor_text": "[ラウンド開始時] <br>自身を挑発状態にする( 効果特大/効果4ターン )<br>さらに、自身の腕力を上昇させる( 効果特大 )",
+    "special_effect_ids": [
+      802040320,
+      802010646
+    ],
+    "ability_when": 2,
+    "icon": 4009
   },
   {
     "id": 702300063,
@@ -3088,6 +3422,223 @@
     "icon": 4010
   },
   {
+    "id": 702300689,
+    "name": "Weakening Ⅳ (STR)",
+    "flavor_text": "[Start of turn]<br>Reduces a random enemy's STR (medium chance/very large effect).",
+    "special_effect_ids": [
+      802010714
+    ],
+    "ability_when": 3,
+    "icon": 4003
+  },
+  {
+    "id": 702300695,
+    "name": "Healing Breath Ⅲ",
+    "flavor_text": "[Start of turn]<br>Recovers own HP (high chance/medium effect).",
+    "special_effect_ids": [
+      802040061
+    ],
+    "ability_when": 3,
+    "icon": 4007
+  },
+  {
+    "id": 702300701,
+    "name": "Dragon Guard",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies a defense boost (large effect/1 turn(s)/high chance).",
+    "special_effect_ids": [
+      802040730
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300708,
+    "name": "Gentle Magic",
+    "flavor_text": "[Start of turn]<br>Has a high chance to:<br>Increase own INT (medium effect) and recover own HP (small effect). ",
+    "special_effect_ids": [
+      802010601,
+      802040062
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300724,
+    "name": "Concentration",
+    "flavor_text": "[Start of turn]<br>Increases own WIL (very high chance/very large effect).",
+    "special_effect_ids": [
+      802010753
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300725,
+    "name": "Mystic Power Ⅲ",
+    "flavor_text": "[Start of turn]<br>Has a medium chance to:<br>Increase own STR/END/DEX/AGI/INT/WIL/LOV/CHA (large effect).<br>And recover own BP (+3). ",
+    "special_effect_ids": [
+      802010756,
+      802010757,
+      802010758,
+      802010759,
+      802010760,
+      802010761,
+      802010762,
+      802010763,
+      802040755
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300731,
+    "name": "Mystic Power Ⅱ",
+    "flavor_text": "[Start of turn]<br>Has a medium chance to:<br>Increase own STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).<br>And recover own BP (+2). ",
+    "special_effect_ids": [
+      802010769,
+      802010770,
+      802010771,
+      802010772,
+      802010773,
+      802010774,
+      802010775,
+      802010776,
+      802040754
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300732,
+    "name": "Celestial's Grace",
+    "flavor_text": "[Start of turn]<br>Has a medium chance to:<br>Increase all surviving allies' INT (medium effect) and recover all surviving allies' HP (very small effect).",
+    "special_effect_ids": [
+      802010777,
+      802010778
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 702300734,
+    "name": "Earth Blessing",
+    "flavor_text": "[Start of turn]<br>Has a high chance to:<br>Increase a random surviving ally's END (large effect).<br>And grant a random surviving ally a defense boost (large effect/2 turn(s)).",
+    "special_effect_ids": [
+      802010781,
+      802040780
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300744,
+    "name": "Close Quarters",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies an attack boost (medium effect/1 turn(s)) and a defense boost (medium effect/1 turn(s)) (high chance).",
+    "special_effect_ids": [
+      802040806,
+      802040807
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300747,
+    "name": "能力必揚(腕力、精神)",
+    "flavor_text": "[ターン開始時] <br>自身の腕力と精神を上昇させる( 効果中 )",
+    "special_effect_ids": [
+      802010824,
+      802010774
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300751,
+    "name": "幸運の占術",
+    "flavor_text": "[ターン開始時] <br>一定の確率で( 確率特大 )<br>自身に攻撃強化( 効果特大/効果1ターン )を付与し、<br>かつ、自身のBPを回復( +2 )する",
+    "special_effect_ids": [
+      802040827,
+      802040754
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300752,
+    "name": "闘者の力",
+    "flavor_text": "[ターン開始時]<br>自身の腕力を上昇( 効果中 )させ、かつ、自身に防御強化( 効果特大/効果1ターン )を付与する",
+    "special_effect_ids": [
+      802040814,
+      802040831
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300755,
+    "name": "奇偶活性(知力、素早さ)",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、知力が上昇する( 効果特大 )",
+    "special_effect_ids": [
+      802010816
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300756,
+    "name": "奇偶活性(知力、素早さ)",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、素早さが上昇する( 効果特大 )",
+    "special_effect_ids": [
+      802010818
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300758,
+    "name": "奇偶活性(素早さ、腕力)",
+    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、腕力が上昇する( 効果特大 )",
+    "special_effect_ids": [
+      802010817
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300759,
+    "name": "奇偶活性(素早さ、腕力)",
+    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、素早さが上昇する( 効果特大 )",
+    "special_effect_ids": [
+      802010818
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300768,
+    "name": "神格",
+    "flavor_text": "[ターン開始時] <br>自身に「モラルアップ(中)」を付与する( 効果1ターン )<br>自身に「ガードアップ(中)」を付与する( 効果1ターン )<br>自身のBPを回復する( +1 )",
+    "special_effect_ids": [
+      802040835,
+      802040836,
+      802040812
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 702300772,
+    "name": "練気熟達 I（腕力、知力） ",
+    "flavor_text": "[ターン開始時] <br>自身の腕力と知力を上昇させる( 効果小 )<br>さらに、自身のBPを回復( +1 )する",
+    "special_effect_ids": [
+      802040812,
+      802010846,
+      802010845
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
     "id": 702400318,
     "name": "Detox",
     "flavor_text": "[End of turn]<br>Cures oneself from all status ailments.",
@@ -3172,11 +3723,65 @@
     "icon": 4007
   },
   {
+    "id": 702400718,
+    "name": "Punishing Wave Ⅰ",
+    "flavor_text": "[End of turn]<br>Recovers all surviving allies' BP (medium chance/+1).",
+    "special_effect_ids": [
+      802040745
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
+    "id": 702400739,
+    "name": "練気活性Ⅴ",
+    "flavor_text": "[ターン終了時] <br>自身のBPを回復する( 確率中/+5 )",
+    "special_effect_ids": [
+      802040798
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
+    "id": 702400741,
+    "name": "練気再生Ⅲ",
+    "flavor_text": "[ターン終了時] <br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )させ、かつ、自身のBPを回復( +3 )する",
+    "special_effect_ids": [
+      802040062,
+      802040755
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
+    "id": 702400745,
+    "name": "デトックスフォース",
+    "flavor_text": "[ターン終了時] <br>自身の状態異常をすべて解除し、<br>さらに、自身のBPを回復( +1 )する",
+    "special_effect_ids": [
+      802040310,
+      802040812
+    ],
+    "ability_when": 4,
+    "icon": 4008
+  },
+  {
     "id": 702400762,
     "name": "Healing Energy",
     "flavor_text": "[End of turn]<br>Recovers all surviving allies' HP (high chance/very small effect).",
     "special_effect_ids": [
       802010778
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
+    "id": 702400767,
+    "name": "神の衣",
+    "flavor_text": "[ターン終了時] <br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果大 )し、さらに、自身のすべての状態異常と腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "special_effect_ids": [
+      802040060,
+      802040844,
+      802040834
     ],
     "ability_when": 4,
     "icon": 4007
@@ -5471,6 +6076,48 @@
     "icon": 4001
   },
   {
+    "id": 702600682,
+    "name": "Dare to Hope Ⅲ",
+    "flavor_text": "When attacked and HP reaches 0, recovers all surviving allies' HP (very large effect).",
+    "special_effect_ids": [
+      802040709
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600684,
+    "name": "Recurring Regen (INT)",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect), and increases own INT (medium effect).",
+    "special_effect_ids": [
+      802040622,
+      802010088
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600685,
+    "name": "Raging Spirit Ⅱ (STR/INT)",
+    "flavor_text": "When landing an attack, increases own STR/INT (large effect).",
+    "special_effect_ids": [
+      802010075,
+      802010087
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600691,
+    "name": "Chasing Tempest",
+    "flavor_text": "When landing an attack with Healing Arrow, Tempest Orb will be activated (high chance).<br><br>Tempest Orb<br>Wind spell/Attack/Power: SSS/Indirect/Single Foe (Slash)<br>Attack.<br>(Activates using spell Rank 1).",
+    "special_effect_ids": [
+      802040716
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
     "id": 702600692,
     "name": "AGI Absorb",
     "flavor_text": "When landing an attack, has a medium chance to:<br>Reduce target's AGI (medium effect) and increase own AGI (medium effect).",
@@ -5492,6 +6139,56 @@
     "icon": 4010
   },
   {
+    "id": 702600700,
+    "name": "Sage's Teaching",
+    "flavor_text": "When recovery actions are made, recovers own HP (medium effect).<br>And increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (medium effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "special_effect_ids": [
+      802040732,
+      802040722,
+      802040723,
+      802040724,
+      802040725,
+      802040726,
+      802040727,
+      802040728,
+      802040729
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600702,
+    "name": "INT Spread",
+    "flavor_text": "When landing an attack, increases all surviving allies' INT (medium chance/large effect).",
+    "special_effect_ids": [
+      802010731
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600703,
+    "name": "Paralysis Poison Breach",
+    "flavor_text": "When landing an attack, inflicts paralysis on target (medium chance/4 turn(s)).<br>When landing an attack, inflicts poison on target (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030240,
+      802030237
+    ],
+    "ability_when": 6,
+    "icon": 3004
+  },
+  {
+    "id": 702600711,
+    "name": "Raging Spirit Ⅱ (DEX/INT)",
+    "flavor_text": "When landing an attack, increases own DEX/INT (large effect).",
+    "special_effect_ids": [
+      802010751,
+      802010612
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
     "id": 702600712,
     "name": "Breath of Invigoration Ⅰ",
     "flavor_text": "When landing an attack, recovers own HP (very small effect), and recovers own BP (+1).",
@@ -5501,6 +6198,85 @@
     ],
     "ability_when": 6,
     "icon": 4007
+  },
+  {
+    "id": 702600719,
+    "name": "Chasing Splash",
+    "flavor_text": "When landing a Normal Attack, Splash will be activated.<br><br>Splash<br>Water spell/Attack/Indirect/Power: C/Single Foe (Cold)<br>Attack.<br>(Activates using spell Rank 1).",
+    "special_effect_ids": [
+      802040746
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600735,
+    "name": "Hot-Blooded",
+    "flavor_text": "When being attacked, increases own STR/END/WIL (large effect).",
+    "special_effect_ids": [
+      802010782,
+      802010783,
+      802010784
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600742,
+    "name": "能力弱体Ⅳ(素早さ)",
+    "flavor_text": "攻撃命中時<br>対象の素早さを低下させる( 確率中/効果特大 )",
+    "special_effect_ids": [
+      802010801
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 702600761,
+    "name": "練撃の波動 I",
+    "flavor_text": "攻撃対象を倒した時<br>味方生存者全体のBPを回復する( 倒した数によらず回復量は+1 )",
+    "special_effect_ids": [
+      802040825
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 702600763,
+    "name": "チェイスバスター",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「バスターランサー」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「バスターランサー」「R杯で伝承した技・術」「カウンター効果による反撃技・術」は含まない",
+    "special_effect_ids": [
+      802040828,
+      802040829,
+      802040830
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 702600766,
+    "name": "活性の練気 I（体力）",
+    "flavor_text": "攻撃命中時、自身の体力を上昇( 効果中 )させ、さらに、自身のBPを回復( +1 )する",
+    "special_effect_ids": [
+      802010079,
+      802040742
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 702600771,
+    "name": "せいさい",
+    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「てんばつ」が発動する( 確率大 )<br>この効果による「てんばつ」を命中させた時、さらに「ひかりあれ」が発動する( 確率大 )<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>てんばつ<br>体術技/攻撃/威力D/遠/間接/敵全体 ( 雷+陽 ) ※体術技特殊タイプ(知)<br>全体攻撃する( 技Rank1で発動 )<br><br>ひかりあれ<br>体術技/攻撃/威力B/遠/間接/敵全体 ( 雷+陽 ) ※体術技特殊タイプ(知)<br>全体攻撃する<br>攻撃命中時、対象を暗闇状態にする( 確率中/効果4ターン )<br>( 技Rank1で発動 )",
+    "special_effect_ids": [
+      802040839,
+      802040840,
+      802040841,
+      802040842,
+      802040843
+    ],
+    "ability_when": 6,
+    "icon": 4010
   },
   {
     "id": 703100001,
@@ -16843,6 +17619,136 @@
     "icon": 4005
   },
   {
+    "id": 708100067,
+    "name": "Deception",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with Evil Trick (medium chance).",
+    "special_effect_ids": [
+      808040072
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
+    "id": 708100070,
+    "name": "Fired Up Ⅲ",
+    "flavor_text": "Attacks' damage increases (medium effect).",
+    "special_effect_ids": [
+      808040079
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 708100071,
+    "name": "Fired Up Ⅳ",
+    "flavor_text": "Attacks' damage increases (large effect).",
+    "special_effect_ids": [
+      808040080
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 708100072,
+    "name": "Fired Up Ⅴ",
+    "flavor_text": "Attacks' damage increases (very large effect).",
+    "special_effect_ids": [
+      808040081
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 708100079,
+    "name": "Purifying Light",
+    "flavor_text": "Nullifies attacks which have shadow damage. Also counterattacks with Saint Fire when being directly attacked.<br>(Counters using spell Rank 1/Counterattacks will not activate when parry is used in the same turn).<br>Saint Fire: Light Spell/Row of Foes (Sun+Heat) [Critical: Undead/Demon].",
+    "special_effect_ids": [
+      808040098
+    ],
+    "ability_when": 1,
+    "icon": 2010
+  },
+  {
+    "id": 708100080,
+    "name": "Weakness Reveal",
+    "flavor_text": "Has oneself enter a defense down stance (medium effect).",
+    "special_effect_ids": [
+      808040342
+    ],
+    "ability_when": 1,
+    "icon": 4004
+  },
+  {
+    "id": 708100082,
+    "name": "Guard",
+    "flavor_text": "Takes an ally's place in being attacked (high chance).",
+    "special_effect_ids": [
+      808040102
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 708100086,
+    "name": "Wait Your Turn Ⅰ",
+    "flavor_text": "[Start of battle]<br>Nullifies damage (1 turn(s)).",
+    "special_effect_ids": [
+      808040106
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 708100087,
+    "name": "Wait Your Turn Ⅱ",
+    "flavor_text": "[Start of battle]<br>Nullifies damage (2 turn(s)).",
+    "special_effect_ids": [
+      808040107
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 708100088,
+    "name": "Wait Your Turn Ⅲ",
+    "flavor_text": "[Start of battle]<br>Nullifies damage (3 turn(s)).",
+    "special_effect_ids": [
+      808040108
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 708100089,
+    "name": "Wait Your Turn Ⅳ",
+    "flavor_text": "[Start of battle]<br>Nullifies damage (4 turn(s)).",
+    "special_effect_ids": [
+      808040109
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
+    "id": 708100090,
+    "name": "Art Unveiling",
+    "flavor_text": "[Start of battle]<br>Recovers all surviving enemies' BP to 20.",
+    "special_effect_ids": [
+      808040056
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 708100092,
+    "name": "Throne's Safeguard",
+    "flavor_text": "[Start of battle]<br>Nullifies damage.",
+    "special_effect_ids": [
+      808040110
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
     "id": 708300012,
     "name": "Reinforce (STR)",
     "flavor_text": "[Start of turn]<br>Increases own STR (large effect).",
@@ -16905,6 +17811,42 @@
     "icon": 4003
   },
   {
+    "id": 708300068,
+    "name": "Excitement Ⅰ",
+    "flavor_text": "[Start of turn]<br>Increases own STR/DEX/INT (medium chance/small effect).",
+    "special_effect_ids": [
+      808010074,
+      808010075,
+      808010076
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 708300077,
+    "name": "Excitement Ⅱ",
+    "flavor_text": "[Start of turn]<br>Increases own STR/DEX/INT (medium chance/medium effect).",
+    "special_effect_ids": [
+      808010092,
+      808010093,
+      808010094
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 708300078,
+    "name": "Excitement Ⅲ",
+    "flavor_text": "[Start of turn]<br>Increases own STR/DEX/INT (medium chance/large effect).",
+    "special_effect_ids": [
+      808010095,
+      808010096,
+      808010097
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
     "id": 708400052,
     "name": "Regen",
     "flavor_text": "[End of turn]<br>Recovers own HP (large effect).",
@@ -16934,6 +17876,60 @@
     ],
     "ability_when": 4,
     "icon": 4010
+  },
+  {
+    "id": 708400091,
+    "name": "Stage for Art",
+    "flavor_text": "[End of turn]<br>Recovers all surviving enemies' BP to 20.",
+    "special_effect_ids": [
+      808040057
+    ],
+    "ability_when": 4,
+    "icon": 4010
+  },
+  {
+    "id": 708400094,
+    "name": "Nameless Axe",
+    "flavor_text": "Summons Nameless Axe on specific turns.",
+    "special_effect_ids": [
+      809040391,
+      809040392
+    ],
+    "ability_when": 4,
+    "icon": 4014
+  },
+  {
+    "id": 708400095,
+    "name": "Nameless Spear",
+    "flavor_text": "Summons Nameless Spear on specific turns.",
+    "special_effect_ids": [
+      809040389,
+      809040390
+    ],
+    "ability_when": 4,
+    "icon": 4014
+  },
+  {
+    "id": 708400096,
+    "name": "Nameless Shield",
+    "flavor_text": "Summons Nameless Shield on specific turns.",
+    "special_effect_ids": [
+      809040393,
+      809040394
+    ],
+    "ability_when": 4,
+    "icon": 4014
+  },
+  {
+    "id": 708400097,
+    "name": "Nameless Blade",
+    "flavor_text": "Summons Nameless Blade on specific turns.",
+    "special_effect_ids": [
+      809040387,
+      809040388
+    ],
+    "ability_when": 4,
+    "icon": 4014
   },
   {
     "id": 708600003,
@@ -17086,6 +18082,62 @@
     "icon": 4001
   },
   {
+    "id": 708600073,
+    "name": "Subtlety Ⅰ",
+    "flavor_text": "When landing an attack, reduces target's STR (medium chance/medium effect).<br>When landing an attack, reduces target's DEX (medium chance/medium effect).<br>When landing an attack, reduces target's INT (medium chance/medium effect).",
+    "special_effect_ids": [
+      808010082,
+      808010085,
+      808010088
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 708600074,
+    "name": "Subtlety Ⅱ",
+    "flavor_text": "When landing an attack, reduces target's STR (medium chance/large effect).<br>When landing an attack, reduces target's DEX (medium chance/large effect).<br>When landing an attack, reduces target's INT (medium chance/large effect).",
+    "special_effect_ids": [
+      808010083,
+      808010086,
+      808010089
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 708600075,
+    "name": "Subtlety Ⅲ",
+    "flavor_text": "When landing an attack, reduces target's STR (medium chance/very large effect).<br>When landing an attack, reduces target's DEX (medium chance/very large effect).<br>When landing an attack, reduces target's INT (medium chance/very large effect).",
+    "special_effect_ids": [
+      808010084,
+      808010087,
+      808010090
+    ],
+    "ability_when": 6,
+    "icon": 4003
+  },
+  {
+    "id": 708600083,
+    "name": "Fighting Spirit Ⅱ (STR)",
+    "flavor_text": "When landing an attack, increases own STR (medium chance/large effect).",
+    "special_effect_ids": [
+      808010104
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
+    "id": 708600084,
+    "name": "Fighting Spirit Ⅱ (DEX)",
+    "flavor_text": "When landing an attack, increases own DEX (medium chance/large effect).",
+    "special_effect_ids": [
+      808010105
+    ],
+    "ability_when": 6,
+    "icon": 4001
+  },
+  {
     "id": 750100529,
     "name": "Pre-Action Def. Boost + Action Order Down",
     "flavor_text": "Grants a defense boost (very large effect) before an action is made.<br>Decreases action order value (medium effect).",
@@ -17167,6 +18219,37 @@
     ],
     "ability_when": 1,
     "icon": 4010
+  },
+  {
+    "id": 750100646,
+    "name": "Gun Atk Boost (small)",
+    "flavor_text": "When attacking with guns, damage increases (small effect).",
+    "special_effect_ids": [
+      850040659
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 750100665,
+    "name": "Pre-Action Def. Boost (v. large) + Gun Atk Boost (sm.)",
+    "flavor_text": "Grants a defense boost (very large effect) before an action is made.<br>When attacking with guns, damage increases (small effect).",
+    "special_effect_ids": [
+      850040525,
+      850040659
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 750100698,
+    "name": "Post-Action Defense Boost (v. large)",
+    "flavor_text": "Grants a defense boost (very large effect) after an action is made.",
+    "special_effect_ids": [
+      850040719
+    ],
+    "ability_when": 1,
+    "icon": 4002
   },
   {
     "id": 1702100001,
@@ -17574,6 +18657,16 @@
     ],
     "ability_when": 2,
     "icon": 4007
+  },
+  {
+    "id": 1702200008,
+    "name": "Viral Paralysis",
+    "flavor_text": "[Start of round]<br>Inflicts paralysis on all enemies (medium chance/4 turn(s)).",
+    "special_effect_ids": [
+      802030453
+    ],
+    "ability_when": 2,
+    "icon": 3004
   },
   {
     "id": 1702200009,

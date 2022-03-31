@@ -680,8 +680,40 @@
     "bgm": 130443
   },
   {
+    "id": 1000339,
+    "name": "GW Romancing Festival",
+    "display_on_hour": 0,
+    "gacha_banner": 0,
+    "new_badge_illust": 10001,
+    "bgm": 0
+  },
+  {
+    "id": 1000340,
+    "name": "GW Romancing Festival",
+    "display_on_hour": 0,
+    "gacha_banner": 1000428,
+    "new_badge_illust": 10001,
+    "bgm": 0
+  },
+  {
+    "id": 1000345,
+    "name": "GW Ultra Deluxe Summon",
+    "display_on_hour": 0,
+    "gacha_banner": 0,
+    "new_badge_illust": 10015,
+    "bgm": 120090
+  },
+  {
+    "id": 1000346,
+    "name": "GW Ultra Deluxe Summon",
+    "display_on_hour": 0,
+    "gacha_banner": 1000435,
+    "new_badge_illust": 10015,
+    "bgm": 120090
+  },
+  {
     "id": 1000350,
-    "name": "SaGa Soul",
+    "name": "SaGa Soul Summon",
     "display_on_hour": 0,
     "gacha_banner": 0,
     "new_badge_illust": 10021,
@@ -689,7 +721,7 @@
   },
   {
     "id": 1000351,
-    "name": "SaGa Soul",
+    "name": "SaGa Soul Summon",
     "display_on_hour": 0,
     "gacha_banner": 1000448,
     "new_badge_illust": 10021,
@@ -2470,5 +2502,21 @@
     "gacha_banner": 1009000018,
     "new_badge_illust": 10004,
     "bgm": 0
+  },
+  {
+    "id": 1000000223,
+    "name": "Ultra Deluxe Summon",
+    "display_on_hour": 0,
+    "gacha_banner": 0,
+    "new_badge_illust": 10015,
+    "bgm": 130357
+  },
+  {
+    "id": 1000000224,
+    "name": "Ultra Deluxe Summon",
+    "display_on_hour": 0,
+    "gacha_banner": 1000000346,
+    "new_badge_illust": 10015,
+    "bgm": 130357
   }
 ]

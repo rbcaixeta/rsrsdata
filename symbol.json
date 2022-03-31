@@ -776,8 +776,8 @@
     "illust_category": 1,
     "illust": 1022,
     "priority": 1,
-    "group_id": 2025,
-    "in_group_priority": 99
+    "group_id": 2709,
+    "in_group_priority": 97
   },
   {
     "id": 1068,
@@ -2756,6 +2756,19 @@
     "in_group_priority": 98
   },
   {
+    "id": 1236,
+    "name": "Black X",
+    "flavor_text": "Leader of Black X, a criminal organization that conducts criminal activities everywhere. Little is known about him.",
+    "map_id": 1,
+    "x": -13,
+    "y": -4,
+    "illust_category": 2,
+    "illust": 1992331,
+    "priority": 1,
+    "group_id": 2715,
+    "in_group_priority": 99
+  },
+  {
     "id": 1238,
     "name": "Black X Fighters",
     "flavor_text": "Fighters in the criminal organization Black X.",
@@ -2821,6 +2834,45 @@
     "in_group_priority": 98
   },
   {
+    "id": 1243,
+    "name": "Eastern Mountains",
+    "flavor_text": "A mountainous area near the Wastelands.",
+    "map_id": 1,
+    "x": 15,
+    "y": -2,
+    "illust_category": 1,
+    "illust": 1010,
+    "priority": 1,
+    "group_id": 1014,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1244,
+    "name": "Ludwig",
+    "flavor_text": "A man who replaced the Emperor of Messina. Obtains the true power of the Archfiend Relics drawn out by an evil god.",
+    "map_id": 1,
+    "x": -11,
+    "y": 4,
+    "illust_category": 2,
+    "illust": 1992341,
+    "priority": 1,
+    "group_id": 2050,
+    "in_group_priority": 101
+  },
+  {
+    "id": 1245,
+    "name": "World Tower",
+    "flavor_text": "An unknown space within the World Tower.",
+    "map_id": 1,
+    "x": -19,
+    "y": -4,
+    "illust_category": 1,
+    "illust": 1042,
+    "priority": 1,
+    "group_id": 1020,
+    "in_group_priority": 99
+  },
+  {
     "id": 1246,
     "name": "Cave of Hidden Treasures",
     "flavor_text": "A cave rumored to hold mountains of treasure, but with great treasure comes great demonic beasts.",
@@ -2858,6 +2910,19 @@
     "priority": 1,
     "group_id": 2725,
     "in_group_priority": 97
+  },
+  {
+    "id": 1249,
+    "name": "Ludwig",
+    "flavor_text": "A man who replaced the Emperor of Messina. Obtains the true power of the Archfiend Relics drawn out by an evil god.",
+    "map_id": 1,
+    "x": -11,
+    "y": 4,
+    "illust_category": 2,
+    "illust": 1992341,
+    "priority": 1,
+    "group_id": 2050,
+    "in_group_priority": 100
   },
   {
     "id": 1000000001,

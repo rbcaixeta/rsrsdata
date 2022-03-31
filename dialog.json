@@ -579,7 +579,7 @@
     "id": 66,
     "name": "Item_IllegalOperation_Attention",
     "title": "Confirm Sale",
-    "text": "Cannot sell items<br>that have been locked.",
+    "text": "Cannot sell equipment that has been locked.",
     "dialog_type": 1,
     "button2": "",
     "button1": "Close"
@@ -1335,7 +1335,7 @@
     "id": 150,
     "name": "Guild_SubMaster_Ng",
     "title": "Sub-leader Promotion",
-    "text": "There can be up to three sub-leaders.",
+    "text": "Only three subleaders are allowed.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1584,6 +1584,15 @@
     "button1": "Yes"
   },
   {
+    "id": 182,
+    "name": "CharacterList_Favorite_Change",
+    "title": "Changed",
+    "text": "Group Setting status for Styles updated.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
     "id": 183,
     "name": "BattleFes_Retry_Confirm",
     "title": "Confirm Restart",
@@ -1609,6 +1618,33 @@
     "dialog_type": 2,
     "button2": "Cancel",
     "button1": "Retreat"
+  },
+  {
+    "id": 186,
+    "name": "FieldMap_Battle_Change",
+    "title": "Status Change",
+    "text": "The status for this area has changed.<br>Battle cannot begin.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 187,
+    "name": "Present_SecretKeyword_Copy",
+    "title": "Confirm",
+    "text": "Secret keyword copied to clipboard.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 188,
+    "name": "FieldMap_Dominated_Change",
+    "title": "Conquered",
+    "text": "This area has been conquered.<br>Battle cannot begin.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
   },
   {
     "id": 193,
@@ -1678,6 +1714,15 @@
     "name": "auto_rematch_Battle_End_7",
     "title": "Auto Rematch Stopped",
     "text": "Auto rematch has stopped because the game was closed.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 203,
+    "name": "auto_rematch_Battle_End_8",
+    "title": "Auto Rematch Stopped",
+    "text": "Auto rematch has stopped because the quest has expired.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"

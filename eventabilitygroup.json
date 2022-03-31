@@ -3868,5 +3868,41 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 247
+  },
+  {
+    "id": 1000000423,
+    "event_ability_category_id": 1000000213,
+    "name": "[Ltd. Time] Battle with Ludwig I",
+    "flavor_text": "・3x attribute gains in Battle with Ludwig<br>・Bonus Demon Hide drops in Battle with Ludwig",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 248
+  },
+  {
+    "id": 1000000424,
+    "event_ability_category_id": 1000000213,
+    "name": "[Ltd. Time] Battle with Ludwig II",
+    "flavor_text": "・4x attribute gains in Battle with Ludwig (3x in Main)<br>・Bonus Demon Hide drops in Battle with Ludwig",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 248
+  },
+  {
+    "id": 1000000425,
+    "event_ability_category_id": 1000000214,
+    "name": "[Ltd. Time] Clash! Ludwig I",
+    "flavor_text": "・3x attribute gains in Clash! Ludwig DEF Down (Large), Clash! Ludwig DEF Down, and Clash! Ludwig",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 249
+  },
+  {
+    "id": 1000000426,
+    "event_ability_category_id": 1000000214,
+    "name": "[Ltd. Time] Clash! Ludwig II",
+    "flavor_text": "・4x attribute gains in Clash! Ludwig DEF Down (Large), Clash! Ludwig DEF Down, and Clash! Ludwig (3x in Main)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 249
   }
 ]

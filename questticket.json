@@ -11,7 +11,7 @@
   {
     "id": 821001,
     "name": "Exploration Ticket",
-    "flavor_text": "A ticket for exploring the Forest of Mystery. *Inventory limit: 10",
+    "flavor_text": "A ticket for exploring the Forest of Mystery.",
     "icon": 821001,
     "max_quantity": 10,
     "expired_at": 0,
@@ -898,6 +898,15 @@
     "max_quantity": 99999999,
     "expired_at": 1649293199,
     "sort_order": 3290
+  },
+  {
+    "id": 821113,
+    "name": "Armor Shard [Ltd. Time]",
+    "flavor_text": "Use to attempt Clash! Ludwig event quests. (Until [1650416399] <tz>)",
+    "icon": 821113,
+    "max_quantity": 99999999,
+    "expired_at": 1650416399,
+    "sort_order": 3380
   },
   {
     "id": 821114,

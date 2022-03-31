@@ -728,11 +728,35 @@
     "is_pierceily": 0
   },
   {
+    "id": 181,
+    "name": "Battle with Ludwig II",
+    "start_at": 1648861200,
+    "end_at": 1650070799,
+    "priority": 10255,
+    "is_pierceily": 0
+  },
+  {
     "id": 182,
     "name": "Explore! Hidden Treasure Cave",
     "start_at": 1647565200,
     "end_at": 1648774799,
     "priority": 10249,
+    "is_pierceily": 0
+  },
+  {
+    "id": 183,
+    "name": "Clash! Ludwig",
+    "start_at": 1649206800,
+    "end_at": 1650416399,
+    "priority": 10257,
+    "is_pierceily": 0
+  },
+  {
+    "id": 185,
+    "name": "Main Story Support Missions",
+    "start_at": 1649379600,
+    "end_at": 1649984399,
+    "priority": 10258,
     "is_pierceily": 0
   },
   {
@@ -1197,6 +1221,14 @@
     "start_at": 1647824400,
     "end_at": 1649033999,
     "priority": 10251,
+    "is_pierceily": 1
+  },
+  {
+    "id": 1000000061,
+    "name": "Battle with Ludwig I",
+    "start_at": 1648861200,
+    "end_at": 1650070799,
+    "priority": 10256,
     "is_pierceily": 1
   }
 ]

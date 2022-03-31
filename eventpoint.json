@@ -756,6 +756,24 @@
     "sort_order": 3360
   },
   {
+    "id": 800126,
+    "name": "Romancing Festival Medal XXVII",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800126,
+    "max_quantity": 99999999,
+    "expired_at": 1651539599,
+    "sort_order": 3355
+  },
+  {
+    "id": 800127,
+    "name": "Ultra Deluxe Summon Medal XXIII",
+    "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "icon": 800127,
+    "max_quantity": 99999999,
+    "expired_at": 1651280399,
+    "sort_order": 3390
+  },
+  {
     "id": 800129,
     "name": "SaGa Soul Medal II",
     "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
@@ -767,7 +785,7 @@
   {
     "id": 860001,
     "name": "White Crystal",
-    "flavor_text": "Can be exchanged for Platinum Summon Tickets and other items.",
+    "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
     "icon": 860001,
     "max_quantity": 99999999,
     "expired_at": 0,
@@ -843,7 +861,7 @@
     "icon": 860014,
     "max_quantity": 99999999,
     "expired_at": 0,
-    "sort_order": 9700
+    "sort_order": 49999700
   },
   {
     "id": 882001,
@@ -852,7 +870,7 @@
     "icon": 882001,
     "max_quantity": 99999,
     "expired_at": 0,
-    "sort_order": 9699
+    "sort_order": 49999695
   },
   {
     "id": 882002,
@@ -861,7 +879,7 @@
     "icon": 882002,
     "max_quantity": 99999,
     "expired_at": 0,
-    "sort_order": 9698
+    "sort_order": 49999690
   },
   {
     "id": 910001,
@@ -1914,7 +1932,7 @@
     "icon": 1100322,
     "max_quantity": 999,
     "expired_at": 0,
-    "sort_order": 9549
+    "sort_order": 49999525
   },
   {
     "id": 1100323,
@@ -3069,6 +3087,24 @@
     "sort_order": 3285
   },
   {
+    "id": 1100489,
+    "name": "Rusty Blade",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100489,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3370
+  },
+  {
+    "id": 1100490,
+    "name": "Demon Hide",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100490,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3375
+  },
+  {
     "id": 1100492,
     "name": "Safety Rope (Yellow) [Ltd. Time]",
     "flavor_text": "Obtained from corresponding events. Can be exchanged for items. (Until [1650243599] <tz>)",
@@ -3094,6 +3130,15 @@
     "max_quantity": 99999999,
     "expired_at": 1650243599,
     "sort_order": 3320
+  },
+  {
+    "id": 1100495,
+    "name": "Distorted Sculpture",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100495,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3385
   },
   {
     "id": 1000800004,
@@ -3382,6 +3427,15 @@
     "max_quantity": 99999999,
     "expired_at": 1650243599,
     "sort_order": 3361
+  },
+  {
+    "id": 1000800036,
+    "name": "Ultra Deluxe Summon Medal XXII",
+    "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "icon": 1000800036,
+    "max_quantity": 99999999,
+    "expired_at": 1651107599,
+    "sort_order": 3362
   },
   {
     "id": 1001100001,

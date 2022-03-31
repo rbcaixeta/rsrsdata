@@ -886,5 +886,101 @@
         "formation_bonus_id": 1004
       }
     ]
+  },
+  {
+    "id": 1033,
+    "name": "Bullet Shift",
+    "flavor_text": "Quick-strike formation that boosts the front and middle lines' AGI. Enhances the entire party's DEX. For parties who mainly use S. Swords, Bows, and Guns.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 6,
+        "formation_bonus_id": 1101
+      },
+      {
+        "x": 25,
+        "y": 16,
+        "formation_bonus_id": 1102
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1102
+      },
+      {
+        "x": 25,
+        "y": 34,
+        "formation_bonus_id": 1102
+      },
+      {
+        "x": 42,
+        "y": 44,
+        "formation_bonus_id": 1103
+      }
+    ]
+  },
+  {
+    "id": 1034,
+    "name": "Desert Lance EX",
+    "flavor_text": "Improved Desert Lance formation that boosts defense further. The front draws enemy attacks, improving party survival. Good for mitigating damage.",
+    "positions": [
+      {
+        "x": 15,
+        "y": 25,
+        "formation_bonus_id": 1104
+      },
+      {
+        "x": 40,
+        "y": 20,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 40,
+        "y": 30,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 30,
+        "y": 10,
+        "formation_bonus_id": 1043
+      },
+      {
+        "x": 30,
+        "y": 40,
+        "formation_bonus_id": 1043
+      }
+    ]
+  },
+  {
+    "id": 1035,
+    "name": "Magia Fight",
+    "flavor_text": "Attack formation that boosts STR/DEX/INT for the front and back. For parties with Styles that require multiple stat boosts.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 44,
+        "formation_bonus_id": 1105
+      },
+      {
+        "x": 25,
+        "y": 34,
+        "formation_bonus_id": 1106
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1106
+      },
+      {
+        "x": 25,
+        "y": 16,
+        "formation_bonus_id": 1106
+      },
+      {
+        "x": 42,
+        "y": 6,
+        "formation_bonus_id": 1107
+      }
+    ]
   }
 ]

@@ -51,7 +51,7 @@
     "id": 9,
     "key": "material_max_quantity",
     "type": "integer",
-    "value": "9999"
+    "value": "99999"
   },
   {
     "id": 10,
@@ -106,6 +106,18 @@
     "key": "favorite_armor_set_count",
     "type": "integer",
     "value": "5"
+  },
+  {
+    "id": 19,
+    "key": "expedition_grind_limit",
+    "type": "integer",
+    "value": "100"
+  },
+  {
+    "id": 20,
+    "key": "holy_stone_max_count",
+    "type": "integer",
+    "value": "9950"
   },
   {
     "id": 21,
