@@ -2938,5 +2938,61 @@
     "priority": 99994,
     "ribbon_text": "",
     "trigger_quest_id": 100103103
+  },
+  {
+    "id": 1000040233,
+    "event_mission_tab_id": 1000000062,
+    "start_at": 0,
+    "end_at": 0,
+    "summary": "5 Daily Seekers' Path",
+    "description": "Complete 5 The Seekers' Path quests in one day",
+    "reward_type": 7,
+    "reward_id": 1001100215,
+    "reward_quantity": 100,
+    "priority": 99999,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
+  },
+  {
+    "id": 1000040234,
+    "event_mission_tab_id": 1000000062,
+    "start_at": 0,
+    "end_at": 0,
+    "summary": "10 Daily Seekers' Path",
+    "description": "Complete 10 The Seekers' Path quests in one day",
+    "reward_type": 7,
+    "reward_id": 1001100215,
+    "reward_quantity": 100,
+    "priority": 99998,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
+  },
+  {
+    "id": 1000040235,
+    "event_mission_tab_id": 1000000062,
+    "start_at": 0,
+    "end_at": 0,
+    "summary": "20 Daily Seekers' Path",
+    "description": "Complete 20 The Seekers' Path quests in one day",
+    "reward_type": 7,
+    "reward_id": 1001100215,
+    "reward_quantity": 100,
+    "priority": 99997,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
+  },
+  {
+    "id": 1000040236,
+    "event_mission_tab_id": 1000000062,
+    "start_at": 0,
+    "end_at": 0,
+    "summary": "30 Daily Seekers' Path",
+    "description": "Complete 30 The Seekers' Path quests in one day",
+    "reward_type": 7,
+    "reward_id": 1001100215,
+    "reward_quantity": 100,
+    "priority": 99996,
+    "ribbon_text": "",
+    "trigger_quest_id": 0
   }
 ]

@@ -774,6 +774,15 @@
     "sort_order": 3390
   },
   {
+    "id": 800128,
+    "name": "Romancing Festival Medal XXVIII",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800128,
+    "max_quantity": 99999999,
+    "expired_at": 1651971599,
+    "sort_order": 3430
+  },
+  {
     "id": 800129,
     "name": "SaGa Soul Medal II",
     "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
@@ -3141,6 +3150,15 @@
     "sort_order": 3385
   },
   {
+    "id": 1100496,
+    "name": "Appreciation BOX Surprises Ticket [Ltd. Time]",
+    "flavor_text": "A ticket for pulling the Battle Prep! All-Star Appreciation BOX Surprises. (Until [1651971599] <tz>)",
+    "icon": 1100496,
+    "max_quantity": 99999999,
+    "expired_at": 1651971599,
+    "sort_order": 3400
+  },
+  {
     "id": 1000800004,
     "name": "Romancing Festival Medal: Pumpkin",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -3697,5 +3715,14 @@
     "max_quantity": 99999999,
     "expired_at": 1648774799,
     "sort_order": 3153
+  },
+  {
+    "id": 1001100215,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1651798799] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1651798799,
+    "sort_order": 3154
   }
 ]

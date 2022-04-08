@@ -38754,8 +38754,8 @@
   },
   {
     "id": 125600062,
-    "name": "Mistress's Ice Prison",
-    "rush_prefix": "Mistress's",
+    "name": "Mistresses' Ice Prison",
+    "rush_prefix": "Mistresses'",
     "rush_suffix": "Ice Prison",
     "flavor_text": "Attack/Far/Indirect/Single Foe (Shadow+Cold) <br>Attack.<br>When the attack hits, inflicts petrification on target (medium chance/5 turn(s)).",
     "attack_distance": 2,
@@ -57974,9 +57974,9 @@
   },
   {
     "id": 656035498,
-    "name": "Mistress's Ice Prison",
-    "rush_prefix": "Mistress's Ice Prison",
-    "rush_suffix": "Mistress's Ice Prison",
+    "name": "Mistresses' Ice Prison",
+    "rush_prefix": "Mistresses' Ice Prison",
+    "rush_suffix": "Mistresses' Ice Prison",
     "flavor_text": "Attack/Indirect/(Shadow+Cold) <br>Attack.<br>When the attack hits, inflicts petrification on target (low chance/5 turn(s)).",
     "attack_distance": 2,
     "skill_type": 2,
@@ -109251,6 +109251,78 @@
       30034,
       30042
     ]
+  },
+  {
+    "id": 1110600015,
+    "name": "Bit Shot",
+    "rush_prefix": "Bit",
+    "rush_suffix": "Shot",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Blunt+Heat) <br>Attack.<br>After attacking, recovers the user's BP (+3), and the user enters an Energy Charge stance and starts the countdown (2 counts).<br>The count will decrease by 1 by the end of each turn, and Enclosing Bits will be activated on the turn after the count turns 0.<br><br>Energy Charge skill: Enclosing Bits<br>Gun skill/Attack/Power: SS/Far/Indirect/Single Foe (Blunt+Heat)<br>Attack.<br>After attacking, the user enters an evasive stance (1 turn(s)).<br>(Uses skill rank of Bit Shot).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 6,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      2,
+      4
+    ],
+    "power_grade": "A",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040044,
+      801040454
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1011,
+    "skill_effect": 140600053,
+    "skill_se_cue_sheet_name": "140600053",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30013,
+      30021
+    ]
+  },
+  {
+    "id": 1110600016,
+    "name": "Enclosing Bits",
+    "rush_prefix": "Enclosing",
+    "rush_suffix": "Bits",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Blunt+Heat) <br>Attack.<br>After attacking, the user enters an evasive stance (1 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 6,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      2,
+      4
+    ],
+    "power_grade": "SS",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040504
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1011,
+    "skill_effect": 140600054,
+    "skill_se_cue_sheet_name": "140600054",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 0,
+    "awakening_material_set_ids": []
   },
   {
     "id": 1110700001,

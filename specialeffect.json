@@ -10821,7 +10821,7 @@
     "flavor_text": "Always increases HP recovered.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "Heal↑",
+    "text_pop": "HEAL↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -31587,6 +31587,26 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040044,
+    "state_change_id": 900040102,
+    "name": "Energy Charge Stance",
+    "flavor_text": "Starts the countdown (2 counts).<br>The count will decrease by 1 by the end of each turn, and Enclosing Bits will be activated on the turn after the count turns 0.",
+    "target_area": 1,
+    "state_vars": [
+      2,
+      1110600016,
+      10
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "ChargeAttack",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3002
+  },
+  {
     "id": 1801040115,
     "state_change_id": 900040063,
     "name": "Morale Up (large)",
@@ -31849,6 +31869,22 @@
     "display_flag": 0,
     "direction_id": 1,
     "state_icon": 2001
+  },
+  {
+    "id": 1802010012,
+    "state_change_id": 900010015,
+    "name": "AGI Down",
+    "flavor_text": "Decreases AGI.",
+    "target_area": 4,
+    "state_vars": [],
+    "text_pop": "AGI↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2002
   },
   {
     "id": 1802040001,
@@ -32626,7 +32662,7 @@
     "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "ATK↑",
+    "text_pop": "ATK/DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -32644,7 +32680,7 @@
     "state_vars": [
       50
     ],
-    "text_pop": "DEF↑",
+    "text_pop": "",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
