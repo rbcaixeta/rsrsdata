@@ -1481,7 +1481,7 @@
     "id": 801010475,
     "state_change_id": 900050079,
     "name": "Recoil Damage (15% Max HP)",
-    "flavor_text": "When attacking, consume 15% of Max HP.",
+    "flavor_text": "When attacking, use up 15% of max HP.",
     "target_area": 1,
     "state_vars": [
       1
@@ -1565,7 +1565,7 @@
     "id": 801010482,
     "state_change_id": 900050079,
     "name": "Recoil Damage (30% Max HP)",
-    "flavor_text": "When attacking, consume 30% of Max HP.",
+    "flavor_text": "When attacking, use up 30% of max HP.",
     "target_area": 1,
     "state_vars": [
       1
@@ -1909,7 +1909,7 @@
     "id": 801010531,
     "state_change_id": 900050079,
     "name": "Recoil Damage (80% Max HP)",
-    "flavor_text": "When attacking, consume 80% of Max HP.",
+    "flavor_text": "When attacking, use up 80% of max HP.",
     "target_area": 1,
     "state_vars": [
       1
@@ -5037,7 +5037,7 @@
     "id": 801040490,
     "state_change_id": 900040100,
     "name": "Hearsay (Heat)",
-    "flavor_text": "On Heat Attacks: Increases damage dealt to enemies (can't stack).",
+    "flavor_text": "Increases damage dealt to enemies when using a heat attack (can't stack).",
     "target_area": 3,
     "state_vars": [],
     "text_pop": "Heat ATK↑",
@@ -11910,7 +11910,7 @@
     "id": 802040264,
     "state_change_id": 900040059,
     "name": "Hold Out",
-    "flavor_text": "When knocked unconscious, return to 1 HP.",
+    "flavor_text": "When knocked unconscious, returns to 1 HP.",
     "target_area": 1,
     "state_vars": [
       1,
@@ -11929,7 +11929,7 @@
     "id": 802040265,
     "state_change_id": 900040059,
     "name": "Persevere",
-    "flavor_text": "When knocked unconscious, return to critical HP.",
+    "flavor_text": "When knocked unconscious, returns to critical HP.",
     "target_area": 1,
     "state_vars": [
       0,
@@ -13080,7 +13080,7 @@
     "id": 802040345,
     "state_change_id": 900040059,
     "name": "Firm Conviction",
-    "flavor_text": "When knocked unconscious, return to 50% HP.",
+    "flavor_text": "When knocked unconscious, returns to 50% HP.",
     "target_area": 1,
     "state_vars": [
       0,
@@ -14916,7 +14916,7 @@
     "id": 802040611,
     "state_change_id": 900040059,
     "name": "Reanimate",
-    "flavor_text": "When knocked unconscious, return to 100% HP.",
+    "flavor_text": "When knocked unconscious, returns to 100% HP.",
     "target_area": 1,
     "state_vars": [
       0,
@@ -15611,7 +15611,7 @@
     "id": 802040696,
     "state_change_id": 900040059,
     "name": "Unyielding Tenacity",
-    "flavor_text": "When knocked unconscious, return to 30% HP.",
+    "flavor_text": "When knocked unconscious, returns to 30% HP.",
     "target_area": 1,
     "state_vars": [
       0,
@@ -16578,7 +16578,7 @@
     "id": 802040823,
     "state_change_id": 900040059,
     "name": "Tenacity",
-    "flavor_text": "When knocked unconscious, return to 50% HP.",
+    "flavor_text": "When knocked unconscious, returns to 50% HP.",
     "target_area": 1,
     "state_vars": [
       0,
@@ -31887,6 +31887,54 @@
     "state_icon": 2002
   },
   {
+    "id": 1802010013,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 1802010014,
+    "state_change_id": 900010015,
+    "name": "AGI Up",
+    "flavor_text": "Increases AGI.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "AGI/INT↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 1802010015,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
     "id": 1802040001,
     "state_change_id": 900040032,
     "name": "Evasion",
@@ -32269,7 +32317,7 @@
     "id": 1802040024,
     "state_change_id": 900040059,
     "name": "Return from Death",
-    "flavor_text": "When knocked unconscious, return to 100% HP.",
+    "flavor_text": "When knocked unconscious, returns to 100% HP.",
     "target_area": 1,
     "state_vars": [
       0,
@@ -32360,7 +32408,7 @@
     "id": 1802040029,
     "state_change_id": 900040059,
     "name": "Indomitable",
-    "flavor_text": "When knocked unconscious, return to 50% HP.",
+    "flavor_text": "When knocked unconscious, returns to 50% HP.",
     "target_area": 1,
     "state_vars": [
       0,
@@ -32771,6 +32819,43 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040053,
+    "state_change_id": 900040062,
+    "name": "Defend",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "INT↑/DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040054,
+    "state_change_id": 900040059,
+    "name": "Reborn From Ashes",
+    "flavor_text": "When knocked unconscious, returns to 100% HP.",
+    "target_area": 1,
+    "state_vars": [
+      0,
+      100
+    ],
+    "text_pop": "Reborn From Ashes",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "Plane",
+    "animation_id": 0,
+    "display_flag": 1,
     "direction_id": 1,
     "state_icon": 3001
   },

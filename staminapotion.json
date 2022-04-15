@@ -430,6 +430,36 @@
     "expired_at": 1623718799
   },
   {
+    "id": 840110,
+    "name": "Battle Festival Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1655513999] <tz>)",
+    "icon": 840110,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 3470,
+    "expired_at": 1655513999
+  },
+  {
+    "id": 840111,
+    "name": "Battle Festival Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1655513999] <tz>)",
+    "icon": 840111,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 3475,
+    "expired_at": 1655513999
+  },
+  {
+    "id": 840112,
+    "name": "Battle Festival Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1655513999] <tz>)",
+    "icon": 840112,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 3480,
+    "expired_at": 1655513999
+  },
+  {
     "id": 1000840001,
     "name": "Thanksgiving Stamina Potion (Lg.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1612141199] <tz>)",

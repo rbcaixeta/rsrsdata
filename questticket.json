@@ -927,6 +927,33 @@
     "sort_order": 3330
   },
   {
+    "id": 821117,
+    "name": "Ticket to Reward Room [Ltd. Time]",
+    "flavor_text": "Use to attempt Valdor's Super Training Dojo: Reward Room. (Until [1651193999] <tz>)",
+    "icon": 821117,
+    "max_quantity": 99999,
+    "expired_at": 1651193999,
+    "sort_order": 3460
+  },
+  {
+    "id": 821118,
+    "name": "Ticket to Reward Room (Gold) [Ltd. Time]",
+    "flavor_text": "Use to attempt Valdor's Super Training Dojo: Reward Room (Gold). (Until [1651193999] <tz>)",
+    "icon": 821118,
+    "max_quantity": 999,
+    "expired_at": 1651193999,
+    "sort_order": 3465
+  },
+  {
+    "id": 821119,
+    "name": "Super Training Dojo Key",
+    "flavor_text": "Use to attempt any (Unlock) Valdor's Super Training Dojo quest.",
+    "icon": 821119,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3455
+  },
+  {
     "id": 1000821001,
     "name": "[SS] Treasure Cave Map [Ltd. Time]",
     "flavor_text": "Map of a Treasure Cave (Gold) where great prizes await. (Until [1633913999] <tz>)",

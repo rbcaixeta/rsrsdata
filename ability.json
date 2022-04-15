@@ -18597,6 +18597,17 @@
     "icon": 4010
   },
   {
+    "id": 1702100033,
+    "name": "Reborn From Ashes",
+    "flavor_text": "Heat attacks' damage increases (large effect).<br>When attacked and HP reaches 0, returns to 100% of Max HP (Max times: 1).",
+    "special_effect_ids": [
+      1802040054,
+      802040350
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -18827,6 +18838,28 @@
     ],
     "ability_when": 3,
     "icon": 4003
+  },
+  {
+    "id": 1702300015,
+    "name": "Torrent of Magic",
+    "flavor_text": "[Start of turn]<br>Increases own INT (large effect), and grants oneself a defense boost (large effect/1 turn(s)).",
+    "special_effect_ids": [
+      1802040053,
+      1802010013
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300016,
+    "name": "Transmission Ⅲ (AGI/INT)",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' AGI/INT (medium chance/large effect).",
+    "special_effect_ids": [
+      1802010014,
+      1802010015
+    ],
+    "ability_when": 3,
+    "icon": 4010
   },
   {
     "id": 1702400001,

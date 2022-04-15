@@ -110358,6 +110358,43 @@
     ]
   },
   {
+    "id": 1125100007,
+    "name": "Soul Burn",
+    "rush_prefix": "Soul",
+    "rush_suffix": "Burn",
+    "flavor_text": "Attack/Far/Indirect/Fast/All Foes (Heat) <br>All range attack.<br>After attacking, the user takes recoil damage (80% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      4
+    ],
+    "power_grade": "SS",
+    "consume_bp": 16,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010531
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2002,
+    "skill_effect": 145100059,
+    "skill_se_cue_sheet_name": "145100059",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30026,
+      30034,
+      30042
+    ]
+  },
+  {
     "id": 1125200001,
     "name": "Ice Javelins",
     "rush_prefix": "Ice",
@@ -110722,6 +110759,43 @@
     "skill_icon": 2004,
     "skill_effect": 145200073,
     "skill_se_cue_sheet_name": "145200073",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
+    "id": 1125200011,
+    "name": "Glacial Coffin",
+    "rush_prefix": "Glacial",
+    "rush_suffix": "Coffin",
+    "flavor_text": "Attack/Far/Indirect/Fast/All Foes (Cold) <br>All range attack.<br>After attacking, the user takes recoil damage (80% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 52,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      5
+    ],
+    "power_grade": "SS",
+    "consume_bp": 16,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010531
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2004,
+    "skill_effect": 145200077,
+    "skill_se_cue_sheet_name": "145200077",
     "min_action_time": 1,
     "max_action_time": 1,
     "is_consumed_when_over_kill": 0,

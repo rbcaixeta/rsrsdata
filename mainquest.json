@@ -57965,5 +57965,1788 @@
     ],
     "is_required_for_area_clear": 0,
     "twitter_button_id": 0
+  },
+  {
+    "id": 100212011,
+    "quest_type": 2,
+    "name": "12-1-1. I Shall Now Sing...",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021201,
+    "number_of_story_banner": 12,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 0,
+    "scenario_id": 10213001,
+    "prev_quest_ids": [
+      100211211
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212012,
+    "quest_type": 1,
+    "name": "12-1-1. Ballad of Battles Past I",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 12,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1070081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 403001
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000039,
+      870000134,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212171,
+      100211102
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212013,
+    "quest_type": 1,
+    "name": "12-1-1. Ballad of Battles Past I",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 12,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404002
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000878,
+      870000134,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212102,
+      100211103
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212021,
+    "quest_type": 1,
+    "name": "12-1-2. Ballad of Battles Past I",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 12,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1070081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000435,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212011
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212022,
+    "quest_type": 1,
+    "name": "12-1-2. Ballad of Battles Past II",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 12,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1010071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 403007
+      },
+      {
+        "type": 26,
+        "id": 502400100
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000040,
+      870000135,
+      870000136,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212012
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212023,
+    "quest_type": 1,
+    "name": "12-1-2. Ballad of Battles Past II",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 12,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404008
+      },
+      {
+        "type": 26,
+        "id": 502400100
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000879,
+      870000135,
+      870000136,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212013
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212031,
+    "quest_type": 1,
+    "name": "12-1-3. Ballad of Battles Past II",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 12,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1010071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000435,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212021
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212032,
+    "quest_type": 1,
+    "name": "12-1-3. Ballad of Battles Past III",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1020091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101404400
+      },
+      {
+        "type": 18,
+        "id": 409300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000991,
+      870000957,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212022
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212033,
+    "quest_type": 1,
+    "name": "12-1-3. Ballad of Battles Past III",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1020091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101404400
+      },
+      {
+        "type": 4,
+        "id": 403001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 101404530,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000995,
+      870000880,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212023
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212041,
+    "quest_type": 2,
+    "name": "12-1-4. Imprisoned Soul",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021201,
+    "number_of_story_banner": 12,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 0,
+    "scenario_id": 10213010,
+    "prev_quest_ids": [
+      100212031
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212042,
+    "quest_type": 1,
+    "name": "12-1-4. Ballad of Battles Past IV",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1060091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101404400
+      },
+      {
+        "type": 18,
+        "id": 409300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000991,
+      870000954,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212032
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212043,
+    "quest_type": 1,
+    "name": "12-1-4. Ballad of Battles Past IV",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 101404400
+      },
+      {
+        "type": 4,
+        "id": 403007
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000995,
+      870000881,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212033
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212051,
+    "quest_type": 1,
+    "name": "12-1-5. Ballad of Battles Past III",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1020091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105300300
+      },
+      {
+        "type": 18,
+        "id": 409300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000436,
+      870000080,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212041
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212052,
+    "quest_type": 1,
+    "name": "12-1-5. Ballad of Battles Past V",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1120101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105403800
+      },
+      {
+        "type": 18,
+        "id": 409300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000948,
+      870000992,
+      870000954,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212042
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212053,
+    "quest_type": 1,
+    "name": "12-1-5. Ballad of Battles Past V",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1120101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105403800
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 105403920,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000949,
+      870000996,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212043
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212061,
+    "quest_type": 1,
+    "name": "12-1-6. Ballad of Battles Past IV",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1060091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105300300
+      },
+      {
+        "type": 18,
+        "id": 409300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000436,
+      870000080,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212051
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212062,
+    "quest_type": 1,
+    "name": "12-2-1. Ballad of Battles Past VI",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1110081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105403800
+      },
+      {
+        "type": 18,
+        "id": 409300400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000992,
+      870000955,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212052
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212063,
+    "quest_type": 1,
+    "name": "12-2-1. Ballad of Battles Past VI",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1130091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 105403800
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000996,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212053
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212071,
+    "quest_type": 2,
+    "name": "12-1-7. Empty-Handed No More",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021201,
+    "number_of_story_banner": 12,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 0,
+    "scenario_id": 10213020,
+    "prev_quest_ids": [
+      100212061
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212072,
+    "quest_type": 1,
+    "name": "12-2-2. Ballad of Battles Past VII",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 12,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1120071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108403800
+      },
+      {
+        "type": 18,
+        "id": 409300400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000993,
+      870000955,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212062
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212073,
+    "quest_type": 1,
+    "name": "12-2-2. Ballad of Battles Past VII",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 12,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1120071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108403800
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 108403940,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000997,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212063
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212081,
+    "quest_type": 1,
+    "name": "12-1-8. Ballad of Battles Past V",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1120101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108300200
+      },
+      {
+        "type": 18,
+        "id": 409305600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000947,
+      870000437,
+      870000077,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 159,
+    "battle_id": 100213051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212071
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212082,
+    "quest_type": 1,
+    "name": "12-2-3. Ballad of Battles Past VIII",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 12,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1140101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108403800
+      },
+      {
+        "type": 18,
+        "id": 409300500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000993,
+      870000956,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212072
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212083,
+    "quest_type": 1,
+    "name": "12-2-3. Ballad of Battles Past VIII",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 12,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1140101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108403800
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 502400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000997,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212073
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212091,
+    "quest_type": 1,
+    "name": "12-2-1. Ballad of Battles Past VI",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000101,
+    "number_of_story_banner": 12,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1110081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 108300200
+      },
+      {
+        "type": 18,
+        "id": 409305600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000437,
+      870000077,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212081
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212092,
+    "quest_type": 1,
+    "name": "12-2-4. Ballad of Battles Past IX",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000015,
+    "number_of_story_banner": 12,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1040461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403900
+      },
+      {
+        "type": 18,
+        "id": 409300500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000994,
+      870000956,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212082
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212093,
+    "quest_type": 1,
+    "name": "12-2-4. Ballad of Battles Past IX",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000015,
+    "number_of_story_banner": 12,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403900
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 102404040,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 503400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000998,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212083
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212101,
+    "quest_type": 2,
+    "name": "12-2-2. The Chosen New Vessel",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021201,
+    "number_of_story_banner": 12,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 0,
+    "scenario_id": 10213030,
+    "prev_quest_ids": [
+      100212091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212102,
+    "quest_type": 1,
+    "name": "12-2-5. Ballad of Battles Past X",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000015,
+    "number_of_story_banner": 12,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1991961,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403900
+      },
+      {
+        "type": 18,
+        "id": 409300600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000948,
+      870000994,
+      870000957,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212092
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212103,
+    "quest_type": 1,
+    "name": "12-2-5. Ballad of Battles Past X",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000015,
+    "number_of_story_banner": 12,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1991961,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102403900
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000949,
+      870000998,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212093
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212111,
+    "quest_type": 2,
+    "name": "12-2-3. Stars' Rumble",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021201,
+    "number_of_story_banner": 12,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 0,
+    "scenario_id": 10213040,
+    "prev_quest_ids": [
+      100212101
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212121,
+    "quest_type": 1,
+    "name": "12-2-4. Ballad of Battles Past VII",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 12,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1120071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102300300
+      },
+      {
+        "type": 18,
+        "id": 409300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000438,
+      870000078,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212111
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212131,
+    "quest_type": 1,
+    "name": "12-2-5. Ballad of Battles Past VIII",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 12,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1140101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 102300300
+      },
+      {
+        "type": 18,
+        "id": 409300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000438,
+      870000078,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212121
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212141,
+    "quest_type": 2,
+    "name": "12-2-6. True Hero's Name",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021201,
+    "number_of_story_banner": 12,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 0,
+    "scenario_id": 10213050,
+    "prev_quest_ids": [
+      100212131
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212151,
+    "quest_type": 1,
+    "name": "12-2-7. Ballad of Battles Past IX",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000015,
+    "number_of_story_banner": 12,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1040461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 18,
+        "id": 409305400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000037,
+      870000079,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212141
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212161,
+    "quest_type": 1,
+    "name": "12-2-8. Ballad of Battles Past X",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000015,
+    "number_of_story_banner": 12,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1991961,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 503300100
+      },
+      {
+        "type": 18,
+        "id": 409305400
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000947,
+      870000038,
+      870000079,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 100213101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100212151
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100212171,
+    "quest_type": 2,
+    "name": "12-2-9. Ready or Not...",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021201,
+    "number_of_story_banner": 12,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 160,
+    "battle_id": 0,
+    "scenario_id": 10213060,
+    "prev_quest_ids": [
+      100212161
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
   }
 ]
