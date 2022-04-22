@@ -801,6 +801,15 @@
     "sort_order": 3495
   },
   {
+    "id": 800135,
+    "name": "Romancing Festival Medal XXX",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800135,
+    "max_quantity": 99999999,
+    "expired_at": 1653267599,
+    "sort_order": 3540
+  },
+  {
     "id": 860001,
     "name": "White Crystal",
     "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -3175,6 +3184,33 @@
     "max_quantity": 99999999,
     "expired_at": 1652403599,
     "sort_order": 3432
+  },
+  {
+    "id": 1100502,
+    "name": "Tower Fragment",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100502,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3510
+  },
+  {
+    "id": 1100503,
+    "name": "Ghastly Plant",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100503,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3515
+  },
+  {
+    "id": 1100504,
+    "name": "Bubble",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100504,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3520
   },
   {
     "id": 1100512,

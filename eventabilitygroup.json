@@ -4039,5 +4039,23 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 9999
+  },
+  {
+    "id": 1000000442,
+    "event_ability_category_id": 1000000220,
+    "name": "[Ltd. Time] Deathmatch with Igomahl I",
+    "flavor_text": "・3x attribute gains in Destined Battle: Deathmatch with Igomahl (2x in Main)<br>・Bonus Tower Fragment/Ghastly Plant drops in Destined Battle: Deathmatch with Igomahl",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 254
+  },
+  {
+    "id": 1000000443,
+    "event_ability_category_id": 1000000221,
+    "name": "[Ltd. Time] Deathmatch with Igomahl II",
+    "flavor_text": "・4x attribute gains in Main quests and Destined Battle: Deathmatch with Igomahl<br>・Bonus Tower Fragment/Ghastly Plant drops in Destined Battle: Deathmatch with Igomahl",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 255
   }
 ]
