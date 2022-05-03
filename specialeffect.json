@@ -31935,6 +31935,24 @@
     "state_icon": 2001
   },
   {
+    "id": 1802010016,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 3,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 1802040001,
     "state_change_id": 900040032,
     "name": "Evasion",
@@ -32854,6 +32872,22 @@
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "Plane",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040055,
+    "state_change_id": 900040048,
+    "name": "Shadow Attack Boost",
+    "flavor_text": "Increases damage dealt to enemies when using a shadow attack.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Shadow ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
     "direction_id": 1,

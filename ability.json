@@ -18862,6 +18862,16 @@
     "icon": 4010
   },
   {
+    "id": 1702300017,
+    "name": "Overflowing Shadow",
+    "flavor_text": "[Start of turn]<br>Grants oneself a shadow attack boost (extreme effect/1 turn(s)). (Max times: 5 times per battle).",
+    "special_effect_ids": [
+      1802040055
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
     "id": 1702400001,
     "name": "Leader's Missions",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and recovers own BP (+1). ",
@@ -19090,6 +19100,16 @@
     "flavor_text": "When being attacked, recovers own BP (high chance/+1).",
     "special_effect_ids": [
       802040069
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 1702600020,
+    "name": "Tidal Blessings",
+    "flavor_text": "When being attacked, recovers all surviving allies' HP (very high chance/very small effect).",
+    "special_effect_ids": [
+      1802010016
     ],
     "ability_when": 6,
     "icon": 4007

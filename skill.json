@@ -110028,6 +110028,46 @@
     ]
   },
   {
+    "id": 1110800011,
+    "name": "Poseidon Shot+",
+    "rush_prefix": "Poseidon",
+    "rush_suffix": "Shot",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Pierce+Cold) <br>Attack [Critical: Fish].<br><change>Recovers the user's HP (very large effect).</change>",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      3,
+      5
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [
+      9
+    ],
+    "additional_effect_ids": [
+      801040471
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1118,
+    "skill_effect": 140800089,
+    "skill_se_cue_sheet_name": "140800089",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
     "id": 1110900001,
     "name": "Starry Rain",
     "rush_prefix": "Starry",
@@ -110883,6 +110923,41 @@
     ]
   },
   {
+    "id": 1125200012,
+    "name": "Pure Barrier",
+    "rush_prefix": "Pure",
+    "rush_suffix": "Barrier",
+    "flavor_text": "Support/Fast/One Ally<br>Puts target into a defense boost stance (very large effect/1 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 52,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 2,
+    "attack_attributes": [
+      5
+    ],
+    "power_grade": "-",
+    "consume_bp": 6,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040458
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4010,
+    "skill_effect": 145200078,
+    "skill_se_cue_sheet_name": "145200078",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30007
+    ]
+  },
+  {
     "id": 1125400001,
     "name": "Dancing Leaves",
     "rush_prefix": "Dancing",
@@ -111403,6 +111478,41 @@
     ]
   },
   {
+    "id": 1125500012,
+    "name": "Galactic Rift",
+    "rush_prefix": "Galactic",
+    "rush_suffix": "Rift",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Sun) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 55,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      7
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 18,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 2010,
+    "skill_effect": 145500011,
+    "skill_se_cue_sheet_name": "145500011",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30027,
+      30035,
+      30043
+    ]
+  },
+  {
     "id": 1125600001,
     "name": "Dark Bringer",
     "rush_prefix": "Dark",
@@ -111728,6 +111838,43 @@
       30025,
       30033,
       30041
+    ]
+  },
+  {
+    "id": 1125600010,
+    "name": "Gain Magick",
+    "rush_prefix": "Gain",
+    "rush_suffix": "Magick",
+    "flavor_text": "Support/Self<br>Grants the user a shadow attack boost (large effect/5 turn(s)).<br>Recovers the user's BP (+3).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 56,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 1,
+    "attack_attributes": [
+      8
+    ],
+    "power_grade": "-",
+    "consume_bp": 7,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040537,
+      801040407
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4010,
+    "skill_effect": 145600075,
+    "skill_se_cue_sheet_name": "145600075",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30009,
+      30017
     ]
   },
   {

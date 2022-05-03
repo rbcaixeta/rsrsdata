@@ -39426,6 +39426,1273 @@
     "raid_piercemage_reward_group_id": 972009076
   },
   {
+    "id": 972010001,
+    "quest_type": 1,
+    "name": "Battle with Saruin & Jewel Beast",
+    "sort_order": 1,
+    "field_map_node_id": 10111001,
+    "battle_id": 511015002,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29920701,
+      29918802
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010002,
+    "quest_type": 1,
+    "name": "Battle with Bokhohn & Kzinssie",
+    "sort_order": 2,
+    "field_map_node_id": 10111002,
+    "battle_id": 511015005,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29906701,
+      29902501
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010003,
+    "quest_type": 1,
+    "name": "Battle with Water Lord & Fire Lord",
+    "sort_order": 3,
+    "field_map_node_id": 10111003,
+    "battle_id": 511015016,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29919901,
+      29912202
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010004,
+    "quest_type": 1,
+    "name": "Battle with Byunei's True Form & Illusion",
+    "sort_order": 4,
+    "field_map_node_id": 10111004,
+    "battle_id": 511015008,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29902302,
+      29902202
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010005,
+    "quest_type": 1,
+    "name": "Battle with Haniwa",
+    "sort_order": 5,
+    "field_map_node_id": 10111005,
+    "battle_id": 511015020,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29923501
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010006,
+    "quest_type": 1,
+    "name": "Battle with the Four Emperors",
+    "sort_order": 6,
+    "field_map_node_id": 10111006,
+    "battle_id": 511015015,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29916102,
+      29916202,
+      29916303,
+      29916402
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010007,
+    "quest_type": 1,
+    "name": "Battle with Death & Pyrix",
+    "sort_order": 7,
+    "field_map_node_id": 10111007,
+    "battle_id": 511015001,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29910501,
+      29910101
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010008,
+    "quest_type": 1,
+    "name": "Battle with Rocbouquet & Wagnas",
+    "sort_order": 8,
+    "field_map_node_id": 10111008,
+    "battle_id": 511015003,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29901201,
+      29907301
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010009,
+    "quest_type": 1,
+    "name": "Battle with Aunus's True Form & Illusion",
+    "sort_order": 9,
+    "field_map_node_id": 10111009,
+    "battle_id": 511015011,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29918102,
+      29918002
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010010,
+    "quest_type": 1,
+    "name": "Battle with Creator & Apollo",
+    "sort_order": 10,
+    "field_map_node_id": 10111010,
+    "battle_id": 511015014,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29914102,
+      29914202
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010011,
+    "quest_type": 1,
+    "name": "Battle with Barthelemy & Wicked Witch",
+    "sort_order": 11,
+    "field_map_node_id": 10111011,
+    "battle_id": 511015019,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29905501,
+      29901002
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010012,
+    "quest_type": 1,
+    "name": "Battle with Subier & Devil Squid",
+    "sort_order": 12,
+    "field_map_node_id": 10111012,
+    "battle_id": 511015006,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29901802,
+      29915801
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010013,
+    "quest_type": 1,
+    "name": "Battle with Maximus & Ludwig & Maximus Guard",
+    "sort_order": 13,
+    "field_map_node_id": 10111013,
+    "battle_id": 511015012,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      20104402,
+      20104502,
+      20104601,
+      20104701,
+      20104801,
+      20104901,
+      20104601,
+      20104901
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010014,
+    "quest_type": 1,
+    "name": "Battle with Forneus's True Form & Illusion",
+    "sort_order": 14,
+    "field_map_node_id": 10111014,
+    "battle_id": 511015010,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29903202,
+      29903103
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010015,
+    "quest_type": 1,
+    "name": "Battle with Orlouge & Princess Lion",
+    "sort_order": 15,
+    "field_map_node_id": 10111015,
+    "battle_id": 511015017,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29914002,
+      29912102
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010016,
+    "quest_type": 1,
+    "name": "Battle with Dantarg & Ashura & Spriggan",
+    "sort_order": 16,
+    "field_map_node_id": 10111016,
+    "battle_id": 511015007,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29901603,
+      29918202,
+      29900103
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010017,
+    "quest_type": 1,
+    "name": "Battle with Noel & M Black",
+    "sort_order": 17,
+    "field_map_node_id": 10111017,
+    "battle_id": 511015004,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29902701,
+      29909802
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010018,
+    "quest_type": 1,
+    "name": "Battle with Schirach & Macha",
+    "sort_order": 18,
+    "field_map_node_id": 10111018,
+    "battle_id": 511015013,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29912301,
+      29908201
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010019,
+    "quest_type": 1,
+    "name": "Battle with Alloces's True Form & Illusion",
+    "sort_order": 19,
+    "field_map_node_id": 10111019,
+    "battle_id": 511015009,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29909702,
+      29909602
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010020,
+    "quest_type": 1,
+    "name": "Battle with Tu Kwai & Dae's Colossus",
+    "sort_order": 20,
+    "field_map_node_id": 10111020,
+    "battle_id": 511015018,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29900702,
+      29909502
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
+    "id": 972010021,
+    "quest_type": 1,
+    "name": "Battle with Igomahl",
+    "sort_order": 21,
+    "field_map_node_id": 10111021,
+    "battle_id": 511015021,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [
+      29921901
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100506
+      },
+      {
+        "type": 7,
+        "id": 1100507
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      101958,
+      101752
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 10
+      },
+      {
+        "type": 12,
+        "id": 840110,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 14,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010001
+  },
+  {
     "id": 990041010,
     "quest_type": 2,
     "name": "To the Decisive Battle",

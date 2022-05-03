@@ -172,5 +172,20 @@
       101426,
       101428
     ]
+  },
+  {
+    "id": 10111,
+    "area_id": 2010,
+    "field_map_mode": 2,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5000
+      }
+    ],
+    "lock_text": "",
+    "prev_quest_ids": [],
+    "frontier_drop_group_ids": []
   }
 ]

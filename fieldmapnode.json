@@ -13634,5 +13634,423 @@
     "next_field_map_node_id": 0,
     "is_notable": 1,
     "flavor_text": ""
+  },
+  {
+    "id": 10111000,
+    "name": "Entrance",
+    "field_map_id": 1011101,
+    "field_map_node_type": 5,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [],
+    "x": -0.024206040427088737,
+    "y": -4.7867960929870605,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111001,
+    "name": "Battle with Saruin & Jewel Beast",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991881,
+      1992071
+    ],
+    "x": -5.836015224456787,
+    "y": -6.978393077850342,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111002,
+    "name": "Battle with Bokhohn & Kzinssie",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1990671,
+      1990251
+    ],
+    "x": -5.72208309173584,
+    "y": -13.255430221557617,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111003,
+    "name": "Battle with Water Lord & Fire Lord",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991221,
+      1991991
+    ],
+    "x": -12.658149719238281,
+    "y": -16.4229793548584,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111004,
+    "name": "Battle with Byunei's True Form & Illusion",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1990221,
+      1990231
+    ],
+    "x": -19.489179611206055,
+    "y": -11.044770240783691,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111005,
+    "name": "Battle with Haniwa",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991651
+    ],
+    "x": -12.741880416870117,
+    "y": -4.351626873016357,
+    "field_map_size": 4,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111006,
+    "name": "Battle with the Four Emperors",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991631,
+      1991621,
+      1991611,
+      1991641
+    ],
+    "x": -9.306780815124512,
+    "y": 3.9492580890655518,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111007,
+    "name": "Battle with Death & Pyrix",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991051,
+      1991011
+    ],
+    "x": -15.38267993927002,
+    "y": 6.289358139038086,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111008,
+    "name": "Battle with Rocbouquet & Wagnas",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1990121,
+      1990731
+    ],
+    "x": -19.34691047668457,
+    "y": 10.807769775390625,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111009,
+    "name": "Battle with Aunus's True Form & Illusion",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991811,
+      1991801
+    ],
+    "x": -15.885259628295898,
+    "y": 16.024139404296875,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111010,
+    "name": "Battle with Creator & Apollo",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991411,
+      1991421
+    ],
+    "x": -9.207601547241211,
+    "y": 13.332810401916504,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111011,
+    "name": "Battle with Barthelemy & Wicked Witch",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1990101,
+      1990551
+    ],
+    "x": 7.320298194885254,
+    "y": 4.923381805419922,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111012,
+    "name": "Battle with Subier & Devil Squid",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1990181,
+      1991581
+    ],
+    "x": 17.062240600585938,
+    "y": 4.5230841636657715,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111013,
+    "name": "Battle with Maximus & Ludwig & Maximus Guard",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010441,
+      1010461,
+      1010451,
+      1010471
+    ],
+    "x": 20.175630569458008,
+    "y": 10.470080375671387,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111014,
+    "name": "Battle with Forneus's True Form & Illusion",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1990311,
+      1990321
+    ],
+    "x": 16.990110397338867,
+    "y": 15.754960060119629,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111015,
+    "name": "Battle with Orlouge & Princess Lion",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991401,
+      1991211
+    ],
+    "x": 8.868741989135742,
+    "y": 12.296380043029785,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111016,
+    "name": "Battle with Dantarg & Ashura & Spriggan",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1990011,
+      1991821,
+      1990161
+    ],
+    "x": 9.094077110290527,
+    "y": -4.568235874176025,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111017,
+    "name": "Battle with Noel & M Black",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1990271,
+      1990981
+    ],
+    "x": 6.329885005950928,
+    "y": -9.818992614746094,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111018,
+    "name": "Battle with Schirach & Macha",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1990821,
+      1991231
+    ],
+    "x": 13.371620178222656,
+    "y": -14.583069801330566,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111019,
+    "name": "Battle with Alloces's True Form & Illusion",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1990961,
+      1990971
+    ],
+    "x": 18.264259338378906,
+    "y": -9.17100715637207,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111020,
+    "name": "Battle with Tu Kwai & Dae's Colossus",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1990951,
+      1990071
+    ],
+    "x": 16.4143009185791,
+    "y": -3.415400981903076,
+    "field_map_size": 5,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10111021,
+    "name": "Battle with Igomahl",
+    "field_map_id": 1011101,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992191
+    ],
+    "x": 0.020872529596090317,
+    "y": 3.0548551082611084,
+    "field_map_size": 4,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
   }
 ]

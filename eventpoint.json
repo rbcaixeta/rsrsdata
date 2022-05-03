@@ -801,6 +801,15 @@
     "sort_order": 3495
   },
   {
+    "id": 800133,
+    "name": "Romancing Festival Exclusive SS Style Exchange Ticket",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for Styles.",
+    "icon": 800133,
+    "max_quantity": 99999999,
+    "expired_at": 1655254799,
+    "sort_order": 3505
+  },
+  {
     "id": 800135,
     "name": "Romancing Festival Medal XXX",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -808,6 +817,15 @@
     "max_quantity": 99999999,
     "expired_at": 1653267599,
     "sort_order": 3540
+  },
+  {
+    "id": 800136,
+    "name": "Romancing Festival Medal 31",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800136,
+    "max_quantity": 99999999,
+    "expired_at": 1654045199,
+    "sort_order": 3560
   },
   {
     "id": 860001,
@@ -3211,6 +3229,33 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 3520
+  },
+  {
+    "id": 1100506,
+    "name": "Tattered Cloth",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100506,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3545
+  },
+  {
+    "id": 1100507,
+    "name": "Corrupted Scale",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100507,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3550
+  },
+  {
+    "id": 1100508,
+    "name": "Sinister Horn",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100508,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3555
   },
   {
     "id": 1100512,
