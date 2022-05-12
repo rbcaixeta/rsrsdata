@@ -18608,6 +18608,16 @@
     "icon": 4010
   },
   {
+    "id": 1702100034,
+    "name": "Absorbing Light",
+    "flavor_text": "Nullifies attacks which have sun damage. Also counterattacks with Mirage Blade+ when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).<br><br>Counterattack: Mirage Blade+<br>Sword skill/Attack/Power: B/Direct/All Foes (Slash)<br>All range attack.<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1802040056
+    ],
+    "ability_when": 1,
+    "icon": 1002
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -18867,6 +18877,16 @@
     "flavor_text": "[Start of turn]<br>Grants oneself a shadow attack boost (extreme effect/1 turn(s)). (Max times: 5 times per battle).",
     "special_effect_ids": [
       1802040055
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300018,
+    "name": "Concentration",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' WIL (very high chance/large effect).",
+    "special_effect_ids": [
+      1802010017
     ],
     "ability_when": 3,
     "icon": 4010

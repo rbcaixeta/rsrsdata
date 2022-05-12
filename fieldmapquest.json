@@ -40693,6 +40693,804 @@
     "raid_piercemage_reward_group_id": 972010001
   },
   {
+    "id": 972014001,
+    "quest_type": 1,
+    "name": "Final Battle with Igomahl",
+    "sort_order": 1,
+    "field_map_node_id": 10115001,
+    "battle_id": 0,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 970000005,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010003
+  },
+  {
+    "id": 972014002,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 1",
+    "sort_order": 2,
+    "field_map_node_id": 10115002,
+    "battle_id": 511016017,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 970000001,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010004
+  },
+  {
+    "id": 972014003,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 2",
+    "sort_order": 3,
+    "field_map_node_id": 10115003,
+    "battle_id": 511016018,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 970000002,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010005
+  },
+  {
+    "id": 972014004,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 3",
+    "sort_order": 4,
+    "field_map_node_id": 10115004,
+    "battle_id": 511016019,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 970000003,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010006
+  },
+  {
+    "id": 972014005,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 4",
+    "sort_order": 5,
+    "field_map_node_id": 10115005,
+    "battle_id": 511016020,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 970000004,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010007
+  },
+  {
+    "id": 972014006,
+    "quest_type": 1,
+    "name": "Final Battle with Igomahl",
+    "sort_order": 6,
+    "field_map_node_id": 10115001,
+    "battle_id": 0,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [
+      1992211
+    ],
+    "field_map_size": 4,
+    "field_map_enemy_transform_id": 970000010,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010003
+  },
+  {
+    "id": 972014007,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 1",
+    "sort_order": 7,
+    "field_map_node_id": 10115002,
+    "battle_id": 511016037,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [
+      1992251
+    ],
+    "field_map_size": 4,
+    "field_map_enemy_transform_id": 970000006,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010004
+  },
+  {
+    "id": 972014008,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 2",
+    "sort_order": 8,
+    "field_map_node_id": 10115003,
+    "battle_id": 511016038,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [
+      1992231
+    ],
+    "field_map_size": 4,
+    "field_map_enemy_transform_id": 970000007,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010005
+  },
+  {
+    "id": 972014009,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 3",
+    "sort_order": 9,
+    "field_map_node_id": 10115004,
+    "battle_id": 511016039,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [
+      1992241
+    ],
+    "field_map_size": 4,
+    "field_map_enemy_transform_id": 970000008,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010008
+  },
+  {
+    "id": 972014010,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 4",
+    "sort_order": 10,
+    "field_map_node_id": 10115005,
+    "battle_id": 511016040,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [
+      1992261
+    ],
+    "field_map_size": 4,
+    "field_map_enemy_transform_id": 970000009,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010007
+  },
+  {
+    "id": 972014011,
+    "quest_type": 1,
+    "name": "Final Battle with Igomahl (Final Form)",
+    "sort_order": 11,
+    "field_map_node_id": 10115001,
+    "battle_id": 0,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 300
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830011,
+        "quantity": 100
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [
+      1992391
+    ],
+    "field_map_size": 4,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010003
+  },
+  {
+    "id": 972014012,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 1",
+    "sort_order": 12,
+    "field_map_node_id": 10115002,
+    "battle_id": 511016057,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [
+      1992251
+    ],
+    "field_map_size": 4,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010004
+  },
+  {
+    "id": 972014013,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 2",
+    "sort_order": 13,
+    "field_map_node_id": 10115003,
+    "battle_id": 511016058,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [
+      1992231
+    ],
+    "field_map_size": 4,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010005
+  },
+  {
+    "id": 972014014,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 3",
+    "sort_order": 14,
+    "field_map_node_id": 10115004,
+    "battle_id": 511016059,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [
+      1992241
+    ],
+    "field_map_size": 4,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010009
+  },
+  {
+    "id": 972014015,
+    "quest_type": 1,
+    "name": "Battle with Igomahl (Doppel) 4",
+    "sort_order": 15,
+    "field_map_node_id": 10115005,
+    "battle_id": 511016060,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100509
+      },
+      {
+        "type": 7,
+        "id": 1100510
+      },
+      {
+        "type": 28,
+        "id": 900020
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102247,
+      102248,
+      102249
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 15,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [
+      1992261
+    ],
+    "field_map_size": 4,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010007
+  },
+  {
     "id": 990041010,
     "quest_type": 2,
     "name": "To the Decisive Battle",

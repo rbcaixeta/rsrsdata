@@ -638,6 +638,716 @@
     "raid_piercemage_reward_group_id": 0
   },
   {
+    "id": 430000111,
+    "quest_type": 1,
+    "name": "Forest of Mystery Spree Lv. 1",
+    "difficulty": 1,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 10,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000202,
+      400000021,
+      400000021,
+      400000021,
+      400000021,
+      400000021,
+      400000021,
+      400000021,
+      400000021,
+      400000021,
+      400000021,
+      400000087,
+      400000087,
+      400000087,
+      400000087,
+      400000087,
+      400000087,
+      400000087,
+      400000087,
+      400000087,
+      400000087
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001001,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000011
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 430000121,
+    "quest_type": 1,
+    "name": "Forest of Mystery Spree Lv. 2",
+    "difficulty": 1,
+    "sort_order": 4,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 10,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000203,
+      400000022,
+      400000022,
+      400000022,
+      400000022,
+      400000022,
+      400000022,
+      400000022,
+      400000022,
+      400000022,
+      400000022,
+      400000093,
+      400000093,
+      400000093,
+      400000093,
+      400000093,
+      400000093,
+      400000093,
+      400000093,
+      400000093,
+      400000093
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001002,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000021
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 430000131,
+    "quest_type": 1,
+    "name": "Forest of Mystery Spree Lv. 3",
+    "difficulty": 1,
+    "sort_order": 6,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 10,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000204,
+      400000023,
+      400000023,
+      400000023,
+      400000023,
+      400000023,
+      400000023,
+      400000023,
+      400000023,
+      400000023,
+      400000023,
+      400000101,
+      400000101,
+      400000101,
+      400000101,
+      400000101,
+      400000101,
+      400000101,
+      400000101,
+      400000101,
+      400000101
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001003,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000031
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 430000141,
+    "quest_type": 1,
+    "name": "Forest of Mystery Spree Lv. 4",
+    "difficulty": 1,
+    "sort_order": 8,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 10,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000205,
+      400000024,
+      400000024,
+      400000024,
+      400000024,
+      400000024,
+      400000024,
+      400000024,
+      400000024,
+      400000024,
+      400000024,
+      400000107,
+      400000107,
+      400000107,
+      400000107,
+      400000107,
+      400000107,
+      400000107,
+      400000107,
+      400000107,
+      400000107
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001004,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000041
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 430000151,
+    "quest_type": 1,
+    "name": "Forest of Mystery Spree Lv. 5",
+    "difficulty": 1,
+    "sort_order": 10,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 10,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000206,
+      400000025,
+      400000025,
+      400000025,
+      400000025,
+      400000025,
+      400000025,
+      400000025,
+      400000025,
+      400000025,
+      400000025,
+      400000116,
+      400000116,
+      400000116,
+      400000116,
+      400000116,
+      400000116,
+      400000116,
+      400000116,
+      400000116,
+      400000116
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001005,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 430000161,
+    "quest_type": 1,
+    "name": "Forest of Mystery Spree Lv. 6",
+    "difficulty": 1,
+    "sort_order": 12,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 10,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000207,
+      400000026,
+      400000026,
+      400000026,
+      400000026,
+      400000026,
+      400000026,
+      400000026,
+      400000026,
+      400000026,
+      400000026,
+      400000126,
+      400000126,
+      400000126,
+      400000126,
+      400000126,
+      400000126,
+      400000126,
+      400000126,
+      400000126,
+      400000126
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001006,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000061
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 430000171,
+    "quest_type": 1,
+    "name": "Forest of Mystery Spree Lv. 7",
+    "difficulty": 1,
+    "sort_order": 14,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 10,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000208,
+      400000027,
+      400000027,
+      400000027,
+      400000027,
+      400000027,
+      400000027,
+      400000027,
+      400000027,
+      400000027,
+      400000027,
+      400000133,
+      400000133,
+      400000133,
+      400000133,
+      400000133,
+      400000133,
+      400000133,
+      400000133,
+      400000133,
+      400000133
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001007,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000071
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 430000181,
+    "quest_type": 1,
+    "name": "Forest of Mystery Spree Lv. 8",
+    "difficulty": 1,
+    "sort_order": 16,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 10,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000209,
+      400000028,
+      400000028,
+      400000028,
+      400000028,
+      400000028,
+      400000028,
+      400000028,
+      400000028,
+      400000028,
+      400000028,
+      400000142,
+      400000142,
+      400000142,
+      400000142,
+      400000142,
+      400000142,
+      400000142,
+      400000142,
+      400000142,
+      400000142
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001008,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000081
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 430000191,
+    "quest_type": 1,
+    "name": "Forest of Mystery Spree Lv. 9",
+    "difficulty": 1,
+    "sort_order": 18,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 10,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000210,
+      400000029,
+      400000029,
+      400000029,
+      400000029,
+      400000029,
+      400000029,
+      400000029,
+      400000029,
+      400000029,
+      400000029,
+      400000148,
+      400000148,
+      400000148,
+      400000148,
+      400000148,
+      400000148,
+      400000148,
+      400000148,
+      400000148,
+      400000148
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001009,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000091
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 430000201,
+    "quest_type": 1,
+    "name": "Forest of Mystery Spree Lv. 10",
+    "difficulty": 1,
+    "sort_order": 20,
+    "clear_limit": 0,
+    "banner": 120101,
+    "stamina": 0,
+    "quest_ticket_id": 821001,
+    "quest_ticket_quantity": 10,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 860002
+      },
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 26,
+        "id": 503300100
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000211,
+      400000030,
+      400000030,
+      400000030,
+      400000030,
+      400000030,
+      400000030,
+      400000030,
+      400000030,
+      400000030,
+      400000030,
+      400000149,
+      400000149,
+      400000149,
+      400000149,
+      400000149,
+      400000149,
+      400000149,
+      400000149,
+      400000149,
+      400000149
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 501,
+    "battle_id": 430001010,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      430000101
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
     "id": 440000011,
     "quest_type": 1,
     "name": "Treasure Cave",

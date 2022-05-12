@@ -9359,5 +9359,60 @@
     "visibility_quest_ids": [],
     "blockade_quest_ids": [],
     "joints": []
+  },
+  {
+    "id": 10115000,
+    "field_map_id": 1011501,
+    "adjacent_field_map_node_ids": [
+      10115000,
+      10115001
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10115001,
+    "field_map_id": 1011501,
+    "adjacent_field_map_node_ids": [
+      10115001,
+      10115002
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10115002,
+    "field_map_id": 1011501,
+    "adjacent_field_map_node_ids": [
+      10115001,
+      10115003
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10115003,
+    "field_map_id": 1011501,
+    "adjacent_field_map_node_ids": [
+      10115001,
+      10115004
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10115004,
+    "field_map_id": 1011501,
+    "adjacent_field_map_node_ids": [
+      10115001,
+      10115005
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
   }
 ]

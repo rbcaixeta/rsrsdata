@@ -792,6 +792,30 @@
     "is_pierceily": 0
   },
   {
+    "id": 197,
+    "name": "End of the Ancient War II",
+    "start_at": 1652317200,
+    "end_at": 1654217999,
+    "priority": 10269,
+    "is_pierceily": 0
+  },
+  {
+    "id": 198,
+    "name": "End of the Ancient War III",
+    "start_at": 1652835600,
+    "end_at": 1654217999,
+    "priority": 10268,
+    "is_pierceily": 0
+  },
+  {
+    "id": 199,
+    "name": "End of the Ancient War IV",
+    "start_at": 1653267600,
+    "end_at": 1654217999,
+    "priority": 10267,
+    "is_pierceily": 0
+  },
+  {
     "id": 1000000001,
     "name": "New Year",
     "start_at": 1596157200,
@@ -1293,6 +1317,14 @@
     "start_at": 1651626000,
     "end_at": 1652317199,
     "priority": 10266,
+    "is_pierceily": 1
+  },
+  {
+    "id": 1000000066,
+    "name": "End of the Ancient War I",
+    "start_at": 1652317200,
+    "end_at": 1654217999,
+    "priority": 10270,
     "is_pierceily": 1
   }
 ]

@@ -14052,5 +14052,111 @@
     "next_field_map_node_id": 0,
     "is_notable": 1,
     "flavor_text": ""
+  },
+  {
+    "id": 10115000,
+    "name": "Entrance",
+    "field_map_id": 1011501,
+    "field_map_node_type": 5,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [],
+    "x": -0.034685079008340836,
+    "y": -4.801835060119629,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10115001,
+    "name": "Final Battle with Igomahl",
+    "field_map_id": 1011501,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992201
+    ],
+    "x": -0.034685079008340836,
+    "y": 3.358686923980713,
+    "field_map_size": 4,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
+  },
+  {
+    "id": 10115002,
+    "name": "Battle with Igomahl (Doppel) 1",
+    "field_map_id": 1011501,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992251
+    ],
+    "x": -5.78160285949707,
+    "y": 7.641286849975586,
+    "field_map_size": 4,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10115003,
+    "name": "Battle with Igomahl (Doppel) 2",
+    "field_map_id": 1011501,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992231
+    ],
+    "x": -5.923966884613037,
+    "y": -3.5652709007263184,
+    "field_map_size": 4,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10115004,
+    "name": "Battle with Igomahl (Doppel) 3",
+    "field_map_id": 1011501,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992241
+    ],
+    "x": 6.593327045440674,
+    "y": 5.698122978210449,
+    "field_map_size": 4,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10115005,
+    "name": "Battle with Igomahl (Doppel) 4",
+    "field_map_id": 1011501,
+    "field_map_node_type": 7,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992261
+    ],
+    "x": 7.012848854064941,
+    "y": -1.9690719842910767,
+    "field_map_size": 4,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
   }
 ]
