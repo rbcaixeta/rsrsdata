@@ -2354,6 +2354,17 @@
     "icon": 4001
   },
   {
+    "id": 702101060,
+    "name": "High Lethal Tension",
+    "flavor_text": "Attacks' damage increases (very large effect).<br>When landing a Critical attack, damage increases further (very large effect).",
+    "special_effect_ids": [
+      802040346,
+      802040960
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702200060,
     "name": "Self-Regeneration Ⅲ",
     "flavor_text": "[Start of round]<br>Recovers own HP (medium chance/large effect).",
@@ -18887,6 +18898,18 @@
     "flavor_text": "[Start of turn]<br>Increases all surviving allies' WIL (very high chance/large effect).",
     "special_effect_ids": [
       1802010017
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300019,
+    "name": "Mystic Charisma",
+    "flavor_text": "[Start of turn]<br>Grants oneself Morale Up (medium) (1 turn(s)).<br>Grants oneself Guard Up (medium) (1 turn(s)).<br>Recovers own HP (very small effect).",
+    "special_effect_ids": [
+      802040835,
+      802040836,
+      802010689
     ],
     "ability_when": 3,
     "icon": 4010

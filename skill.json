@@ -109046,6 +109046,44 @@
     ]
   },
   {
+    "id": 1110500024,
+    "name": "Restrained Flare",
+    "rush_prefix": "Restrained",
+    "rush_suffix": "Flare",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Shadow+Heat) *M. Arts Special Skill (INT)<br>Attack.<br>When the attack hits, inflicts paralysis on target (medium chance/4 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      8,
+      4
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030347
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1009,
+    "skill_effect": 140500149,
+    "skill_se_cue_sheet_name": "140500149",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30030,
+      30038,
+      30046
+    ]
+  },
+  {
     "id": 1110600001,
     "name": "Sweet Trap",
     "rush_prefix": "Sweet",

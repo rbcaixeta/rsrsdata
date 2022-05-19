@@ -16743,11 +16743,11 @@
   {
     "id": 802040835,
     "state_change_id": 900040063,
-    "name": "モラルアップ(中)",
-    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "name": "Morale Up (medium)",
+    "flavor_text": "Increases damage dealt to enemies (can't stack).",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "攻撃 防御↑",
+    "text_pop": "ATK/DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -16759,8 +16759,8 @@
   {
     "id": 802040836,
     "state_change_id": 900040076,
-    "name": "ガードアップ(中)",
-    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "name": "Guard Up (medium)",
+    "flavor_text": "Decreases damage taken (can't stack).",
     "target_area": 1,
     "state_vars": [
       75
@@ -16915,6 +16915,22 @@
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 802040960,
+    "state_change_id": 900040048,
+    "name": "Critical Attack Boost",
+    "flavor_text": "Increases damage dealt by critical attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
     "direction_id": 1,
     "state_icon": 3001
   },

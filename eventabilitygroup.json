@@ -4093,5 +4093,23 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 259
+  },
+  {
+    "id": 1000000448,
+    "event_ability_category_id": 1000000226,
+    "name": "[Ltd. Time] Try it! Virgil's Trials I",
+    "flavor_text": "・3x attribute gains in Try it! Virgil's Trials (2x in Main)<br>・Virgil Challenge Badge drop +20% in Try it! Virgil's Trials",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 260
+  },
+  {
+    "id": 1000000449,
+    "event_ability_category_id": 1000000226,
+    "name": "[Ltd. Time] Try it! Virgil's Trials II",
+    "flavor_text": "・4x attribute gains in Try it! Virgil's Trials (3x in Main)<br>・Virgil Challenge Badge drop +50% in Try it! Virgil's Trials",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 260
   }
 ]
