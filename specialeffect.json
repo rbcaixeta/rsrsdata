@@ -8493,7 +8493,7 @@
     "flavor_text": "Increases STR.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "STR/END/WIL↑",
+    "text_pop": "Attributes↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -33003,6 +33003,42 @@
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "145600078",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040057,
+    "state_change_id": 900040062,
+    "name": "Defend",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040058,
+    "state_change_id": 900040062,
+    "name": "Defend",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 2,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
     "direction_id": 1,

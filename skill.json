@@ -65992,7 +65992,7 @@
     "name": "Curse of Fatigue",
     "rush_prefix": "Curse of Fatigue",
     "rush_suffix": "Curse of Fatigue",
-    "flavor_text": "Support/Delay<br>The user enters a Curse of Fatigue stance (1 turn(s)).<br><br>Curse of Fatigue stance<br>Nullifies attacks which have blunt damage.<br>Also counterattacks with Curse of Fatigue when being directly attacked.<br><br>Counterattack: Curse of Fatigue<br>Club skill/Attack/Direct/(Blunt)<br>Attack.<br>When the attack hits, there is a chance to reduce target's AGI (medium effect).",
+    "flavor_text": "Support/Delay<br>The user enters a Curse of Fatigue stance (2 turn(s)).<br><br>Curse of Fatigue stance<br>Nullifies attacks which have blunt damage.<br>Also counterattacks with Curse of Fatigue when being directly attacked.<br><br>Counterattack: Curse of Fatigue<br>Club skill/Attack/Direct/(Blunt)<br>Attack.<br>When the attack hits, there is a chance to reduce target's AGI (medium effect).",
     "attack_distance": 1,
     "skill_type": 1,
     "battle_type": 4,
@@ -82705,7 +82705,7 @@
     "name": "Wild Pierce",
     "rush_prefix": "Wild Pierce",
     "rush_suffix": "Wild Pierce",
-    "flavor_text": "Attack/Direct/(Pierce)<br>Attack.<br>When the attack hits, there is a chance to put target into an attack down stance (medium effect/2 turn(s)).",
+    "flavor_text": "Attack/Direct/(Pierce)<br>Attack.<br>When the attack hits, there is a chance to put target into an attack down stance (large effect/2 turn(s)).",
     "attack_distance": 1,
     "skill_type": 1,
     "battle_type": 7,
@@ -84889,7 +84889,7 @@
     "name": "Curse of Dazing",
     "rush_prefix": "Curse of Dazing",
     "rush_suffix": "Curse of Dazing",
-    "flavor_text": "Support/Delay<br>The user enters a Curse of Dazing stance (1 turn(s)).<br><br>Curse of Dazing stance<br>Nullifies attacks which have pierce damage.<br>Also counterattacks with Curse of Dazing when being directly attacked.<br><br>Counterattack: Curse of Dazing<br>Spear skill/Attack/Direct/(Pierce)<br>Attack.<br>When the attack hits, inflicts stun on target (medium chance).",
+    "flavor_text": "Support/Delay<br>The user enters a Curse of Dazing stance (2 turn(s)).<br><br>Curse of Dazing stance<br>Nullifies attacks which have pierce damage.<br>Also counterattacks with Curse of Dazing when being directly attacked.<br><br>Counterattack: Curse of Dazing<br>Spear skill/Attack/Direct/(Pierce)<br>Attack.<br>When the attack hits, inflicts stun on target (medium chance).",
     "attack_distance": 1,
     "skill_type": 1,
     "battle_type": 8,
@@ -108038,6 +108038,43 @@
     ]
   },
   {
+    "id": 1110300015,
+    "name": "Bloodthirst Strike",
+    "rush_prefix": "Bloodthirst",
+    "rush_suffix": "Strike",
+    "flavor_text": "Attack/Near/Direct/Delay/Single Foe (Slash) <br>Attack.<br>Recovers the user's HP (medium effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 3,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040412
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1005,
+    "skill_effect": 140300072,
+    "skill_se_cue_sheet_name": "140300072",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
+    ]
+  },
+  {
     "id": 1110400001,
     "name": "Dual Hammer",
     "rush_prefix": "Dual",
@@ -110840,6 +110877,41 @@
     ]
   },
   {
+    "id": 1125100008,
+    "name": "Solar Ignition",
+    "rush_prefix": "Solar",
+    "rush_suffix": "Ignition",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Heat+Sun) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      4,
+      7
+    ],
+    "power_grade": "C",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 2002,
+    "skill_effect": 145100064,
+    "skill_se_cue_sheet_name": "145100064",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30011,
+      30019
+    ]
+  },
+  {
     "id": 1125200001,
     "name": "Ice Javelins",
     "rush_prefix": "Ice",
@@ -111288,6 +111360,117 @@
     ]
   },
   {
+    "id": 1125300001,
+    "name": "Rock Stings",
+    "rush_prefix": "Rock",
+    "rush_suffix": "Stings",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Blunt+Pierce) <br>All range attack.<br>When the attack hits, inflicts stun on target (low chance).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 53,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2,
+      3
+    ],
+    "power_grade": "E",
+    "consume_bp": 4,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030375
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2006,
+    "skill_effect": 145300025,
+    "skill_se_cue_sheet_name": "145300025",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30006
+    ]
+  },
+  {
+    "id": 1125300002,
+    "name": "The Tower",
+    "rush_prefix": "The",
+    "rush_suffix": "Tower",
+    "flavor_text": "Attack/Far/Indirect/Fast/All Foes (Blunt+Pierce) <br>All range attack.<br>When the attack hits, there is a chance to reduce target's INT (large effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 53,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2,
+      3
+    ],
+    "power_grade": "B",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010548
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2006,
+    "skill_effect": 145300015,
+    "skill_se_cue_sheet_name": "145300015",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30030,
+      30038,
+      30046
+    ]
+  },
+  {
+    "id": 1125300003,
+    "name": "Hypergravity+",
+    "rush_prefix": "Hyper",
+    "rush_suffix": "Gravity",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Blunt) <br>Attack.<br>When the attack hits, there is a chance to reduce target's AGI (<change>large effect</change>).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 53,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010512
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2105,
+    "skill_effect": 145300028,
+    "skill_se_cue_sheet_name": "145300028",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
+    ]
+  },
+  {
     "id": 1125400001,
     "name": "Dancing Leaves",
     "rush_prefix": "Dancing",
@@ -111392,6 +111575,81 @@
       30029,
       30037,
       30045
+    ]
+  },
+  {
+    "id": 1125400004,
+    "name": "Gale Thunder",
+    "rush_prefix": "Gale",
+    "rush_suffix": "Thunder",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Slash+Lightning) <br>Attacks random enemies (2-4 time(s)).<br>When the attack hits, inflicts paralysis on target (low chance/4 turn(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 54,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 9,
+    "attack_attributes": [
+      1,
+      6
+    ],
+    "power_grade": "E",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030376
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2008,
+    "skill_effect": 145400044,
+    "skill_se_cue_sheet_name": "145400044",
+    "min_action_time": 2,
+    "max_action_time": 4,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30011,
+      30019
+    ]
+  },
+  {
+    "id": 1125400005,
+    "name": "Lightning Storm",
+    "rush_prefix": "Lightning",
+    "rush_suffix": "Storm",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Slash+Lightning) <br>Attack.<br>When the attack hits, inflicts paralysis on target (medium chance/4 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 54,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      1,
+      6
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030347
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2007,
+    "skill_effect": 145400045,
+    "skill_se_cue_sheet_name": "145400045",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30030,
+      30038,
+      30046
     ]
   },
   {

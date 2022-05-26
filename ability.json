@@ -2365,6 +2365,28 @@
     "icon": 4010
   },
   {
+    "id": 702101083,
+    "name": "Focused Energy Ⅱ",
+    "flavor_text": "Weak attacks' damage increases (very large effect).<br><br>[Start of battle]<br>Recovers own BP (+2).",
+    "special_effect_ids": [
+      802040347,
+      802040322
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
+    "id": 702101118,
+    "name": "Block Tension",
+    "flavor_text": "Attacks' damage increases (large effect).<br>When attacked, damage taken will be reduced (large effect).",
+    "special_effect_ids": [
+      802040001,
+      802040619
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702200060,
     "name": "Self-Regeneration Ⅲ",
     "flavor_text": "[Start of round]<br>Recovers own HP (medium chance/large effect).",
@@ -3521,7 +3543,7 @@
   },
   {
     "id": 702300732,
-    "name": "Celestial's Grace",
+    "name": "Macha's Benison",
     "flavor_text": "[Start of turn]<br>Has a medium chance to:<br>Increase all surviving allies' INT (medium effect) and recover all surviving allies' HP (very small effect).",
     "special_effect_ids": [
       802010777,
@@ -18910,6 +18932,17 @@
       802040835,
       802040836,
       802010689
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
+    "id": 1702300020,
+    "name": "Ironwall Link",
+    "flavor_text": "[Start of turn]<br>Grants oneself and 1 random surviving ally a defense boost (large effect/1 turn(s)).",
+    "special_effect_ids": [
+      1802040057,
+      1802040058
     ],
     "ability_when": 3,
     "icon": 4010

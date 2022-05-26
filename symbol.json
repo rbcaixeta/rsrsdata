@@ -3016,6 +3016,32 @@
     "in_group_priority": 99
   },
   {
+    "id": 1259,
+    "name": "Vanguard",
+    "flavor_text": "Grand festivities are afoot. The city is bustling with a lot of Grave Knights.",
+    "map_id": 1,
+    "x": -17,
+    "y": 2,
+    "illust_category": 1,
+    "illust": 1022,
+    "priority": 1,
+    "group_id": 2709,
+    "in_group_priority": 100
+  },
+  {
+    "id": 1260,
+    "name": "Demonic Labyrinth",
+    "flavor_text": "Who built it, what lurks in its depths, and what its true nature is exactly, no one knows.",
+    "map_id": 1,
+    "x": 9,
+    "y": 8,
+    "illust_category": 1,
+    "illust": 1009,
+    "priority": 1,
+    "group_id": 2505,
+    "in_group_priority": 97
+  },
+  {
     "id": 1262,
     "name": "Ancient Castle",
     "flavor_text": "No one knows when or by whom it was built, or if its Lord created it with mystic power.",
