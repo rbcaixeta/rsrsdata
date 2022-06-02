@@ -59748,5 +59748,2110 @@
     ],
     "is_required_for_area_clear": 0,
     "twitter_button_id": 0
+  },
+  {
+    "id": 100213011,
+    "quest_type": 2,
+    "name": "13-1-1. Sweet Dreams",
+    "sort_order": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 0,
+    "scenario_id": 10214001,
+    "prev_quest_ids": [
+      100212171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213012,
+    "quest_type": 1,
+    "name": "13-1-1. Evil Sanctuary I",
+    "sort_order": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000114,
+    "number_of_story_banner": 13,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1990701,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 403004
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000041,
+      870000134,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213251,
+      100212102
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213013,
+    "quest_type": 1,
+    "name": "13-1-1. Evil Sanctuary I",
+    "sort_order": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000114,
+    "number_of_story_banner": 13,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1990701,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404005
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000935,
+      870000134,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213102,
+      100212103
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213021,
+    "quest_type": 1,
+    "name": "13-1-2. Evil Sanctuary I",
+    "sort_order": 2,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000114,
+    "number_of_story_banner": 13,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1990701,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000333,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213011
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213022,
+    "quest_type": 1,
+    "name": "13-1-2. Evil Sanctuary II",
+    "sort_order": 2,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000114,
+    "number_of_story_banner": 13,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1990551,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 403010
+      },
+      {
+        "type": 26,
+        "id": 502400100
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000042,
+      870000135,
+      870000136,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213012
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213023,
+    "quest_type": 1,
+    "name": "13-1-2. Evil Sanctuary II",
+    "sort_order": 2,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000114,
+    "number_of_story_banner": 13,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1990551,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 4,
+        "id": 404011
+      },
+      {
+        "type": 26,
+        "id": 502400100
+      },
+      {
+        "type": 26,
+        "id": 503400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000936,
+      870000135,
+      870000136,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213013
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213031,
+    "quest_type": 1,
+    "name": "13-1-3. Evil Sanctuary II",
+    "sort_order": 3,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000114,
+    "number_of_story_banner": 13,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1990551,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103300300
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000333,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213021
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213032,
+    "quest_type": 1,
+    "name": "13-1-3. Evil Sanctuary III",
+    "sort_order": 3,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000115,
+    "number_of_story_banner": 13,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1010121,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103403500
+      },
+      {
+        "type": 16,
+        "id": 204300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000999,
+      870000332,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213022
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213033,
+    "quest_type": 1,
+    "name": "13-1-3. Evil Sanctuary III",
+    "sort_order": 3,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000115,
+    "number_of_story_banner": 13,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010121,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103403500
+      },
+      {
+        "type": 4,
+        "id": 403004
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 103403620,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870001003,
+      870000937,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213023
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213041,
+    "quest_type": 2,
+    "name": "13-1-4. The Burdened Pair",
+    "sort_order": 4,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 0,
+    "scenario_id": 10214010,
+    "prev_quest_ids": [
+      100213031
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213042,
+    "quest_type": 1,
+    "name": "13-1-4. Evil Sanctuary IV",
+    "sort_order": 4,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000115,
+    "number_of_story_banner": 13,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1010121,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103403500
+      },
+      {
+        "type": 16,
+        "id": 203300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000999,
+      870000329,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213032
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213043,
+    "quest_type": 1,
+    "name": "13-1-4. Evil Sanctuary IV",
+    "sort_order": 4,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000115,
+    "number_of_story_banner": 13,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010121,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 103403500
+      },
+      {
+        "type": 4,
+        "id": 403010
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870001003,
+      870000938,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213033
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213051,
+    "quest_type": 2,
+    "name": "13-1-5. Holiness and Darkness",
+    "sort_order": 5,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 0,
+    "scenario_id": 10214020,
+    "prev_quest_ids": [
+      100213041
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213052,
+    "quest_type": 1,
+    "name": "13-1-5. Evil Sanctuary V",
+    "sort_order": 5,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000114,
+    "number_of_story_banner": 13,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1120051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403800
+      },
+      {
+        "type": 15,
+        "id": 106403600
+      },
+      {
+        "type": 16,
+        "id": 203300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000968,
+      870001000,
+      870001001,
+      870000329,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213042
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213053,
+    "quest_type": 1,
+    "name": "13-1-5. Evil Sanctuary V",
+    "sort_order": 5,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000114,
+    "number_of_story_banner": 13,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1120091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403800
+      },
+      {
+        "type": 15,
+        "id": 106403600
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 104403940,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000969,
+      870001004,
+      870001005,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213043
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213061,
+    "quest_type": 2,
+    "name": "13-1-6. Beloved Daughters",
+    "sort_order": 6,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 0,
+    "scenario_id": 10214030,
+    "prev_quest_ids": [
+      100213051
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213062,
+    "quest_type": 1,
+    "name": "13-2-1. Igomahl the Harlequin",
+    "sort_order": 6,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000117,
+    "number_of_story_banner": 13,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1992181,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403800
+      },
+      {
+        "type": 15,
+        "id": 106403600
+      },
+      {
+        "type": 16,
+        "id": 202300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870001000,
+      870001001,
+      870000330,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213052
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213063,
+    "quest_type": 1,
+    "name": "13-2-1. Igomahl the Harlequin",
+    "sort_order": 6,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000117,
+    "number_of_story_banner": 13,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1992181,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403800
+      },
+      {
+        "type": 15,
+        "id": 106403600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870001004,
+      870001005,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213053
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213071,
+    "quest_type": 1,
+    "name": "13-1-7. Evil Sanctuary III",
+    "sort_order": 7,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000115,
+    "number_of_story_banner": 13,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1010121,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 16,
+        "id": 204300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000334,
+      870000336,
+      870000072,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213061
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213072,
+    "quest_type": 1,
+    "name": "13-2-2. Evil Sanctuary VI",
+    "sort_order": 7,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000115,
+    "number_of_story_banner": 13,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1130041,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403800
+      },
+      {
+        "type": 15,
+        "id": 106403600
+      },
+      {
+        "type": 16,
+        "id": 202300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870001000,
+      870001001,
+      870000330,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213062
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213073,
+    "quest_type": 1,
+    "name": "13-2-2. Evil Sanctuary VI",
+    "sort_order": 7,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000115,
+    "number_of_story_banner": 13,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1130081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104403800
+      },
+      {
+        "type": 15,
+        "id": 106403600
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 106403750,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870001004,
+      870001005,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213063
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213081,
+    "quest_type": 1,
+    "name": "13-1-8. Evil Sanctuary IV",
+    "sort_order": 8,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000115,
+    "number_of_story_banner": 13,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1010121,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 16,
+        "id": 203300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000334,
+      870000336,
+      870000069,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213071
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213082,
+    "quest_type": 1,
+    "name": "13-2-3. Enjoyment & Pleasure",
+    "sort_order": 8,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000117,
+    "number_of_story_banner": 13,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1992191,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403500
+      },
+      {
+        "type": 16,
+        "id": 201300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870001002,
+      870000331,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213072
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213083,
+    "quest_type": 1,
+    "name": "13-2-3. Enjoyment & Pleasure",
+    "sort_order": 8,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000117,
+    "number_of_story_banner": 13,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1992191,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 502400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870001006,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213073
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213091,
+    "quest_type": 2,
+    "name": "13-1-9. Where Light Goes",
+    "sort_order": 9,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 0,
+    "scenario_id": 10214040,
+    "prev_quest_ids": [
+      100213081
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213092,
+    "quest_type": 1,
+    "name": "13-2-4. Evil Sanctuary VII",
+    "sort_order": 9,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000116,
+    "number_of_story_banner": 13,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1010141,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403500
+      },
+      {
+        "type": 16,
+        "id": 201300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870001002,
+      870000331,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213082
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213093,
+    "quest_type": 1,
+    "name": "13-2-4. Evil Sanctuary VII",
+    "sort_order": 9,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000116,
+    "number_of_story_banner": 13,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010151,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403500
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 15,
+        "id": 107403650,
+        "quantity": 1
+      },
+      {
+        "type": 26,
+        "id": 503400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870001006,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213083
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213101,
+    "quest_type": 2,
+    "name": "13-1-10. Reason to Stand",
+    "sort_order": 10,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 0,
+    "scenario_id": 10214050,
+    "prev_quest_ids": [
+      100213091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213102,
+    "quest_type": 1,
+    "name": "13-2-5. Oriax the Sinistral",
+    "sort_order": 10,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "banner": 700000119,
+    "number_of_story_banner": 13,
+    "stamina": 16,
+    "illust_category": 2,
+    "illust_id": 1992221,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403500
+      },
+      {
+        "type": 16,
+        "id": 204300200
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000968,
+      870001002,
+      870000332,
+      870000814
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213092
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213103,
+    "quest_type": 1,
+    "name": "13-2-5. Oriax the Sinistral",
+    "sort_order": 10,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "banner": 700000119,
+    "number_of_story_banner": 13,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1992221,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107403500
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000969,
+      870001006,
+      870000847
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213093
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213111,
+    "quest_type": 2,
+    "name": "13-1-11. Stone Flower",
+    "sort_order": 11,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 0,
+    "scenario_id": 10214060,
+    "prev_quest_ids": [
+      100213101
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213121,
+    "quest_type": 1,
+    "name": "13-1-12. Evil Sanctuary V",
+    "sort_order": 12,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000114,
+    "number_of_story_banner": 13,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1120051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 16,
+        "id": 203300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000967,
+      870000334,
+      870000336,
+      870000069,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 161,
+    "battle_id": 100214051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213111
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213131,
+    "quest_type": 1,
+    "name": "13-2-1. Igomahl the Harlequin",
+    "sort_order": 13,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000117,
+    "number_of_story_banner": 13,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1992181,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 104300100
+      },
+      {
+        "type": 15,
+        "id": 106300100
+      },
+      {
+        "type": 16,
+        "id": 202300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000334,
+      870000336,
+      870000070,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213121
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213141,
+    "quest_type": 2,
+    "name": "13-2-2. A Mother's Love",
+    "sort_order": 14,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 0,
+    "scenario_id": 10214070,
+    "prev_quest_ids": [
+      100213131
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213151,
+    "quest_type": 1,
+    "name": "13-2-3. Evil Sanctuary VI",
+    "sort_order": 15,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000115,
+    "number_of_story_banner": 13,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1130041,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107300100
+      },
+      {
+        "type": 16,
+        "id": 202300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000335,
+      870000070,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213141
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213161,
+    "quest_type": 1,
+    "name": "13-2-4. Enjoyment & Pleasure",
+    "sort_order": 16,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000117,
+    "number_of_story_banner": 13,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1992191,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 15,
+        "id": 107300100
+      },
+      {
+        "type": 16,
+        "id": 201300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000967,
+      870000335,
+      870000071,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213151
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213171,
+    "quest_type": 2,
+    "name": "13-2-5. Shining Lion",
+    "sort_order": 17,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 0,
+    "scenario_id": 10214080,
+    "prev_quest_ids": [
+      100213161
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213181,
+    "quest_type": 1,
+    "name": "13-2-6. Evil Sanctuary VII",
+    "sort_order": 18,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000116,
+    "number_of_story_banner": 13,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1010141,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 502300100
+      },
+      {
+        "type": 16,
+        "id": 201300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000145,
+      870000037,
+      870000071,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213191,
+    "quest_type": 1,
+    "name": "13-2-7. Oriax the Sinistral",
+    "sort_order": 19,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 700000119,
+    "number_of_story_banner": 13,
+    "stamina": 13,
+    "illust_category": 2,
+    "illust_id": 1992221,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 26,
+        "id": 503300100
+      },
+      {
+        "type": 16,
+        "id": 204300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870000967,
+      870000038,
+      870000072,
+      870000784
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 100214101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      100213181
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213201,
+    "quest_type": 2,
+    "name": "13-2-8. Guided Destruction",
+    "sort_order": 20,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 0,
+    "scenario_id": 10214090,
+    "prev_quest_ids": [
+      100213191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213211,
+    "quest_type": 2,
+    "name": "13-2-9. Flight of Life",
+    "sort_order": 21,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 0,
+    "scenario_id": 10214100,
+    "prev_quest_ids": [
+      100213201
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213221,
+    "quest_type": 2,
+    "name": "13-2-10. Under Destiny",
+    "sort_order": 22,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 0,
+    "scenario_id": 10214110,
+    "prev_quest_ids": [
+      100213211
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213231,
+    "quest_type": 2,
+    "name": "13-2-11. Warriors' Return",
+    "sort_order": 23,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 0,
+    "scenario_id": 10214120,
+    "prev_quest_ids": [
+      100213221
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213241,
+    "quest_type": 2,
+    "name": "13-2-12. A Fight to Regain All",
+    "sort_order": 24,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 0,
+    "scenario_id": 10214130,
+    "prev_quest_ids": [
+      100213231
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
+  },
+  {
+    "id": 100213251,
+    "quest_type": 2,
+    "name": "13-2-13. Prayers of Battle's End",
+    "sort_order": 25,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "banner": 10021301,
+    "number_of_story_banner": 13,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 162,
+    "battle_id": 0,
+    "scenario_id": 10214140,
+    "prev_quest_ids": [
+      100213241
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0
   }
 ]

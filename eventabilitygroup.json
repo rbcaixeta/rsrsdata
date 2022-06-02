@@ -4129,5 +4129,41 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 261
+  },
+  {
+    "id": 1000000452,
+    "event_ability_category_id": 1000000228,
+    "name": "[Ltd. Time] Main Story Expansion I",
+    "flavor_text": "・3x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 262
+  },
+  {
+    "id": 1000000453,
+    "event_ability_category_id": 1000000229,
+    "name": "[Ltd. Time] Main Story Expansion II",
+    "flavor_text": "・4x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 263
+  },
+  {
+    "id": 1000000454,
+    "event_ability_category_id": 1000000230,
+    "name": "[Ltd. Time] 2nd Anniversary Quest",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing the 2nd Anniversary Quest",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 264
+  },
+  {
+    "id": 1000000455,
+    "event_ability_category_id": 1000000231,
+    "name": "[Ltd. Time] The Seekers' Path",
+    "flavor_text": "・2x attribute gains in The Seekers' Path",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 265
   }
 ]

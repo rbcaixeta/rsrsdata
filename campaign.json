@@ -30720,5 +30720,133 @@
     ],
     "start_at": 1653354000,
     "end_at": 1653958799
+  },
+  {
+    "id": 1000001279,
+    "displays_campaign": 1,
+    "quest_category": 1,
+    "area_ids": [],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      1000001386
+    ],
+    "start_at": 1654218000,
+    "end_at": 1656550799
+  },
+  {
+    "id": 1000001280,
+    "displays_campaign": 1,
+    "quest_category": 0,
+    "area_ids": [
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407
+    ],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      1000001386
+    ],
+    "start_at": 1654218000,
+    "end_at": 1656550799
+  },
+  {
+    "id": 1000001284,
+    "displays_campaign": 1,
+    "quest_category": 0,
+    "area_ids": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134
+    ],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      1386
+    ],
+    "start_at": 1654218000,
+    "end_at": 1654822799
+  },
+  {
+    "id": 1000001285,
+    "displays_campaign": 1,
+    "quest_category": 0,
+    "area_ids": [
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162
+    ],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      1492
+    ],
+    "start_at": 1654218000,
+    "end_at": 1654822799
   }
 ]

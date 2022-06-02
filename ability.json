@@ -2376,6 +2376,16 @@
     "icon": 4010
   },
   {
+    "id": 702101089,
+    "name": "Offensive Union Ⅱ",
+    "flavor_text": "When all allies are still surviving, increases attack damage for all allies (medium effect).",
+    "special_effect_ids": [
+      802040989
+    ],
+    "ability_when": 1,
+    "icon": 4010
+  },
+  {
     "id": 702101118,
     "name": "Block Tension",
     "flavor_text": "Attacks' damage increases (large effect).<br>When attacked, damage taken will be reduced (large effect).",
@@ -18969,6 +18979,16 @@
     "icon": 4007
   },
   {
+    "id": 1702400003,
+    "name": "Return to Life",
+    "flavor_text": "[End of turn]<br>When knocked unconscious, recovers own HP (small effect).<br>(Will not activate when knocked unconscious by poison damage).",
+    "special_effect_ids": [
+      1802040059
+    ],
+    "ability_when": 4,
+    "icon": 4007
+  },
+  {
     "id": 1702600001,
     "name": "Insidious Charm",
     "flavor_text": "When landing an attack, inflicts charm on target (medium chance/4 turn(s)).",
@@ -19280,6 +19300,23 @@
     ],
     "ability_when": 4,
     "icon": 4008
+  },
+  {
+    "id": 1708300003,
+    "name": "Boiling Blood",
+    "flavor_text": "[Start of turn]<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).",
+    "special_effect_ids": [
+      1808010007,
+      1808010008,
+      1808010009,
+      1808010010,
+      1808010011,
+      1808010012,
+      1808010013,
+      1808010014
+    ],
+    "ability_when": 3,
+    "icon": 4001
   },
   {
     "id": 1708400001,

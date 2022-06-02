@@ -6576,5 +6576,51 @@
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
     "twitter_button_id": 0
+  },
+  {
+    "id": 1000000010,
+    "name": "2nd Anniversary Quest",
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 1000901006,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810038
+      },
+      {
+        "type": 12,
+        "id": 1000840030
+      },
+      {
+        "type": 12,
+        "id": 1000840029
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000092986,
+      1000092987,
+      1000092988,
+      1000092989,
+      1000092990,
+      1000092991
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1000001021,
+    "battle_id": 1950010005,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1,
+    "twitter_button_id": 0
   }
 ]

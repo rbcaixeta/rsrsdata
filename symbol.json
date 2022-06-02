@@ -3003,6 +3003,19 @@
     "in_group_priority": 100
   },
   {
+    "id": 1257,
+    "name": "Evil Sanctuary",
+    "flavor_text": "Pocket dimension created by Igomahl. Can be entered through Messina Castle.",
+    "map_id": 1,
+    "x": -9,
+    "y": 0,
+    "illust_category": 1,
+    "illust": 1032,
+    "priority": 1,
+    "group_id": 1013,
+    "in_group_priority": 100
+  },
+  {
     "id": 1258,
     "name": "Ancient Castle",
     "flavor_text": "No one knows when or by whom it was built, or if its Lord created it with mystic power.",
@@ -3131,5 +3144,18 @@
     "priority": 1,
     "group_id": 2515,
     "in_group_priority": 99
+  },
+  {
+    "id": 1000000007,
+    "name": "Vanguard Outskirts",
+    "flavor_text": "Grand festivities are afoot.",
+    "map_id": 1,
+    "x": -17,
+    "y": 2,
+    "illust_category": 1,
+    "illust": 1022,
+    "priority": 1,
+    "group_id": 2709,
+    "in_group_priority": 103
   }
 ]

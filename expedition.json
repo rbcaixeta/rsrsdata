@@ -218,5 +218,25 @@
     "sort_order": 89,
     "open_at": 0,
     "close_at": 0
+  },
+  {
+    "id": 6700013,
+    "name": "Deserted City",
+    "required_quest_id": 100206103,
+    "required_hours": 21,
+    "difficulty": 4,
+    "growth_difficulty": 93,
+    "recommended_status": 95,
+    "jewel_cost": 2700,
+    "ticket_cost": 54,
+    "drop_group_ids": [
+      880000024,
+      880000025
+    ],
+    "flavor_text": "Recommended for characters with up to 1,050 HP and up to 95 in all attributes",
+    "background_id": 700000078,
+    "sort_order": 88,
+    "open_at": 0,
+    "close_at": 0
   }
 ]

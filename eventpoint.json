@@ -3681,6 +3681,15 @@
     "sort_order": 3362
   },
   {
+    "id": 1000800038,
+    "name": "Romancing Festival Medal 35",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800038,
+    "max_quantity": 99999999,
+    "expired_at": 1656637199,
+    "sort_order": 3635
+  },
+  {
     "id": 1001100001,
     "name": "Precious Stone [Limited Time]",
     "flavor_text": "Obtained from the Cave of Holy Stones. Can be exchanged for items. (Until [1618534799] <tz>)",
@@ -3949,5 +3958,23 @@
     "max_quantity": 99999999,
     "expired_at": 1651798799,
     "sort_order": 3154
+  },
+  {
+    "id": 1001100216,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1656464399] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1656464399,
+    "sort_order": 3438
+  },
+  {
+    "id": 1001100217,
+    "name": "2nd Anniversary Coin [Ltd. Time]",
+    "flavor_text": "Can be exchanged for items at the 2nd Anniversary Coin Exchange. (Until [1657760399] <tz>)",
+    "icon": 1001100217,
+    "max_quantity": 99999999,
+    "expired_at": 1657760399,
+    "sort_order": 3155
   }
 ]
