@@ -14158,5 +14158,1245 @@
     "next_field_map_node_id": 0,
     "is_notable": 0,
     "flavor_text": ""
+  },
+  {
+    "id": 10116004,
+    "name": "Onsen of Beginnings",
+    "field_map_id": 1011601,
+    "field_map_node_type": 5,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [],
+    "x": 1.9295430183410645,
+    "y": 1.0169529914855957,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116005,
+    "name": "Onsen of Beginnings: Southwest",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654822800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030251
+    ],
+    "x": -0.8983070850372314,
+    "y": -1.0542089939117432,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116007,
+    "name": "Furuyu Onsen: Entrance",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654822800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1050481
+    ],
+    "x": 7.454192161560059,
+    "y": 8.318387985229492,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116008,
+    "name": "Onsen of Beginnings: East",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654822800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070411
+    ],
+    "x": 7.499736785888672,
+    "y": 1.09860098361969,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116009,
+    "name": "Path to Takeo Onsen 1",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654822800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070411
+    ],
+    "x": -3.7335290908813477,
+    "y": -4.3504109382629395,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116010,
+    "name": "Path to Takeo Onsen 2",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654822800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1050241
+    ],
+    "x": -6.314137935638428,
+    "y": -8.631245613098145,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116011,
+    "name": "Path to Takeo Onsen 3",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654822800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1190371
+    ],
+    "x": -5.089583873748779,
+    "y": -10.852259635925293,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116012,
+    "name": "Takeo Onsen: Entrance",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654822800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030481
+    ],
+    "x": -5.274911880493164,
+    "y": -16.24864959716797,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116013,
+    "name": "Takeo Onsen: Hot",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170021
+    ],
+    "x": -8.443936347961426,
+    "y": -14.779080390930176,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116014,
+    "name": "Onsen of the Lords",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992471
+    ],
+    "x": -17.144739151000977,
+    "y": -14.422220230102539,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116015,
+    "name": "Takeo City Hall",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170011
+    ],
+    "x": -20.147239685058594,
+    "y": -12.888959884643555,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116016,
+    "name": "Onsen of the Four Emperors",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992451
+    ],
+    "x": -21.458450317382812,
+    "y": -8.261240005493164,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116017,
+    "name": "Takeo Onsen Romon",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170061
+    ],
+    "x": -17.016769409179688,
+    "y": -6.800642013549805,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116018,
+    "name": "Tsukazaki Okusu",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1190011
+    ],
+    "x": -14.330470085144043,
+    "y": -7.963141918182373,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116019,
+    "name": "Mt. Kurokami",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655125200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170081
+    ],
+    "x": -20.43206024169922,
+    "y": -16.510440826416016,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116020,
+    "name": "Ureshino Onsen: Entrance",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654995600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010561
+    ],
+    "x": 9.315729141235352,
+    "y": -6.058187007904053,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116021,
+    "name": "Ureshino Tea Exchange Hall",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654995600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1180241
+    ],
+    "x": 4.375791072845459,
+    "y": -9.043731689453125,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116022,
+    "name": "Ureshino Tea Plantation",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654995600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030351
+    ],
+    "x": 4.5612969398498535,
+    "y": -12.555120468139648,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116023,
+    "name": "Ureshino Onsen Park",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654995600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150251
+    ],
+    "x": 8.400115966796875,
+    "y": -14.803460121154785,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116024,
+    "name": "Sarari",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654995600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070411
+    ],
+    "x": 9.022890090942383,
+    "y": -12.378620147705078,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116025,
+    "name": "Yuttsura Plaza",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655038800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120381
+    ],
+    "x": 13.458069801330566,
+    "y": -12.856820106506348,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116026,
+    "name": "Siebold No Yu",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655038800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010841
+    ],
+    "x": 18.900020599365234,
+    "y": -10.744580268859863,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116028,
+    "name": "Onsen of the Lords",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654995600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992481
+    ],
+    "x": 12.46934986114502,
+    "y": -6.058187007904053,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116029,
+    "name": "Onsen of the Four Emperors",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655038800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992461
+    ],
+    "x": 22.078460693359375,
+    "y": -11.718779563903809,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116030,
+    "name": "Shiotatsu",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655038800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1190021
+    ],
+    "x": 16.49243927001953,
+    "y": -12.724309921264648,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116031,
+    "name": "Forester Fuji",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654909200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1160031
+    ],
+    "x": 4.792635917663574,
+    "y": 12.742679595947266,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116032,
+    "name": "Furuyu Onsen: Rest Area",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654909200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030141
+    ],
+    "x": 10.150779724121094,
+    "y": 11.064220428466797,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116033,
+    "name": "Yodohime Shrine",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654909200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040621
+    ],
+    "x": 6.359655857086182,
+    "y": 17.135250091552734,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116034,
+    "name": "Furuyu Onsen",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120481
+    ],
+    "x": 10.712849617004395,
+    "y": 13.780489921569824,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116035,
+    "name": "Kawakamigawa Daini Power Station",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1060231
+    ],
+    "x": 15.814900398254395,
+    "y": 13.431050300598145,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116036,
+    "name": "Furuyu Onsenkyo Monument",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120231
+    ],
+    "x": 18.840160369873047,
+    "y": 13.231369972229004,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116037,
+    "name": "Miyanobuchi Bridge",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170031
+    ],
+    "x": 15.82583999633789,
+    "y": 7.1446709632873535,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116038,
+    "name": "Kasegawa Riverside",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991941
+    ],
+    "x": 12.411179542541504,
+    "y": 6.026419162750244,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116039,
+    "name": "Kasegawa Riverside Path",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1190381
+    ],
+    "x": 19.900470733642578,
+    "y": 9.347281455993652,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116055,
+    "name": "Mifuneyama Rakuen",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655125200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040611
+    ],
+    "x": -13.131319999694824,
+    "y": -15.360810279846191,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116056,
+    "name": "Takeo Onsen: Lukewarm",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070111
+    ],
+    "x": -13.943770408630371,
+    "y": -12.337639808654785,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116057,
+    "name": "Hiryu Kiln",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170091
+    ],
+    "x": -11.348210334777832,
+    "y": -11.413189888000488,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116059,
+    "name": "Yushuku Plaza",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654995600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070261
+    ],
+    "x": 9.910675048828125,
+    "y": -10.139280319213867,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116060,
+    "name": "Furuyu Castle Ruins",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654909200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030481
+    ],
+    "x": 8.196784973144531,
+    "y": 18.533069610595703,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116061,
+    "name": "Onsen of the Lords",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992501
+    ],
+    "x": 11.930950164794922,
+    "y": 15.997030258178711,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116062,
+    "name": "Mokichi Saito Memorial",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040601
+    ],
+    "x": 17.29258918762207,
+    "y": 15.567709922790527,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116063,
+    "name": "Sasazawa Saho Memorial Hall",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1190361
+    ],
+    "x": 9.17623233795166,
+    "y": 6.3059821128845215,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116064,
+    "name": "Koya Temple",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1160081
+    ],
+    "x": -11.562520027160645,
+    "y": -13.805930137634277,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116065,
+    "name": "Olle Trekking Course",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655125200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070401
+    ],
+    "x": -16.05872917175293,
+    "y": -16.320810317993164,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116066,
+    "name": "Keishuen",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010851
+    ],
+    "x": -20.957509994506836,
+    "y": -10.552530288696289,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116067,
+    "name": "Kawagono Okusu",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1160021
+    ],
+    "x": -11.877420425415039,
+    "y": -8.920968055725098,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116068,
+    "name": "Takeo Okusu",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170071
+    ],
+    "x": -9.359821319580078,
+    "y": -9.04022216796875,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116069,
+    "name": "Toyotamahime Shrine",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654995600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070251
+    ],
+    "x": 12.017510414123535,
+    "y": -8.867229461669922,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116071,
+    "name": "Eiryu Onsen",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654909200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010861
+    ],
+    "x": 7.198346138000488,
+    "y": 11.703740119934082,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116072,
+    "name": "Fujicho Information Center",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654909200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120471
+    ],
+    "x": 7.6176910400390625,
+    "y": 14.060059547424316,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116073,
+    "name": "Furuyu Gongenyama Park",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654909200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120451
+    ],
+    "x": 9.34564208984375,
+    "y": 16.39594078063965,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116074,
+    "name": "Furuyu Onsen Stand",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654909200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1041891
+    ],
+    "x": 4.095571041107178,
+    "y": 16.37512969970703,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116075,
+    "name": "Onsen of the Four Emperors",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654909200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170121
+    ],
+    "x": 13.0662202835083,
+    "y": 11.423660278320312,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116076,
+    "name": "Kajikanosato Park",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150221
+    ],
+    "x": 9.595577239990234,
+    "y": 8.322830200195312,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116077,
+    "name": "Fuji Athletic Square",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150321
+    ],
+    "x": 19.656150817871094,
+    "y": 4.637765884399414,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116078,
+    "name": "Onsen of Beginnings: Northwest",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654866000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010821
+    ],
+    "x": -0.24516010284423828,
+    "y": 2.6264328956604004,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116079,
+    "name": "Onsen of Beginnings: West",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654866000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010831
+    ],
+    "x": -3.097892999649048,
+    "y": 1.052623987197876,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116080,
+    "name": "Onsen of the Lords",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654866000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992491
+    ],
+    "x": -2.1619009971618652,
+    "y": 4.754209041595459,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116081,
+    "name": "Onsen of the Four Emperors",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654866000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010791
+    ],
+    "x": -5.744531154632568,
+    "y": 2.532711982727051,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116082,
+    "name": "Takeo Shrine",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655082000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120301
+    ],
+    "x": -18.443159103393555,
+    "y": -9.319585800170898,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116083,
+    "name": "Saga Space & Science Museum",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655125200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1160141
+    ],
+    "x": -17.879560470581055,
+    "y": -18.428150177001953,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116084,
+    "name": "Takeo City Library",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655125200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1050481
+    ],
+    "x": -14.411319732666016,
+    "y": -17.83785057067871,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116085,
+    "name": "Saga Ninja Village Hizen Yumekaido",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655038800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170041
+    ],
+    "x": 11.619990348815918,
+    "y": -14.246939659118652,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116086,
+    "name": "Kirari",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655038800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1080221
+    ],
+    "x": 13.868829727172852,
+    "y": -15.520170211791992,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116087,
+    "name": "Izumi Shikibu Park",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1655038800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150341
+    ],
+    "x": 13.06054973602295,
+    "y": -17.083730697631836,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116088,
+    "name": "Saga City Fuji Branch",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120221
+    ],
+    "x": 14.747529983520508,
+    "y": 4.728446006774902,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116089,
+    "name": "Kyoseki Park",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654952400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040131
+    ],
+    "x": 14.53689956665039,
+    "y": 15.84727954864502,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116090,
+    "name": "Yukemuri Square",
+    "field_map_id": 1011601,
+    "field_map_node_type": 1,
+    "start_at": 1654995600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1160071
+    ],
+    "x": 6.70537805557251,
+    "y": -8.006013870239258,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10116091,
+    "name": "Eel Goby Onsen",
+    "field_map_id": 1011601,
+    "field_map_node_type": 7,
+    "start_at": 1655125200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992511
+    ],
+    "x": 16.41132926940918,
+    "y": -0.04680204018950462,
+    "field_map_size": 4,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
   }
 ]

@@ -1942,8 +1942,8 @@
   {
     "id": 801010552,
     "state_change_id": 900050079,
-    "name": "代償ダメージ(最大HP60%)",
-    "flavor_text": "攻撃時、自身の最大HPの60%を消費する",
+    "name": "Recoil Damage (60% Max HP)",
+    "flavor_text": "When attacking, use up 60% of max HP.",
     "target_area": 1,
     "state_vars": [
       1
@@ -1960,11 +1960,11 @@
   {
     "id": 801010560,
     "state_change_id": 900010012,
-    "name": "腕力アップ",
-    "flavor_text": "腕力が上昇する",
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
     "target_area": 10,
     "state_vars": [],
-    "text_pop": "能力↑",
+    "text_pop": "Attributes↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "140400065",
     "ignition_effect_id": "",
@@ -1976,8 +1976,8 @@
   {
     "id": 801010561,
     "state_change_id": 900010016,
-    "name": "知力アップ",
-    "flavor_text": "知力が上昇する",
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
     "target_area": 10,
     "state_vars": [],
     "text_pop": "",
@@ -1992,8 +1992,8 @@
   {
     "id": 801010562,
     "state_change_id": 900010014,
-    "name": "器用さアップ",
-    "flavor_text": "器用さが上昇する",
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
     "target_area": 10,
     "state_vars": [],
     "text_pop": "",
@@ -2008,8 +2008,8 @@
   {
     "id": 801010563,
     "state_change_id": 900010018,
-    "name": "愛アップ",
-    "flavor_text": "愛が上昇する",
+    "name": "LOV Up",
+    "flavor_text": "Increases LOV.",
     "target_area": 10,
     "state_vars": [],
     "text_pop": "",
@@ -2024,8 +2024,8 @@
   {
     "id": 801010564,
     "state_change_id": 900050054,
-    "name": "HP回復(極小)",
-    "flavor_text": "HPを回復する",
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
     "target_area": 10,
     "state_vars": [
       0
@@ -2042,11 +2042,11 @@
   {
     "id": 801010566,
     "state_change_id": 900010015,
-    "name": "素早さアップ",
-    "flavor_text": "素早さが上昇する",
+    "name": "AGI Up",
+    "flavor_text": "Increases AGI.",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "素早さ↑",
+    "text_pop": "AGI↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "140400067",
     "ignition_effect_id": "",
@@ -2058,11 +2058,11 @@
   {
     "id": 801010567,
     "state_change_id": 900010018,
-    "name": "愛アップ",
-    "flavor_text": "愛が上昇する",
+    "name": "LOV Up",
+    "flavor_text": "Increases LOV.",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "愛↑",
+    "text_pop": "LOV↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -2074,11 +2074,11 @@
   {
     "id": 801010568,
     "state_change_id": 900010018,
-    "name": "愛アップ",
-    "flavor_text": "愛が上昇する",
+    "name": "LOV Up",
+    "flavor_text": "Increases LOV.",
     "target_area": 10,
     "state_vars": [],
-    "text_pop": "愛↑",
+    "text_pop": "LOV↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -2090,8 +2090,8 @@
   {
     "id": 801010571,
     "state_change_id": 900050054,
-    "name": "HP回復(極小)",
-    "flavor_text": "HPを回復する",
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
     "target_area": 3,
     "state_vars": [
       0
@@ -5514,8 +5514,8 @@
   {
     "id": 801040545,
     "state_change_id": 900040036,
-    "name": "ヘッジホグシステム",
-    "flavor_text": "敵からの直接攻撃を回避して、カウンター攻撃を行う",
+    "name": "Intercept System",
+    "flavor_text": "Evades a direct enemy attack and launches a counterattack.",
     "target_area": 1,
     "state_vars": [
       110600059
@@ -5532,11 +5532,11 @@
   {
     "id": 801040547,
     "state_change_id": 900050058,
-    "name": "異常解除",
-    "flavor_text": "すべての状態異常を解除する",
+    "name": "Ailments Cured",
+    "flavor_text": "Removes all status ailments.",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "異常解除",
+    "text_pop": "Ailments Cured",
     "text_color": "5BFF24",
     "enchantment_effect_id": "Heal",
     "ignition_effect_id": "",
@@ -5548,8 +5548,8 @@
   {
     "id": 801040550,
     "state_change_id": 900040102,
-    "name": "溜め状態",
-    "flavor_text": "カウントがスタートする( カウント2 )<br>カウントはターン終了時に1減少し、<br>0になった次回の行動が、一回限り「流槍三牙」となる",
+    "name": "Energy Charge Stance",
+    "flavor_text": "Starts the countdown (2 counts).<br>The count will decrease by 1 by the end of each turn, and Triple Pierce will be activated on the turn after the count turns 0.",
     "target_area": 1,
     "state_vars": [
       2,
@@ -5568,8 +5568,8 @@
   {
     "id": 801040554,
     "state_change_id": 900050073,
-    "name": "楠花咲き",
-    "flavor_text": "楠花咲きで攻撃後、バックプロッドで攻撃を行う",
+    "name": "Blooming Camphor",
+    "flavor_text": "Attacks with Stab in the Back after attacking with Blooming Camphor.",
     "target_area": 1,
     "state_vars": [
       110700069
@@ -5602,8 +5602,8 @@
   {
     "id": 801040556,
     "state_change_id": 900050055,
-    "name": "BP回復",
-    "flavor_text": "BPが回復する",
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
     "target_area": 1,
     "state_vars": [
       4
@@ -5620,8 +5620,8 @@
   {
     "id": 801040557,
     "state_change_id": 900040036,
-    "name": "虹写し",
-    "flavor_text": "敵からの直接攻撃を回避して、カウンター攻撃を行う",
+    "name": "Rainbow Reflect",
+    "flavor_text": "Evades a direct enemy attack and launches a counterattack.",
     "target_area": 1,
     "state_vars": [
       110800092
@@ -5638,13 +5638,13 @@
   {
     "id": 801040558,
     "state_change_id": 900040076,
-    "name": "ガードアップ(中)",
-    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "name": "Guard Up (medium)",
+    "flavor_text": "Decreases damage taken (can't stack).",
     "target_area": 8,
     "state_vars": [
       75
     ],
-    "text_pop": "防御↑",
+    "text_pop": "DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "140500151",
     "ignition_effect_id": "",
@@ -5656,14 +5656,14 @@
   {
     "id": 801040559,
     "state_change_id": 900040035,
-    "name": "カウンター",
-    "flavor_text": "敵の直接攻撃に対して、斬打乱れ裁ちでカウンター攻撃を行う<br>さらに被ダメージが低下する",
+    "name": "Counter",
+    "flavor_text": "Counters direct enemy attacks with Slash Blunt Pincer Frenzy and decreases damage taken.",
     "target_area": 1,
     "state_vars": [
       110500175,
       75
     ],
-    "text_pop": "反撃態勢",
+    "text_pop": "Counter Stance",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -5675,11 +5675,11 @@
   {
     "id": 801040565,
     "state_change_id": 900050058,
-    "name": "異常解除",
-    "flavor_text": "すべての状態異常を解除する",
+    "name": "Ailments Cured",
+    "flavor_text": "Removes all status ailments.",
     "target_area": 10,
     "state_vars": [],
-    "text_pop": "異常解除",
+    "text_pop": "Ailments Cured",
     "text_color": "5BFF24",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -5691,8 +5691,8 @@
   {
     "id": 801040569,
     "state_change_id": 900040102,
-    "name": "溜め状態",
-    "flavor_text": "カウントがスタートする( カウント2 )<br>カウントはターン終了時に1減少し、<br>0になった次回の行動が、一回限り「クリムゾンブレイク」となる",
+    "name": "Energy Charge Stance",
+    "flavor_text": "Starts the countdown (2 counts).<br>The count will decrease by 1 by the end of each turn, and Crimson Break will be activated on the turn after the count turns 0.",
     "target_area": 1,
     "state_vars": [
       2,
@@ -5711,11 +5711,11 @@
   {
     "id": 801040570,
     "state_change_id": 900040063,
-    "name": "モラルアップ(中)",
-    "flavor_text": "敵に与えるダメージが上昇する(重複不可)",
+    "name": "Morale Up (medium)",
+    "flavor_text": "Increases damage dealt to enemies (can't stack).",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -5727,8 +5727,8 @@
   {
     "id": 801040575,
     "state_change_id": 900050055,
-    "name": "BP回復",
-    "flavor_text": "BPが回復する",
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
     "target_area": 3,
     "state_vars": [
       1
@@ -5745,8 +5745,8 @@
   {
     "id": 801040576,
     "state_change_id": 900050054,
-    "name": "HP回復(小)",
-    "flavor_text": "HPを回復する",
+    "name": "Recover HP (small)",
+    "flavor_text": "Recovers HP.",
     "target_area": 1,
     "state_vars": [
       10
@@ -5763,11 +5763,11 @@
   {
     "id": 801040579,
     "state_change_id": 900050058,
-    "name": "異常解除",
-    "flavor_text": "すべての状態異常を解除する",
+    "name": "Ailments Cured",
+    "flavor_text": "Removes all status ailments.",
     "target_area": 10,
     "state_vars": [],
-    "text_pop": "異常解除",
+    "text_pop": "Ailments Cured",
     "text_color": "5BFF24",
     "enchantment_effect_id": "Heal",
     "ignition_effect_id": "",
@@ -5779,13 +5779,13 @@
   {
     "id": 801040580,
     "state_change_id": 900040076,
-    "name": "ガードアップ(中)",
-    "flavor_text": "敵から受けるダメージが低下する(重複不可)",
+    "name": "Guard Up (medium)",
+    "flavor_text": "Decreases damage taken (can't stack).",
     "target_area": 1,
     "state_vars": [
       75
     ],
-    "text_pop": "防御↑",
+    "text_pop": "DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -8562,11 +8562,11 @@
   {
     "id": 802010801,
     "state_change_id": 900010015,
-    "name": "素早さダウン",
-    "flavor_text": "素早さが低下する",
+    "name": "AGI Down",
+    "flavor_text": "Decreases AGI.",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "素早さ↓",
+    "text_pop": "AGI↓",
     "text_color": "FF0000",
     "enchantment_effect_id": "Debuff",
     "ignition_effect_id": "",
@@ -8594,11 +8594,11 @@
   {
     "id": 802010816,
     "state_change_id": 900010016,
-    "name": "知力アップ",
-    "flavor_text": "知力が上昇する",
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "知力↑",
+    "text_pop": "INT↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -8610,11 +8610,11 @@
   {
     "id": 802010817,
     "state_change_id": 900010012,
-    "name": "腕力アップ",
-    "flavor_text": "腕力が上昇する",
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "腕力↑",
+    "text_pop": "STR↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -8626,11 +8626,11 @@
   {
     "id": 802010818,
     "state_change_id": 900010015,
-    "name": "素早さアップ",
-    "flavor_text": "素早さが上昇する",
+    "name": "AGI Up",
+    "flavor_text": "Increases AGI.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "素早さ↑",
+    "text_pop": "AGI↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -8642,11 +8642,11 @@
   {
     "id": 802010824,
     "state_change_id": 900010012,
-    "name": "腕力アップ",
-    "flavor_text": "腕力が上昇する",
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "腕力 精神↑",
+    "text_pop": "STR/WIL↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -8658,11 +8658,11 @@
   {
     "id": 802010845,
     "state_change_id": 900010012,
-    "name": "腕力アップ",
-    "flavor_text": "腕力が上昇する",
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "腕力 知力↑",
+    "text_pop": "STR/INT↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -8674,8 +8674,8 @@
   {
     "id": 802010846,
     "state_change_id": 900010016,
-    "name": "知力アップ",
-    "flavor_text": "知力が上昇する",
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
     "target_area": 1,
     "state_vars": [],
     "text_pop": "",
@@ -16344,8 +16344,8 @@
   {
     "id": 802040798,
     "state_change_id": 900050055,
-    "name": "BP回復",
-    "flavor_text": "自身のBPが回復する",
+    "name": "BP Recovery",
+    "flavor_text": "Recovers own BP.",
     "target_area": 1,
     "state_vars": [
       5
@@ -16460,13 +16460,13 @@
   {
     "id": 802040809,
     "state_change_id": 900040062,
-    "name": "霊銀の壁",
-    "flavor_text": "被ダメージを100%カットする",
+    "name": "Mithril Wall",
+    "flavor_text": "Decreases damage taken by 100%.",
     "target_area": 1,
     "state_vars": [
       0
     ],
-    "text_pop": "霊銀の壁",
+    "text_pop": "Mithril Wall",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "Plane",
@@ -16478,8 +16478,8 @@
   {
     "id": 802040812,
     "state_change_id": 900050055,
-    "name": "BP回復",
-    "flavor_text": "自身のBPが回復する",
+    "name": "BP Recovery",
+    "flavor_text": "Recovers own BP.",
     "target_area": 1,
     "state_vars": [
       1
@@ -16496,11 +16496,11 @@
   {
     "id": 802040813,
     "state_change_id": 900040048,
-    "name": "HP満タン時攻撃強化",
-    "flavor_text": "HP満タン状態のとき、攻撃のダメージが上昇する",
+    "name": "ATK Boost at Full HP",
+    "flavor_text": "Increases attack damage when HP is full.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -16512,13 +16512,13 @@
   {
     "id": 802040814,
     "state_change_id": 900040062,
-    "name": "防御",
-    "flavor_text": "被ダメージが低下する",
+    "name": "Defend",
+    "flavor_text": "Decreases damage taken.",
     "target_area": 1,
     "state_vars": [
       70
     ],
-    "text_pop": "腕力 防御↑",
+    "text_pop": "STR/DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -16530,8 +16530,8 @@
   {
     "id": 802040819,
     "state_change_id": 900050113,
-    "name": "奇数ターン知力アップ",
-    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、知力が上昇する",
+    "name": "Odd Turn: INT Up",
+    "flavor_text": "On odd turns counting from the start of battle, increases INT.",
     "target_area": 1,
     "state_vars": [
       702300755
@@ -16548,8 +16548,8 @@
   {
     "id": 802040820,
     "state_change_id": 900050113,
-    "name": "偶数ターン素早さアップ",
-    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、素早さが上昇する",
+    "name": "Even Turn: AGI Up",
+    "flavor_text": "On even turns counting from the start of battle, increases AGI.",
     "target_area": 1,
     "state_vars": [
       702300756
@@ -16566,8 +16566,8 @@
   {
     "id": 802040821,
     "state_change_id": 900050113,
-    "name": "偶数ターン腕力アップ",
-    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、腕力が上昇する",
+    "name": "Even Turn: STR Up",
+    "flavor_text": "On even turns counting from the start of battle, increases STR.",
     "target_area": 1,
     "state_vars": [
       702300758
@@ -16584,8 +16584,8 @@
   {
     "id": 802040822,
     "state_change_id": 900050113,
-    "name": "奇数ターン素早さアップ",
-    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、素早さが上昇する",
+    "name": "Odd Turn: AGI Up",
+    "flavor_text": "On odd turns counting from the start of battle, increases AGI.",
     "target_area": 1,
     "state_vars": [
       702300759
@@ -16621,8 +16621,8 @@
   {
     "id": 802040825,
     "state_change_id": 900050055,
-    "name": "BP回復",
-    "flavor_text": "撃破時、BPが回復する",
+    "name": "BP Recovery",
+    "flavor_text": "When defeating an enemy, recovers some amount of BP.",
     "target_area": 3,
     "state_vars": [
       1
@@ -16639,11 +16639,11 @@
   {
     "id": 802040827,
     "state_change_id": 900040048,
-    "name": "ダメージアップ",
-    "flavor_text": "敵に与えるダメージが上昇する",
+    "name": "Damage Up",
+    "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -16655,13 +16655,13 @@
   {
     "id": 802040828,
     "state_change_id": 900050073,
-    "name": "チェイスバスター",
-    "flavor_text": "草伏せ+を命中させた時、バスターランサーが発動する(確率中)",
+    "name": "Chasing Buster",
+    "flavor_text": "When landing an attack with Grasshopper+, Lance Buster will be activated (medium chance).",
     "target_area": 1,
     "state_vars": [
       110800098
     ],
-    "text_pop": "チェイスバスター",
+    "text_pop": "Chasing Buster",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -16673,13 +16673,13 @@
   {
     "id": 802040829,
     "state_change_id": 900050073,
-    "name": "チェイスバスター",
-    "flavor_text": "松原揺らしを命中させた時、バスターランサーが発動する(確率中)",
+    "name": "Chasing Buster",
+    "flavor_text": "When landing an attack with Pine Grove Sway, Lance Buster will be activated (medium chance).",
     "target_area": 1,
     "state_vars": [
       110800098
     ],
-    "text_pop": "チェイスバスター",
+    "text_pop": "Chasing Buster",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -16691,13 +16691,13 @@
   {
     "id": 802040830,
     "state_change_id": 900050073,
-    "name": "チェイスバスター",
-    "flavor_text": "継承技を命中させた時、バスターランサーが発動する(確率中)",
+    "name": "Chasing Buster",
+    "flavor_text": "When landing an attack with an inherited skill, Lance Buster will be activated (medium chance).",
     "target_area": 1,
     "state_vars": [
       110800098
     ],
-    "text_pop": "チェイスバスター",
+    "text_pop": "Chasing Buster",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -16709,8 +16709,8 @@
   {
     "id": 802040831,
     "state_change_id": 900010012,
-    "name": "腕力アップ",
-    "flavor_text": "腕力が上昇する",
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
     "target_area": 1,
     "state_vars": [],
     "text_pop": "",
@@ -16725,8 +16725,8 @@
   {
     "id": 802040833,
     "state_change_id": 900050054,
-    "name": "自身HP回復",
-    "flavor_text": "即時に自分のHPを回復する",
+    "name": "HP Self-Recovery",
+    "flavor_text": "Immediately recovers some amount of own HP.",
     "target_area": 1,
     "state_vars": [
       20
@@ -16743,8 +16743,8 @@
   {
     "id": 802040834,
     "state_change_id": 900050067,
-    "name": "能力ダウン解除",
-    "flavor_text": "自身の腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "name": "Remove Attributes Down",
+    "flavor_text": "Removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
     "target_area": 1,
     "state_vars": [
       1,
@@ -16802,14 +16802,14 @@
   {
     "id": 802040837,
     "state_change_id": 900040065,
-    "name": "ロビンズリベンジ",
-    "flavor_text": "熱属性を含むダメージを無効化する<br>さらに、直接攻撃に対してロビンズムーブで反撃をする",
+    "name": "Robin's Revenge",
+    "flavor_text": "Nullifies attacks which have heat damage. Also counterattacks with Robin's Move when being directly attacked.",
     "target_area": 1,
     "state_vars": [
       110100138,
       4
     ],
-    "text_pop": "ロビンズリベンジ",
+    "text_pop": "Robin's Revenge",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "selfburning",
@@ -16821,14 +16821,14 @@
   {
     "id": 802040838,
     "state_change_id": 900040066,
-    "name": "おしおきボム",
-    "flavor_text": "冷属性を含むダメージを無効化する<br>さらに、直接攻撃に対してロビンボムで反撃をする",
+    "name": "Explosive Punishment",
+    "flavor_text": "Nullifies attacks which have cold damage. Also counterattacks with Robin Bomb when being directly attacked.",
     "target_area": 1,
     "state_vars": [
       110900060,
       5
     ],
-    "text_pop": "おしおきボム",
+    "text_pop": "Explosive Punishment",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "145200022",
@@ -16840,13 +16840,13 @@
   {
     "id": 802040839,
     "state_change_id": 900050073,
-    "name": "せいさい",
-    "flavor_text": "ゆびさきを命中させた時、てんばつが発動する(確率大)",
+    "name": "Punishment",
+    "flavor_text": "When landing an attack with Fingertips, Holy Wrath will be activated (high chance).",
     "target_area": 1,
     "state_vars": [
       110500185
     ],
-    "text_pop": "せいさい",
+    "text_pop": "Punishment",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -16858,13 +16858,13 @@
   {
     "id": 802040840,
     "state_change_id": 900050073,
-    "name": "せいさい",
-    "flavor_text": "ほのおのさばきを命中させた時、てんばつが発動する(確率大)",
+    "name": "Punishment",
+    "flavor_text": "When landing an attack with Flames of Judgment, Holy Wrath will be activated (high chance).",
     "target_area": 1,
     "state_vars": [
       110500185
     ],
-    "text_pop": "せいさい",
+    "text_pop": "Punishment",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -16876,13 +16876,13 @@
   {
     "id": 802040841,
     "state_change_id": 900050073,
-    "name": "せいさい",
-    "flavor_text": "ひかりあれを命中させた時、てんばつが発動する(確率大)",
+    "name": "Punishment",
+    "flavor_text": "When landing an attack with Fiat Lux, Holy Wrath will be activated (high chance).",
     "target_area": 1,
     "state_vars": [
       110500185
     ],
-    "text_pop": "せいさい",
+    "text_pop": "Punishment",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -16894,13 +16894,13 @@
   {
     "id": 802040842,
     "state_change_id": 900050073,
-    "name": "せいさい",
-    "flavor_text": "継承技を命中させた時、てんばつが発動する(確率大)",
+    "name": "Punishment",
+    "flavor_text": "When landing an attack with an inherited skill, Holy Wrath will be activated (high chance).",
     "target_area": 1,
     "state_vars": [
       110500185
     ],
-    "text_pop": "せいさい",
+    "text_pop": "Punishment",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -16912,13 +16912,13 @@
   {
     "id": 802040843,
     "state_change_id": 900050073,
-    "name": "せいさい",
-    "flavor_text": "てんばつを命中させた時、ひかりあれが発動する(確率大)",
+    "name": "Punishment",
+    "flavor_text": "When landing an attack with Holy Wrath, Fiat Lux will be activated (high chance).",
     "target_area": 1,
     "state_vars": [
       110500095
     ],
-    "text_pop": "せいさい",
+    "text_pop": "Punishment",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -16930,11 +16930,11 @@
   {
     "id": 802040844,
     "state_change_id": 900050058,
-    "name": "異常回復",
-    "flavor_text": "自身の状態異常を解除する",
+    "name": "Ailments Cured",
+    "flavor_text": "Removes own status ailments.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "異常解除<br>能力ダウン解除",
+    "text_pop": "Ailments Cured<br>Remove Attributes Down",
     "text_color": "5BFF24",
     "enchantment_effect_id": "Heal",
     "ignition_effect_id": "",
@@ -30247,11 +30247,11 @@
   {
     "id": 809040498,
     "state_change_id": 900040109,
-    "name": "行動順補正低下(中)",
-    "flavor_text": "行動順補正値が低下する( 効果中 )",
+    "name": "Action Order Down (medium)",
+    "flavor_text": "Decrease in the action order value (medium effect).",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "行動順補正↓",
+    "text_pop": "Action Order↓",
     "text_color": "FF0000",
     "enchantment_effect_id": "Debuff",
     "ignition_effect_id": "",
@@ -30263,11 +30263,11 @@
   {
     "id": 809040499,
     "state_change_id": 900040109,
-    "name": "行動順補正上昇(中)",
-    "flavor_text": "行動順補正値が上昇する( 効果中 )",
+    "name": "Action Order Up (medium)",
+    "flavor_text": "Increase in the action order value (medium effect).",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "行動順補正↑",
+    "text_pop": "Action Order↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -30279,8 +30279,8 @@
   {
     "id": 809040513,
     "state_change_id": 900030010,
-    "name": "退却用気絶",
-    "flavor_text": "行動不能状態。HP回復で復帰可能。LPがなくなると戦線復帰できなくなる",
+    "name": "Faint to Flee",
+    "flavor_text": "Incapacitated. Can return to battle by recovering HP, unless LP reaches 0.",
     "target_area": 8,
     "state_vars": [],
     "text_pop": "",
@@ -30295,11 +30295,11 @@
   {
     "id": 809040515,
     "state_change_id": 900040048,
-    "name": "攻撃強化(小)",
-    "flavor_text": "敵に与えるダメージが上昇する",
+    "name": "Attack Boost (small)",
+    "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 10,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "149900156",
     "ignition_effect_id": "",
@@ -30311,13 +30311,13 @@
   {
     "id": 809040516,
     "state_change_id": 900040062,
-    "name": "防御強化(小)",
-    "flavor_text": "敵から受ける被ダメージが低下する",
+    "name": "Defense Boost (small)",
+    "flavor_text": "Decreases damage taken.",
     "target_area": 10,
     "state_vars": [
       85
     ],
-    "text_pop": "防御↑",
+    "text_pop": "DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "149900157",
     "ignition_effect_id": "",

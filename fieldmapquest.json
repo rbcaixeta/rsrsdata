@@ -41491,6 +41491,4622 @@
     "raid_piercemage_reward_group_id": 972010007
   },
   {
+    "id": 972015001,
+    "quest_type": 1,
+    "name": "Onsen of Beginnings: Southwest",
+    "sort_order": 1,
+    "field_map_node_id": 10116005,
+    "battle_id": 511019009,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102302,
+      102303,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015002,
+    "quest_type": 1,
+    "name": "Furuyu Onsen: Entrance",
+    "sort_order": 2,
+    "field_map_node_id": 10116007,
+    "battle_id": 511020098,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102302,
+      102303,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015003,
+    "quest_type": 1,
+    "name": "Onsen of Beginnings: East",
+    "sort_order": 3,
+    "field_map_node_id": 10116008,
+    "battle_id": 511020093,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102302,
+      102303,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015004,
+    "quest_type": 1,
+    "name": "Path to Takeo Onsen 1",
+    "sort_order": 4,
+    "field_map_node_id": 10116009,
+    "battle_id": 511020093,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102302,
+      102303,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015005,
+    "quest_type": 1,
+    "name": "Path to Takeo Onsen 2",
+    "sort_order": 5,
+    "field_map_node_id": 10116010,
+    "battle_id": 511019064,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102302,
+      102303,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015006,
+    "quest_type": 1,
+    "name": "Path to Takeo Onsen 3",
+    "sort_order": 6,
+    "field_map_node_id": 10116011,
+    "battle_id": 511019065,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102302,
+      102303,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015007,
+    "quest_type": 1,
+    "name": "Takeo Onsen: Entrance",
+    "sort_order": 7,
+    "field_map_node_id": 10116012,
+    "battle_id": 511020084,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102302,
+      102303,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015008,
+    "quest_type": 1,
+    "name": "Takeo Onsen: Hot",
+    "sort_order": 8,
+    "field_map_node_id": 10116013,
+    "battle_id": 511019020,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015009,
+    "quest_type": 1,
+    "name": "Onsen of the Lords",
+    "sort_order": 9,
+    "field_map_node_id": 10116014,
+    "battle_id": 511019005,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102316,
+      102317,
+      102320
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015010,
+    "quest_type": 1,
+    "name": "Takeo City Hall",
+    "sort_order": 10,
+    "field_map_node_id": 10116015,
+    "battle_id": 511019019,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015011,
+    "quest_type": 1,
+    "name": "Onsen of the Four Emperors",
+    "sort_order": 11,
+    "field_map_node_id": 10116016,
+    "battle_id": 511019003,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102316,
+      102317,
+      102320
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015012,
+    "quest_type": 1,
+    "name": "Takeo Onsen Romon",
+    "sort_order": 12,
+    "field_map_node_id": 10116017,
+    "battle_id": 511019018,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015013,
+    "quest_type": 1,
+    "name": "Tsukazaki Okusu",
+    "sort_order": 13,
+    "field_map_node_id": 10116018,
+    "battle_id": 511019022,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015014,
+    "quest_type": 1,
+    "name": "Mt. Kurokami",
+    "sort_order": 14,
+    "field_map_node_id": 10116019,
+    "battle_id": 511020099,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015015,
+    "quest_type": 1,
+    "name": "Ureshino Onsen: Entrance",
+    "sort_order": 15,
+    "field_map_node_id": 10116020,
+    "battle_id": 511019081,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015016,
+    "quest_type": 1,
+    "name": "Ureshino Tea Exchange Hall",
+    "sort_order": 16,
+    "field_map_node_id": 10116021,
+    "battle_id": 511019025,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015017,
+    "quest_type": 1,
+    "name": "Ureshino Tea Plantation",
+    "sort_order": 17,
+    "field_map_node_id": 10116022,
+    "battle_id": 511019010,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015018,
+    "quest_type": 1,
+    "name": "Ureshino Onsen Park",
+    "sort_order": 18,
+    "field_map_node_id": 10116023,
+    "battle_id": 511019080,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015019,
+    "quest_type": 1,
+    "name": "Sarari",
+    "sort_order": 19,
+    "field_map_node_id": 10116024,
+    "battle_id": 511020087,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015020,
+    "quest_type": 1,
+    "name": "Yuttsura Plaza",
+    "sort_order": 20,
+    "field_map_node_id": 10116025,
+    "battle_id": 511020095,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015021,
+    "quest_type": 1,
+    "name": "Siebold No Yu",
+    "sort_order": 21,
+    "field_map_node_id": 10116026,
+    "battle_id": 511019063,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015022,
+    "quest_type": 1,
+    "name": "Onsen of the Lords",
+    "sort_order": 22,
+    "field_map_node_id": 10116028,
+    "battle_id": 511019006,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102314,
+      102315,
+      102320
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015023,
+    "quest_type": 1,
+    "name": "Onsen of the Four Emperors",
+    "sort_order": 23,
+    "field_map_node_id": 10116029,
+    "battle_id": 511019004,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102314,
+      102315,
+      102320
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015024,
+    "quest_type": 1,
+    "name": "Shiotatsu",
+    "sort_order": 24,
+    "field_map_node_id": 10116030,
+    "battle_id": 511019062,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015025,
+    "quest_type": 1,
+    "name": "Forester Fuji",
+    "sort_order": 25,
+    "field_map_node_id": 10116031,
+    "battle_id": 511019024,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015026,
+    "quest_type": 1,
+    "name": "Furuyu Onsen: Rest Area",
+    "sort_order": 26,
+    "field_map_node_id": 10116032,
+    "battle_id": 511019015,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015027,
+    "quest_type": 1,
+    "name": "Yodohime Shrine",
+    "sort_order": 27,
+    "field_map_node_id": 10116033,
+    "battle_id": 511019055,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015028,
+    "quest_type": 1,
+    "name": "Furuyu Onsen",
+    "sort_order": 28,
+    "field_map_node_id": 10116034,
+    "battle_id": 511019052,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015029,
+    "quest_type": 1,
+    "name": "Kawakamigawa Daini Power Station",
+    "sort_order": 29,
+    "field_map_node_id": 10116035,
+    "battle_id": 511019028,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015030,
+    "quest_type": 1,
+    "name": "Furuyu Onsenkyo Monument",
+    "sort_order": 30,
+    "field_map_node_id": 10116036,
+    "battle_id": 511019040,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015031,
+    "quest_type": 1,
+    "name": "Miyanobuchi Bridge",
+    "sort_order": 31,
+    "field_map_node_id": 10116037,
+    "battle_id": 511019060,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015032,
+    "quest_type": 1,
+    "name": "Kasegawa Riverside",
+    "sort_order": 32,
+    "field_map_node_id": 10116038,
+    "battle_id": 511020085,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015033,
+    "quest_type": 1,
+    "name": "Kasegawa Riverside Path",
+    "sort_order": 33,
+    "field_map_node_id": 10116039,
+    "battle_id": 511020083,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015034,
+    "quest_type": 1,
+    "name": "Mifuneyama Rakuen",
+    "sort_order": 34,
+    "field_map_node_id": 10116055,
+    "battle_id": 511019023,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015035,
+    "quest_type": 1,
+    "name": "Takeo Onsen: Lukewarm",
+    "sort_order": 35,
+    "field_map_node_id": 10116056,
+    "battle_id": 511019066,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015036,
+    "quest_type": 1,
+    "name": "Hiryu Kiln",
+    "sort_order": 36,
+    "field_map_node_id": 10116057,
+    "battle_id": 511020088,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015037,
+    "quest_type": 1,
+    "name": "Yushuku Plaza",
+    "sort_order": 37,
+    "field_map_node_id": 10116059,
+    "battle_id": 511019027,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015038,
+    "quest_type": 1,
+    "name": "Furuyu Castle Ruins",
+    "sort_order": 38,
+    "field_map_node_id": 10116060,
+    "battle_id": 511020097,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015039,
+    "quest_type": 1,
+    "name": "Onsen of the Lords",
+    "sort_order": 39,
+    "field_map_node_id": 10116061,
+    "battle_id": 511019008,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102312,
+      102313,
+      102320
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015040,
+    "quest_type": 1,
+    "name": "Mokichi Saito Memorial",
+    "sort_order": 40,
+    "field_map_node_id": 10116062,
+    "battle_id": 511019035,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015041,
+    "quest_type": 1,
+    "name": "Sasazawa Saho Memorial Hall",
+    "sort_order": 41,
+    "field_map_node_id": 10116063,
+    "battle_id": 511019042,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015042,
+    "quest_type": 1,
+    "name": "Koya Temple",
+    "sort_order": 42,
+    "field_map_node_id": 10116064,
+    "battle_id": 511019011,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015043,
+    "quest_type": 1,
+    "name": "Olle Trekking Course",
+    "sort_order": 43,
+    "field_map_node_id": 10116065,
+    "battle_id": 511019031,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015044,
+    "quest_type": 1,
+    "name": "Keishuen",
+    "sort_order": 44,
+    "field_map_node_id": 10116066,
+    "battle_id": 511019061,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015045,
+    "quest_type": 1,
+    "name": "Kawagono Okusu",
+    "sort_order": 45,
+    "field_map_node_id": 10116067,
+    "battle_id": 511019021,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015046,
+    "quest_type": 1,
+    "name": "Takeo Okusu",
+    "sort_order": 46,
+    "field_map_node_id": 10116068,
+    "battle_id": 511019059,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015047,
+    "quest_type": 1,
+    "name": "Toyotamahime Shrine",
+    "sort_order": 47,
+    "field_map_node_id": 10116069,
+    "battle_id": 511019016,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015048,
+    "quest_type": 1,
+    "name": "Eiryu Onsen",
+    "sort_order": 48,
+    "field_map_node_id": 10116071,
+    "battle_id": 511019058,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015049,
+    "quest_type": 1,
+    "name": "Fujicho Information Center",
+    "sort_order": 49,
+    "field_map_node_id": 10116072,
+    "battle_id": 511019051,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015050,
+    "quest_type": 1,
+    "name": "Furuyu Gongenyama Park",
+    "sort_order": 50,
+    "field_map_node_id": 10116073,
+    "battle_id": 511019034,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015051,
+    "quest_type": 1,
+    "name": "Furuyu Onsen Stand",
+    "sort_order": 51,
+    "field_map_node_id": 10116074,
+    "battle_id": 511020096,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015052,
+    "quest_type": 1,
+    "name": "Onsen of the Four Emperors",
+    "sort_order": 52,
+    "field_map_node_id": 10116075,
+    "battle_id": 511019002,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102312,
+      102313,
+      102320
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015053,
+    "quest_type": 1,
+    "name": "Kajikanosato Park",
+    "sort_order": 53,
+    "field_map_node_id": 10116076,
+    "battle_id": 511019041,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015054,
+    "quest_type": 1,
+    "name": "Fuji Athletic Square",
+    "sort_order": 54,
+    "field_map_node_id": 10116077,
+    "battle_id": 511020089,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015055,
+    "quest_type": 1,
+    "name": "Onsen of Beginnings: Northwest",
+    "sort_order": 55,
+    "field_map_node_id": 10116078,
+    "battle_id": 511019049,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102302,
+      102303,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015056,
+    "quest_type": 1,
+    "name": "Onsen of Beginnings: West",
+    "sort_order": 56,
+    "field_map_node_id": 10116079,
+    "battle_id": 511019048,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102302,
+      102303,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015057,
+    "quest_type": 1,
+    "name": "Onsen of the Lords",
+    "sort_order": 57,
+    "field_map_node_id": 10116080,
+    "battle_id": 511019007,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102310,
+      102311,
+      102320
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015058,
+    "quest_type": 1,
+    "name": "Onsen of the Four Emperors",
+    "sort_order": 58,
+    "field_map_node_id": 10116081,
+    "battle_id": 511019001,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102310,
+      102311,
+      102320
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015059,
+    "quest_type": 1,
+    "name": "Takeo Shrine",
+    "sort_order": 59,
+    "field_map_node_id": 10116082,
+    "battle_id": 511020090,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015060,
+    "quest_type": 1,
+    "name": "Saga Space & Science Museum",
+    "sort_order": 60,
+    "field_map_node_id": 10116083,
+    "battle_id": 511019067,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015061,
+    "quest_type": 1,
+    "name": "Takeo City Library",
+    "sort_order": 61,
+    "field_map_node_id": 10116084,
+    "battle_id": 511020100,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102306,
+      102307,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015062,
+    "quest_type": 1,
+    "name": "Saga Ninja Village Hizen Yumekaido",
+    "sort_order": 62,
+    "field_map_node_id": 10116085,
+    "battle_id": 511019073,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015063,
+    "quest_type": 1,
+    "name": "Kirari",
+    "sort_order": 63,
+    "field_map_node_id": 10116086,
+    "battle_id": 511019043,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015064,
+    "quest_type": 1,
+    "name": "Izumi Shikibu Park",
+    "sort_order": 64,
+    "field_map_node_id": 10116087,
+    "battle_id": 511020086,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015065,
+    "quest_type": 1,
+    "name": "Saga City Fuji Branch",
+    "sort_order": 65,
+    "field_map_node_id": 10116088,
+    "battle_id": 511019039,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015066,
+    "quest_type": 1,
+    "name": "Kyoseki Park",
+    "sort_order": 66,
+    "field_map_node_id": 10116089,
+    "battle_id": 511019017,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102304,
+      102305,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 1000830005,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015067,
+    "quest_type": 1,
+    "name": "Yukemuri Square",
+    "sort_order": 67,
+    "field_map_node_id": 10116090,
+    "battle_id": 511019026,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      },
+      {
+        "type": 10,
+        "id": 821124
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102308,
+      102309,
+      102319
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972015068,
+    "quest_type": 1,
+    "name": "Eel Goby Onsen",
+    "sort_order": 68,
+    "field_map_node_id": 10116091,
+    "battle_id": 511020103,
+    "max_turn": 10,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 0,
+    "quest_ticket_id": 821124,
+    "quest_ticket_quantity": 30,
+    "typical_enemy_ids": [
+      19925101
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100521
+      },
+      {
+        "type": 7,
+        "id": 1100522
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102524,
+      102525,
+      102526
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840116,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 16,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 972010010
+  },
+  {
     "id": 990041010,
     "quest_type": 2,
     "name": "To the Decisive Battle",

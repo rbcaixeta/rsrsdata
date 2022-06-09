@@ -2250,8 +2250,8 @@
   },
   {
     "id": 702100738,
-    "name": "カウンターハイテンション",
-    "flavor_text": "攻撃の与ダメージが上昇する( 効果特大 )<br>カウンター攻撃の場合、さらに与ダメージが上昇する( 効果特大 )",
+    "name": "High Counter Tension",
+    "flavor_text": "Attacks' damage increases (very large effect).<br>When landing a counterattack, damage increases further (very large effect).",
     "special_effect_ids": [
       802040346,
       802040012
@@ -2282,8 +2282,8 @@
   },
   {
     "id": 702100746,
-    "name": "霊銀の壁",
-    "flavor_text": "攻撃を受けた時<br>被ダメージを100%カットする( 上限回数:3 ※攻撃が命中した時のみ発動 )",
+    "name": "Mithril Wall",
+    "flavor_text": "When attacked, damage will be reduced by 100% (Max times: 3).<br>*Only activates when hit by an attack.",
     "special_effect_ids": [
       802040809
     ],
@@ -2292,8 +2292,8 @@
   },
   {
     "id": 702100750,
-    "name": "勇健強撃Ⅴ",
-    "flavor_text": "[HP満タン時] <br>与ダメージが上昇する( 効果極大 )",
+    "name": "Hardy Wallop Ⅴ",
+    "flavor_text": "[Full HP]<br>Damage increases (extreme effect).",
     "special_effect_ids": [
       802040813
     ],
@@ -2302,8 +2302,8 @@
   },
   {
     "id": 702100757,
-    "name": "奇偶活性(知力、素早さ)",
-    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の知力を上昇させる( 効果特大 )<br>バトル開始から数えて偶数ターン目の開始時、自身の素早さを上昇させる( 効果特大 )",
+    "name": "Numerology (INT/AGI)",
+    "flavor_text": "On odd turns counting from the start of battle, increases own INT (very large effect).<br>On even turns, increases own AGI (very large effect).",
     "special_effect_ids": [
       802040819,
       802040820
@@ -2313,8 +2313,8 @@
   },
   {
     "id": 702100760,
-    "name": "奇偶活性(素早さ、腕力)",
-    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、自身の素早さを上昇させる( 効果特大 )<br>バトル開始から数えて偶数ターン目の開始時、自身の腕力を上昇させる( 効果特大 )",
+    "name": "Numerology (AGI/STR)",
+    "flavor_text": "On odd turns counting from the start of battle, increases own AGI (very large effect).<br>On even turns, increases own STR (very large effect).",
     "special_effect_ids": [
       802040822,
       802040821
@@ -2324,8 +2324,8 @@
   },
   {
     "id": 702100769,
-    "name": "ロビンズリベンジ",
-    "flavor_text": "攻撃を受けた時 <br>熱属性を含むダメージを無効化する<br>さらに、直接攻撃に対してロビンズムーブで反撃をする<br>( パリイを使用したターンは反撃しない )<br><br>反撃技：ロビンズムーブ<br>剣技/攻撃/威力B/直接/敵横一列 ( 斬+打 ) <br>範囲攻撃する<br>攻撃命中時に確率で、対象の精神を低下させる( 効果小 )<br>さらに、自身を挑発状態にする( 効果中/効果4ターン )<br>( 技Rank1で発動 )",
+    "name": "Robin's Revenge",
+    "flavor_text": "Nullifies attacks which have heat damage. Also counterattacks with Robin's Move when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).<br><br>Counterattack: Robin's Move<br>Sword skill/Attack/Power: B/Direct/Row of Foes (Slash+Blunt)<br>Ranged attack.<br>When the attack hits, there is a chance to reduce target's WIL (small effect).<br>Has oneself enter a taunt stance (medium effect/4 turn(s)).<br>(Activates using skill Rank 1).",
     "special_effect_ids": [
       802040837
     ],
@@ -2334,8 +2334,8 @@
   },
   {
     "id": 702100770,
-    "name": "おしおきボム",
-    "flavor_text": "攻撃を受けた時 <br>冷属性を含むダメージを無効化する<br>さらに、直接攻撃に対してロビンボムで反撃をする<br>( パリイを使用したターンは反撃しない )<br><br>反撃技：ロビンボム<br>弓技/攻撃/威力D/間接/敵全体 ( 打+熱 ) <br>全体攻撃する<br>攻撃命中時、対象をスタンさせる( 確率小 )<br>( 技Rank1で発動 )",
+    "name": "Explosive Punishment",
+    "flavor_text": "Nullifies attacks which have cold damage. Also counterattacks with Robin Bomb when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).<br><br>Counterattack: Robin Bomb<br>Bow skill/Attack/Power: D/Indirect/All Foes (Blunt+Heat)<br>All range attack.<br>When the attack hits, inflicts stun on target (low chance).<br>(Activates using skill Rank 1).",
     "special_effect_ids": [
       802040838
     ],
@@ -2976,8 +2976,8 @@
   },
   {
     "id": 702200764,
-    "name": "正面衝突",
-    "flavor_text": "[ラウンド開始時] <br>自身を挑発状態にする( 効果特大/効果4ターン )<br>さらに、自身の腕力を上昇させる( 効果特大 )",
+    "name": "Head On",
+    "flavor_text": "[Start of round]<br>Has oneself enter a taunt stance (very large effect/4 turn(s)).<br>Increases own STR (very large effect).",
     "special_effect_ids": [
       802040320,
       802010646
@@ -3586,8 +3586,8 @@
   },
   {
     "id": 702300747,
-    "name": "能力必揚(腕力、精神)",
-    "flavor_text": "[ターン開始時] <br>自身の腕力と精神を上昇させる( 効果中 )",
+    "name": "Energize (STR/WIL)",
+    "flavor_text": "[Start of turn]<br>Increases own STR/WIL (medium effect).",
     "special_effect_ids": [
       802010824,
       802010774
@@ -3597,8 +3597,8 @@
   },
   {
     "id": 702300751,
-    "name": "幸運の占術",
-    "flavor_text": "[ターン開始時] <br>一定の確率で( 確率特大 )<br>自身に攻撃強化( 効果特大/効果1ターン )を付与し、<br>かつ、自身のBPを回復( +2 )する",
+    "name": "Fortune-Telling",
+    "flavor_text": "[Start of turn]<br>Has a very high chance to:<br>Grant oneself an attack boost (very large effect/1 turn(s)), and recover own BP (+2).",
     "special_effect_ids": [
       802040827,
       802040754
@@ -3608,8 +3608,8 @@
   },
   {
     "id": 702300752,
-    "name": "闘者の力",
-    "flavor_text": "[ターン開始時]<br>自身の腕力を上昇( 効果中 )させ、かつ、自身に防御強化( 効果特大/効果1ターン )を付与する",
+    "name": "Fighter's Might",
+    "flavor_text": "[Start of turn]<br>Increases own STR (medium effect), and grants oneself a defense boost (very large effect/1 turn(s)).",
     "special_effect_ids": [
       802040814,
       802040831
@@ -3619,8 +3619,8 @@
   },
   {
     "id": 702300755,
-    "name": "奇偶活性(知力、素早さ)",
-    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、知力が上昇する( 効果特大 )",
+    "name": "Numerology (INT/AGI)",
+    "flavor_text": "On odd turns counting from the start of battle, increases  INT (very large effect).",
     "special_effect_ids": [
       802010816
     ],
@@ -3629,8 +3629,8 @@
   },
   {
     "id": 702300756,
-    "name": "奇偶活性(知力、素早さ)",
-    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、素早さが上昇する( 効果特大 )",
+    "name": "Numerology (INT/AGI)",
+    "flavor_text": "On even turns counting from the start of battle, increases  AGI (very large effect).",
     "special_effect_ids": [
       802010818
     ],
@@ -3639,8 +3639,8 @@
   },
   {
     "id": 702300758,
-    "name": "奇偶活性(素早さ、腕力)",
-    "flavor_text": "バトル開始から数えて偶数ターン目の開始時、腕力が上昇する( 効果特大 )",
+    "name": "Numerology (AGI/STR)",
+    "flavor_text": "On even turns counting from the start of battle, increases  STR (very large effect).",
     "special_effect_ids": [
       802010817
     ],
@@ -3649,8 +3649,8 @@
   },
   {
     "id": 702300759,
-    "name": "奇偶活性(素早さ、腕力)",
-    "flavor_text": "バトル開始から数えて奇数ターン目の開始時、素早さが上昇する( 効果特大 )",
+    "name": "Numerology (AGI/STR)",
+    "flavor_text": "On odd turns counting from the start of battle, increases  AGI (very large effect).",
     "special_effect_ids": [
       802010818
     ],
@@ -3659,8 +3659,8 @@
   },
   {
     "id": 702300768,
-    "name": "神格",
-    "flavor_text": "[ターン開始時] <br>自身に「モラルアップ(中)」を付与する( 効果1ターン )<br>自身に「ガードアップ(中)」を付与する( 効果1ターン )<br>自身のBPを回復する( +1 )",
+    "name": "Divinity",
+    "flavor_text": "[Start of turn]<br>Grants oneself Morale Up (medium) (1 turn(s)).<br>Grants oneself Guard Up (medium) (1 turn(s)).<br>Recovers own BP (+1).",
     "special_effect_ids": [
       802040835,
       802040836,
@@ -3671,8 +3671,8 @@
   },
   {
     "id": 702300772,
-    "name": "練気熟達 I（腕力、知力） ",
-    "flavor_text": "[ターン開始時] <br>自身の腕力と知力を上昇させる( 効果小 )<br>さらに、自身のBPを回復( +1 )する",
+    "name": "Strengthened Mastery Ⅰ (STR/INT)",
+    "flavor_text": "[Start of turn]<br>Increases own STR/INT (small effect).<br>Also recovers own BP (+1).",
     "special_effect_ids": [
       802040812,
       802010846,
@@ -3724,7 +3724,7 @@
   {
     "id": 702400501,
     "name": "Proper Posture",
-    "flavor_text": "[End of turn]<br>Recovers own HP (very small effect), and removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
     "special_effect_ids": [
       802040495,
       802040497
@@ -3777,8 +3777,8 @@
   },
   {
     "id": 702400739,
-    "name": "練気活性Ⅴ",
-    "flavor_text": "[ターン終了時] <br>自身のBPを回復する( 確率中/+5 )",
+    "name": "Vivify Ⅴ",
+    "flavor_text": "[End of turn]<br>Recovers own BP (medium chance/+5).",
     "special_effect_ids": [
       802040798
     ],
@@ -3787,8 +3787,8 @@
   },
   {
     "id": 702400741,
-    "name": "練気再生Ⅲ",
-    "flavor_text": "[ターン終了時] <br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果小 )させ、かつ、自身のBPを回復( +3 )する",
+    "name": "Revitalize Ⅲ",
+    "flavor_text": "[End of turn]<br>Has a medium chance to:<br>Recover own HP (small effect) and recover own BP (+3). ",
     "special_effect_ids": [
       802040062,
       802040755
@@ -3798,8 +3798,8 @@
   },
   {
     "id": 702400745,
-    "name": "デトックスフォース",
-    "flavor_text": "[ターン終了時] <br>自身の状態異常をすべて解除し、<br>さらに、自身のBPを回復( +1 )する",
+    "name": "Detoxinator",
+    "flavor_text": "[End of turn]<br>Cures oneself from all status ailments.<br>Recovers own BP (+1).",
     "special_effect_ids": [
       802040310,
       802040812
@@ -3819,8 +3819,8 @@
   },
   {
     "id": 702400767,
-    "name": "神の衣",
-    "flavor_text": "[ターン終了時] <br>一定の確率で( 確率中 )<br>自身のHPを回復( 効果大 )し、さらに、自身のすべての状態異常と腕力、体力、器用さ、素早さ、知力、精神、愛、魅力の能力ダウン状態を解除する",
+    "name": "Godly Garments",
+    "flavor_text": "[End of turn]<br>Has a medium chance to:<br>Recover own HP (large effect), cure oneself from all status ailments, and remove own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
     "special_effect_ids": [
       802040060,
       802040844,
@@ -6266,8 +6266,8 @@
   },
   {
     "id": 702600742,
-    "name": "能力弱体Ⅳ(素早さ)",
-    "flavor_text": "攻撃命中時<br>対象の素早さを低下させる( 確率中/効果特大 )",
+    "name": "Enervate Ⅳ (AGI)",
+    "flavor_text": "When landing an attack, reduces target's AGI (medium chance/very large effect).",
     "special_effect_ids": [
       802010801
     ],
@@ -6276,8 +6276,8 @@
   },
   {
     "id": 702600761,
-    "name": "練撃の波動 I",
-    "flavor_text": "攻撃対象を倒した時<br>味方生存者全体のBPを回復する( 倒した数によらず回復量は+1 )",
+    "name": "Practice Energy Ⅰ",
+    "flavor_text": "When landing an attack that defeats the target, recovers all surviving allies' BP (only 1 BP will be recovered even if multiple targets are defeated).",
     "special_effect_ids": [
       802040825
     ],
@@ -6286,8 +6286,8 @@
   },
   {
     "id": 702600763,
-    "name": "チェイスバスター",
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「バスターランサー」が発動する( 確率中 )<br>( 技Rank1で発動 )<br>※「通常攻撃」「バスターランサー」「R杯で伝承した技・術」「カウンター効果による反撃技・術」は含まない",
+    "name": "Chasing Buster",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, Lance Buster will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal attacks, Lance Buster, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
     "special_effect_ids": [
       802040828,
       802040829,
@@ -6298,8 +6298,8 @@
   },
   {
     "id": 702600766,
-    "name": "活性の練気 I（体力）",
-    "flavor_text": "攻撃命中時、自身の体力を上昇( 効果中 )させ、さらに、自身のBPを回復( +1 )する",
+    "name": "Reinvigorate Ⅰ (END)",
+    "flavor_text": "When landing an attack, increases own END (medium effect), and recovers own BP (+1).",
     "special_effect_ids": [
       802010079,
       802040742
@@ -6309,8 +6309,8 @@
   },
   {
     "id": 702600771,
-    "name": "せいさい",
-    "flavor_text": "タイプが「攻撃」である技・術(※)を命中させた時、<br>「てんばつ」が発動する( 確率大 )<br>この効果による「てんばつ」を命中させた時、さらに「ひかりあれ」が発動する( 確率大 )<br>※「通常攻撃」「R杯で伝承した技・術」「本アビリティ効果により発動する技・術」「カウンター効果による反撃技・術」は含まない<br><br>てんばつ<br>体術技/攻撃/威力D/遠/間接/敵全体 ( 雷+陽 ) ※体術技特殊タイプ(知)<br>全体攻撃する( 技Rank1で発動 )<br><br>ひかりあれ<br>体術技/攻撃/威力B/遠/間接/敵全体 ( 雷+陽 ) ※体術技特殊タイプ(知)<br>全体攻撃する<br>攻撃命中時、対象を暗闇状態にする( 確率中/効果4ターン )<br>( 技Rank1で発動 )",
+    "name": "Punishment",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, Holy Wrath will be activated (high chance).<br>When landing an attack with the activated Holy Wrath, Fiat Lux will be activated (high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Holy Wrath<br>M. Arts skill/Attack/Power: D/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack. (Activates using skill Rank 1)<br><br>Fiat Lux<br>M. Arts skill/Attack/Power: B/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts darkness on target (medium chance/4 turns(s)).<br>(Activates using skill Rank 1).",
     "special_effect_ids": [
       802040839,
       802040840,

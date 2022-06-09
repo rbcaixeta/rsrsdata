@@ -460,6 +460,36 @@
     "expired_at": 1655513999
   },
   {
+    "id": 840116,
+    "name": "Romancing Saga Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1660093199] <tz>)",
+    "icon": 840116,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 21072805,
+    "expired_at": 1660093199
+  },
+  {
+    "id": 840117,
+    "name": "Romancing Saga Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1660093199] <tz>)",
+    "icon": 840117,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 21072810,
+    "expired_at": 1660093199
+  },
+  {
+    "id": 840118,
+    "name": "Romancing Saga Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1660093199] <tz>)",
+    "icon": 840118,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 21072815,
+    "expired_at": 1660093199
+  },
+  {
     "id": 1000840001,
     "name": "Thanksgiving Stamina Potion (Lg.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1612141199] <tz>)",
