@@ -2397,6 +2397,17 @@
     "icon": 4010
   },
   {
+    "id": 702101162,
+    "name": "Hardy Stance Ⅲ",
+    "flavor_text": "[Full HP]<br>Attacks' damage increases (large effect).<br>When being attacked, evades enemy's attack (very high chance).",
+    "special_effect_ids": [
+      802040014,
+      802040958
+    ],
+    "ability_when": 1,
+    "icon": 4006
+  },
+  {
     "id": 702200060,
     "name": "Self-Regeneration Ⅲ",
     "flavor_text": "[Start of round]<br>Recovers own HP (medium chance/large effect).",
@@ -2429,7 +2440,7 @@
   {
     "id": 702200236,
     "name": "Paralyzing Agent",
-    "flavor_text": "[Start of round] Inflicts paralysis on a random enemy (medium chance/4 turn(s)).",
+    "flavor_text": "[Start of round]<br>Inflicts paralysis on a random enemy (medium chance/4 turn(s)).",
     "special_effect_ids": [
       802030231
     ],
@@ -18661,6 +18672,16 @@
     "icon": 1002
   },
   {
+    "id": 1702100035,
+    "name": "Mithril Wall",
+    "flavor_text": "When attacked, damage will be reduced by 100% (Max times: 4 times per battle).<br>*Only activates when hit by an attack.",
+    "special_effect_ids": [
+      1802040060
+    ],
+    "ability_when": 1,
+    "icon": 4002
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -18958,6 +18979,27 @@
     "icon": 4010
   },
   {
+    "id": 1702300021,
+    "name": "Fortune-Telling",
+    "flavor_text": "[Start of turn]<br>Has a very high chance to:<br>Increase own INT (very large effect), and recover own BP (+2).",
+    "special_effect_ids": [
+      802010694,
+      802040754
+    ],
+    "ability_when": 3,
+    "icon": 4001
+  },
+  {
+    "id": 1702300022,
+    "name": "Misfortune-Telling",
+    "flavor_text": "[Start of turn]<br>Reduces a random enemy's WIL (very high chance/large effect).",
+    "special_effect_ids": [
+      1802010018
+    ],
+    "ability_when": 3,
+    "icon": 4003
+  },
+  {
     "id": 1702400001,
     "name": "Leader's Missions",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and recovers own BP (+1). ",
@@ -19209,6 +19251,20 @@
     ],
     "ability_when": 6,
     "icon": 4007
+  },
+  {
+    "id": 1702600021,
+    "name": "Chasing Buster",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, Lance Buster will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "special_effect_ids": [
+      802040828,
+      802040829,
+      802040830,
+      1802040061,
+      1802040062
+    ],
+    "ability_when": 6,
+    "icon": 4010
   },
   {
     "id": 1708100001,

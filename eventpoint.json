@@ -882,6 +882,24 @@
     "sort_order": 21072850
   },
   {
+    "id": 800143,
+    "name": "SaGa Soul Medal 4",
+    "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+    "icon": 800143,
+    "max_quantity": 99999999,
+    "expired_at": 1657933199,
+    "sort_order": 21081015
+  },
+  {
+    "id": 800144,
+    "name": "SaGa Soul Medal 3",
+    "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+    "icon": 800144,
+    "max_quantity": 99999999,
+    "expired_at": 1657933199,
+    "sort_order": 21081020
+  },
+  {
     "id": 860001,
     "name": "White Crystal",
     "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -3402,6 +3420,15 @@
     "sort_order": 3600
   },
   {
+    "id": 1100519,
+    "name": "Precious Stone [Limited Time]",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items. (Until [1657760399] <tz>)",
+    "icon": 1100233,
+    "max_quantity": 99999999,
+    "expired_at": 1657760399,
+    "sort_order": 3640
+  },
+  {
     "id": 1100521,
     "name": "Nao Tesuki Washi Fan",
     "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -3427,6 +3454,24 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 21072840
+  },
+  {
+    "id": 1100526,
+    "name": "Hikiyama Doll",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100526,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 21081005
+  },
+  {
+    "id": 1100527,
+    "name": "Sugatani Perch",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100527,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 21081010
   },
   {
     "id": 1000800004,
@@ -3733,6 +3778,15 @@
     "max_quantity": 99999999,
     "expired_at": 1656637199,
     "sort_order": 3635
+  },
+  {
+    "id": 1000800039,
+    "name": "Romancing Festival Medal 38",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800030,
+    "max_quantity": 99999999,
+    "expired_at": 1658365199,
+    "sort_order": 3636
   },
   {
     "id": 1001100001,

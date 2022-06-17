@@ -16944,6 +16944,22 @@
     "state_icon": 3001
   },
   {
+    "id": 802040958,
+    "state_change_id": 900040032,
+    "name": "Evade at Full HP",
+    "flavor_text": "Evades enemy attacks when HP is full (very high chance).",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Evasion",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 802040960,
     "state_change_id": 900040048,
     "name": "Critical Attack Boost",
@@ -31764,6 +31780,40 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040046,
+    "state_change_id": 900040036,
+    "name": "Rainbow Reflect",
+    "flavor_text": "Evades a direct enemy attack and launches a counterattack.",
+    "target_area": 1,
+    "state_vars": [
+      1110800014
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040047,
+    "state_change_id": 900040063,
+    "name": "Morale Up (medium)",
+    "flavor_text": "Increases damage dealt to enemies (can't stack).",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
     "id": 1801040115,
     "state_change_id": 900040063,
     "name": "Morale Up (large)",
@@ -32124,6 +32174,22 @@
     "display_flag": 1,
     "direction_id": 1,
     "state_icon": 2001
+  },
+  {
+    "id": 1802010018,
+    "state_change_id": 900010017,
+    "name": "WIL Down",
+    "flavor_text": "Decreases WIL.",
+    "target_area": 4,
+    "state_vars": [],
+    "text_pop": "WIL↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2002
   },
   {
     "id": 1802040001,
@@ -33133,6 +33199,60 @@
     "text_pop": "Return to Life",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040060,
+    "state_change_id": 900040062,
+    "name": "Mithril Wall",
+    "flavor_text": "Decreases damage taken by 100%.",
+    "target_area": 1,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "Mithril Wall",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "Plane",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040061,
+    "state_change_id": 900050073,
+    "name": "Chasing Buster",
+    "flavor_text": "When landing a normal attack, Lance Buster will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      110800098
+    ],
+    "text_pop": "Chasing Buster",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040062,
+    "state_change_id": 900050073,
+    "name": "Chasing Buster",
+    "flavor_text": "When landing an attack with Lance Buster, Lance Buster will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      110800098
+    ],
+    "text_pop": "Chasing Buster",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
