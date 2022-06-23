@@ -33260,6 +33260,24 @@
     "state_icon": 3001
   },
   {
+    "id": 1802040063,
+    "state_change_id": 900050113,
+    "name": "Recover BP on Attack",
+    "flavor_text": "When landing an attack, recovers own BP (+1).",
+    "target_area": 1,
+    "state_vars": [
+      1702600037
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3003
+  },
+  {
     "id": 1802040362,
     "state_change_id": 900040048,
     "name": "Damage Up",

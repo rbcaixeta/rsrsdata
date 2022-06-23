@@ -19388,7 +19388,7 @@
     "name": "Masamune+",
     "rush_prefix": "Masa",
     "rush_suffix": "Mune",
-    "flavor_text": "Attack/Near/Indirect/Single Foe (Slash+Heat) *M. Arts Special Skill (INT)<br>Attack.",
+    "flavor_text": "Attack/Near/Indirect/Single Foe (Slash+Heat) *M. Arts Special Skill (INT) <br>Attack.",
     "attack_distance": 1,
     "skill_type": 1,
     "battle_type": 5,
@@ -109556,6 +109556,79 @@
     "max_awakening_count": 1,
     "awakening_material_set_ids": [
       30007
+    ]
+  },
+  {
+    "id": 1110500031,
+    "name": "Fingertips",
+    "rush_prefix": "Finger",
+    "rush_suffix": "Tips",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Heat+Lightning) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, there is a chance to reduce target's LOV (small effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      4,
+      6
+    ],
+    "power_grade": "E",
+    "consume_bp": 4,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010256
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500165,
+    "skill_se_cue_sheet_name": "140500165",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30003
+    ]
+  },
+  {
+    "id": 1110500032,
+    "name": "Flames of Judgment",
+    "rush_prefix": "Flames of",
+    "rush_suffix": "Judgment",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Pierce+Heat) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts confusion on target (low chance/4 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      3,
+      4
+    ],
+    "power_grade": "D",
+    "consume_bp": 7,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030379
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500166,
+    "skill_se_cue_sheet_name": "140500166",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30010,
+      30018
     ]
   },
   {
