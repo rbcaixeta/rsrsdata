@@ -4828,7 +4828,7 @@
     "id": 801040460,
     "state_change_id": 900050073,
     "name": "Vertical Cross",
-    "flavor_text": "After attacking with Vertical Cross, attack with a row attack skill.",
+    "flavor_text": "Attacks with a row attack skill after attacking with Vertical Cross.",
     "target_area": 1,
     "state_vars": [
       110300059
@@ -4846,7 +4846,7 @@
     "id": 801040461,
     "state_change_id": 900050073,
     "name": "Rapid Fire",
-    "flavor_text": "After attacking with Rapid Fire, attack with a row attack skill.",
+    "flavor_text": "Attacks with a row attack skill after attacking with Rapid Fire.",
     "target_area": 1,
     "state_vars": [
       110900042
@@ -31217,6 +31217,38 @@
     "state_icon": 3001
   },
   {
+    "id": 1801010044,
+    "state_change_id": 900040103,
+    "name": "Defense Down (small)",
+    "flavor_text": "Increases damage taken.",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "DEF↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2002
+  },
+  {
+    "id": 1801010045,
+    "state_change_id": 900010014,
+    "name": "DEX Down",
+    "flavor_text": "Decreases DEX.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "DEX↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 2002
+  },
+  {
     "id": 1801010430,
     "state_change_id": 900010017,
     "name": "WIL Up",
@@ -31480,7 +31512,7 @@
     "id": 1801040018,
     "state_change_id": 900050073,
     "name": "Rapid Fire",
-    "flavor_text": "After attacking with Rapid Fire, attack with a row attack skill.",
+    "flavor_text": "Attacks with a row attack skill after attacking with Rapid Fire.",
     "target_area": 1,
     "state_vars": [
       1110900003
@@ -31534,7 +31566,7 @@
     "id": 1801040021,
     "state_change_id": 900050073,
     "name": "Vertical Cross",
-    "flavor_text": "After attacking with Vertical Cross, attack with a row attack skill.",
+    "flavor_text": "Attacks with a row attack skill after attacking with Vertical Cross.",
     "target_area": 1,
     "state_vars": [
       1110300008
@@ -31807,6 +31839,61 @@
     "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040048,
+    "state_change_id": 900040099,
+    "name": "Guard Up (large)",
+    "flavor_text": "Decreases damage taken (can't stack).",
+    "target_area": 8,
+    "state_vars": [
+      65
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040049,
+    "state_change_id": 900050073,
+    "name": "Double Phoenix Arrow",
+    "flavor_text": "Attacks with a single foe attack skill after attacking with Double Phoenix Arrow.",
+    "target_area": 1,
+    "state_vars": [
+      1110900012
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040050,
+    "state_change_id": 900040035,
+    "name": "Counter",
+    "flavor_text": "Counters direct enemy attacks with Slash Blunt Pincer Frenzy and decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      1110500036,
+      75
+    ],
+    "text_pop": "Counter Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
     "ignition_effect_id": "",
     "animation_id": 0,
     "display_flag": 1,
@@ -33276,6 +33363,184 @@
     "display_flag": 0,
     "direction_id": 1,
     "state_icon": 3003
+  },
+  {
+    "id": 1802040064,
+    "state_change_id": 900050073,
+    "name": "Watermelon Crusher",
+    "flavor_text": "When landing a normal attack, Watermelon Cut will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110200037
+    ],
+    "text_pop": "Watermelon Crusher",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040065,
+    "state_change_id": 900050073,
+    "name": "Watermelon Crusher",
+    "flavor_text": "When landing an attack with Healing Blade, Watermelon Cut will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110200037
+    ],
+    "text_pop": "Watermelon Crusher",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040066,
+    "state_change_id": 900050073,
+    "name": "Watermelon Crusher",
+    "flavor_text": "When landing an attack with Waterfowl Blade+, Watermelon Cut will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110200037
+    ],
+    "text_pop": "Watermelon Crusher",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040067,
+    "state_change_id": 900050073,
+    "name": "Watermelon Crusher",
+    "flavor_text": "When landing an attack with Crashing Wave Flash, Watermelon Cut will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110200037
+    ],
+    "text_pop": "Watermelon Crusher",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040068,
+    "state_change_id": 900050073,
+    "name": "Watermelon Crusher",
+    "flavor_text": "When landing an attack with an inherited skill, Watermelon Cut will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110200037
+    ],
+    "text_pop": "Watermelon Crusher",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040069,
+    "state_change_id": 900040034,
+    "name": "Fiery Passion",
+    "flavor_text": "Counters direct enemy attacks with Firestorm+.",
+    "target_area": 1,
+    "state_vars": [
+      1125100014
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040070,
+    "state_change_id": 900040062,
+    "name": "Defend",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      70
+    ],
+    "text_pop": "DEX/DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040071,
+    "state_change_id": 900010014,
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "state_icon": 2001
+  },
+  {
+    "id": 1802040072,
+    "state_change_id": 900050055,
+    "name": "Recover BP on Weak Atk",
+    "flavor_text": "When landing a Weak attack, recovers BP.",
+    "target_area": 3,
+    "state_vars": [
+      1
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040073,
+    "state_change_id": 900050054,
+    "name": "Recover HP on Weak Atk (v. small)",
+    "flavor_text": "When landing a Weak attack, recovers HP.",
+    "target_area": 3,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "state_icon": 3001
   },
   {
     "id": 1802040362,

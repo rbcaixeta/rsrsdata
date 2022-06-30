@@ -1024,5 +1024,23 @@
     "max_quantity": 99999,
     "expired_at": 1639270799,
     "sort_order": 3143
+  },
+  {
+    "id": 1000821007,
+    "name": "Treasure Cave Map [Ltd. Time]",
+    "flavor_text": "Map of a Treasure Cave where great prizes await. (Until [1658105999] <tz>)",
+    "icon": 821072,
+    "max_quantity": 99999,
+    "expired_at": 1658105999,
+    "sort_order": 3223
+  },
+  {
+    "id": 1000821008,
+    "name": "[SS] Treasure Cave Map [Ltd. Time]",
+    "flavor_text": "Map of a Treasure Cave (Gold) where great prizes await. (Until [1658105999] <tz>)",
+    "icon": 821071,
+    "max_quantity": 999,
+    "expired_at": 1658105999,
+    "sort_order": 3224
   }
 ]

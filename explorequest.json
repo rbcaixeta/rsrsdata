@@ -6849,5 +6849,241 @@
     "dairensen_round_reward_set_id": 0,
     "twitter_button_id": 0,
     "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 1921100811,
+    "quest_type": 1,
+    "name": "Treasure Cave",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 1000430003,
+    "stamina": 0,
+    "quest_ticket_id": 1000821007,
+    "quest_ticket_quantity": 50,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 12,
+        "id": 840001
+      },
+      {
+        "type": 3,
+        "id": 213802
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      1000093006,
+      1000093008,
+      1000093008,
+      1000093008,
+      1000093008,
+      1000093008,
+      1000093008,
+      1000093008,
+      1000093008,
+      1000093008,
+      1000093008
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1000001024,
+    "battle_id": 920002011,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 1921100821,
+    "quest_type": 1,
+    "name": "Treasure Cave Spree",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 1000430003,
+    "stamina": 0,
+    "quest_ticket_id": 1000821007,
+    "quest_ticket_quantity": 250,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 12,
+        "id": 840001
+      },
+      {
+        "type": 3,
+        "id": 213802
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      1000093007,
+      1000093009,
+      1000093009,
+      1000093009,
+      1000093009,
+      1000093009,
+      1000093009,
+      1000093009,
+      1000093009,
+      1000093009,
+      1000093009
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1000001024,
+    "battle_id": 920002011,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 1921100911,
+    "quest_type": 1,
+    "name": "Treasure Cave (Gold)",
+    "difficulty": 0,
+    "sort_order": 1,
+    "clear_limit": 0,
+    "banner": 1000430003,
+    "stamina": 0,
+    "quest_ticket_id": 1000821008,
+    "quest_ticket_quantity": 1,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 2,
+        "id": 105001
+      },
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 3,
+        "id": 220403
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      1000093010,
+      1000093012,
+      1000093012,
+      1000093012,
+      1000093012,
+      1000093012,
+      1000093012,
+      1000093012,
+      1000093012,
+      1000093012,
+      1000093012
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1000001025,
+    "battle_id": 920002021,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 1921100921,
+    "quest_type": 1,
+    "name": "Treasure Cave Spree (Gold)",
+    "difficulty": 0,
+    "sort_order": 2,
+    "clear_limit": 0,
+    "banner": 1000430003,
+    "stamina": 0,
+    "quest_ticket_id": 1000821008,
+    "quest_ticket_quantity": 5,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 2,
+        "id": 105001
+      },
+      {
+        "type": 8,
+        "id": 810003
+      },
+      {
+        "type": 3,
+        "id": 220403
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      1000093011,
+      1000093013,
+      1000093013,
+      1000093013,
+      1000093013,
+      1000093013,
+      1000093013,
+      1000093013,
+      1000093013,
+      1000093013,
+      1000093013
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1000001025,
+    "battle_id": 920002021,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "raid_piercemage_reward_group_id": 0
   }
 ]

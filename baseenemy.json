@@ -16334,6 +16334,81 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 1000221062,
+    "pc_flag": 1,
+    "name": "Claudia",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 210609,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 1000221081,
+    "pc_flag": 1,
+    "name": "Sif",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 210803,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 1000221111,
+    "pc_flag": 1,
+    "name": "Diana",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 211103,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 1000221221,
+    "pc_flag": 1,
+    "name": "Butcher",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 212202,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 1000221381,
+    "pc_flag": 1,
+    "name": "Silver",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 213805,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 1000222011,
     "pc_flag": 1,
     "name": "Leon",
@@ -16408,6 +16483,36 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 1000222141,
+    "pc_flag": 1,
+    "name": "Therese",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 1000221411,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 1000222161,
+    "pc_flag": 1,
+    "name": "Emerald",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 1000221611,
+    "pc_enemy_skill_hold_motion": 2
+  },
+  {
     "id": 1000222211,
     "pc_flag": 1,
     "name": "Hannibal",
@@ -16435,6 +16540,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 222200,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 1000223031,
+    "pc_flag": 1,
+    "name": "Mikhail",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 230305,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -16480,6 +16600,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 230807,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 1000223082,
+    "pc_flag": 1,
+    "name": "Katarina",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 1000230801,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -16690,6 +16825,21 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 1000251021,
+    "pc_flag": 1,
+    "name": "Selma",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 510204,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 1000261011,
     "pc_flag": 1,
     "name": "Urpina",
@@ -16735,6 +16885,21 @@
     "pc_enemy_skill_hold_motion": 2
   },
   {
+    "id": 1000271012,
+    "pc_flag": 1,
+    "name": "Polka Lynn Wood",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 710104,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 1000271021,
     "pc_flag": 1,
     "name": "Liz Lynn Wood",
@@ -16747,6 +16912,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 710205,
+    "pc_enemy_skill_hold_motion": 2
+  },
+  {
+    "id": 1000271022,
+    "pc_flag": 1,
+    "name": "Liz Lynn Wood",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 710202,
     "pc_enemy_skill_hold_motion": 2
   },
   {
@@ -16789,6 +16969,20 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 710503,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 1000271052,
+    "pc_flag": 1,
+    "name": "Faerie (Brownie)",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      82
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 710502,
     "pc_enemy_skill_hold_motion": 1
   },
   {

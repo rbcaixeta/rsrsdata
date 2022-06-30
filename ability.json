@@ -18693,6 +18693,16 @@
     "icon": 4007
   },
   {
+    "id": 1702100037,
+    "name": "Fiery Passion",
+    "flavor_text": "When being directly attacked, counterattacks with Firestorm+.<br><br>Counterattack: Firestorm+<br>Fire spell/Attack/Power: C/Indirect/All Foes (Heat)<br>All range attack.<br>When the attack hits, there is a chance to reduce target's AGI (small effect).<br>(Activates using spell Rank 1).",
+    "special_effect_ids": [
+      1802040069
+    ],
+    "ability_when": 1,
+    "icon": 4005
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -19011,6 +19021,17 @@
     "icon": 4003
   },
   {
+    "id": 1702300023,
+    "name": "Hunter's Power",
+    "flavor_text": "[Start of turn]<br>Increases own DEX (medium effect), and grants oneself a defense boost (very large effect/1 turn(s)).",
+    "special_effect_ids": [
+      1802040070,
+      1802040071
+    ],
+    "ability_when": 3,
+    "icon": 4010
+  },
+  {
     "id": 1702400001,
     "name": "Leader's Missions",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and recovers own BP (+1). ",
@@ -19283,6 +19304,31 @@
     "flavor_text": "When landing an attack, recovers own BP (+1).",
     "special_effect_ids": [
       802040742
+    ],
+    "ability_when": 6,
+    "icon": 4007
+  },
+  {
+    "id": 1702600038,
+    "name": "Watermelon Crusher",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, Watermelon Cut will be activated (very high chance).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Watermelon Cut<br>G. Sword skill/Attack/Power: E/Direct/Single Foe (Slash)<br>Attack.<br>Recovers the user's HP (small effect).<br>(Activates using skill Rank 1).",
+    "special_effect_ids": [
+      1802040064,
+      1802040065,
+      1802040066,
+      1802040067,
+      1802040068
+    ],
+    "ability_when": 6,
+    "icon": 4010
+  },
+  {
+    "id": 1702600039,
+    "name": "Heartening Wave Ⅰ",
+    "flavor_text": "When landing a Weak attack, has a medium chance to:<br>Recover all surviving allies' HP (very small effect) and recover all surviving allies' BP (+1).",
+    "special_effect_ids": [
+      1802040072,
+      1802040073
     ],
     "ability_when": 6,
     "icon": 4007

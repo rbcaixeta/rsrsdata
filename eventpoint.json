@@ -900,6 +900,15 @@
     "sort_order": 21081020
   },
   {
+    "id": 800145,
+    "name": "Romancing Festival Medal 41",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800145,
+    "max_quantity": 99999999,
+    "expired_at": 1659056399,
+    "sort_order": 21081720
+  },
+  {
     "id": 800146,
     "name": "Romancing Festival Medal 39",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -3483,6 +3492,24 @@
     "sort_order": 21081010
   },
   {
+    "id": 1100528,
+    "name": "DESTINY 8 Crossover BOX Surprises Ticket [Ltd. Time]",
+    "flavor_text": "A ticket for pulling the DESTINY 8 Crossover BOX Surprises. (Until [1659056399] <tz>)",
+    "icon": 1100528,
+    "max_quantity": 99999999,
+    "expired_at": 1659056399,
+    "sort_order": 21081730
+  },
+  {
+    "id": 1100531,
+    "name": "Concert Program",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100531,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 21081620
+  },
+  {
     "id": 1100547,
     "name": "Glimmering Orb",
     "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -3798,6 +3825,15 @@
     "sort_order": 3362
   },
   {
+    "id": 1000800037,
+    "name": "SaGa Soul Medal 5",
+    "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+    "icon": 1000800037,
+    "max_quantity": 99999999,
+    "expired_at": 1659488399,
+    "sort_order": 21081722
+  },
+  {
     "id": 1000800038,
     "name": "Romancing Festival Medal 35",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -3814,6 +3850,15 @@
     "max_quantity": 99999999,
     "expired_at": 1658365199,
     "sort_order": 3636
+  },
+  {
+    "id": 1000800040,
+    "name": "Romancing Festival Medal 40",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800040,
+    "max_quantity": 99999999,
+    "expired_at": 1659488399,
+    "sort_order": 21081721
   },
   {
     "id": 1001100001,
@@ -4102,5 +4147,32 @@
     "max_quantity": 99999999,
     "expired_at": 1657760399,
     "sort_order": 3155
+  },
+  {
+    "id": 1001100218,
+    "name": "Scallop",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100218,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3156
+  },
+  {
+    "id": 1001100219,
+    "name": "Coral",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100219,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3157
+  },
+  {
+    "id": 1001100220,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1658624399] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1658624399,
+    "sort_order": 3438
   }
 ]

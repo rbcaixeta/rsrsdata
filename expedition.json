@@ -238,5 +238,25 @@
     "sort_order": 88,
     "open_at": 0,
     "close_at": 0
+  },
+  {
+    "id": 6700014,
+    "name": "D8 Hall",
+    "required_quest_id": 100210181,
+    "required_hours": 21,
+    "difficulty": 4,
+    "growth_difficulty": 133,
+    "recommended_status": 135,
+    "jewel_cost": 2900,
+    "ticket_cost": 58,
+    "drop_group_ids": [
+      880000026,
+      880000027
+    ],
+    "flavor_text": "Recommended for characters with up to 1,450 HP and up to 135 in all attributes",
+    "background_id": 700000124,
+    "sort_order": 87,
+    "open_at": 0,
+    "close_at": 1658624399
   }
 ]

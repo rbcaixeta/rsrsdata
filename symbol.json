@@ -3081,6 +3081,19 @@
     "in_group_priority": 99
   },
   {
+    "id": 1264,
+    "name": "Vanguard",
+    "flavor_text": "A mesmerizing tone jolts the spirit. The music they play is captivating.",
+    "map_id": 1,
+    "x": -17,
+    "y": 2,
+    "illust_category": 1,
+    "illust": 1022,
+    "priority": 1,
+    "group_id": 2709,
+    "in_group_priority": 101
+  },
+  {
     "id": 1267,
     "name": "A Random Plain",
     "flavor_text": "A very ordinary plain.",
@@ -3183,5 +3196,31 @@
     "priority": 1,
     "group_id": 2709,
     "in_group_priority": 103
+  },
+  {
+    "id": 1000000008,
+    "name": "Great Arch",
+    "flavor_text": "The number one place to be in summer.",
+    "map_id": 1,
+    "x": -17,
+    "y": -8,
+    "illust_category": 1,
+    "illust": 1033,
+    "priority": 10,
+    "group_id": 2710,
+    "in_group_priority": 99
+  },
+  {
+    "id": 1000000009,
+    "name": "Seaside Cave",
+    "flavor_text": "What demonic beasts inhabit the cave?",
+    "map_id": 1,
+    "x": -17,
+    "y": -8,
+    "illust_category": 1,
+    "illust": 1008,
+    "priority": 10,
+    "group_id": 2710,
+    "in_group_priority": 98
   }
 ]
