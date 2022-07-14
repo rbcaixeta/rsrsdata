@@ -3,6 +3,7 @@
     "id": 210000011,
     "name": "Training Cave Lv. 1",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 200002,
     "stamina": 5,
@@ -36,12 +37,14 @@
     "battle_id": 210000001,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 210000021,
     "name": "Training Cave Lv. 2",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 200002,
     "stamina": 6,
@@ -77,12 +80,14 @@
       210000011
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 210000031,
     "name": "Training Cave Lv. 3",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 200002,
     "stamina": 7,
@@ -118,12 +123,14 @@
       210000021
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 210000041,
     "name": "Training Cave Lv. 4",
     "sort_order": 4,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 200002,
     "stamina": 8,
@@ -159,12 +166,14 @@
       210000031
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 210000051,
     "name": "Training Cave Lv. 5",
     "sort_order": 5,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 200002,
     "stamina": 10,
@@ -200,12 +209,14 @@
       210000041
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 210000061,
     "name": "Training Cave Lv. 6",
     "sort_order": 6,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 200002,
     "stamina": 11,
@@ -246,12 +257,14 @@
       210000051
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 210000071,
     "name": "Training Cave Lv. 7",
     "sort_order": 7,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 200002,
     "stamina": 12,
@@ -292,12 +305,14 @@
       210000061
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 210000081,
     "name": "Training Cave Lv. 8",
     "sort_order": 8,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 200002,
     "stamina": 14,
@@ -338,12 +353,14 @@
       210000071
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 210000091,
     "name": "Training Cave Lv. 9",
     "sort_order": 9,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 200002,
     "stamina": 15,
@@ -384,12 +401,14 @@
       210000081
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 210000101,
     "name": "Training Cave Lv. 10",
     "sort_order": 10,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 200002,
     "stamina": 18,
@@ -430,12 +449,14 @@
       210000091
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 220000011,
     "name": "Treasure Hunt Lv. 1",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 210001,
     "stamina": 5,
@@ -464,12 +485,14 @@
     "battle_id": 220000001,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 220000021,
     "name": "Treasure Hunt Lv. 2",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 210001,
     "stamina": 6,
@@ -500,12 +523,14 @@
       220000011
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 220000031,
     "name": "Treasure Hunt Lv. 3",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 210001,
     "stamina": 8,
@@ -536,12 +561,14 @@
       220000021
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 220000041,
     "name": "Treasure Hunt Lv. 4",
     "sort_order": 4,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 210001,
     "stamina": 9,
@@ -572,12 +599,14 @@
       220000031
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 220000051,
     "name": "Treasure Hunt Lv. 5",
     "sort_order": 5,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 210001,
     "stamina": 11,
@@ -608,12 +637,14 @@
       220000041
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 220000061,
     "name": "Treasure Hunt Lv. 6",
     "sort_order": 6,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 210001,
     "stamina": 12,
@@ -644,12 +675,14 @@
       220000051
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 220000071,
     "name": "Treasure Hunt Lv. 7",
     "sort_order": 7,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 210001,
     "stamina": 14,
@@ -680,12 +713,14 @@
       220000061
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 220000081,
     "name": "Treasure Hunt Lv. 8",
     "sort_order": 8,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 210001,
     "stamina": 15,
@@ -716,12 +751,14 @@
       220000071
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 220000091,
     "name": "Treasure Hunt Lv. 9",
     "sort_order": 9,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 210001,
     "stamina": 17,
@@ -752,12 +789,14 @@
       220000081
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 220000101,
     "name": "Treasure Hunt Lv. 10",
     "sort_order": 10,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 210001,
     "stamina": 20,
@@ -788,12 +827,14 @@
       220000091
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000011,
     "name": "Slash Ruins Lv. 1",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 5,
@@ -824,12 +865,14 @@
     "battle_id": 310000001,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000021,
     "name": "Slash Ruins Lv. 2",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 6,
@@ -867,12 +910,14 @@
       310000011
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000031,
     "name": "Slash Ruins Lv. 3",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 8,
@@ -910,12 +955,14 @@
       310000021
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000041,
     "name": "Slash Ruins Lv. 4",
     "sort_order": 4,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 10,
@@ -958,12 +1005,14 @@
       310000031
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000051,
     "name": "Slash Ruins Lv. 5",
     "sort_order": 5,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 11,
@@ -1006,12 +1055,14 @@
       310000041
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000061,
     "name": "Slash Ruins Lv. 6",
     "sort_order": 6,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 13,
@@ -1054,12 +1105,14 @@
       310000051
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000071,
     "name": "Slash Ruins Lv. 7",
     "sort_order": 7,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 15,
@@ -1102,12 +1155,14 @@
       310000061
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000081,
     "name": "Slash Ruins Lv. 8",
     "sort_order": 8,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 16,
@@ -1150,12 +1205,14 @@
       310000071
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000091,
     "name": "Slash Ruins Lv. 9",
     "sort_order": 9,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 18,
@@ -1198,12 +1255,14 @@
       310000081
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000101,
     "name": "Slash Ruins Lv. 10",
     "sort_order": 10,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 22,
@@ -1246,12 +1305,14 @@
       310000091
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000111,
     "name": "Slash Ruins Lv. 11",
     "sort_order": 11,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 22,
@@ -1294,12 +1355,14 @@
       310000101
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000121,
     "name": "Slash Ruins Lv. 12",
     "sort_order": 12,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 22,
@@ -1342,12 +1405,14 @@
       310000111
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 310000131,
     "name": "Slash Ruins Lv. 13",
     "sort_order": 13,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300101,
     "stamina": 22,
@@ -1390,12 +1455,14 @@
       310000121
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000011,
     "name": "Blunt Ruins Lv. 1",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 5,
@@ -1426,12 +1493,14 @@
     "battle_id": 320000001,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000021,
     "name": "Blunt Ruins Lv. 2",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 6,
@@ -1469,12 +1538,14 @@
       320000011
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000031,
     "name": "Blunt Ruins Lv. 3",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 8,
@@ -1512,12 +1583,14 @@
       320000021
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000041,
     "name": "Blunt Ruins Lv. 4",
     "sort_order": 4,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 10,
@@ -1560,12 +1633,14 @@
       320000031
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000051,
     "name": "Blunt Ruins Lv. 5",
     "sort_order": 5,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 11,
@@ -1608,12 +1683,14 @@
       320000041
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000061,
     "name": "Blunt Ruins Lv. 6",
     "sort_order": 6,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 13,
@@ -1656,12 +1733,14 @@
       320000051
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000071,
     "name": "Blunt Ruins Lv. 7",
     "sort_order": 7,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 15,
@@ -1704,12 +1783,14 @@
       320000061
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000081,
     "name": "Blunt Ruins Lv. 8",
     "sort_order": 8,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 16,
@@ -1752,12 +1833,14 @@
       320000071
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000091,
     "name": "Blunt Ruins Lv. 9",
     "sort_order": 9,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 18,
@@ -1800,12 +1883,14 @@
       320000081
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000101,
     "name": "Blunt Ruins Lv. 10",
     "sort_order": 10,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 22,
@@ -1848,12 +1933,14 @@
       320000091
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000111,
     "name": "Blunt Ruins Lv. 11",
     "sort_order": 11,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 22,
@@ -1896,12 +1983,14 @@
       320000101
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000121,
     "name": "Blunt Ruins Lv. 12",
     "sort_order": 12,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 22,
@@ -1944,12 +2033,14 @@
       320000111
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 320000131,
     "name": "Blunt Ruins Lv. 13",
     "sort_order": 13,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300201,
     "stamina": 22,
@@ -1992,12 +2083,14 @@
       320000121
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000011,
     "name": "Pierce Ruins Lv. 1",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 5,
@@ -2028,12 +2121,14 @@
     "battle_id": 330000001,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000021,
     "name": "Pierce Ruins Lv. 2",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 6,
@@ -2071,12 +2166,14 @@
       330000011
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000031,
     "name": "Pierce Ruins Lv. 3",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 8,
@@ -2114,12 +2211,14 @@
       330000021
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000041,
     "name": "Pierce Ruins Lv. 4",
     "sort_order": 4,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 10,
@@ -2162,12 +2261,14 @@
       330000031
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000051,
     "name": "Pierce Ruins Lv. 5",
     "sort_order": 5,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 11,
@@ -2210,12 +2311,14 @@
       330000041
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000061,
     "name": "Pierce Ruins Lv. 6",
     "sort_order": 6,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 13,
@@ -2258,12 +2361,14 @@
       330000051
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000071,
     "name": "Pierce Ruins Lv. 7",
     "sort_order": 7,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 15,
@@ -2306,12 +2411,14 @@
       330000061
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000081,
     "name": "Pierce Ruins Lv. 8",
     "sort_order": 8,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 16,
@@ -2354,12 +2461,14 @@
       330000071
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000091,
     "name": "Pierce Ruins Lv. 9",
     "sort_order": 9,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 18,
@@ -2402,12 +2511,14 @@
       330000081
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000101,
     "name": "Pierce Ruins Lv. 10",
     "sort_order": 10,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 22,
@@ -2450,12 +2561,14 @@
       330000091
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000111,
     "name": "Pierce Ruins Lv. 11",
     "sort_order": 11,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 22,
@@ -2498,12 +2611,14 @@
       330000101
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000121,
     "name": "Pierce Ruins Lv. 12",
     "sort_order": 12,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 22,
@@ -2546,12 +2661,14 @@
       330000111
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 330000131,
     "name": "Pierce Ruins Lv. 13",
     "sort_order": 13,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300301,
     "stamina": 22,
@@ -2594,12 +2711,14 @@
       330000121
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000011,
     "name": "Staff Ruins Lv. 1",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 5,
@@ -2630,12 +2749,14 @@
     "battle_id": 340000001,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000021,
     "name": "Staff Ruins Lv. 2",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 6,
@@ -2673,12 +2794,14 @@
       340000011
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000031,
     "name": "Staff Ruins Lv. 3",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 8,
@@ -2716,12 +2839,14 @@
       340000021
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000041,
     "name": "Staff Ruins Lv. 4",
     "sort_order": 4,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 10,
@@ -2764,12 +2889,14 @@
       340000031
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000051,
     "name": "Staff Ruins Lv. 5",
     "sort_order": 5,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 11,
@@ -2812,12 +2939,14 @@
       340000041
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000061,
     "name": "Staff Ruins Lv. 6",
     "sort_order": 6,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 13,
@@ -2860,12 +2989,14 @@
       340000051
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000071,
     "name": "Staff Ruins Lv. 7",
     "sort_order": 7,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 15,
@@ -2908,12 +3039,14 @@
       340000061
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000081,
     "name": "Staff Ruins Lv. 8",
     "sort_order": 8,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 16,
@@ -2956,12 +3089,14 @@
       340000071
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000091,
     "name": "Staff Ruins Lv. 9",
     "sort_order": 9,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 18,
@@ -3004,12 +3139,14 @@
       340000081
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000101,
     "name": "Staff Ruins Lv. 10",
     "sort_order": 10,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 22,
@@ -3052,12 +3189,14 @@
       340000091
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000111,
     "name": "Staff Ruins Lv. 11",
     "sort_order": 11,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 22,
@@ -3100,12 +3239,14 @@
       340000101
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000121,
     "name": "Staff Ruins Lv. 12",
     "sort_order": 12,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 22,
@@ -3148,12 +3289,14 @@
       340000111
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 340000131,
     "name": "Staff Ruins Lv. 13",
     "sort_order": 13,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300401,
     "stamina": 22,
@@ -3196,12 +3339,14 @@
       340000121
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000011,
     "name": "Armor Ruins Lv. 1",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 5,
@@ -3232,12 +3377,14 @@
     "battle_id": 350000001,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000021,
     "name": "Armor Ruins Lv. 2",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 6,
@@ -3275,12 +3422,14 @@
       350000011
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000031,
     "name": "Armor Ruins Lv. 3",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 8,
@@ -3318,12 +3467,14 @@
       350000021
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000041,
     "name": "Armor Ruins Lv. 4",
     "sort_order": 4,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 10,
@@ -3366,12 +3517,14 @@
       350000031
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000051,
     "name": "Armor Ruins Lv. 5",
     "sort_order": 5,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 11,
@@ -3414,12 +3567,14 @@
       350000041
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000061,
     "name": "Armor Ruins Lv. 6",
     "sort_order": 6,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 13,
@@ -3462,12 +3617,14 @@
       350000051
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000071,
     "name": "Armor Ruins Lv. 7",
     "sort_order": 7,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 15,
@@ -3510,12 +3667,14 @@
       350000061
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000081,
     "name": "Armor Ruins Lv. 8",
     "sort_order": 8,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 16,
@@ -3558,12 +3717,14 @@
       350000071
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000091,
     "name": "Armor Ruins Lv. 9",
     "sort_order": 9,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 18,
@@ -3606,12 +3767,14 @@
       350000081
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000101,
     "name": "Armor Ruins Lv. 10",
     "sort_order": 10,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 22,
@@ -3654,12 +3817,14 @@
       350000091
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000111,
     "name": "Armor Ruins Lv. 11",
     "sort_order": 11,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 22,
@@ -3702,12 +3867,14 @@
       350000101
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000121,
     "name": "Armor Ruins Lv. 12",
     "sort_order": 12,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 22,
@@ -3750,12 +3917,14 @@
       350000111
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 350000131,
     "name": "Armor Ruins Lv. 13",
     "sort_order": 13,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300501,
     "stamina": 22,
@@ -3798,12 +3967,14 @@
       350000121
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000011,
     "name": "Gear Ruins Lv. 1",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 5,
@@ -3834,12 +4005,14 @@
     "battle_id": 360000001,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000021,
     "name": "Gear Ruins Lv. 2",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 6,
@@ -3877,12 +4050,14 @@
       360000011
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000031,
     "name": "Gear Ruins Lv. 3",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 8,
@@ -3920,12 +4095,14 @@
       360000021
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000041,
     "name": "Gear Ruins Lv. 4",
     "sort_order": 4,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 10,
@@ -3968,12 +4145,14 @@
       360000031
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000051,
     "name": "Gear Ruins Lv. 5",
     "sort_order": 5,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 11,
@@ -4016,12 +4195,14 @@
       360000041
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000061,
     "name": "Gear Ruins Lv. 6",
     "sort_order": 6,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 13,
@@ -4064,12 +4245,14 @@
       360000051
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000071,
     "name": "Gear Ruins Lv. 7",
     "sort_order": 7,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 15,
@@ -4112,12 +4295,14 @@
       360000061
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000081,
     "name": "Gear Ruins Lv. 8",
     "sort_order": 8,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 16,
@@ -4160,12 +4345,14 @@
       360000071
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000091,
     "name": "Gear Ruins Lv. 9",
     "sort_order": 9,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 18,
@@ -4208,12 +4395,14 @@
       360000081
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000101,
     "name": "Gear Ruins Lv. 10",
     "sort_order": 10,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 22,
@@ -4256,12 +4445,14 @@
       360000091
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000111,
     "name": "Gear Ruins Lv. 11",
     "sort_order": 11,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 22,
@@ -4304,12 +4495,14 @@
       360000101
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000121,
     "name": "Gear Ruins Lv. 12",
     "sort_order": 12,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 22,
@@ -4352,12 +4545,14 @@
       360000111
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 360000131,
     "name": "Gear Ruins Lv. 13",
     "sort_order": 13,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300601,
     "stamina": 22,
@@ -4400,12 +4595,14 @@
       360000121
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000011,
     "name": "Iron Ruins Lv. 1",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 5,
@@ -4436,12 +4633,14 @@
     "battle_id": 370000001,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000021,
     "name": "Iron Ruins Lv. 2",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 6,
@@ -4479,12 +4678,14 @@
       370000011
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000031,
     "name": "Iron Ruins Lv. 3",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 8,
@@ -4522,12 +4723,14 @@
       370000021
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000041,
     "name": "Iron Ruins Lv. 4",
     "sort_order": 4,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 10,
@@ -4570,12 +4773,14 @@
       370000031
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000051,
     "name": "Iron Ruins Lv. 5",
     "sort_order": 5,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 11,
@@ -4618,12 +4823,14 @@
       370000041
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000061,
     "name": "Iron Ruins Lv. 6",
     "sort_order": 6,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 13,
@@ -4666,12 +4873,14 @@
       370000051
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000071,
     "name": "Iron Ruins Lv. 7",
     "sort_order": 7,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 15,
@@ -4714,12 +4923,14 @@
       370000061
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000081,
     "name": "Iron Ruins Lv. 8",
     "sort_order": 8,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 16,
@@ -4762,12 +4973,14 @@
       370000071
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000091,
     "name": "Iron Ruins Lv. 9",
     "sort_order": 9,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 18,
@@ -4810,12 +5023,14 @@
       370000081
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000101,
     "name": "Iron Ruins Lv. 10",
     "sort_order": 10,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 22,
@@ -4858,12 +5073,14 @@
       370000091
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000111,
     "name": "Iron Ruins Lv. 11",
     "sort_order": 11,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 22,
@@ -4906,12 +5123,14 @@
       370000101
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000121,
     "name": "Iron Ruins Lv. 12",
     "sort_order": 12,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 22,
@@ -4954,12 +5173,14 @@
       370000111
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 370000131,
     "name": "Iron Ruins Lv. 13",
     "sort_order": 13,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 300701,
     "stamina": 22,
@@ -5002,12 +5223,14 @@
       370000121
     ],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 380000011,
     "name": "Romancing Award Quests",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930025,
     "stamina": 0,
@@ -5050,12 +5273,14 @@
     "battle_id": 950003011,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 390000011,
     "name": "Half Anniversary: Path to Victory",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930037,
     "stamina": 0,
@@ -5100,12 +5325,14 @@
     "battle_id": 950007001,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 391018010,
     "name": "Half Anniversary: Yuletide Appreciation",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930039,
     "stamina": 0,
@@ -5150,12 +5377,14 @@
     "battle_id": 950007003,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 391019010,
     "name": "Half Anniversary: The Final Battle",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930038,
     "stamina": 0,
@@ -5200,12 +5429,14 @@
     "battle_id": 950007002,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 391034010,
     "name": "Lucky New Year's",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930042,
     "stamina": 0,
@@ -5245,12 +5476,14 @@
     "battle_id": 950011011,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 391041010,
     "name": "Happy Valentine Carnival",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930043,
     "stamina": 0,
@@ -5295,12 +5528,14 @@
     "battle_id": 950013011,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 391129010,
     "name": "Summer 2021 Sa・Ga Festival Quest",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930063,
     "stamina": 0,
@@ -5340,12 +5575,14 @@
     "battle_id": 950007004,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 391200030,
     "name": "Lucky Fortune Slip Quest",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930085,
     "stamina": 0,
@@ -5381,12 +5618,14 @@
     "battle_id": 950007006,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 391220010,
     "name": "Dark Stars Grand Opening Quest",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930107,
     "stamina": 0,
@@ -5426,12 +5665,49 @@
     "battle_id": 950025011,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 391435010,
+    "name": "Azami's Super Training Dojo",
+    "sort_order": 1,
+    "growth_count": 1,
+    "clear_limit": 0,
+    "banner": 901159,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 33,
+        "id": 960001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210001746
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1435,
+    "battle_id": 300101011,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 921089010,
     "name": "1. Boots Trial - Hard",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 430007,
     "stamina": 0,
@@ -5482,12 +5758,14 @@
     "battle_id": 980007021,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 921089020,
     "name": "2. Boots Trial - Hard",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 430007,
     "stamina": 0,
@@ -5539,12 +5817,14 @@
     "battle_id": 980007031,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 921089030,
     "name": "3. Boots Trial - Hard",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 430007,
     "stamina": 0,
@@ -5597,12 +5877,14 @@
     "battle_id": 980007041,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 921090010,
     "name": "1. Boots Trial Spree - Hard",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 430008,
     "stamina": 0,
@@ -5653,12 +5935,14 @@
     "battle_id": 980007021,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 921090020,
     "name": "2. Boots Trial Spree - Hard",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 430008,
     "stamina": 0,
@@ -5710,12 +5994,14 @@
     "battle_id": 980007031,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 921090030,
     "name": "3. Boots Trial Spree - Hard",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 430008,
     "stamina": 0,
@@ -5768,12 +6054,14 @@
     "battle_id": 980007041,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 921091010,
     "name": "Boots Trial - Easy",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 430009,
     "stamina": 0,
@@ -5823,12 +6111,14 @@
     "battle_id": 980007011,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 981070010,
     "name": "1. Intensive Course - Advanced (Slash Rec.)",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930047,
     "stamina": 0,
@@ -5867,12 +6157,14 @@
     "battle_id": 980001011,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 981070020,
     "name": "1. Intensive Course - Advanced (Pierce Rec.)",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930047,
     "stamina": 0,
@@ -5913,12 +6205,14 @@
     "battle_id": 980002011,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 981070030,
     "name": "2. Intensive Course - Advanced (Slash Rec.)",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930047,
     "stamina": 0,
@@ -5958,12 +6252,14 @@
     "battle_id": 980001021,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 981070040,
     "name": "2. Intensive Course - Advanced (Pierce Rec.)",
     "sort_order": 4,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930047,
     "stamina": 0,
@@ -6005,12 +6301,14 @@
     "battle_id": 980002021,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 981070050,
     "name": "3. Intensive Course - Advanced (Slash Rec.)",
     "sort_order": 5,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930047,
     "stamina": 0,
@@ -6051,12 +6349,14 @@
     "battle_id": 980001031,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 981070060,
     "name": "3. Intensive Course - Advanced (Pierce Rec.)",
     "sort_order": 6,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930047,
     "stamina": 0,
@@ -6099,12 +6399,14 @@
     "battle_id": 980002031,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 981071010,
     "name": "Intensive Course - Beginner",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 930048,
     "stamina": 0,
@@ -6133,12 +6435,14 @@
     "battle_id": 980003011,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 1000000001,
     "name": "Romancing Saga Quest",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 901088,
     "stamina": 0,
@@ -6178,12 +6482,14 @@
     "battle_id": 950010011,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 1000000002,
     "name": "Joker's Advent",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 1000901001,
     "stamina": 0,
@@ -6223,12 +6529,14 @@
     "battle_id": 1950010001,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 1000000003,
     "name": "1st Anniversary Quest",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 1000901002,
     "stamina": 0,
@@ -6268,12 +6576,14 @@
     "battle_id": 1950010002,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 1000000004,
     "name": "1. Boots Trial Spree - Hard",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 430008,
     "stamina": 0,
@@ -6324,12 +6634,14 @@
     "battle_id": 980007021,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 1000000005,
     "name": "2. Boots Trial Spree - Hard",
     "sort_order": 2,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 430008,
     "stamina": 0,
@@ -6381,12 +6693,14 @@
     "battle_id": 980007031,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 1000000006,
     "name": "3. Boots Trial Spree - Hard",
     "sort_order": 3,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 430008,
     "stamina": 0,
@@ -6439,12 +6753,14 @@
     "battle_id": 980007041,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 1000000007,
     "name": "RS3 TC/KO Versions Release Quest",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 1000901003,
     "stamina": 0,
@@ -6483,12 +6799,14 @@
     "battle_id": 1950010003,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 1000000008,
     "name": "1.5 Anniversary Quest",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 1000901004,
     "stamina": 0,
@@ -6529,12 +6847,14 @@
     "battle_id": 1950010002,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 1000000009,
     "name": "Lunar New Year 2022! Quest",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 1000901005,
     "stamina": 0,
@@ -6575,12 +6895,14 @@
     "battle_id": 1950010004,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   },
   {
     "id": 1000000010,
     "name": "2nd Anniversary Quest",
     "sort_order": 1,
+    "growth_count": 1,
     "clear_limit": 0,
     "banner": 1000901006,
     "stamina": 0,
@@ -6621,6 +6943,7 @@
     "battle_id": 1950010005,
     "prev_quest_ids": [],
     "is_required_for_area_clear": 1,
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   }
 ]

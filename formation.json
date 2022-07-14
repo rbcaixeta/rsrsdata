@@ -982,5 +982,133 @@
         "formation_bonus_id": 1107
       }
     ]
+  },
+  {
+    "id": 1037,
+    "name": "Hurricane",
+    "flavor_text": "Attack formation for mages which boosts the front line's STR/AGI, the middle line's INT, and the back line's DEX. The front line gains a Post-Action Defense Boost, and the back line gains a Pre-Action Defense Boost.",
+    "positions": [
+      {
+        "x": 8,
+        "y": 15,
+        "formation_bonus_id": 1109
+      },
+      {
+        "x": 25,
+        "y": 5,
+        "formation_bonus_id": 1110
+      },
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1110
+      },
+      {
+        "x": 25,
+        "y": 45,
+        "formation_bonus_id": 1110
+      },
+      {
+        "x": 42,
+        "y": 35,
+        "formation_bonus_id": 1111
+      }
+    ]
+  },
+  {
+    "id": 1038,
+    "name": "Tortoise Shell",
+    "flavor_text": "Defensive formation that grants the entire party \"All Allies Surviving Defense\" and \"Turn Start: Recover HP (all surviving)\". For sustained battles.",
+    "positions": [
+      {
+        "x": 45,
+        "y": 24,
+        "formation_bonus_id": 1112
+      },
+      {
+        "x": 6,
+        "y": 9,
+        "formation_bonus_id": 1113
+      },
+      {
+        "x": 6,
+        "y": 39,
+        "formation_bonus_id": 1113
+      },
+      {
+        "x": 30,
+        "y": 6,
+        "formation_bonus_id": 1114
+      },
+      {
+        "x": 30,
+        "y": 42,
+        "formation_bonus_id": 1114
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "name": "Magical Shower EX",
+    "flavor_text": "Improved Magical Shower formation that boosts attack further. Grants the two back line member a Weak Attack Boost and increases their action order.",
+    "positions": [
+      {
+        "x": 20,
+        "y": 25,
+        "formation_bonus_id": 1116
+      },
+      {
+        "x": 8,
+        "y": 8,
+        "formation_bonus_id": 1115
+      },
+      {
+        "x": 8,
+        "y": 42,
+        "formation_bonus_id": 1115
+      },
+      {
+        "x": 34,
+        "y": 14,
+        "formation_bonus_id": 1118
+      },
+      {
+        "x": 34,
+        "y": 36,
+        "formation_bonus_id": 1118
+      }
+    ]
+  },
+  {
+    "id": 1040,
+    "name": "Rising Phoenix EX",
+    "flavor_text": "Improved Rising Phoenix formation that boosts attack and defense. Grants the middle Reduce Damage Taken, and boosts the front line's AGI.",
+    "positions": [
+      {
+        "x": 25,
+        "y": 25,
+        "formation_bonus_id": 1120
+      },
+      {
+        "x": 8,
+        "y": 10,
+        "formation_bonus_id": 1121
+      },
+      {
+        "x": 8,
+        "y": 40,
+        "formation_bonus_id": 1121
+      },
+      {
+        "x": 42,
+        "y": 10,
+        "formation_bonus_id": 1124
+      },
+      {
+        "x": 42,
+        "y": 40,
+        "formation_bonus_id": 1124
+      }
+    ]
   }
 ]

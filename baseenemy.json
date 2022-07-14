@@ -383,6 +383,34 @@
     "pc_enemy_skill_hold_motion": 0
   },
   {
+    "id": 101037,
+    "pc_flag": 0,
+    "name": "Echigoya",
+    "enemy_class": 1,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1010371,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 101038,
+    "pc_flag": 0,
+    "name": "Hatamoto",
+    "enemy_class": 1,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1010381,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
     "id": 101039,
     "pc_flag": 0,
     "name": "Command",
@@ -514,6 +542,20 @@
     "gender": 1,
     "sprite_studio": 0,
     "illust": 1010491,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 101052,
+    "pc_flag": 0,
+    "name": "Guard",
+    "enemy_class": 1,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1010521,
     "pc_enemy_skill_hold_motion": 0
   },
   {
@@ -881,6 +923,35 @@
     "pc_enemy_skill_hold_motion": 0
   },
   {
+    "id": 101080,
+    "pc_flag": 0,
+    "name": "Magnate",
+    "enemy_class": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 1,
+    "illust": 1010801,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 101081,
+    "pc_flag": 0,
+    "name": "Ninja",
+    "enemy_class": 1,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1010811,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
     "id": 101082,
     "pc_flag": 0,
     "name": "Red Fighter",
@@ -962,6 +1033,91 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 1010871,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 101088,
+    "pc_flag": 0,
+    "name": "Shogun",
+    "enemy_class": 1,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 1010881,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 101089,
+    "pc_flag": 0,
+    "name": "Soldier",
+    "enemy_class": 1,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1010391,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 101090,
+    "pc_flag": 0,
+    "name": "Terrorist",
+    "enemy_class": 1,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1010391,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 101091,
+    "pc_flag": 0,
+    "name": "SS",
+    "enemy_class": 1,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1010391,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 101107,
+    "pc_flag": 0,
+    "name": "Estamir Soldier",
+    "enemy_class": 1,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1011071,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 101108,
+    "pc_flag": 0,
+    "name": "Wuhan",
+    "enemy_class": 1,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1011081,
     "pc_enemy_skill_hold_motion": 0
   },
   {
@@ -1497,6 +1653,237 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 1020451,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102046,
+    "pc_flag": 0,
+    "name": "Goblin",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020461,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102048,
+    "pc_flag": 0,
+    "name": "Diviner",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020481,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102049,
+    "pc_flag": 0,
+    "name": "Sylph",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2,
+      16,
+      82
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020491,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102050,
+    "pc_flag": 0,
+    "name": "Nix",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2,
+      8
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020501,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102051,
+    "pc_flag": 0,
+    "name": "Oni",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020511,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102052,
+    "pc_flag": 0,
+    "name": "Giant",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020521,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102053,
+    "pc_flag": 0,
+    "name": "Susano-O",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020531,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102054,
+    "pc_flag": 0,
+    "name": "Dagon",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2,
+      8
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020541,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102055,
+    "pc_flag": 0,
+    "name": "Pixie",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2,
+      16,
+      82
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020491,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102056,
+    "pc_flag": 0,
+    "name": "Broomer",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020481,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102057,
+    "pc_flag": 0,
+    "name": "Fish Man",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2,
+      8
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020501,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102058,
+    "pc_flag": 0,
+    "name": "Horus",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020281,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102059,
+    "pc_flag": 0,
+    "name": "Thoth",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020281,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102060,
+    "pc_flag": 0,
+    "name": "Set",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020281,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102061,
+    "pc_flag": 0,
+    "name": "Anubis",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020281,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 102062,
+    "pc_flag": 0,
+    "name": "Ogre",
+    "enemy_class": 2,
+    "rank": 1,
+    "species": [
+      2
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1020621,
     "pc_enemy_skill_hold_motion": 0
   },
   {
@@ -2179,6 +2566,118 @@
     "pc_enemy_skill_hold_motion": 0
   },
   {
+    "id": 103056,
+    "pc_flag": 0,
+    "name": "Sleipnir",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030561,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 103057,
+    "pc_flag": 0,
+    "name": "Fenrir",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030571,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 103058,
+    "pc_flag": 0,
+    "name": "Rhino",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      5
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030581,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 103059,
+    "pc_flag": 0,
+    "name": "Silver",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030591,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 103060,
+    "pc_flag": 0,
+    "name": "Nitemare",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030601,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 103061,
+    "pc_flag": 0,
+    "name": "Unicorn",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030611,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 103062,
+    "pc_flag": 0,
+    "name": "Jaguar",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030621,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 103063,
+    "pc_flag": 0,
+    "name": "Snow Cat",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030631,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
     "id": 103064,
     "pc_flag": 0,
     "name": "Rocky",
@@ -2246,6 +2745,62 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 1030681,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 103071,
+    "pc_flag": 0,
+    "name": "Rocky",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030711,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 103072,
+    "pc_flag": 0,
+    "name": "Rocky",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030721,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 103073,
+    "pc_flag": 0,
+    "name": "Rocky",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030731,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 103074,
+    "pc_flag": 0,
+    "name": "Rocky",
+    "enemy_class": 3,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1030741,
     "pc_enemy_skill_hold_motion": 0
   },
   {
@@ -3233,6 +3788,36 @@
     "pc_enemy_skill_hold_motion": 0
   },
   {
+    "id": 104069,
+    "pc_flag": 0,
+    "name": "Odin Crow",
+    "enemy_class": 4,
+    "rank": 1,
+    "species": [
+      20,
+      82
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1040691,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 104070,
+    "pc_flag": 0,
+    "name": "Minion",
+    "enemy_class": 4,
+    "rank": 1,
+    "species": [
+      20,
+      82
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1040701,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
     "id": 104189,
     "pc_flag": 0,
     "name": "Storm Dragon",
@@ -3874,6 +4459,20 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 1050541,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 105059,
+    "pc_flag": 0,
+    "name": "Spirit Tree",
+    "enemy_class": 5,
+    "rank": 1,
+    "species": [
+      6
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1050591,
     "pc_enemy_skill_hold_motion": 0
   },
   {
@@ -5443,6 +6042,66 @@
     "pc_enemy_skill_hold_motion": 0
   },
   {
+    "id": 108044,
+    "pc_flag": 0,
+    "name": "Gunfish",
+    "enemy_class": 8,
+    "rank": 1,
+    "species": [
+      9,
+      8
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1080441,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 108045,
+    "pc_flag": 0,
+    "name": "Piranha",
+    "enemy_class": 8,
+    "rank": 1,
+    "species": [
+      9,
+      8
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1080451,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 108046,
+    "pc_flag": 0,
+    "name": "Shark",
+    "enemy_class": 8,
+    "rank": 1,
+    "species": [
+      9,
+      8
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1080461,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 108047,
+    "pc_flag": 0,
+    "name": "Barracuda",
+    "enemy_class": 8,
+    "rank": 1,
+    "species": [
+      9,
+      8
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1080471,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
     "id": 109001,
     "pc_flag": 0,
     "name": "Viper",
@@ -5780,6 +6439,20 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 1090291,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 109031,
+    "pc_flag": 0,
+    "name": "Serpent",
+    "enemy_class": 9,
+    "rank": 1,
+    "species": [
+      10
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1090251,
     "pc_enemy_skill_hold_motion": 0
   },
   {
@@ -6232,6 +6905,34 @@
     "pc_enemy_skill_hold_motion": 0
   },
   {
+    "id": 110044,
+    "pc_flag": 0,
+    "name": "Fire Drake",
+    "enemy_class": 10,
+    "rank": 1,
+    "species": [
+      10
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1100441,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 110045,
+    "pc_flag": 0,
+    "name": "Salamanders",
+    "enemy_class": 10,
+    "rank": 1,
+    "species": [
+      10
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1100441,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
     "id": 111001,
     "pc_flag": 0,
     "name": "Jam",
@@ -6681,6 +7382,34 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 1110471,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 111051,
+    "pc_flag": 0,
+    "name": "Garuda",
+    "enemy_class": 11,
+    "rank": 1,
+    "species": [
+      12
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1110361,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 111052,
+    "pc_flag": 0,
+    "name": "Mummy Cat",
+    "enemy_class": 11,
+    "rank": 1,
+    "species": [
+      12
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1110371,
     "pc_enemy_skill_hold_motion": 0
   },
   {
@@ -7903,6 +8632,82 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 1130381,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 113039,
+    "pc_flag": 0,
+    "name": "Skeleton",
+    "enemy_class": 13,
+    "rank": 1,
+    "species": [
+      84,
+      13
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1130391,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 113040,
+    "pc_flag": 0,
+    "name": "Red Bone",
+    "enemy_class": 13,
+    "rank": 1,
+    "species": [
+      84,
+      13
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1130401,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 113041,
+    "pc_flag": 0,
+    "name": "Bone King",
+    "enemy_class": 13,
+    "rank": 1,
+    "species": [
+      84,
+      13
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1130411,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 113042,
+    "pc_flag": 0,
+    "name": "Rich",
+    "enemy_class": 13,
+    "rank": 1,
+    "species": [
+      84,
+      13
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1130421,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 113043,
+    "pc_flag": 0,
+    "name": "Dragon Bone",
+    "enemy_class": 13,
+    "rank": 1,
+    "species": [
+      5,
+      84,
+      13
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1130321,
     "pc_enemy_skill_hold_motion": 0
   },
   {
@@ -9368,6 +10173,178 @@
     "pc_enemy_skill_hold_motion": 0
   },
   {
+    "id": 116015,
+    "pc_flag": 0,
+    "name": "Brain",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160151,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 116016,
+    "pc_flag": 0,
+    "name": "Venus",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160161,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 116017,
+    "pc_flag": 0,
+    "name": "Cactus",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18,
+      82
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160171,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 116018,
+    "pc_flag": 0,
+    "name": "Flower",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18,
+      82
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160171,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 116019,
+    "pc_flag": 0,
+    "name": "Cosmos",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18,
+      82
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160171,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 116020,
+    "pc_flag": 0,
+    "name": "Reaper",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18,
+      82
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160171,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 116021,
+    "pc_flag": 0,
+    "name": "Iken",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160161,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 116022,
+    "pc_flag": 0,
+    "name": "Headless",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160151,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 116023,
+    "pc_flag": 0,
+    "name": "Guard",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160131,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 116024,
+    "pc_flag": 0,
+    "name": "Keeper",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160131,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 116025,
+    "pc_flag": 0,
+    "name": "Monitor",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160131,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 116026,
+    "pc_flag": 0,
+    "name": "Searcher",
+    "enemy_class": 16,
+    "rank": 1,
+    "species": [
+      18
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1160131,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
     "id": 117001,
     "pc_flag": 0,
     "name": "Pinkpunch",
@@ -9544,6 +10521,21 @@
     "gender": 2,
     "sprite_studio": 1,
     "illust": 1170121,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 117014,
+    "pc_flag": 0,
+    "name": "Virgil",
+    "enemy_class": 17,
+    "rank": 1,
+    "species": [
+      19,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 1,
+    "illust": 1170141,
     "pc_enemy_skill_hold_motion": 0
   },
   {
@@ -13141,6 +14133,119 @@
     "pc_enemy_skill_hold_motion": 0
   },
   {
+    "id": 199257,
+    "pc_flag": 0,
+    "name": "Arsenal",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      18,
+      82
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992571,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199258,
+    "pc_flag": 0,
+    "name": "Ashura",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992581,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199259,
+    "pc_flag": 0,
+    "name": "Venus",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 1,
+    "illust": 1992591,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199260,
+    "pc_flag": 0,
+    "name": "Odin",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 1,
+    "illust": 1992601,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199262,
+    "pc_flag": 0,
+    "name": "Tian Lung",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      5
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1992621,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199265,
+    "pc_flag": 0,
+    "name": "Baby Dragon",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      5
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1992651,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199266,
+    "pc_flag": 0,
+    "name": "Dragon",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      5
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1992661,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199267,
+    "pc_flag": 0,
+    "name": "Young Dragon",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      5
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1992671,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
     "id": 199270,
     "pc_flag": 0,
     "name": "Gift of Goddess",
@@ -13152,6 +14257,278 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 1992701,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199274,
+    "pc_flag": 0,
+    "name": "Halloween Box",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1992741,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199275,
+    "pc_flag": 0,
+    "name": "Ashura",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992751,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199276,
+    "pc_flag": 0,
+    "name": "Death",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992761,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199277,
+    "pc_flag": 0,
+    "name": "Byunei",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 1,
+    "illust": 1992771,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199278,
+    "pc_flag": 0,
+    "name": "New Arc Gift",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1992781,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199283,
+    "pc_flag": 0,
+    "name": "Macha",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      82,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 1,
+    "illust": 1992831,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199284,
+    "pc_flag": 0,
+    "name": "Black X",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992841,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199285,
+    "pc_flag": 0,
+    "name": "Jewel Beast",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      11,
+      81
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992851,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199286,
+    "pc_flag": 0,
+    "name": "Golden Baum",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      7
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992861,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199287,
+    "pc_flag": 0,
+    "name": "Haniwa",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992871,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199288,
+    "pc_flag": 0,
+    "name": "Jotnar",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      3,
+      82
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992881,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199289,
+    "pc_flag": 0,
+    "name": "Doppelganger",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      12
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992891,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199290,
+    "pc_flag": 0,
+    "name": "Yami",
+    "enemy_class": 99,
+    "rank": 3,
+    "species": [
+      13,
+      84
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992901,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199291,
+    "pc_flag": 0,
+    "name": "Bokhohn",
+    "enemy_class": 99,
+    "rank": 2,
+    "species": [
+      6
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992911,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199292,
+    "pc_flag": 0,
+    "name": "Kzinssie",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      12,
+      96
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1990251,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199293,
+    "pc_flag": 0,
+    "name": "3rd Anniversary Gift",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1992931,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199294,
+    "pc_flag": 0,
+    "name": "Mask Giant",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      3
+    ],
+    "gender": 9,
+    "sprite_studio": 1,
+    "illust": 1992941,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199295,
+    "pc_flag": 0,
+    "name": "Schirach",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      97,
+      82
+    ],
+    "gender": 2,
+    "sprite_studio": 1,
+    "illust": 1992951,
+    "pc_enemy_skill_hold_motion": 0
+  },
+  {
+    "id": 199305,
+    "pc_flag": 0,
+    "name": "Treasure Box",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1993051,
     "pc_enemy_skill_hold_motion": 0
   },
   {
@@ -13170,6 +14547,21 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 211012,
+    "pc_flag": 1,
+    "name": "Human Male",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 110103,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 211021,
     "pc_flag": 1,
     "name": "Human Female",
@@ -13182,6 +14574,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 110200,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 211022,
+    "pc_flag": 1,
+    "name": "Human Female",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 110204,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -13200,6 +14607,20 @@
     "pc_enemy_skill_hold_motion": 2
   },
   {
+    "id": 212051,
+    "pc_flag": 1,
+    "name": "Mech",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      18
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 120500,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 212111,
     "pc_flag": 1,
     "name": "Sensei",
@@ -13211,6 +14632,80 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 121100,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 212121,
+    "pc_flag": 1,
+    "name": "Father",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 121200,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 212131,
+    "pc_flag": 1,
+    "name": "Goddess",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 121300,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 213011,
+    "pc_flag": 1,
+    "name": "Arthur",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 130100,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 213041,
+    "pc_flag": 1,
+    "name": "Sharon",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 130400,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 213091,
+    "pc_flag": 1,
+    "name": "Borgin",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 130902,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -13256,6 +14751,21 @@
     "gender": 1,
     "sprite_studio": 0,
     "illust": 210103,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 221014,
+    "pc_flag": 1,
+    "name": "Albert",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 210108,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -13634,6 +15144,20 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 221631,
+    "pc_flag": 1,
+    "name": "Avi",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      20
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 216300,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 221811,
     "pc_flag": 1,
     "name": "Mirsa",
@@ -13975,6 +15499,21 @@
     "gender": 1,
     "sprite_studio": 0,
     "illust": 222300,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 222253,
+    "pc_flag": 1,
+    "name": "Souji",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 222581,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -14611,6 +16150,21 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 223034,
+    "pc_flag": 1,
+    "name": "Mikhail",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 230307,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 223041,
     "pc_flag": 1,
     "name": "Khalid",
@@ -14641,6 +16195,21 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 223043,
+    "pc_flag": 1,
+    "name": "Khalid",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 230402,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 223051,
     "pc_flag": 1,
     "name": "Sarah",
@@ -14668,6 +16237,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 230503,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 223053,
+    "pc_flag": 1,
+    "name": "Sarah",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 230506,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -14727,6 +16311,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 230608,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 223064,
+    "pc_flag": 1,
+    "name": "Ellen",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 230610,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -14801,6 +16400,36 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 230707,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 223076,
+    "pc_flag": 1,
+    "name": "Monika",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 230710,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 223077,
+    "pc_flag": 1,
+    "name": "Monika",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 230712,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -14909,6 +16538,21 @@
     "pc_enemy_skill_hold_motion": 2
   },
   {
+    "id": 223132,
+    "pc_flag": 1,
+    "name": "Muse",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 231304,
+    "pc_enemy_skill_hold_motion": 2
+  },
+  {
     "id": 223141,
     "pc_flag": 1,
     "name": "Charl",
@@ -14951,6 +16595,21 @@
     "gender": 1,
     "sprite_studio": 0,
     "illust": 231400,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 223144,
+    "pc_flag": 1,
+    "name": "Charl",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 231402,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -15041,6 +16700,21 @@
     "gender": 1,
     "sprite_studio": 0,
     "illust": 232103,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 223214,
+    "pc_flag": 1,
+    "name": "Black",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 232105,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -15235,6 +16909,21 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 223331,
+    "pc_flag": 1,
+    "name": "Maximus",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 233301,
+    "pc_enemy_skill_hold_motion": 2
+  },
+  {
     "id": 223411,
     "pc_flag": 1,
     "name": "Professor",
@@ -15322,6 +17011,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 235100,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 223581,
+    "pc_flag": 1,
+    "name": "Ludwig",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 235802,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -15547,6 +17251,36 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 231063,
+    "pc_flag": 1,
+    "name": "Asellus",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 310603,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 231064,
+    "pc_flag": 1,
+    "name": "Asellus",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 310610,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 231071,
     "pc_flag": 1,
     "name": "Lute",
@@ -15577,6 +17311,36 @@
     "pc_enemy_skill_hold_motion": 2
   },
   {
+    "id": 231291,
+    "pc_flag": 1,
+    "name": "Ildon",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      19,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 312903,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 231301,
+    "pc_flag": 1,
+    "name": "Ciato",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      19,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 313002,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 231311,
     "pc_flag": 1,
     "name": "Princess Rei",
@@ -15592,6 +17356,21 @@
     "pc_enemy_skill_hold_motion": 2
   },
   {
+    "id": 231312,
+    "pc_flag": 1,
+    "name": "Princess Rei",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      19,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 313105,
+    "pc_enemy_skill_hold_motion": 2
+  },
+  {
     "id": 231321,
     "pc_flag": 1,
     "name": "Princess Lion",
@@ -15604,6 +17383,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 313203,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 231322,
+    "pc_flag": 1,
+    "name": "Princess Lion",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      19,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 313204,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -15637,6 +17431,35 @@
     "pc_enemy_skill_hold_motion": 2
   },
   {
+    "id": 231372,
+    "pc_flag": 1,
+    "name": "Mesarthim",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      19,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 313705,
+    "pc_enemy_skill_hold_motion": 2
+  },
+  {
+    "id": 231411,
+    "pc_flag": 1,
+    "name": "Kylin",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 314100,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 231431,
     "pc_flag": 1,
     "name": "Red Turnip",
@@ -15662,6 +17485,35 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 314302,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 231491,
+    "pc_flag": 1,
+    "name": "Rastaban",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      19,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 314902,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 231511,
+    "pc_flag": 1,
+    "name": "Rocky",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 315100,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -15707,6 +17559,21 @@
     "gender": 1,
     "sprite_studio": 0,
     "illust": 320104,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 232015,
+    "pc_flag": 1,
+    "name": "Gustave",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 320109,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -15830,6 +17697,36 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 232141,
+    "pc_flag": 1,
+    "name": "Cielmer",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 321400,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 232151,
+    "pc_flag": 1,
+    "name": "Nebelstern",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 321502,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 232211,
     "pc_flag": 1,
     "name": "Cordelia",
@@ -15872,6 +17769,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 322105,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 232221,
+    "pc_flag": 1,
+    "name": "Narcisse",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 322200,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -15935,6 +17847,35 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 232342,
+    "pc_flag": 1,
+    "name": "Gustaf",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 323402,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 232371,
+    "pc_flag": 1,
+    "name": "Peg",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      99
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 323700,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 241013,
     "pc_flag": 1,
     "name": "Laura",
@@ -15950,6 +17891,51 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 241021,
+    "pc_flag": 1,
+    "name": "Ventus",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 410202,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 241031,
+    "pc_flag": 1,
+    "name": "Judie",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 410300,
+    "pc_enemy_skill_hold_motion": 2
+  },
+  {
+    "id": 241051,
+    "pc_flag": 1,
+    "name": "Ruby",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 410502,
+    "pc_enemy_skill_hold_motion": 2
+  },
+  {
     "id": 251011,
     "pc_flag": 1,
     "name": "Silver Emperor",
@@ -15962,6 +17948,21 @@
     "gender": 1,
     "sprite_studio": 0,
     "illust": 510100,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 251021,
+    "pc_flag": 1,
+    "name": "Selma",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 510200,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -15992,6 +17993,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 610106,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 261014,
+    "pc_flag": 1,
+    "name": "Urpina",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 610104,
     "pc_enemy_skill_hold_motion": 1
   },
   {
@@ -16243,6 +18259,64 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 711200,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 271161,
+    "pc_flag": 1,
+    "name": "Liam",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 711601,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 271181,
+    "pc_flag": 1,
+    "name": "Candy",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 711800,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 271182,
+    "pc_flag": 1,
+    "name": "Candy",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      4
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 711801,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 271191,
+    "pc_flag": 1,
+    "name": "Darius",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 711901,
     "pc_enemy_skill_hold_motion": 1
   },
   {

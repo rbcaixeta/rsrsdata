@@ -201,7 +201,7 @@
     "id": 310,
     "title_name": "Expeditions",
     "marquee_id": 28,
-    "help_id": 488
+    "help_id": 16
   },
   {
     "id": 311,
@@ -246,8 +246,20 @@
     "help_id": 262
   },
   {
+    "id": 318,
+    "title_name": "Select Style",
+    "marquee_id": 43,
+    "help_id": 517
+  },
+  {
+    "id": 319,
+    "title_name": "Promotion Exam",
+    "marquee_id": 44,
+    "help_id": 0
+  },
+  {
     "id": 401,
-    "title_name": "Forge",
+    "title_name": "The Forge",
     "marquee_id": 0,
     "help_id": 0
   },
@@ -489,6 +501,42 @@
     "id": 1402,
     "title_name": "Edit Favorites",
     "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 1403,
+    "title_name": "Forge",
+    "marquee_id": 42,
+    "help_id": 483
+  },
+  {
+    "id": 1501,
+    "title_name": "Select Main Quest",
+    "marquee_id": 45,
+    "help_id": 0
+  },
+  {
+    "id": 1601,
+    "title_name": "Remembrance Battle",
+    "marquee_id": 0,
+    "help_id": 514
+  },
+  {
+    "id": 1602,
+    "title_name": "Select Battle",
+    "marquee_id": 0,
+    "help_id": 515
+  },
+  {
+    "id": 1603,
+    "title_name": "Select Simulation Level",
+    "marquee_id": 0,
+    "help_id": 0
+  },
+  {
+    "id": 1604,
+    "title_name": "Edit Remembrance Party",
+    "marquee_id": 39,
     "help_id": 0
   }
 ]

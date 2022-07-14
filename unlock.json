@@ -3,147 +3,171 @@
     "id": 1,
     "feature_to_unlock": "Quest_Daily_301",
     "trigger_quest_id": 100101071,
+    "trigger_player_rank": 6,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 2,
     "feature_to_unlock": "Quest_Daily_302",
     "trigger_quest_id": 100102101,
+    "trigger_player_rank": 13,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 3,
     "feature_to_unlock": "Quest_Challenge_501",
     "trigger_quest_id": 100104201,
+    "trigger_player_rank": 30,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 4,
     "feature_to_unlock": "Quest_Challenge_504",
     "trigger_quest_id": 100102201,
+    "trigger_player_rank": 16,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 5,
     "feature_to_unlock": "Smith_EquipmentGrow",
     "trigger_quest_id": 100101211,
+    "trigger_player_rank": 10,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 6,
     "feature_to_unlock": "Dojo_SkillAwake",
     "trigger_quest_id": 100105221,
+    "trigger_player_rank": 40,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 7,
     "feature_to_unlock": "Dojo_Expedition",
     "trigger_quest_id": 100101111,
+    "trigger_player_rank": 8,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 8,
     "feature_to_unlock": "Dojo_Lesson",
     "trigger_quest_id": 100103121,
+    "trigger_player_rank": 20,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 9,
     "feature_to_unlock": "Shop_Daily",
     "trigger_quest_id": 100102041,
+    "trigger_player_rank": 0,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 10,
     "feature_to_unlock": "Shop_Weekly",
     "trigger_quest_id": 100102141,
+    "trigger_player_rank": 0,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 12,
     "feature_to_unlock": "UraDojo",
     "trigger_quest_id": 100103103,
+    "trigger_player_rank": 65,
     "scenario_script_name": "90001-010",
-    "lock_text": "Clear Main<br>Ch. 1, 3-2-4<br>Very Hard<br>to unlock"
+    "lock_text": "Clear Polka Arc<br>Ch. 1, 3-2-4<br>Very Hard<br>to unlock",
+    "lock_rank_text": "Reach<br>Player Rank 65<br>to unlock"
   },
   {
     "id": 13,
     "feature_to_unlock": "Dojo_UraNouryoku",
     "trigger_quest_id": 0,
+    "trigger_player_rank": 0,
     "scenario_script_name": "",
-    "lock_text": ""
-  },
-  {
-    "id": 14,
-    "feature_to_unlock": "RobinCup",
-    "trigger_quest_id": 100105113,
-    "scenario_script_name": "90003-010",
-    "lock_text": "Clear Main<br>Ch. 1, 5-2-6<br>Very Hard<br>to unlock"
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 15,
     "feature_to_unlock": "Smith_HolyStone_Synthesis",
     "trigger_quest_id": 100106013,
+    "trigger_player_rank": 70,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 16,
     "feature_to_unlock": "Quest_Challenge_505",
     "trigger_quest_id": 100102201,
+    "trigger_player_rank": 16,
     "scenario_script_name": "",
-    "lock_text": ""
-  },
-  {
-    "id": 17,
-    "feature_to_unlock": "Quest_Challenge_506",
-    "trigger_quest_id": 100102201,
-    "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 18,
     "feature_to_unlock": "Dojo_ExpertSkill",
     "trigger_quest_id": 100101013,
+    "trigger_player_rank": 60,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
     "id": 19,
     "feature_to_unlock": "LimitIsland",
     "trigger_quest_id": 100201053,
+    "trigger_player_rank": 75,
     "scenario_script_name": "90008-010",
-    "lock_text": "Clear Main<br>Ch. 2, 1-1-5<br>Very Hard<br>to unlock"
-  },
-  {
-    "id": 20,
-    "feature_to_unlock": "Quest_Challenge_507",
-    "trigger_quest_id": 100102201,
-    "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "Clear Polka Arc<br>Ch. 2, 1-1-5<br>Very Hard<br>to unlock",
+    "lock_rank_text": "Reach<br>Player Rank 75<br>to unlock"
   },
   {
     "id": 21,
     "feature_to_unlock": "Quest_Challenge_508",
     "trigger_quest_id": 100102201,
+    "trigger_player_rank": 16,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   },
   {
-    "id": 22,
-    "feature_to_unlock": "Quest_Challenge_509",
-    "trigger_quest_id": 100102201,
+    "id": 23,
+    "feature_to_unlock": "RuledTrial",
+    "trigger_quest_id": 120101103,
+    "trigger_player_rank": 150,
+    "scenario_script_name": "90011-010",
+    "lock_text": "Clear Liam Arc<br>1-2-5<br>Very Hard<br>to unlock",
+    "lock_rank_text": "Reach<br>Player Rank 150<br>to unlock"
+  },
+  {
+    "id": 24,
+    "feature_to_unlock": "Dojo_Shodan",
+    "trigger_quest_id": 120101171,
+    "trigger_player_rank": 10,
     "scenario_script_name": "",
-    "lock_text": ""
+    "lock_text": "",
+    "lock_rank_text": ""
   }
 ]

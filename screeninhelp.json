@@ -1617,7 +1617,7 @@
   },
   {
     "id": 167,
-    "name": "Quest_Before",
+    "name": "Disabled",
     "title": "Quest Briefing",
     "size": 2,
     "banners": [
@@ -4294,6 +4294,16 @@
     ]
   },
   {
+    "id": 483,
+    "name": "Dojo_equipment_craft",
+    "title": "Forge Equipment",
+    "size": 2,
+    "banners": [
+      1104,
+      1105
+    ]
+  },
+  {
     "id": 484,
     "name": "Quest_Event_1384",
     "title": "Vrooom! Nacht Zweiger on the Rampage!",
@@ -4356,6 +4366,89 @@
       10422,
       10423,
       10424
+    ]
+  },
+  {
+    "id": 514,
+    "name": "Quest_Event_940001",
+    "title": "Remembrance Battle",
+    "size": 3,
+    "banners": [
+      10482,
+      10484,
+      10483,
+      10485,
+      10486,
+      10487,
+      10488,
+      10489,
+      10545,
+      10546
+    ]
+  },
+  {
+    "id": 515,
+    "name": "Quest_Event_940001",
+    "title": "Remembrance Battle",
+    "size": 3,
+    "banners": [
+      10490,
+      10491
+    ]
+  },
+  {
+    "id": 517,
+    "name": "Dojo_shodan",
+    "title": "Promotion Exam",
+    "size": 3,
+    "banners": [
+      2401,
+      2402
+    ]
+  },
+  {
+    "id": 538,
+    "name": "Quest_Event_1417",
+    "title": "New Arc SaGa Carnival",
+    "size": 3,
+    "banners": [
+      10535,
+      10536,
+      10543,
+      10549,
+      10537,
+      10538
+    ]
+  },
+  {
+    "id": 540,
+    "name": "Quest_Event_1418",
+    "title": "New Arc Surprise Gift",
+    "size": 3,
+    "banners": [
+      10543,
+      10549
+    ]
+  },
+  {
+    "id": 543,
+    "name": "Quest_Event_163",
+    "title": "Main Quests - Liam Arc",
+    "size": 3,
+    "banners": [
+      10560
+    ]
+  },
+  {
+    "id": 550,
+    "name": "Quest_Event_1435",
+    "title": "Azami's Super Training Dojo",
+    "size": 3,
+    "banners": [
+      10554,
+      10555,
+      10556,
+      10557
     ]
   },
   {

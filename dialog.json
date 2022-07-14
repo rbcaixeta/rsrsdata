@@ -209,8 +209,8 @@
   {
     "id": 25,
     "name": "Option_DataDelete_Complete",
-    "title": "Data Successfully Deleted",
-    "text": "Data deleted.<br>Data restoration will begin after returning to the title screen.",
+    "title": "Cache Cleared",
+    "text": "Cache has been cleared.<br>Data restoration will begin after returning to the title screen.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -228,7 +228,7 @@
     "id": 27,
     "name": "Option_DataRepair_Confirm",
     "title": "Restore Data",
-    "text": "If the data saved on your device is corrupted, it may cause problems including the inability to progress.<br>Deleting game data and redownloading the game will often solve the issue.<br>You can continue playing from your current state of progress after restoring the game data.<br>Would you like to restore your data?<br><br><br>*We recommend using a Wi-Fi connection for this download.",
+    "text": "If the data saved on your device is corrupted, it may cause problems including inability to progress.<br>Clearing cache and redownloading the game will often solve the issue.<br>You can continue playing from your current state of progress after restoring the game data.<br>Start restoring game data?<br><br>*A Wi-Fi connection is recommended for this download.",
     "dialog_type": 2,
     "button2": "Cancel",
     "button1": "Restore"
@@ -1647,6 +1647,33 @@
     "button1": "OK"
   },
   {
+    "id": 190,
+    "name": "Smith_equipment_craft_Deadline",
+    "title": "Ended",
+    "text": "Forging period has ended.<br>Returning to Forge screen.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 191,
+    "name": "Quest_Information_Confirm",
+    "title": "Confirm",
+    "text": "Express Battle will become available after clearing the applicable quest.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 192,
+    "name": "Battle_Retire_impossible_2",
+    "title": "Confirm",
+    "text": "You cannot retreat from a battle when victory is guaranteed.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
     "id": 193,
     "name": "auto_rematch_Battle_Confirm",
     "title": "Confirm",
@@ -1719,10 +1746,28 @@
     "button1": "OK"
   },
   {
+    "id": 201,
+    "name": "Dojo_UraDojoUnreleased_Confirm",
+    "title": "Content Unavailable",
+    "text": "・Clear Hidden Dojo 1 time to unlock",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
     "id": 203,
     "name": "auto_rematch_Battle_End_8",
     "title": "Auto Rematch Stopped",
     "text": "Auto rematch has stopped because the quest has expired.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 204,
+    "name": "RuledTrial_MonthlyReward_Confirm",
+    "title": "Monthly Rewards",
+    "text": "The monthly reset time has passed. The Monthly Reward will be given based on your completion progress.<br><br>*Completion progress will be carried over.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"

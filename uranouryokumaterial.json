@@ -4,7 +4,7 @@
     "name": "Strength Orb",
     "flavor_text": "Used to unlock Hidden STR cap.",
     "icon": "880001",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999800
   },
   {
@@ -12,7 +12,7 @@
     "name": "Endurance Orb",
     "flavor_text": "Used to unlock Hidden END cap.",
     "icon": "880002",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999795
   },
   {
@@ -20,7 +20,7 @@
     "name": "Dexterity Orb",
     "flavor_text": "Used to unlock Hidden DEX cap.",
     "icon": "880003",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999790
   },
   {
@@ -28,7 +28,7 @@
     "name": "Agility Orb",
     "flavor_text": "Used to unlock Hidden AGI cap.",
     "icon": "880004",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999785
   },
   {
@@ -36,7 +36,7 @@
     "name": "Intelligence Orb",
     "flavor_text": "Used to unlock Hidden INT cap.",
     "icon": "880005",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999780
   },
   {
@@ -44,7 +44,7 @@
     "name": "Willpower Orb",
     "flavor_text": "Used to unlock Hidden WIL cap.",
     "icon": "880006",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999775
   },
   {
@@ -52,7 +52,7 @@
     "name": "Love Orb",
     "flavor_text": "Used to unlock Hidden LOV cap.",
     "icon": "880007",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999770
   },
   {
@@ -60,7 +60,7 @@
     "name": "Charisma Orb",
     "flavor_text": "Used to unlock Hidden CHA cap.",
     "icon": "880008",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999765
   },
   {
@@ -68,7 +68,7 @@
     "name": "Testament of the Mighty: Rank 1",
     "flavor_text": "Used to unlock 1st stage of Hidden Attribute caps.",
     "icon": "881001",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999900
   },
   {
@@ -76,7 +76,7 @@
     "name": "Testament of the Mighty: Rank 2",
     "flavor_text": "Used to unlock 2nd stage of Hidden Attribute caps.",
     "icon": "881002",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999895
   },
   {
@@ -84,7 +84,7 @@
     "name": "Testament of the Mighty: Rank 3",
     "flavor_text": "Used to unlock 3rd stage of Hidden Attribute caps.",
     "icon": "881003",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999890
   },
   {
@@ -92,7 +92,15 @@
     "name": "Testament of the Mighty: Rank 4",
     "flavor_text": "Used to unlock 4th stage of Hidden Attribute caps.",
     "icon": "881004",
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "sort_order": 49999885
+  },
+  {
+    "id": 881005,
+    "name": "Testament of the Mighty: Rank 5",
+    "flavor_text": "Used to unlock 5th stage of Hidden Attribute caps.",
+    "icon": "881005",
+    "max_quantity": 9999,
+    "sort_order": 49999880
   }
 ]

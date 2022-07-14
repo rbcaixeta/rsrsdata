@@ -3,13 +3,17 @@
     "id": 400000011,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 1",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 5,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 1,
     "typical_rewards_category": 2,
@@ -40,19 +44,26 @@
     "battle_id": 400001001,
     "scenario_id": 0,
     "prev_quest_ids": [],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000011
   },
   {
     "id": 400000021,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 2",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 5,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 2,
     "typical_rewards_category": 2,
@@ -85,19 +96,26 @@
     "prev_quest_ids": [
       400000011
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000011
   },
   {
     "id": 400000031,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 3",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 5,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 3,
     "typical_rewards_category": 2,
@@ -130,19 +148,26 @@
     "prev_quest_ids": [
       400000021
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000011
   },
   {
     "id": 400000041,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 4",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 6,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 4,
     "typical_rewards_category": 2,
@@ -175,19 +200,26 @@
     "prev_quest_ids": [
       400000031
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000011
   },
   {
     "id": 400000051,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 5",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 6,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 5,
     "typical_rewards_category": 2,
@@ -220,19 +252,26 @@
     "prev_quest_ids": [
       400000041
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000011
   },
   {
     "id": 400000061,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 6",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 7,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 6,
     "typical_rewards_category": 2,
@@ -265,19 +304,26 @@
     "prev_quest_ids": [
       400000051
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000011
   },
   {
     "id": 400000071,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 7",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 7,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 7,
     "typical_rewards_category": 2,
@@ -310,19 +356,26 @@
     "prev_quest_ids": [
       400000061
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000011
   },
   {
     "id": 400000081,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 8",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 7,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 8,
     "typical_rewards_category": 2,
@@ -355,19 +408,26 @@
     "prev_quest_ids": [
       400000071
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000011
   },
   {
     "id": 400000091,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 9",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 8,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 9,
     "typical_rewards_category": 2,
@@ -400,19 +460,26 @@
     "prev_quest_ids": [
       400000081
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000011
   },
   {
     "id": 400000101,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 10",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 8,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 10,
     "typical_rewards_category": 2,
@@ -445,19 +512,26 @@
     "prev_quest_ids": [
       400000091
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000011
   },
   {
     "id": 400000111,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 11",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 9,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 11,
     "typical_rewards_category": 2,
@@ -490,19 +564,26 @@
     "prev_quest_ids": [
       400000101
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000021
   },
   {
     "id": 400000121,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 12",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 9,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 12,
     "typical_rewards_category": 2,
@@ -535,19 +616,26 @@
     "prev_quest_ids": [
       400000111
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000021
   },
   {
     "id": 400000131,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 13",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 9,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 13,
     "typical_rewards_category": 2,
@@ -580,19 +668,26 @@
     "prev_quest_ids": [
       400000121
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000021
   },
   {
     "id": 400000141,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 14",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 14,
     "typical_rewards_category": 2,
@@ -625,19 +720,26 @@
     "prev_quest_ids": [
       400000131
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000021
   },
   {
     "id": 400000151,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 15",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 15,
     "typical_rewards_category": 2,
@@ -670,19 +772,26 @@
     "prev_quest_ids": [
       400000141
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000021
   },
   {
     "id": 400000161,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 16",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 16,
     "typical_rewards_category": 2,
@@ -715,19 +824,26 @@
     "prev_quest_ids": [
       400000151
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000021
   },
   {
     "id": 400000171,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 17",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 17,
     "typical_rewards_category": 2,
@@ -760,19 +876,26 @@
     "prev_quest_ids": [
       400000161
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000021
   },
   {
     "id": 400000181,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 18",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 18,
     "typical_rewards_category": 2,
@@ -805,19 +928,26 @@
     "prev_quest_ids": [
       400000171
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000021
   },
   {
     "id": 400000191,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 19",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 19,
     "typical_rewards_category": 2,
@@ -850,19 +980,26 @@
     "prev_quest_ids": [
       400000181
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000021
   },
   {
     "id": 400000201,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 20",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 20,
     "typical_rewards_category": 2,
@@ -895,19 +1032,26 @@
     "prev_quest_ids": [
       400000191
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000021
   },
   {
     "id": 400000211,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 21",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 21,
     "typical_rewards_category": 2,
@@ -940,19 +1084,26 @@
     "prev_quest_ids": [
       400000201
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000031
   },
   {
     "id": 400000221,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 22",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 22,
     "typical_rewards_category": 2,
@@ -985,19 +1136,26 @@
     "prev_quest_ids": [
       400000211
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000031
   },
   {
     "id": 400000231,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 23",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 23,
     "typical_rewards_category": 2,
@@ -1030,19 +1188,26 @@
     "prev_quest_ids": [
       400000221
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000031
   },
   {
     "id": 400000241,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 24",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 24,
     "typical_rewards_category": 2,
@@ -1075,19 +1240,26 @@
     "prev_quest_ids": [
       400000231
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000031
   },
   {
     "id": 400000251,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 25",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 25,
     "typical_rewards_category": 2,
@@ -1120,19 +1292,26 @@
     "prev_quest_ids": [
       400000241
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000031
   },
   {
     "id": 400000261,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 26",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 26,
     "typical_rewards_category": 2,
@@ -1165,19 +1344,26 @@
     "prev_quest_ids": [
       400000251
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000031
   },
   {
     "id": 400000271,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 27",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 27,
     "typical_rewards_category": 2,
@@ -1210,19 +1396,26 @@
     "prev_quest_ids": [
       400000261
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000031
   },
   {
     "id": 400000281,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 28",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 28,
     "typical_rewards_category": 2,
@@ -1255,19 +1448,26 @@
     "prev_quest_ids": [
       400000271
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000031
   },
   {
     "id": 400000291,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 29",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 29,
     "typical_rewards_category": 2,
@@ -1300,19 +1500,26 @@
     "prev_quest_ids": [
       400000281
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000031
   },
   {
     "id": 400000301,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 30",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 30,
     "typical_rewards_category": 2,
@@ -1345,19 +1552,26 @@
     "prev_quest_ids": [
       400000291
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000031
   },
   {
     "id": 400000311,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 31",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 31,
     "typical_rewards_category": 2,
@@ -1390,19 +1604,26 @@
     "prev_quest_ids": [
       400000301
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000041
   },
   {
     "id": 400000321,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 32",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 32,
     "typical_rewards_category": 2,
@@ -1435,19 +1656,26 @@
     "prev_quest_ids": [
       400000311
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000041
   },
   {
     "id": 400000331,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 33",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 33,
     "typical_rewards_category": 2,
@@ -1480,19 +1708,26 @@
     "prev_quest_ids": [
       400000321
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000041
   },
   {
     "id": 400000341,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 34",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 34,
     "typical_rewards_category": 2,
@@ -1525,19 +1760,26 @@
     "prev_quest_ids": [
       400000331
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000041
   },
   {
     "id": 400000351,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 35",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 35,
     "typical_rewards_category": 2,
@@ -1570,19 +1812,26 @@
     "prev_quest_ids": [
       400000341
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000041
   },
   {
     "id": 400000361,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 36",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 36,
     "typical_rewards_category": 2,
@@ -1615,19 +1864,26 @@
     "prev_quest_ids": [
       400000351
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000041
   },
   {
     "id": 400000371,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 37",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 37,
     "typical_rewards_category": 2,
@@ -1660,19 +1916,26 @@
     "prev_quest_ids": [
       400000361
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000041
   },
   {
     "id": 400000381,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 38",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 38,
     "typical_rewards_category": 2,
@@ -1705,19 +1968,26 @@
     "prev_quest_ids": [
       400000371
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000041
   },
   {
     "id": 400000391,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 39",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 39,
     "typical_rewards_category": 2,
@@ -1750,19 +2020,26 @@
     "prev_quest_ids": [
       400000381
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000041
   },
   {
     "id": 400000401,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 40",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 40,
     "typical_rewards_category": 2,
@@ -1795,19 +2072,26 @@
     "prev_quest_ids": [
       400000391
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000041
   },
   {
     "id": 400000411,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 41",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 41,
     "typical_rewards_category": 2,
@@ -1840,19 +2124,26 @@
     "prev_quest_ids": [
       400000401
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000051
   },
   {
     "id": 400000421,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 42",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 42,
     "typical_rewards_category": 2,
@@ -1885,19 +2176,26 @@
     "prev_quest_ids": [
       400000411
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000051
   },
   {
     "id": 400000431,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 43",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 43,
     "typical_rewards_category": 2,
@@ -1930,19 +2228,26 @@
     "prev_quest_ids": [
       400000421
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000051
   },
   {
     "id": 400000441,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 44",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 44,
     "typical_rewards_category": 2,
@@ -1975,19 +2280,26 @@
     "prev_quest_ids": [
       400000431
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000051
   },
   {
     "id": 400000451,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 45",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 45,
     "typical_rewards_category": 2,
@@ -2020,19 +2332,26 @@
     "prev_quest_ids": [
       400000441
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000051
   },
   {
     "id": 400000461,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 46",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 46,
     "typical_rewards_category": 2,
@@ -2065,19 +2384,26 @@
     "prev_quest_ids": [
       400000451
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000051
   },
   {
     "id": 400000471,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 47",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 47,
     "typical_rewards_category": 2,
@@ -2110,19 +2436,26 @@
     "prev_quest_ids": [
       400000461
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000051
   },
   {
     "id": 400000481,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 48",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 48,
     "typical_rewards_category": 2,
@@ -2155,19 +2488,26 @@
     "prev_quest_ids": [
       400000471
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000051
   },
   {
     "id": 400000491,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 49",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 49,
     "typical_rewards_category": 2,
@@ -2200,19 +2540,26 @@
     "prev_quest_ids": [
       400000481
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000051
   },
   {
     "id": 400000501,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 50",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 50,
     "typical_rewards_category": 2,
@@ -2245,19 +2592,26 @@
     "prev_quest_ids": [
       400000491
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000051
   },
   {
     "id": 400000511,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 51",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 51,
     "typical_rewards_category": 2,
@@ -2290,19 +2644,26 @@
     "prev_quest_ids": [
       400000501
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000061
   },
   {
     "id": 400000521,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 52",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 52,
     "typical_rewards_category": 2,
@@ -2335,19 +2696,26 @@
     "prev_quest_ids": [
       400000511
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000061
   },
   {
     "id": 400000531,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 53",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 53,
     "typical_rewards_category": 2,
@@ -2380,19 +2748,26 @@
     "prev_quest_ids": [
       400000521
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000061
   },
   {
     "id": 400000541,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 54",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 54,
     "typical_rewards_category": 2,
@@ -2425,19 +2800,26 @@
     "prev_quest_ids": [
       400000531
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000061
   },
   {
     "id": 400000551,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 55",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 55,
     "typical_rewards_category": 2,
@@ -2470,19 +2852,26 @@
     "prev_quest_ids": [
       400000541
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000061
   },
   {
     "id": 400000561,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 56",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 56,
     "typical_rewards_category": 2,
@@ -2515,19 +2904,26 @@
     "prev_quest_ids": [
       400000551
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000061
   },
   {
     "id": 400000571,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 57",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 57,
     "typical_rewards_category": 2,
@@ -2560,19 +2956,26 @@
     "prev_quest_ids": [
       400000561
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000061
   },
   {
     "id": 400000581,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 58",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 58,
     "typical_rewards_category": 2,
@@ -2605,19 +3008,26 @@
     "prev_quest_ids": [
       400000571
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000061
   },
   {
     "id": 400000591,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 59",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 59,
     "typical_rewards_category": 2,
@@ -2650,19 +3060,26 @@
     "prev_quest_ids": [
       400000581
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000061
   },
   {
     "id": 400000601,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 60",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 60,
     "typical_rewards_category": 2,
@@ -2695,19 +3112,26 @@
     "prev_quest_ids": [
       400000591
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000061
   },
   {
     "id": 400000611,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 61",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 61,
     "typical_rewards_category": 2,
@@ -2740,19 +3164,26 @@
     "prev_quest_ids": [
       400000601
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000071
   },
   {
     "id": 400000621,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 62",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 62,
     "typical_rewards_category": 2,
@@ -2785,19 +3216,26 @@
     "prev_quest_ids": [
       400000611
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000071
   },
   {
     "id": 400000631,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 63",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 63,
     "typical_rewards_category": 2,
@@ -2830,19 +3268,26 @@
     "prev_quest_ids": [
       400000621
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000071
   },
   {
     "id": 400000641,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 64",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 64,
     "typical_rewards_category": 2,
@@ -2875,19 +3320,26 @@
     "prev_quest_ids": [
       400000631
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000071
   },
   {
     "id": 400000651,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 65",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 65,
     "typical_rewards_category": 2,
@@ -2920,19 +3372,26 @@
     "prev_quest_ids": [
       400000641
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000071
   },
   {
     "id": 400000661,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 66",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 66,
     "typical_rewards_category": 2,
@@ -2965,19 +3424,26 @@
     "prev_quest_ids": [
       400000651
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000071
   },
   {
     "id": 400000671,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 67",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 67,
     "typical_rewards_category": 2,
@@ -3010,19 +3476,26 @@
     "prev_quest_ids": [
       400000661
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000071
   },
   {
     "id": 400000681,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 68",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 68,
     "typical_rewards_category": 2,
@@ -3055,19 +3528,26 @@
     "prev_quest_ids": [
       400000671
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000071
   },
   {
     "id": 400000691,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 69",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 69,
     "typical_rewards_category": 2,
@@ -3100,19 +3580,26 @@
     "prev_quest_ids": [
       400000681
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000071
   },
   {
     "id": 400000701,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 70",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 70,
     "typical_rewards_category": 2,
@@ -3145,19 +3632,26 @@
     "prev_quest_ids": [
       400000691
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000071
   },
   {
     "id": 400000711,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 71",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 71,
     "typical_rewards_category": 2,
@@ -3190,19 +3684,26 @@
     "prev_quest_ids": [
       400000701
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000081
   },
   {
     "id": 400000721,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 72",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 72,
     "typical_rewards_category": 2,
@@ -3235,19 +3736,26 @@
     "prev_quest_ids": [
       400000711
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000081
   },
   {
     "id": 400000731,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 73",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 73,
     "typical_rewards_category": 2,
@@ -3280,19 +3788,26 @@
     "prev_quest_ids": [
       400000721
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000081
   },
   {
     "id": 400000741,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 74",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 74,
     "typical_rewards_category": 2,
@@ -3325,19 +3840,26 @@
     "prev_quest_ids": [
       400000731
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000081
   },
   {
     "id": 400000751,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 75",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 75,
     "typical_rewards_category": 2,
@@ -3370,19 +3892,26 @@
     "prev_quest_ids": [
       400000741
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000081
   },
   {
     "id": 400000761,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 76",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 76,
     "typical_rewards_category": 2,
@@ -3415,19 +3944,26 @@
     "prev_quest_ids": [
       400000751
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000081
   },
   {
     "id": 400000771,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 77",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 77,
     "typical_rewards_category": 2,
@@ -3460,19 +3996,26 @@
     "prev_quest_ids": [
       400000761
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000081
   },
   {
     "id": 400000781,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 78",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 78,
     "typical_rewards_category": 2,
@@ -3505,19 +4048,26 @@
     "prev_quest_ids": [
       400000771
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000081
   },
   {
     "id": 400000791,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 79",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 79,
     "typical_rewards_category": 2,
@@ -3550,19 +4100,26 @@
     "prev_quest_ids": [
       400000781
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000081
   },
   {
     "id": 400000801,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 80",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 80,
     "typical_rewards_category": 2,
@@ -3595,19 +4152,26 @@
     "prev_quest_ids": [
       400000791
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000081
   },
   {
     "id": 400000811,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 81",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 81,
     "typical_rewards_category": 2,
@@ -3640,19 +4204,26 @@
     "prev_quest_ids": [
       400000801
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000091
   },
   {
     "id": 400000821,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 82",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 82,
     "typical_rewards_category": 2,
@@ -3685,19 +4256,26 @@
     "prev_quest_ids": [
       400000811
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000091
   },
   {
     "id": 400000831,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 83",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 83,
     "typical_rewards_category": 2,
@@ -3730,19 +4308,26 @@
     "prev_quest_ids": [
       400000821
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000091
   },
   {
     "id": 400000841,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 84",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 84,
     "typical_rewards_category": 2,
@@ -3775,19 +4360,26 @@
     "prev_quest_ids": [
       400000831
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000091
   },
   {
     "id": 400000851,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 85",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 85,
     "typical_rewards_category": 2,
@@ -3820,19 +4412,26 @@
     "prev_quest_ids": [
       400000841
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000091
   },
   {
     "id": 400000861,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 86",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 86,
     "typical_rewards_category": 2,
@@ -3865,19 +4464,26 @@
     "prev_quest_ids": [
       400000851
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000091
   },
   {
     "id": 400000871,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 87",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 87,
     "typical_rewards_category": 2,
@@ -3910,19 +4516,26 @@
     "prev_quest_ids": [
       400000861
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000091
   },
   {
     "id": 400000881,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 88",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 88,
     "typical_rewards_category": 2,
@@ -3955,19 +4568,26 @@
     "prev_quest_ids": [
       400000871
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000091
   },
   {
     "id": 400000891,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 89",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 89,
     "typical_rewards_category": 2,
@@ -4000,19 +4620,26 @@
     "prev_quest_ids": [
       400000881
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000091
   },
   {
     "id": 400000901,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 90",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 90,
     "typical_rewards_category": 2,
@@ -4045,19 +4672,26 @@
     "prev_quest_ids": [
       400000891
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000091
   },
   {
     "id": 400000911,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 91",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 91,
     "typical_rewards_category": 2,
@@ -4090,19 +4724,26 @@
     "prev_quest_ids": [
       400000901
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000101
   },
   {
     "id": 400000921,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 92",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 92,
     "typical_rewards_category": 2,
@@ -4135,19 +4776,26 @@
     "prev_quest_ids": [
       400000911
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000101
   },
   {
     "id": 400000931,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 93",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 93,
     "typical_rewards_category": 2,
@@ -4180,19 +4828,26 @@
     "prev_quest_ids": [
       400000921
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000101
   },
   {
     "id": 400000941,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 94",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 94,
     "typical_rewards_category": 2,
@@ -4225,19 +4880,26 @@
     "prev_quest_ids": [
       400000931
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000101
   },
   {
     "id": 400000951,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 95",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 95,
     "typical_rewards_category": 2,
@@ -4270,19 +4932,26 @@
     "prev_quest_ids": [
       400000941
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000101
   },
   {
     "id": 400000961,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 96",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 96,
     "typical_rewards_category": 2,
@@ -4315,19 +4984,26 @@
     "prev_quest_ids": [
       400000951
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000101
   },
   {
     "id": 400000971,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 97",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 97,
     "typical_rewards_category": 2,
@@ -4360,19 +5036,26 @@
     "prev_quest_ids": [
       400000961
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000101
   },
   {
     "id": 400000981,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 98",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 98,
     "typical_rewards_category": 2,
@@ -4405,19 +5088,26 @@
     "prev_quest_ids": [
       400000971
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000101
   },
   {
     "id": 400000991,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 99",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 99,
     "typical_rewards_category": 2,
@@ -4450,19 +5140,26 @@
     "prev_quest_ids": [
       400000981
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000101
   },
   {
     "id": 400001001,
     "quest_type": 1,
     "name": "Spiral Corridor Floor 100",
+    "growth_count": 1,
     "clear_limit": 0,
+    "closing_group": 0,
     "banner": 400004,
+    "list_banner": 0,
     "stamina": 10,
     "quest_ticket_id": 0,
     "quest_ticket_quantity": 0,
     "illust_category": 0,
     "illust_id": 0,
+    "typical_enemy_id": 0,
     "typical_enemy_ids": [],
     "sort_order": 100,
     "typical_rewards_category": 2,
@@ -4495,6 +5192,9 @@
     "prev_quest_ids": [
       400000991
     ],
-    "twitter_button_id": 1
+    "start_at": 0,
+    "end_at": 0,
+    "twitter_button_id": 5,
+    "local_area_id": 400000101
   }
 ]

@@ -158,7 +158,7 @@
     "flavor_text": "Certificate from winning in the Robin Cup. Can be exchanged for items.",
     "icon": 800025,
     "max_quantity": 99999,
-    "expired_at": 0,
+    "expired_at": 1658710799,
     "sort_order": 1053
   },
   {
@@ -918,6 +918,24 @@
     "sort_order": 21082745
   },
   {
+    "id": 800156,
+    "name": "Romancing Festival Medal 42",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800156,
+    "max_quantity": 99999999,
+    "expired_at": 1660265999,
+    "sort_order": 21111845
+  },
+  {
+    "id": 800157,
+    "name": "Romancing Festival Medal 43",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800157,
+    "max_quantity": 99999999,
+    "expired_at": 1661475599,
+    "sort_order": 21112750
+  },
+  {
     "id": 860001,
     "name": "White Crystal",
     "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -1023,7 +1041,7 @@
     "icon": 910001,
     "max_quantity": 99999,
     "expired_at": 0,
-    "sort_order": 2295
+    "sort_order": 49999680
   },
   {
     "id": 910002,
@@ -1032,7 +1050,7 @@
     "icon": 910002,
     "max_quantity": 99999,
     "expired_at": 0,
-    "sort_order": 2300
+    "sort_order": 49999679
   },
   {
     "id": 910003,
@@ -1041,7 +1059,7 @@
     "icon": 910003,
     "max_quantity": 99999,
     "expired_at": 0,
-    "sort_order": 2305
+    "sort_order": 49999678
   },
   {
     "id": 920001,
@@ -3528,6 +3546,240 @@
     "sort_order": 21082730
   },
   {
+    "id": 1100552,
+    "name": "Ancient Metal Chunk",
+    "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100532,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21090500
+  },
+  {
+    "id": 1100553,
+    "name": "Ancient Sword Mold Piece",
+    "flavor_text": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100537,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21090495
+  },
+  {
+    "id": 1100554,
+    "name": "Ancient G. Sword Mold Piece",
+    "flavor_text": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100538,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21090490
+  },
+  {
+    "id": 1100555,
+    "name": "Ancient Axe Mold Piece",
+    "flavor_text": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100539,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21090485
+  },
+  {
+    "id": 1100556,
+    "name": "Ancient Club Mold Piece",
+    "flavor_text": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100540,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21090480
+  },
+  {
+    "id": 1100557,
+    "name": "Ancient M. Arts Mold Piece",
+    "flavor_text": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100541,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21090475
+  },
+  {
+    "id": 1100558,
+    "name": "Ancient Gun Mold Piece",
+    "flavor_text": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100542,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21090470
+  },
+  {
+    "id": 1100559,
+    "name": "Ancient S. Sword Mold Piece",
+    "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100543,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21090465
+  },
+  {
+    "id": 1100560,
+    "name": "Ancient Spear Mold Piece",
+    "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100544,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21090460
+  },
+  {
+    "id": 1100561,
+    "name": "Ancient Bow Mold Piece",
+    "flavor_text": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100545,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21090455
+  },
+  {
+    "id": 1100562,
+    "name": "Ancient Staff Mold Piece",
+    "flavor_text": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100546,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21090450
+  },
+  {
+    "id": 1100580,
+    "name": "New Arc Popcorn",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100215,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 21111820
+  },
+  {
+    "id": 1100581,
+    "name": "New Arc Pennants",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100216,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 21111825
+  },
+  {
+    "id": 1100582,
+    "name": "Black Iron Chunk",
+    "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100582,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21110529
+  },
+  {
+    "id": 1100583,
+    "name": "Black Iron Sword Mold Piece",
+    "flavor_text": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100583,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21110528
+  },
+  {
+    "id": 1100584,
+    "name": "Black Iron G. Sword Mold Piece",
+    "flavor_text": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100584,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21110527
+  },
+  {
+    "id": 1100585,
+    "name": "Black Iron Axe Mold Piece",
+    "flavor_text": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100585,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21110526
+  },
+  {
+    "id": 1100586,
+    "name": "Black Iron Maul Mold Piece",
+    "flavor_text": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100586,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21110525
+  },
+  {
+    "id": 1100587,
+    "name": "Black Iron Claws Mold Piece",
+    "flavor_text": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100587,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21110524
+  },
+  {
+    "id": 1100588,
+    "name": "Black Iron Gun Mold Piece",
+    "flavor_text": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100588,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21110523
+  },
+  {
+    "id": 1100589,
+    "name": "Black Iron S. Sword Mold Piece",
+    "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100589,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21110522
+  },
+  {
+    "id": 1100590,
+    "name": "Black Iron Spear Mold Piece",
+    "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100590,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21110521
+  },
+  {
+    "id": 1100591,
+    "name": "Black Iron Bow Mold Piece",
+    "flavor_text": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100591,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21110520
+  },
+  {
+    "id": 1100592,
+    "name": "Black Iron Staff Mold Piece",
+    "flavor_text": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100592,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 21110519
+  },
+  {
+    "id": 1100595,
+    "name": "Remembrance Point",
+    "flavor_text": "Obtained from Remembrance Battle. Can be exchanged for Remembrance Weapon evolution materials.",
+    "icon": 1100595,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 49999650
+  },
+  {
+    "id": 1100596,
+    "name": "Memory Shards",
+    "flavor_text": "Obtained from Remembrance Battle. Can be exchanged for items.",
+    "icon": 1100596,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 49999645
+  },
+  {
     "id": 1000800004,
     "name": "Romancing Festival Medal: Pumpkin",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -4174,5 +4426,14 @@
     "max_quantity": 99999999,
     "expired_at": 1658624399,
     "sort_order": 3438
+  },
+  {
+    "id": 1001100221,
+    "name": "Liam Arc Grand Opening Medal",
+    "flavor_text": "Can be exchanged for items at the Liam Arc Grand Opening Medal Exchange. (Until [1661475599] <tz>)",
+    "icon": 1001100221,
+    "max_quantity": 99999999,
+    "expired_at": 1661475599,
+    "sort_order": 3439
   }
 ]

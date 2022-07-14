@@ -466,7 +466,7 @@
     "icon": 840116,
     "max_quantity": 99999,
     "value": 30,
-    "sort_order": 21072805,
+    "sort_order": 22081030,
     "expired_at": 1660093199
   },
   {
@@ -476,7 +476,7 @@
     "icon": 840117,
     "max_quantity": 99999,
     "value": 60,
-    "sort_order": 21072810,
+    "sort_order": 22081060,
     "expired_at": 1660093199
   },
   {
@@ -486,8 +486,38 @@
     "icon": 840118,
     "max_quantity": 99999,
     "value": 90,
-    "sort_order": 21072815,
+    "sort_order": 22081090,
     "expired_at": 1660093199
+  },
+  {
+    "id": 840140,
+    "name": "New Arc Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1659661199] <tz>)",
+    "icon": 840107,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 22080530,
+    "expired_at": 1659661199
+  },
+  {
+    "id": 840141,
+    "name": "New Arc Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1659661199] <tz>)",
+    "icon": 840108,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 22080560,
+    "expired_at": 1659661199
+  },
+  {
+    "id": 840142,
+    "name": "New Arc Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1659661199] <tz>)",
+    "icon": 840109,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 22080590,
+    "expired_at": 1659661199
   },
   {
     "id": 1000840001,
@@ -746,7 +776,7 @@
     "icon": 840113,
     "max_quantity": 99999,
     "value": 30,
-    "sort_order": 3485,
+    "sort_order": 22081730,
     "expired_at": 1660697999
   },
   {
@@ -756,7 +786,7 @@
     "icon": 840114,
     "max_quantity": 99999,
     "value": 60,
-    "sort_order": 3486,
+    "sort_order": 22081760,
     "expired_at": 1660697999
   },
   {
@@ -766,7 +796,7 @@
     "icon": 840115,
     "max_quantity": 99999,
     "value": 90,
-    "sort_order": 3487,
+    "sort_order": 22081790,
     "expired_at": 1660697999
   },
   {

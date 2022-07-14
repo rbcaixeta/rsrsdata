@@ -8,7 +8,8 @@
     "reward_quantity": 50,
     "priority": 98,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 6,
@@ -19,29 +20,32 @@
     "reward_quantity": 10,
     "priority": 97,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 7,
     "summary": "Complete the Training Cave",
-    "description": "Complete the Monster-filled Training Cave once (Quests > Daily > Monster-filled Training Cave)",
+    "description": "Complete the Monster-filled Training Cave 1 time (Quests > Daily > Monster-filled Training Cave)",
     "reward_type": 10,
     "reward_id": 821001,
     "reward_quantity": 2,
     "priority": 96,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 8,
     "summary": "Increase an Attribute",
-    "description": "Have a character's attribute go up once",
+    "description": "Have a character's attribute go up 1 time",
     "reward_type": 1,
     "reward_id": 100003,
     "reward_quantity": 2000,
     "priority": 95,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 9,
@@ -52,7 +56,8 @@
     "reward_quantity": 3,
     "priority": 94,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 10,
@@ -63,7 +68,8 @@
     "reward_quantity": 1,
     "priority": 93,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 11,
@@ -74,7 +80,8 @@
     "reward_quantity": 2000,
     "priority": 92,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 12,
@@ -85,7 +92,8 @@
     "reward_quantity": 10,
     "priority": 48,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 13,
@@ -96,7 +104,8 @@
     "reward_quantity": 10,
     "priority": 47,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 16,
@@ -107,7 +116,8 @@
     "reward_quantity": 60,
     "priority": 98,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 17,
@@ -118,18 +128,20 @@
     "reward_quantity": 3,
     "priority": 97,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 18,
     "summary": "Complete the Training Cave",
-    "description": "Complete the Monster-filled Training Cave once (Quests > Daily > Monster-filled Training Cave)",
+    "description": "Complete the Monster-filled Training Cave 1 time (Quests > Daily > Monster-filled Training Cave)",
     "reward_type": 10,
     "reward_id": 821001,
     "reward_quantity": 2,
     "priority": 96,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 20,
@@ -140,7 +152,8 @@
     "reward_quantity": 1,
     "priority": 94,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 21,
@@ -151,7 +164,8 @@
     "reward_quantity": 4000,
     "priority": 93,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 22,
@@ -160,9 +174,10 @@
     "reward_type": 12,
     "reward_id": 840001,
     "reward_quantity": 10,
-    "priority": 49,
+    "priority": 50,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 23,
@@ -171,9 +186,10 @@
     "reward_type": 1,
     "reward_id": 100002,
     "reward_quantity": 30,
-    "priority": 50,
+    "priority": 51,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 26,
@@ -184,7 +200,8 @@
     "reward_quantity": 10,
     "priority": 95,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 27,
@@ -195,7 +212,8 @@
     "reward_quantity": 10,
     "priority": 94,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 28,
@@ -206,7 +224,8 @@
     "reward_quantity": 20,
     "priority": 93,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 29,
@@ -217,18 +236,20 @@
     "reward_quantity": 10,
     "priority": 92,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 30,
     "summary": "Send an Expedition",
-    "description": "Send one Expedition",
+    "description": "Send 1 Expedition",
     "reward_type": 1,
     "reward_id": 100002,
     "reward_quantity": 10,
     "priority": 91,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 100101111,
+    "trigger_player_rank": 8
   },
   {
     "id": 31,
@@ -239,7 +260,8 @@
     "reward_quantity": 10,
     "priority": 90,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 100103121,
+    "trigger_player_rank": 20
   },
   {
     "id": 32,
@@ -250,28 +272,55 @@
     "reward_quantity": 10,
     "priority": 89,
     "ribbon_text": "",
-    "trigger_quest_id": 100103103
+    "trigger_quest_id": 100103103,
+    "trigger_player_rank": 65
   },
   {
     "id": 33,
     "summary": "Complete the Training Cave",
-    "description": "Complete the Monster-filled Training Cave once (Quests > Daily > Monster-filled Training Cave)",
+    "description": "Complete the Monster-filled Training Cave 1 time (Quests > Daily > Monster-filled Training Cave)",
     "reward_type": 10,
     "reward_id": 821001,
     "reward_quantity": 2,
     "priority": 88,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
   },
   {
     "id": 34,
     "summary": "Complete the Treasure Hunt",
-    "description": "Complete the Big Treasure Hunt once (Quests > Daily > Big Treasure Hunt)",
+    "description": "Complete the Big Treasure Hunt 1 time (Sub Quests > Daily > Big Treasure Hunt)",
     "reward_type": 9,
     "reward_id": 820001,
     "reward_quantity": 1,
     "priority": 87,
     "ribbon_text": "",
-    "trigger_quest_id": 0
+    "trigger_quest_id": 100102101,
+    "trigger_player_rank": 13
+  },
+  {
+    "id": 35,
+    "summary": "Login Bonus ③ (Once a Day)",
+    "description": "Log into the game (Once a day)",
+    "reward_type": 10,
+    "reward_id": 821001,
+    "reward_quantity": 2,
+    "priority": 49,
+    "ribbon_text": "",
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
+  },
+  {
+    "id": 36,
+    "summary": "Complete the Training Cave",
+    "description": "Complete the Monster-filled Training Cave 1 time (Sub Quests > Daily > Monster-filled Training Cave)",
+    "reward_type": 11,
+    "reward_id": 830001,
+    "reward_quantity": 30,
+    "priority": 88,
+    "ribbon_text": "",
+    "trigger_quest_id": 100101071,
+    "trigger_player_rank": 6
   }
 ]
