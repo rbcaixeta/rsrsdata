@@ -27935,6 +27935,20 @@
     "sort_order": 0
   },
   {
+    "id": 1702100039,
+    "name": "Consuming Pulse Ⅰ",
+    "flavor_text": "When landing an attack, has a medium chance to:<br>Recover own BP (+1) and recover all surviving allies' BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040904,
+      802040742
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -28397,6 +28411,19 @@
     "sort_order": 0
   },
   {
+    "id": 1702400004,
+    "name": "Recover HP (very small)",
+    "flavor_text": "[End of turn]<br>Recovers own HP (very small effect/3 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040901
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702600001,
     "name": "Insidious Charm",
     "flavor_text": "When landing an attack, inflicts charm on target (medium chance/4 turn(s)).",
@@ -28736,6 +28763,23 @@
     ],
     "ability_when": 6,
     "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600040,
+    "name": "Swift Rose",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, and when own HP is not full, Sleight of Hand will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Sleight of Hand<br>M. Arts skill/Attack/Power: C/Direct/Single Foe (Blunt+Shadow)<br>Attack.<br>When the attack hits, there is a chance to reduce target's DEX (small effect).<br>When the attack hits, recovers own HP (very small effect).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040074,
+      802040905,
+      802040906,
+      802040907,
+      802040908
+    ],
+    "ability_when": 6,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   },

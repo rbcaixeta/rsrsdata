@@ -133133,6 +133133,41 @@
     ]
   },
   {
+    "id": 1110500038,
+    "name": "Fatal Rondo",
+    "rush_prefix": "Fatal",
+    "rush_suffix": "Rondo",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Blunt) <br>Attack.",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1009,
+    "skill_effect": 140500182,
+    "skill_se_cue_sheet_name": "140500182",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
+    ]
+  },
+  {
     "id": 1110600001,
     "name": "Sweet Trap",
     "rush_prefix": "Sweet",
@@ -134660,6 +134695,115 @@
     ]
   },
   {
+    "id": 1110800019,
+    "name": "Paean of Protection",
+    "rush_prefix": "Paean of",
+    "rush_suffix": "Protection",
+    "flavor_text": "Support/Fast/All Allies<br>Grants all surviving allies \"Evasion (1 time)\" (1 turn(s)).<br>Recovers all surviving allies' HP (medium effect).<br><br>Evasion (1 time)<br>Evades enemies' attacks, and nullifies damage (Max times: 1).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 3,
+    "attack_method": 1,
+    "attack_area": 3,
+    "attack_attributes": [
+      3
+    ],
+    "power_grade": "-",
+    "consume_bp": 7,
+    "consume_lp": 2,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040900,
+      1801010046
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4006,
+    "skill_effect": 140800104,
+    "skill_se_cue_sheet_name": "140800104",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30013,
+      30021
+    ]
+  },
+  {
+    "id": 1110800020,
+    "name": "Twin Penetrate",
+    "rush_prefix": "Twin",
+    "rush_suffix": "Penetrate",
+    "flavor_text": "Attack/Far/Direct/Fast/All Foes (Pierce+Lightning) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 5,
+    "attack_attributes": [
+      3,
+      6
+    ],
+    "power_grade": "A",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1019,
+    "skill_effect": 140800105,
+    "skill_se_cue_sheet_name": "140800105",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30027,
+      30035,
+      30043
+    ]
+  },
+  {
+    "id": 1110800021,
+    "name": "Scorching Hell",
+    "rush_prefix": "Scorching",
+    "rush_suffix": "Hell",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Pierce+Heat) <br>Attack.",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      3,
+      4
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1018,
+    "skill_effect": 140800108,
+    "skill_se_cue_sheet_name": "140800108",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
+    ]
+  },
+  {
     "id": 1110900001,
     "name": "Starry Rain",
     "rush_prefix": "Starry",
@@ -135645,6 +135789,81 @@
       30027,
       30035,
       30043
+    ]
+  },
+  {
+    "id": 1125100016,
+    "name": "Burning Sickle",
+    "rush_prefix": "Burning",
+    "rush_suffix": "Sickle",
+    "flavor_text": "Attack/Far/Indirect/Fast/Column of Foes (Heat+Slash) <br>Ranged attack.<br>Air Slash+ is then activated.<br>(Uses spell rank of Burning Sickle).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 7,
+    "attack_attributes": [
+      4,
+      1
+    ],
+    "power_grade": "D",
+    "consume_bp": 7,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040908
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2002,
+    "skill_effect": 145100076,
+    "skill_se_cue_sheet_name": "145100076",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30010,
+      30018
+    ]
+  },
+  {
+    "id": 1125100017,
+    "name": "Flame Barrier",
+    "rush_prefix": "Flame",
+    "rush_suffix": "Barrier",
+    "flavor_text": "Support/Fast/All Allies<br>Grants all surviving allies \"Nullify Damage (Heat)\" (3 turn(s)).<br>Grants all surviving allies \"End of Turn: Recover HP (very small)\" (3 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 3,
+    "attack_attributes": [
+      4
+    ],
+    "power_grade": "-",
+    "consume_bp": 12,
+    "consume_lp": 1,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040052,
+      1801040053
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4002,
+    "skill_effect": 145100070,
+    "skill_se_cue_sheet_name": "145100070",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30030,
+      30038,
+      30046
     ]
   },
   {

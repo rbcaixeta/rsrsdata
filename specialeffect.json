@@ -43199,6 +43199,25 @@
     "state_icon": 2002
   },
   {
+    "id": 1801010046,
+    "state_change_id": 900050054,
+    "name": "Recover HP (medium)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 10,
+    "state_vars": [
+      20
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1801010430,
     "state_change_id": 900010017,
     "name": "WIL Up",
@@ -43921,6 +43940,46 @@
     "direction_id": 1,
     "effect_condition_ids": [],
     "state_icon": 3001
+  },
+  {
+    "id": 1801040052,
+    "state_change_id": 900040062,
+    "name": "Nullify Damage (Heat)",
+    "flavor_text": "Nullifies attacks which have heat damage.",
+    "target_area": 10,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "Flame Barrier",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "145100070",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      23004
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040053,
+    "state_change_id": 900050113,
+    "name": "End of Turn: Recover HP (very small)",
+    "flavor_text": "Recovers own HP at end of turn (very small effect).",
+    "target_area": 10,
+    "state_vars": [
+      1702400004
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3003
   },
   {
     "id": 1801040115,
@@ -45808,6 +45867,29 @@
     "direction_id": 1,
     "effect_condition_ids": [
       10
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040074,
+    "state_change_id": 900050073,
+    "name": "Swift Rose",
+    "flavor_text": "When landing a normal attack, Sleight of Hand will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110500203
+    ],
+    "text_pop": "Swift Rose",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      30,
+      4,
+      35
     ],
     "state_icon": 3001
   },
