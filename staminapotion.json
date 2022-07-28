@@ -490,6 +490,36 @@
     "expired_at": 1660093199
   },
   {
+    "id": 840122,
+    "name": "Sa・Ga Festival Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1662685199] <tz>)",
+    "icon": 840122,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 22090930,
+    "expired_at": 1662685199
+  },
+  {
+    "id": 840123,
+    "name": "Sa・Ga Festival Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1662685199] <tz>)",
+    "icon": 840123,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 22090960,
+    "expired_at": 1662685199
+  },
+  {
+    "id": 840124,
+    "name": "Sa・Ga Festival Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1662685199] <tz>)",
+    "icon": 840124,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 22090990,
+    "expired_at": 1662685199
+  },
+  {
     "id": 840140,
     "name": "New Arc Stamina Potion (Sm.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1659661199] <tz>)",

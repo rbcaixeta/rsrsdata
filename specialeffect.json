@@ -6970,7 +6970,7 @@
     "id": 801040915,
     "state_change_id": 900040062,
     "name": "Cold Defense Boost",
-    "flavor_text": "Nullifies attacks which have cold damage, and reduces damage taken.",
+    "flavor_text": "When hit by an attack which have cold damage, reduces damage taken.",
     "target_area": 3,
     "state_vars": [
       65
@@ -6991,7 +6991,7 @@
     "id": 801040916,
     "state_change_id": 900040062,
     "name": "Shadow Defense Boost",
-    "flavor_text": "Nullifies attacks which have shadow damage, and reduces damage taken.",
+    "flavor_text": "When hit by an attack which have shadow damage, reduces damage taken.",
     "target_area": 3,
     "state_vars": [
       65
@@ -43218,6 +43218,25 @@
     "state_icon": 3001
   },
   {
+    "id": 1801010047,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 10,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1801010430,
     "state_change_id": 900010017,
     "name": "WIL Up",
@@ -43980,6 +43999,27 @@
     "direction_id": 1,
     "effect_condition_ids": [],
     "state_icon": 3003
+  },
+  {
+    "id": 1801040054,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (small)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 10,
+    "state_vars": [
+      85
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "145200088",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
   },
   {
     "id": 1801040115,
@@ -45891,6 +45931,26 @@
       4,
       35
     ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040075,
+    "state_change_id": 900040035,
+    "name": "Seven Swords Counter",
+    "flavor_text": "Counters direct enemy attacks with Seven Swords and decreases damage taken (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      110500189,
+      65
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [],
     "state_icon": 3001
   },
   {

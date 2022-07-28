@@ -5893,7 +5893,7 @@
   {
     "id": 702300756,
     "name": "Numerology (INT/AGI)",
-    "flavor_text": "On even turns counting from the start of battle, increases  AGI (very large effect).",
+    "flavor_text": "On even turns counting from the start of battle, increases AGI (very large effect).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802010818
@@ -5906,7 +5906,7 @@
   {
     "id": 702300758,
     "name": "Numerology (AGI/STR)",
-    "flavor_text": "On even turns counting from the start of battle, increases  STR (very large effect).",
+    "flavor_text": "On even turns counting from the start of battle, increases STR (very large effect).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802010817
@@ -27945,6 +27945,19 @@
     ],
     "ability_when": 6,
     "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100040,
+    "name": "Seven Swords Counter",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with Seven Swords (medium chance).<br><br>Counterattack: Seven Swords<br>M. Arts skill/Attack/Power: D/Direct/Single Foe (Slash)<br>Attacks random enemies (4-7 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040075
+    ],
+    "ability_when": 1,
+    "icon": 4005,
     "rarity": 0,
     "sort_order": 0
   },

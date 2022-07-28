@@ -47475,6 +47475,5889 @@
     "raid_piercemage_reward_group_id": 972010010
   },
   {
+    "id": 972016001,
+    "quest_type": 1,
+    "name": "[First World] Cave of North 2",
+    "sort_order": 2,
+    "field_map_node_id": 10117001,
+    "battle_id": 511021006,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102602,
+      102603,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016002,
+    "quest_type": 1,
+    "name": "[First World] Southern Mountain",
+    "sort_order": 3,
+    "field_map_node_id": 10117002,
+    "battle_id": 511021104,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102602,
+      102603,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016003,
+    "quest_type": 1,
+    "name": "[First World] Ashura's Base",
+    "sort_order": 4,
+    "field_map_node_id": 10117003,
+    "battle_id": 511021007,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102602,
+      102603,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016004,
+    "quest_type": 1,
+    "name": "[First World] Pillar of Sky 1",
+    "sort_order": 5,
+    "field_map_node_id": 10117004,
+    "battle_id": 511021101,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102602,
+      102603,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016005,
+    "quest_type": 1,
+    "name": "[First World] Pillar of Sky 2",
+    "sort_order": 6,
+    "field_map_node_id": 10117005,
+    "battle_id": 511021101,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102602,
+      102603,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016006,
+    "quest_type": 1,
+    "name": "[First World] Pillar of Sky 3",
+    "sort_order": 7,
+    "field_map_node_id": 10117006,
+    "battle_id": 511021101,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102602,
+      102603,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016007,
+    "quest_type": 1,
+    "name": "[Ashura's World] Desert Town",
+    "sort_order": 8,
+    "field_map_node_id": 10117007,
+    "battle_id": 511021102,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102602,
+      102603,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016008,
+    "quest_type": 1,
+    "name": "[Ashura's World] Desert",
+    "sort_order": 9,
+    "field_map_node_id": 10117008,
+    "battle_id": 511021102,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102602,
+      102603,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016009,
+    "quest_type": 1,
+    "name": "[Ashura's World] Ashura's Town",
+    "sort_order": 10,
+    "field_map_node_id": 10117009,
+    "battle_id": 511021102,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102602,
+      102603,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016010,
+    "quest_type": 1,
+    "name": "[Ashura's World] Ashura's Tower",
+    "sort_order": 11,
+    "field_map_node_id": 10117010,
+    "battle_id": 511021008,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102602,
+      102603,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016011,
+    "quest_type": 1,
+    "name": "[Ashura's World] Battle with Ashura",
+    "sort_order": 12,
+    "field_map_node_id": 10117011,
+    "battle_id": 511021001,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [
+      29925801
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102612,
+      102613,
+      102622
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016012,
+    "quest_type": 1,
+    "name": "[Ashura's World] Pillar of Sky",
+    "sort_order": 13,
+    "field_map_node_id": 10117012,
+    "battle_id": 511021201,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016013,
+    "quest_type": 1,
+    "name": "[Giants' World] Giants' Town",
+    "sort_order": 14,
+    "field_map_node_id": 10117013,
+    "battle_id": 511021202,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016014,
+    "quest_type": 1,
+    "name": "[Giants' World] Abandoned Town 1",
+    "sort_order": 15,
+    "field_map_node_id": 10117014,
+    "battle_id": 511021203,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016015,
+    "quest_type": 1,
+    "name": "[Giants' World] Abandoned Town 2",
+    "sort_order": 16,
+    "field_map_node_id": 10117015,
+    "battle_id": 511021151,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016016,
+    "quest_type": 1,
+    "name": "[Giants' World] Pillar of Sky 1",
+    "sort_order": 17,
+    "field_map_node_id": 10117016,
+    "battle_id": 511021202,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016017,
+    "quest_type": 1,
+    "name": "[Giants' World] Pillar of Sky 2",
+    "sort_order": 18,
+    "field_map_node_id": 10117017,
+    "battle_id": 511021202,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016018,
+    "quest_type": 1,
+    "name": "[Apollo's World] Cave of Mountain",
+    "sort_order": 19,
+    "field_map_node_id": 10117018,
+    "battle_id": 511021204,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016019,
+    "quest_type": 1,
+    "name": "[Apollo's World] Apollo's Palace",
+    "sort_order": 20,
+    "field_map_node_id": 10117019,
+    "battle_id": 511021205,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016020,
+    "quest_type": 1,
+    "name": "[Apollo's World] Undersea",
+    "sort_order": 21,
+    "field_map_node_id": 10117020,
+    "battle_id": 511021206,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016021,
+    "quest_type": 1,
+    "name": "[Apollo's World] Cave of Light",
+    "sort_order": 22,
+    "field_map_node_id": 10117021,
+    "battle_id": 511021152,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016022,
+    "quest_type": 1,
+    "name": "[Apollo's World] Pillar of Sky",
+    "sort_order": 23,
+    "field_map_node_id": 10117022,
+    "battle_id": 511021205,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016023,
+    "quest_type": 1,
+    "name": "[Guardian's World] Guardian's Town",
+    "sort_order": 24,
+    "field_map_node_id": 10117023,
+    "battle_id": 511021202,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016024,
+    "quest_type": 1,
+    "name": "[Guardian's World] Pillar of Sky 1",
+    "sort_order": 25,
+    "field_map_node_id": 10117024,
+    "battle_id": 511021202,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016025,
+    "quest_type": 1,
+    "name": "[Guardian's World] Pillar of Sky 2",
+    "sort_order": 26,
+    "field_map_node_id": 10117025,
+    "battle_id": 511021202,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016026,
+    "quest_type": 1,
+    "name": "[Monster's World] Pillar of Sky",
+    "sort_order": 27,
+    "field_map_node_id": 10117026,
+    "battle_id": 511021009,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016027,
+    "quest_type": 1,
+    "name": "[Venus' World] Dirty Village",
+    "sort_order": 28,
+    "field_map_node_id": 10117027,
+    "battle_id": 511021207,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016028,
+    "quest_type": 1,
+    "name": "[Venus' World] Sewer",
+    "sort_order": 29,
+    "field_map_node_id": 10117028,
+    "battle_id": 511021208,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102604,
+      102605,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016029,
+    "quest_type": 1,
+    "name": "[Venus' World] Battle with Venus",
+    "sort_order": 30,
+    "field_map_node_id": 10117029,
+    "battle_id": 511021002,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [
+      29925901
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102614,
+      102615,
+      102622
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016030,
+    "quest_type": 1,
+    "name": "[Venus' World] Pillar of Sky 1",
+    "sort_order": 31,
+    "field_map_node_id": 10117030,
+    "battle_id": 511021301,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016031,
+    "quest_type": 1,
+    "name": "[Venus' World] Pillar of Sky 2",
+    "sort_order": 32,
+    "field_map_node_id": 10117031,
+    "battle_id": 511021301,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016032,
+    "quest_type": 1,
+    "name": "[Venus' World] Pillar of Sky 3",
+    "sort_order": 33,
+    "field_map_node_id": 10117032,
+    "battle_id": 511021301,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016033,
+    "quest_type": 1,
+    "name": "[Race World] Race Course 3",
+    "sort_order": 34,
+    "field_map_node_id": 10117033,
+    "battle_id": 511021302,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016034,
+    "quest_type": 1,
+    "name": "[Race World] Race Course 4",
+    "sort_order": 35,
+    "field_map_node_id": 10117034,
+    "battle_id": 511021302,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016035,
+    "quest_type": 1,
+    "name": "[Race World] Race Course 5",
+    "sort_order": 36,
+    "field_map_node_id": 10117035,
+    "battle_id": 511021303,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016036,
+    "quest_type": 1,
+    "name": "[Race World] Race Course 6",
+    "sort_order": 37,
+    "field_map_node_id": 10117036,
+    "battle_id": 511021303,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016037,
+    "quest_type": 1,
+    "name": "[Race World] Race Course 7",
+    "sort_order": 38,
+    "field_map_node_id": 10117037,
+    "battle_id": 511021251,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016038,
+    "quest_type": 1,
+    "name": "[Race World] Race Course 2",
+    "sort_order": 39,
+    "field_map_node_id": 10117038,
+    "battle_id": 511021302,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016039,
+    "quest_type": 1,
+    "name": "[Race World] Race Course 1",
+    "sort_order": 40,
+    "field_map_node_id": 10117039,
+    "battle_id": 511021302,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016040,
+    "quest_type": 1,
+    "name": "[Race World] Race Circuit",
+    "sort_order": 41,
+    "field_map_node_id": 10117040,
+    "battle_id": 511021304,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016041,
+    "quest_type": 1,
+    "name": "[Race World] Pillar of Sky",
+    "sort_order": 42,
+    "field_map_node_id": 10117041,
+    "battle_id": 511021304,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016042,
+    "quest_type": 1,
+    "name": "[Edo World] Harbor 1",
+    "sort_order": 43,
+    "field_map_node_id": 10117042,
+    "battle_id": 511021305,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016043,
+    "quest_type": 1,
+    "name": "[Edo World] Harbor 2",
+    "sort_order": 44,
+    "field_map_node_id": 10117043,
+    "battle_id": 511021305,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016044,
+    "quest_type": 1,
+    "name": "[Edo World] Harbor 3",
+    "sort_order": 45,
+    "field_map_node_id": 10117044,
+    "battle_id": 511021305,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016045,
+    "quest_type": 1,
+    "name": "[Edo World] Edo Castle 1",
+    "sort_order": 46,
+    "field_map_node_id": 10117045,
+    "battle_id": 511021010,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016046,
+    "quest_type": 1,
+    "name": "[Edo World] Edo Castle 2",
+    "sort_order": 47,
+    "field_map_node_id": 10117046,
+    "battle_id": 511021306,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102606,
+      102607,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016047,
+    "quest_type": 1,
+    "name": "[Edo World] Battle with Magnate",
+    "sort_order": 48,
+    "field_map_node_id": 10117047,
+    "battle_id": 511021003,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [
+      20108001
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102616,
+      102617,
+      102622
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016048,
+    "quest_type": 1,
+    "name": "[Edo World] Pillar of Sky 1",
+    "sort_order": 49,
+    "field_map_node_id": 10117048,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016049,
+    "quest_type": 1,
+    "name": "[Edo World] Pillar of Sky 2",
+    "sort_order": 50,
+    "field_map_node_id": 10117049,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016050,
+    "quest_type": 1,
+    "name": "[Edo World] Pillar of Sky 3",
+    "sort_order": 51,
+    "field_map_node_id": 10117050,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016051,
+    "quest_type": 1,
+    "name": "[Edo World] Pillar of Sky 4",
+    "sort_order": 52,
+    "field_map_node_id": 10117051,
+    "battle_id": 511021351,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016052,
+    "quest_type": 1,
+    "name": "[Valhalla World] Pillar of Sky 2",
+    "sort_order": 53,
+    "field_map_node_id": 10117052,
+    "battle_id": 511021402,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016053,
+    "quest_type": 1,
+    "name": "[Valhalla World] Pillar of Sky 1",
+    "sort_order": 54,
+    "field_map_node_id": 10117053,
+    "battle_id": 511021402,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016054,
+    "quest_type": 1,
+    "name": "[Nasty World] Pillar of Sky 1",
+    "sort_order": 55,
+    "field_map_node_id": 10117054,
+    "battle_id": 511021403,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016055,
+    "quest_type": 1,
+    "name": "[Nasty World] Pillar of Sky 2",
+    "sort_order": 56,
+    "field_map_node_id": 10117055,
+    "battle_id": 511021403,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016056,
+    "quest_type": 1,
+    "name": "[Nasty World] Pillar of Sky 3",
+    "sort_order": 57,
+    "field_map_node_id": 10117056,
+    "battle_id": 511021403,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016057,
+    "quest_type": 1,
+    "name": "[Nasty World] Nasty Dungeon 1",
+    "sort_order": 58,
+    "field_map_node_id": 10117057,
+    "battle_id": 511021404,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016058,
+    "quest_type": 1,
+    "name": "[Nasty World] Nasty Dungeon 2",
+    "sort_order": 59,
+    "field_map_node_id": 10117058,
+    "battle_id": 511021352,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016059,
+    "quest_type": 1,
+    "name": "[Valhalla World] Valhalla Palace 1",
+    "sort_order": 60,
+    "field_map_node_id": 10117059,
+    "battle_id": 511021402,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016060,
+    "quest_type": 1,
+    "name": "[Valhalla World] Valhalla Palace 2",
+    "sort_order": 61,
+    "field_map_node_id": 10117060,
+    "battle_id": 511021402,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016061,
+    "quest_type": 1,
+    "name": "[Valhalla World] Valhalla Palace 3",
+    "sort_order": 62,
+    "field_map_node_id": 10117061,
+    "battle_id": 511021402,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016062,
+    "quest_type": 1,
+    "name": "[Valhalla World] Pillar of Sky 3",
+    "sort_order": 63,
+    "field_map_node_id": 10117062,
+    "battle_id": 511021402,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016063,
+    "quest_type": 1,
+    "name": "[Valhalla World] Pillar of Sky 4",
+    "sort_order": 64,
+    "field_map_node_id": 10117063,
+    "battle_id": 511021402,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016064,
+    "quest_type": 1,
+    "name": "[Valhalla World] Pillar of Sky 5",
+    "sort_order": 65,
+    "field_map_node_id": 10117064,
+    "battle_id": 511021402,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102608,
+      102609,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016065,
+    "quest_type": 1,
+    "name": "[Valhalla World] Battle with Odin",
+    "sort_order": 66,
+    "field_map_node_id": 10117065,
+    "battle_id": 511021004,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [
+      29926001,
+      20305601,
+      20406901,
+      20406901
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102616,
+      102617,
+      102622
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016066,
+    "quest_type": 1,
+    "name": "[Final World] Final Town",
+    "sort_order": 67,
+    "field_map_node_id": 10117066,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016067,
+    "quest_type": 1,
+    "name": "[Final World] Final Dungeon",
+    "sort_order": 68,
+    "field_map_node_id": 10117067,
+    "battle_id": 511021011,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016068,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 1",
+    "sort_order": 69,
+    "field_map_node_id": 10117068,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016069,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 2",
+    "sort_order": 70,
+    "field_map_node_id": 10117069,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016070,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 3",
+    "sort_order": 71,
+    "field_map_node_id": 10117070,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016071,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 4",
+    "sort_order": 72,
+    "field_map_node_id": 10117071,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016072,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 5",
+    "sort_order": 73,
+    "field_map_node_id": 10117072,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016073,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 6",
+    "sort_order": 74,
+    "field_map_node_id": 10117073,
+    "battle_id": 511021351,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016074,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 7",
+    "sort_order": 75,
+    "field_map_node_id": 10117074,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016075,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 8",
+    "sort_order": 76,
+    "field_map_node_id": 10117075,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016076,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 9",
+    "sort_order": 77,
+    "field_map_node_id": 10117076,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016077,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 10",
+    "sort_order": 78,
+    "field_map_node_id": 10117077,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016078,
+    "quest_type": 1,
+    "name": "[Final World] Battle with Minion 1",
+    "sort_order": 79,
+    "field_map_node_id": 10117078,
+    "battle_id": 511021012,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102618,
+      102619,
+      102622
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016079,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 11",
+    "sort_order": 80,
+    "field_map_node_id": 10117079,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016080,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 12",
+    "sort_order": 81,
+    "field_map_node_id": 10117080,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016081,
+    "quest_type": 1,
+    "name": "[Final World] Battle with Minion 2",
+    "sort_order": 82,
+    "field_map_node_id": 10117081,
+    "battle_id": 511021012,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102618,
+      102619,
+      102622
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016082,
+    "quest_type": 1,
+    "name": "[Final World] Pillar of Sky 13",
+    "sort_order": 83,
+    "field_map_node_id": 10117082,
+    "battle_id": 511021401,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102610,
+      102611,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830013,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972016083,
+    "quest_type": 1,
+    "name": "[Celestial World] Battle with Apollo",
+    "sort_order": 84,
+    "field_map_node_id": 10117083,
+    "battle_id": 511021005,
+    "max_turn": 5,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 0,
+    "quest_ticket_id": 821125,
+    "quest_ticket_quantity": 30,
+    "growth_count": 1,
+    "typical_enemy_ids": [
+      29914201
+    ],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      102826,
+      102827,
+      102828
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 972010011
+  },
+  {
+    "id": 972016084,
+    "quest_type": 1,
+    "name": "[First World] Cave of North 1",
+    "sort_order": 1,
+    "field_map_node_id": 10117000,
+    "battle_id": 511021103,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100534
+      },
+      {
+        "type": 7,
+        "id": 1100535
+      },
+      {
+        "type": 10,
+        "id": 821125
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      102602,
+      102603,
+      102621
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840122,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 17,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
     "id": 990041010,
     "quest_type": 2,
     "name": "To the Decisive Battle",
