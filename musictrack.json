@@ -271,7 +271,7 @@
     "price": 1,
     "is_free": 0,
     "sound_id": 120080,
-    "composer": "Kenji Ito",
+    "composer": "Nobuo Uematsu",
     "sort_order": 160,
     "start_at": 1654218000
   },
@@ -3408,6 +3408,30 @@
     "start_at": 1630060200
   },
   {
+    "id": 10180030,
+    "music_album_id": 18,
+    "name": "Deep",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 130375,
+    "composer": "Chihiro Fujioka",
+    "sort_order": 30,
+    "start_at": 1659747600
+  },
+  {
+    "id": 10180040,
+    "music_album_id": 18,
+    "name": "Oasis",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 130376,
+    "composer": "Ryuji Sasai",
+    "sort_order": 40,
+    "start_at": 1659747600
+  },
+  {
     "id": 10180050,
     "music_album_id": 18,
     "name": "Battle!",
@@ -3466,6 +3490,18 @@
     "composer": "Ryuji Sasai",
     "sort_order": 110,
     "start_at": 1630060200
+  },
+  {
+    "id": 10180120,
+    "music_album_id": 18,
+    "name": "Exotic Town",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 130377,
+    "composer": "Ryuji Sasai",
+    "sort_order": 120,
+    "start_at": 1659747600
   },
   {
     "id": 10180140,

@@ -927,6 +927,15 @@
     "sort_order": 21091030
   },
   {
+    "id": 800149,
+    "name": "Romancing Festival Medal 47",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800149,
+    "max_quantity": 99999999,
+    "expired_at": 1662166799,
+    "sort_order": 21092140
+  },
+  {
     "id": 800150,
     "name": "Romancing Festival Medal 44",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -3735,6 +3744,24 @@
     "sort_order": 21100217
   },
   {
+    "id": 1100568,
+    "name": "Cold Metal",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100557,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 21092105
+  },
+  {
+    "id": 1100569,
+    "name": "Luminous Rock",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100558,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 21092110
+  },
+  {
     "id": 1100580,
     "name": "New Arc Popcorn",
     "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -4534,5 +4561,14 @@
     "max_quantity": 99999999,
     "expired_at": 1661475599,
     "sort_order": 3439
+  },
+  {
+    "id": 1001100222,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1661821199] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1661821199,
+    "sort_order": 3438
   }
 ]

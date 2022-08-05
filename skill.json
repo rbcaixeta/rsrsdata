@@ -130097,6 +130097,41 @@
     ]
   },
   {
+    "id": 1110100038,
+    "name": "Infinite Trajectory",
+    "rush_prefix": "Infinite",
+    "rush_suffix": "Trajectory",
+    "flavor_text": "Attack/Far/Indirect/Fast/All Foes (Slash) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 1,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "A",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1002,
+    "skill_effect": 140100139,
+    "skill_se_cue_sheet_name": "140100139",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30032,
+      30040,
+      30048
+    ]
+  },
+  {
     "id": 1110200002,
     "name": "Moon Flash",
     "rush_prefix": "Moon",
@@ -131796,6 +131831,81 @@
       30028,
       30036,
       30044
+    ]
+  },
+  {
+    "id": 1110400008,
+    "name": "Infinite Hell",
+    "rush_prefix": "Infinite",
+    "rush_suffix": "Hell",
+    "flavor_text": "Attack/Near/Indirect/Single Foe (Blunt) <br>Attacks random enemies (3-5 time(s)) [Critical: Bone].<br>When the attack hits, inflicts paralysis on target (low chance/4 turn(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 4,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 9,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "E",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [
+      84
+    ],
+    "additional_effect_ids": [
+      801030376
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1008,
+    "skill_effect": 140400069,
+    "skill_se_cue_sheet_name": "140400069",
+    "min_action_time": 3,
+    "max_action_time": 5,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
+    ]
+  },
+  {
+    "id": 1110400009,
+    "name": "Earth Buster",
+    "rush_prefix": "Earth",
+    "rush_suffix": "Buster",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Blunt+Heat) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 4,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2,
+      4
+    ],
+    "power_grade": "S",
+    "consume_bp": 16,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1008,
+    "skill_effect": 140400070,
+    "skill_se_cue_sheet_name": "140400070",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
     ]
   },
   {

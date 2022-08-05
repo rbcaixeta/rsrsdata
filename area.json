@@ -14432,6 +14432,54 @@
     "open_pierceys_of_week": []
   },
   {
+    "id": 1401,
+    "name": "Take Off! Talon!",
+    "sort_order": 2205,
+    "quest_category": 2,
+    "quest_sub_category_id": 20,
+    "list_banner": 1000901058,
+    "screen_in_help_id": 507,
+    "after_effect": 0,
+    "chapter_id": 0,
+    "symbol_id": 1271,
+    "after_symbol_id": 0,
+    "event_point_id": 1100568,
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 1100568
+      }
+    ],
+    "shop_id": 4900353,
+    "event_mission_tab_id": 225,
+    "daily_clear_limit": 0,
+    "overflow_limit": 0,
+    "overflow_jewel": 0,
+    "quest_key_id": 0,
+    "quest_key_quantity": 0,
+    "daily_rewards": [],
+    "fixed_status_id": 0,
+    "rule_summary": "",
+    "rule_screen_in_help_id": 0,
+    "lock_text": "",
+    "closed_text": "",
+    "start_at": 1659747600,
+    "end_at": 1660957199,
+    "sub_text": "",
+    "quest_key_open_seconds": 0,
+    "bgm": 0,
+    "appears_on_open": 1,
+    "field_map_icon_id": 0,
+    "event_box_gacha_id": 0,
+    "reset_returned_floor_number": 0,
+    "enabled_sns_share": 0,
+    "event_ability_potion_target": 1,
+    "auto_rematch_enabled": 1,
+    "part_id": 0,
+    "last_previous_synopsis_id": 0,
+    "open_pierceys_of_week": []
+  },
+  {
     "id": 1402,
     "name": "Abyssal Fierce Battle: Alloces",
     "sort_order": 3021,
@@ -16452,7 +16500,7 @@
   {
     "id": 1000001019,
     "name": "The Seekers' Path",
-    "sort_order": 2197,
+    "sort_order": 2206,
     "quest_category": 2,
     "quest_sub_category_id": 20,
     "list_banner": 930024,
@@ -16461,14 +16509,14 @@
     "chapter_id": 0,
     "symbol_id": 1075,
     "after_symbol_id": 0,
-    "event_point_id": 1001100220,
+    "event_point_id": 1001100222,
     "currency_items": [
       {
         "currency": 4,
-        "id": 1001100220
+        "id": 1001100222
       }
     ],
-    "shop_id": 1004900081,
+    "shop_id": 1004900084,
     "event_mission_tab_id": 0,
     "daily_clear_limit": 0,
     "overflow_limit": 0,
@@ -16481,8 +16529,8 @@
     "rule_screen_in_help_id": 0,
     "lock_text": "",
     "closed_text": "",
-    "start_at": 1656810000,
-    "end_at": 1657414799,
+    "start_at": 1660006800,
+    "end_at": 1660611599,
     "sub_text": "",
     "quest_key_open_seconds": 0,
     "bgm": 0,

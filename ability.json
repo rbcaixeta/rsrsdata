@@ -28384,6 +28384,20 @@
     "sort_order": 0
   },
   {
+    "id": 1702300024,
+    "name": "Energizing Breath Ⅰ (STR)",
+    "flavor_text": "[Start of turn]<br>Increases own STR (medium effect).<br>Also recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040812,
+      802010858
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702400001,
     "name": "Leader's Missions",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and recovers own BP (+1). ",
