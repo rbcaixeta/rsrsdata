@@ -39618,7 +39618,7 @@
     "name": "Water Festival",
     "rush_prefix": "Water",
     "rush_suffix": "Festival",
-    "flavor_text": "Support/All Allies<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).<br>Puts all surviving allies into a defense boost stance (small effect/3 turn(s)).",
+    "flavor_text": "Support/All Allies<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).<br>Puts all surviving allies into a defense boost stance (small effect/4 turn(s)).",
     "attack_distance": 2,
     "skill_type": 2,
     "battle_type": 52,
@@ -133278,6 +133278,44 @@
     ]
   },
   {
+    "id": 1110500039,
+    "name": "Wrecking Glass",
+    "rush_prefix": "Wrecking",
+    "rush_suffix": "Glass",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Blunt+Slash) <br>Attack.<br>Increases the user's AGI (small effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      2,
+      1
+    ],
+    "power_grade": "SSS",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010228
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1009,
+    "skill_effect": 140500188,
+    "skill_se_cue_sheet_name": "140500188",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30030,
+      30038,
+      30046
+    ]
+  },
+  {
     "id": 1110600001,
     "name": "Sweet Trap",
     "rush_prefix": "Sweet",
@@ -133883,6 +133921,43 @@
       30027,
       30035,
       30043
+    ]
+  },
+  {
+    "id": 1110600018,
+    "name": "Laser Blaster",
+    "rush_prefix": "Laser",
+    "rush_suffix": "Blaster",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Blunt+Heat) <br>All range attack.<br>When the attack hits, inflicts paralysis on target (low chance/4 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 6,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2,
+      4
+    ],
+    "power_grade": "D",
+    "consume_bp": 7,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030376
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1012,
+    "skill_effect": 140600073,
+    "skill_se_cue_sheet_name": "140600073",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30010,
+      30018
     ]
   },
   {
@@ -136194,7 +136269,7 @@
     "name": "Water Festival",
     "rush_prefix": "Water",
     "rush_suffix": "Festival",
-    "flavor_text": "Support/All Allies<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).<br>Puts all surviving allies into a defense boost stance (small effect/3 turn(s)).<br>Recovers all surviving allies' BP (+1).",
+    "flavor_text": "Support/All Allies<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).<br>Puts all surviving allies into a defense boost stance (small effect/4 turn(s)).<br>Recovers all surviving allies' BP (+1).",
     "attack_distance": 2,
     "skill_type": 2,
     "battle_type": 52,
@@ -136535,7 +136610,7 @@
     "name": "Dragon's Blessing",
     "rush_prefix": "Dragon's",
     "rush_suffix": "Blessing",
-    "flavor_text": "Support/Fast/All Allies<br>Puts all surviving allies into a defense boost stance (small effect/3 turn(s)).<br>Recovers all surviving allies' HP (very small effect).<br>Recovers all surviving allies' BP (+1).",
+    "flavor_text": "Support/Fast/All Allies<br>Puts all surviving allies into a defense boost stance (small effect/4 turn(s)).<br>Recovers all surviving allies' HP (very small effect).<br>Recovers all surviving allies' BP (+1).",
     "attack_distance": 2,
     "skill_type": 2,
     "battle_type": 52,
@@ -146507,6 +146582,40 @@
     "awakening_material_set_ids": []
   },
   {
+    "id": 1905000001,
+    "name": "Give Me the MAGI",
+    "rush_prefix": "Give Me the MAGI",
+    "rush_suffix": "Give Me the MAGI",
+    "flavor_text": "Support/Fast<br>Deals damage to all enemies (80% of their Max HP).<br>*Damage can't be reduced by effects that reduce damage taken.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      6
+    ],
+    "power_grade": "-",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1809010004,
+      808040061
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500085,
+    "skill_se_cue_sheet_name": "140500085",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 0,
+    "awakening_material_set_ids": []
+  },
+  {
     "id": 1905240001,
     "name": "Reverse Trick",
     "rush_prefix": "Reverse Trick",
@@ -146532,6 +146641,40 @@
     "skill_icon": 4010,
     "skill_effect": 149900080,
     "skill_se_cue_sheet_name": "145100003",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 0,
+    "awakening_material_set_ids": []
+  },
+  {
+    "id": 1951000001,
+    "name": "Meteor Swarm",
+    "rush_prefix": "Meteor Swarm",
+    "rush_suffix": "Meteor Swarm",
+    "flavor_text": "Attack/Indirect/Delay/(Heat+Blunt)<br>Attack.<br>When the attack hits, inflicts paralysis on target (very low chance/4 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      4,
+      2
+    ],
+    "power_grade": "C",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      809030237
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2002,
+    "skill_effect": 149900097,
+    "skill_se_cue_sheet_name": "149900097",
     "min_action_time": 1,
     "max_action_time": 1,
     "is_consumed_when_over_kill": 1,
@@ -146668,6 +146811,40 @@
     "min_action_time": 1,
     "max_action_time": 1,
     "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 0,
+    "awakening_material_set_ids": []
+  },
+  {
+    "id": 1956000020,
+    "name": "Plot",
+    "rush_prefix": "Plot",
+    "rush_suffix": "Plot",
+    "flavor_text": "Support<br>Reduces all surviving enemies' LOV/CHA (super extreme effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 56,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      8
+    ],
+    "power_grade": "-",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1809010006,
+      1809010005
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4003,
+    "skill_effect": 149900079,
+    "skill_se_cue_sheet_name": "149900079",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
     "is_popup_text": 1,
     "max_awakening_count": 0,
     "awakening_material_set_ids": []

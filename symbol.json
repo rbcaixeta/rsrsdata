@@ -3211,6 +3211,19 @@
     "in_group_priority": 100
   },
   {
+    "id": 1276,
+    "name": "A Random Plain",
+    "flavor_text": "A very ordinary plain.",
+    "map_id": 1,
+    "x": -7,
+    "y": 10,
+    "illust_category": 1,
+    "illust": 1018,
+    "priority": 1,
+    "group_id": 2710,
+    "in_group_priority": 105
+  },
+  {
     "id": 1283,
     "name": "Vanguard",
     "flavor_text": "The city seems to be in a celebratory mood. It's bustling with people.",
@@ -3364,6 +3377,19 @@
     "illust": 1008,
     "priority": 10,
     "group_id": 2710,
+    "in_group_priority": 98
+  },
+  {
+    "id": 1000000010,
+    "name": "Apollo",
+    "flavor_text": "When all the MAGI have been gathered, the power of the old gods will return. Behold! Now is the time for the birth of a real god, Apollo!",
+    "map_id": 1,
+    "x": -11,
+    "y": -10,
+    "illust_category": 2,
+    "illust": 1991421,
+    "priority": 1,
+    "group_id": 2595,
     "in_group_priority": 98
   }
 ]
