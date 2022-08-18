@@ -131581,6 +131581,155 @@
     ]
   },
   {
+    "id": 1110300017,
+    "name": "Dimensional Break",
+    "rush_prefix": "Dimensional",
+    "rush_suffix": "Break",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Slash) <br>All range attack.<br>When the attack hits, inflicts unconsciousness on target (low chance).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 3,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "B",
+    "consume_bp": 10,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030382
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1006,
+    "skill_effect": 140300076,
+    "skill_se_cue_sheet_name": "140300076",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
+    ]
+  },
+  {
+    "id": 1110300018,
+    "name": "Deadly Spin",
+    "rush_prefix": "Deadly",
+    "rush_suffix": "Spin",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Slash+Blunt) <br>Attack.",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 3,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      1,
+      2
+    ],
+    "power_grade": "SSSS",
+    "consume_bp": 15,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1005,
+    "skill_effect": 140300077,
+    "skill_se_cue_sheet_name": "140300077",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
+    ]
+  },
+  {
+    "id": 1110300019,
+    "name": "Axe Wave",
+    "rush_prefix": "Axe",
+    "rush_suffix": "Wave",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Slash+Cold) <br>Attack.<br>When the attack hits, inflicts paralysis on target (low chance/4 turn(s)).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 3,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      1,
+      5
+    ],
+    "power_grade": "S",
+    "consume_bp": 9,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030376
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1005,
+    "skill_effect": 140300078,
+    "skill_se_cue_sheet_name": "140300078",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30009,
+      30017
+    ]
+  },
+  {
+    "id": 1110300020,
+    "name": "Pirate Salvo+",
+    "rush_prefix": "Pirate",
+    "rush_suffix": "Salvo",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Slash+Cold) <br>All range attack <change>[Critical: Fish, Aquatic].</change>",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 3,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1,
+      5
+    ],
+    "power_grade": "A",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [
+      9,
+      8
+    ],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1106,
+    "skill_effect": 140300044,
+    "skill_se_cue_sheet_name": "140300044",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
     "id": 1110400001,
     "name": "Dual Hammer",
     "rush_prefix": "Dual",
@@ -134321,7 +134470,7 @@
     "name": "Flamenco Muse",
     "rush_prefix": "Flamenco",
     "rush_suffix": "Muse",
-    "flavor_text": "Support/Fast/All Allies<br>Grants all surviving allies Morale Up (very large) (2 turn(s)).",
+    "flavor_text": "Support/Fast/All Allies<br>Grants all surviving allies Morale Up (extreme) (2 turn(s)).",
     "attack_distance": 2,
     "skill_type": 1,
     "battle_type": 8,
@@ -135539,6 +135688,81 @@
     "awakening_material_set_ids": []
   },
   {
+    "id": 1110900013,
+    "name": "Arrow of Purity",
+    "rush_prefix": "Arrow of",
+    "rush_suffix": "Purity",
+    "flavor_text": "Support/All Allies<br>Cures all surviving allies from all status ailments.<br>Increases all surviving allies' WIL (large effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 9,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 3,
+    "attack_attributes": [
+      3
+    ],
+    "power_grade": "-",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040370,
+      801010929
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4001,
+    "skill_effect": 140900063,
+    "skill_se_cue_sheet_name": "140900063",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30016,
+      30024
+    ]
+  },
+  {
+    "id": 1110900014,
+    "name": "Star Glitter",
+    "rush_prefix": "Star",
+    "rush_suffix": "Glitter",
+    "flavor_text": "Attack/Far/Indirect/Fast/Single Foe (Pierce) <br>Attack.<br>Removes STR/END/DEX/AGI/INT/WIL/LOV/CHA debuffs for all surviving allies.<br>Grants all surviving allies Guard Up (medium) (2 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 9,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      3
+    ],
+    "power_grade": "SS",
+    "consume_bp": 12,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040063,
+      801040927
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1016,
+    "skill_effect": 140900064,
+    "skill_se_cue_sheet_name": "140900064",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30032,
+      30040,
+      30048
+    ]
+  },
+  {
     "id": 1125100001,
     "name": "Scattered Explosions",
     "rush_prefix": "Scattered",
@@ -136645,6 +136869,45 @@
     ]
   },
   {
+    "id": 1125200014,
+    "name": "Shade Blitz",
+    "rush_prefix": "Shade",
+    "rush_suffix": "Blitz",
+    "flavor_text": "Attack/Far/Indirect/Fast/All Foes (Lightning+Shadow) <br>All range attack.<br>When the attack hits, there is a chance to reduce target's WIL (medium effect).<br>Reduces all other surviving allies' WIL (medium effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 52,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      6,
+      8
+    ],
+    "power_grade": "A",
+    "consume_bp": 14,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010263,
+      801010940
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2004,
+    "skill_effect": 145200098,
+    "skill_se_cue_sheet_name": "145200098",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30030,
+      30038,
+      30046
+    ]
+  },
+  {
     "id": 1125300001,
     "name": "Rock Stings",
     "rush_prefix": "Rock",
@@ -136935,6 +137198,83 @@
       30030,
       30038,
       30046
+    ]
+  },
+  {
+    "id": 1125400006,
+    "name": "Windfall",
+    "rush_prefix": "Wind",
+    "rush_suffix": "Fall",
+    "flavor_text": "Attack/Far/Indirect/Delay/Single Foe (Slash+Blunt) <br>Attack.<br>Recovers the user's HP (very small effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 54,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      1,
+      2
+    ],
+    "power_grade": "D",
+    "consume_bp": 1,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010514
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2007,
+    "skill_effect": 145400048,
+    "skill_se_cue_sheet_name": "145400048",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30005
+    ]
+  },
+  {
+    "id": 1125400007,
+    "name": "Trinity Summon",
+    "rush_prefix": "Trinity",
+    "rush_suffix": "Summon",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Slash+Shadow) <br>All range attack.<br>Grants the user Morale Up (extreme) (3 turn(s)).<br>When the attack hits, there is a chance to reduce target's AGI (small effect).<br>When the attack hits, there is a chance to reduce target's DEX (small effect).<br>When the attack hits, there is a chance to reduce target's INT (small effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 54,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      1,
+      8
+    ],
+    "power_grade": "B",
+    "consume_bp": 12,
+    "consume_lp": 1,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040976,
+      801010253,
+      801010252,
+      801010254
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2008,
+    "skill_effect": 145400049,
+    "skill_se_cue_sheet_name": "145400049",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
     ]
   },
   {

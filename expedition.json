@@ -271,5 +271,26 @@
     "sort_order": 87,
     "open_at": 1660266000,
     "close_at": 1661302799
+  },
+  {
+    "id": 6700015,
+    "name": "Mount Louv",
+    "required_quest_id": 100208203,
+    "required_player_rank": 145,
+    "required_hours": 21,
+    "difficulty": 4,
+    "growth_difficulty": 103,
+    "recommended_status": 105,
+    "jewel_cost": 0,
+    "ticket_cost": 58,
+    "drop_group_ids": [
+      880000028,
+      880000029
+    ],
+    "flavor_text": "Recommended for characters with up to 1,150 HP and up to 105 in all attributes",
+    "background_id": 700000009,
+    "sort_order": 86,
+    "open_at": 1660870800,
+    "close_at": 0
   }
 ]
