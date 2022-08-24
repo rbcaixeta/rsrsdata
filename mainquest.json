@@ -70144,5 +70144,2140 @@
     "is_required_for_area_clear": 0,
     "twitter_button_id": 0,
     "max_grind_count": 0
+  },
+  {
+    "id": 120102011,
+    "quest_type": 2,
+    "name": "2-1-1. Red-Headed Girl",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210201,
+    "number_of_story_banner": 2,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 14,
+        "id": 711701,
+        "quantity": 1
+      },
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 0,
+    "scenario_id": 10302001,
+    "prev_quest_ids": [
+      120101171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102012,
+    "quest_type": 1,
+    "name": "2-1-1. Beware of Beasts I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 2,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1040131,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001097,
+      870001092,
+      870001095,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102171,
+      120101102
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102013,
+    "quest_type": 1,
+    "name": "2-1-1. Beware of Beasts I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 2,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040131,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001103,
+      870001098,
+      870001101,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102102,
+      120101103
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102021,
+    "quest_type": 1,
+    "name": "2-1-2. Beware of Beasts I",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 2,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1040131,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001091,
+      870001086,
+      870001089,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102011
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102022,
+    "quest_type": 1,
+    "name": "2-1-2. Beware of Beasts II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 2,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1030271,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001097,
+      870001095,
+      870001094,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102012
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102023,
+    "quest_type": 1,
+    "name": "2-1-2. Beware of Beasts II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 2,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1030271,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001103,
+      870001101,
+      870001100,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102013
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102031,
+    "quest_type": 1,
+    "name": "2-1-3. Beware of Beasts II",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 2,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1030271,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001091,
+      870001089,
+      870001088,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102021
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102032,
+    "quest_type": 1,
+    "name": "2-1-3. Where's the Hero? I",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000069,
+    "number_of_story_banner": 2,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1170061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001097,
+      870001094,
+      870001096,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102022
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102033,
+    "quest_type": 1,
+    "name": "2-1-3. Where's the Hero? I",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000069,
+    "number_of_story_banner": 2,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1170061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001103,
+      870001100,
+      870001102,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102023
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102041,
+    "quest_type": 2,
+    "name": "2-1-4. Two Heroes",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210201,
+    "number_of_story_banner": 2,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 0,
+    "scenario_id": 10302010,
+    "prev_quest_ids": [
+      120102031
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102042,
+    "quest_type": 1,
+    "name": "2-1-4. Where's the Hero? II",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000069,
+    "number_of_story_banner": 2,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1120221,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001097,
+      870001096,
+      870001093,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102032
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102043,
+    "quest_type": 1,
+    "name": "2-1-4. Where's the Hero? II",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000069,
+    "number_of_story_banner": 2,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1120221,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001103,
+      870001102,
+      870001099,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102033
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102051,
+    "quest_type": 1,
+    "name": "2-1-5. Where's the Hero? I",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000069,
+    "number_of_story_banner": 2,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1170061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001091,
+      870001088,
+      870001090,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102041
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102052,
+    "quest_type": 1,
+    "name": "2-1-5. Not Lost I",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 2,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1150311,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001097,
+      870001093,
+      870001092,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102042
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102053,
+    "quest_type": 1,
+    "name": "2-1-5. Not Lost I",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 2,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1150311,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001103,
+      870001099,
+      870001098,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102043
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102061,
+    "quest_type": 1,
+    "name": "2-1-6. Where's the Hero? II",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000069,
+    "number_of_story_banner": 2,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1120221,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001091,
+      870001090,
+      870001087,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102051
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102062,
+    "quest_type": 1,
+    "name": "2-2-1. Not Lost II",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 2,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1060241,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001097,
+      870001092,
+      870001095,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102052
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102063,
+    "quest_type": 1,
+    "name": "2-2-1. Not Lost II",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 2,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060241,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001103,
+      870001098,
+      870001101,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102053
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102071,
+    "quest_type": 2,
+    "name": "2-1-7. What We Seek",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210201,
+    "number_of_story_banner": 2,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 0,
+    "scenario_id": 10302020,
+    "prev_quest_ids": [
+      120102061
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102072,
+    "quest_type": 1,
+    "name": "2-2-2. After Red I",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000133,
+    "number_of_story_banner": 2,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1190381,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001097,
+      870001095,
+      870001094,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102062
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102073,
+    "quest_type": 1,
+    "name": "2-2-2. After Red I",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000133,
+    "number_of_story_banner": 2,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1190381,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001103,
+      870001101,
+      870001100,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102063
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102081,
+    "quest_type": 2,
+    "name": "2-1-8. Black X",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210201,
+    "number_of_story_banner": 2,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 0,
+    "scenario_id": 10302030,
+    "prev_quest_ids": [
+      120102071
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102082,
+    "quest_type": 1,
+    "name": "2-2-3. After Red II",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000133,
+    "number_of_story_banner": 2,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1030341,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001097,
+      870001094,
+      870001096,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102072
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102083,
+    "quest_type": 1,
+    "name": "2-2-3. After Red II",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000133,
+    "number_of_story_banner": 2,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1030341,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001103,
+      870001100,
+      870001102,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102073
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102091,
+    "quest_type": 1,
+    "name": "2-1-9. Not Lost I",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 2,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1150311,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001091,
+      870001087,
+      870001086,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 165,
+    "battle_id": 100302051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102081
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102092,
+    "quest_type": 1,
+    "name": "2-2-4. We Are Black X Fighters",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000068,
+    "number_of_story_banner": 2,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1010601,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001097,
+      870001096,
+      870001093,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102082
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102093,
+    "quest_type": 1,
+    "name": "2-2-4. We Are Black X Fighters",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000068,
+    "number_of_story_banner": 2,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010601,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001103,
+      870001102,
+      870001099,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102083
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102101,
+    "quest_type": 1,
+    "name": "2-2-1. Not Lost II",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000004,
+    "number_of_story_banner": 2,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1060241,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001091,
+      870001086,
+      870001089,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102102,
+    "quest_type": 1,
+    "name": "2-2-5. I Am M Black",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000068,
+    "number_of_story_banner": 2,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1990981,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001097,
+      870001093,
+      870001092,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102092
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102103,
+    "quest_type": 1,
+    "name": "2-2-5. I Am M Black",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000068,
+    "number_of_story_banner": 2,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1990981,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001103,
+      870001099,
+      870001098,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102093
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102111,
+    "quest_type": 2,
+    "name": "2-2-2. Masked Tournament",
+    "sort_order": 11,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210201,
+    "number_of_story_banner": 2,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 0,
+    "scenario_id": 10302040,
+    "prev_quest_ids": [
+      120102101
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102121,
+    "quest_type": 1,
+    "name": "2-2-3. After Red I",
+    "sort_order": 12,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000133,
+    "number_of_story_banner": 2,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1190381,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100625
+      },
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001091,
+      870001089,
+      870001088,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102111
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102131,
+    "quest_type": 1,
+    "name": "2-2-4. After Red II",
+    "sort_order": 13,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000133,
+    "number_of_story_banner": 2,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1030341,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100627
+      },
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001091,
+      870001088,
+      870001090,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102121
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102141,
+    "quest_type": 2,
+    "name": "2-2-5. Avenging Hero",
+    "sort_order": 14,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210201,
+    "number_of_story_banner": 2,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 0,
+    "scenario_id": 10302050,
+    "prev_quest_ids": [
+      120102131
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102151,
+    "quest_type": 1,
+    "name": "2-2-6. We Are Black X Fighters",
+    "sort_order": 15,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000068,
+    "number_of_story_banner": 2,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1010601,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100628
+      },
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001091,
+      870001090,
+      870001087,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102141
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102161,
+    "quest_type": 1,
+    "name": "2-2-7. I Am M Black",
+    "sort_order": 16,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000068,
+    "number_of_story_banner": 2,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1990981,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100626
+      },
+      {
+        "type": 7,
+        "id": 1100624
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001091,
+      870001087,
+      870001086,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 100302101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120102151
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120102171,
+    "quest_type": 2,
+    "name": "2-2-8. The Verse: Warrior's Poem",
+    "sort_order": 17,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210201,
+    "number_of_story_banner": 2,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 14,
+        "id": 310408,
+        "quantity": 1
+      },
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 166,
+    "battle_id": 0,
+    "scenario_id": 10302060,
+    "prev_quest_ids": [
+      120102161
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   }
 ]

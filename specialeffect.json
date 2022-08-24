@@ -44022,6 +44022,160 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040055,
+    "state_change_id": 900050073,
+    "name": "Jet Ski Attack",
+    "flavor_text": "Attacks with Dark Bullet after attacking with Jet Ski Attack.",
+    "target_area": 1,
+    "state_vars": [
+      1110600020
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040056,
+    "state_change_id": 900040048,
+    "name": "Attack Boost (small)",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "ATK/DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040057,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (small)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 10,
+    "state_vars": [
+      85
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040058,
+    "state_change_id": 900040036,
+    "name": "Playful Teasing",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Pretty Hit.",
+    "target_area": 1,
+    "state_vars": [
+      110500150
+    ],
+    "text_pop": "Counter Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040059,
+    "state_change_id": 900040048,
+    "name": "Heat Up",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK/DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040060,
+    "state_change_id": 900040062,
+    "name": "Defense Up",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      90
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040061,
+    "state_change_id": 900050073,
+    "name": "Wave Rush",
+    "flavor_text": "Attacks with Wave Strike after attacking with Wave Rush.",
+    "target_area": 1,
+    "state_vars": [
+      1110500043
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040062,
+    "state_change_id": 900050073,
+    "name": "Wave Rush",
+    "flavor_text": "Attacks with Wave Strike after attacking with Wave Rush.",
+    "target_area": 1,
+    "state_vars": [
+      1110500043
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040063,
     "state_change_id": 900050067,
     "name": "Remove Attributes Down",
@@ -44046,6 +44200,40 @@
     "direction_id": 1,
     "effect_condition_ids": [],
     "state_icon": 3001
+  },
+  {
+    "id": 1801040064,
+    "state_change_id": 900040114,
+    "name": "Morale Down (small)",
+    "flavor_text": "Decreases damage dealt to enemies (can't stack).",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "ATK/DEF↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
+    "id": 1801040065,
+    "state_change_id": 900040152,
+    "name": "Guard Down (small)",
+    "flavor_text": "Increases damage taken (can't stack).",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 2002
   },
   {
     "id": 1801040115,
@@ -45980,6 +46168,80 @@
     "state_icon": 3001
   },
   {
+    "id": 1802040076,
+    "state_change_id": 900040048,
+    "name": "Single Attack Boost",
+    "flavor_text": "Increases damage dealt by single-foe attacks.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "Single ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      24
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040077,
+    "state_change_id": 900040048,
+    "name": "Single Attack (Random Target) Boost",
+    "flavor_text": "Increases damage dealt by skills/spells that attack random single enemies.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "Single ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      29
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040078,
+    "state_change_id": 900040047,
+    "name": "Stealth (large)",
+    "flavor_text": "Decreases likelihood of being targeted by enemies.",
+    "target_area": 12,
+    "state_vars": [],
+    "text_pop": "Stealth",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "Plane",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040079,
+    "state_change_id": 900040151,
+    "name": "Evasion (1 time)",
+    "flavor_text": "Evades enemy attacks (Max times: 1).",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Evasion",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
     "id": 1802040362,
     "state_change_id": 900040048,
     "name": "Damage Up",
@@ -46652,5 +46914,22 @@
     "direction_id": 1,
     "effect_condition_ids": [],
     "state_icon": 3001
+  },
+  {
+    "id": 1809040003,
+    "state_change_id": 900030010,
+    "name": "Faint to Flee",
+    "flavor_text": "Incapacitated. Can return to battle by recovering HP, unless LP reaches 0.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 1040
   }
 ]

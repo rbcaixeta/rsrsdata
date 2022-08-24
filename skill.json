@@ -33439,7 +33439,7 @@
     "name": "Paean of Protection",
     "rush_prefix": "Paean of",
     "rush_suffix": "Protection",
-    "flavor_text": "Support/Fast/All Allies<br>Grants all surviving allies \"Evasion (1 time)\" (1 turn(s)).<br><br>Evasion (1 time)<br>Evades enemies' attacks, and nullifies damage (Max times: 1).",
+    "flavor_text": "Support/Fast/All Allies<br>Grants all surviving allies \"Evasion (1 time)\" (1 turn(s)).<br><br>Evasion (1 time)<br>Evades enemy's attack and nullifies damage (Max times: 1).",
     "attack_distance": 2,
     "skill_type": 1,
     "battle_type": 8,
@@ -47807,7 +47807,7 @@
     "name": "Mirror Shade",
     "rush_prefix": "Mirror",
     "rush_suffix": "Shade",
-    "flavor_text": "Support/Fast/Self<br>Grants the user Evasion (3 times) (no turn limit).<br>The user enters a stealth stance (large effect/4 turn(s)).<br><br>Evasion (3 times)<br>Evades enemies' attacks, and nullifies damage (Max times: 3).",
+    "flavor_text": "Support/Fast/Self<br>Grants the user Evasion (3 times) (no turn limit).<br>The user enters a stealth stance (large effect/4 turn(s)).<br><br>Evasion (3 times)<br>Evades enemy's attack and nullifies damage (Max times: 3).",
     "attack_distance": 2,
     "skill_type": 2,
     "battle_type": 56,
@@ -90208,7 +90208,7 @@
     "name": "Mirage Genesis",
     "rush_prefix": "Mirage Genesis",
     "rush_suffix": "Mirage Genesis",
-    "flavor_text": "Support/Delay<br>The user enters a Mirage Genesis stance (2 turn(s)).<br><br>Mirage Genesis stance<br>Evades enemies' attacks, and nullifies damage (Max times: 2).",
+    "flavor_text": "Support/Delay<br>The user enters a Mirage Genesis stance (2 turn(s)).<br><br>Mirage Genesis stance<br>Evades enemy's attack and nullifies damage (Max times: 2).",
     "attack_distance": 1,
     "skill_type": 1,
     "battle_type": 5,
@@ -133465,6 +133465,221 @@
     ]
   },
   {
+    "id": 1110500040,
+    "name": "Ride the Waves",
+    "rush_prefix": "Ride",
+    "rush_suffix": "the Waves",
+    "flavor_text": "Attack/Far/Indirect/Row of Foes (Blunt+Cold) <br>Ranged attack.<br>Increases the user's AGI (small effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 6,
+    "attack_attributes": [
+      2,
+      5
+    ],
+    "power_grade": "E",
+    "consume_bp": 2,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010228
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 1140500003,
+    "skill_se_cue_sheet_name": "1140500003",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30008
+    ]
+  },
+  {
+    "id": 1110500041,
+    "name": "On Your Mark",
+    "rush_prefix": "On Your",
+    "rush_suffix": "Mark",
+    "flavor_text": "Support/Self<br>Grants the user Heat Up (medium effect).<br>Grants the user Defense Up (medium effect).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).<br><br>Defense Up<br>Damage taken will be reduced (Effect: permanent in battle).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 1,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "-",
+    "consume_bp": 6,
+    "consume_lp": 2,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040059,
+      1801040060
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4010,
+    "skill_effect": 1140500004,
+    "skill_se_cue_sheet_name": "1140500004",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30015,
+      30023
+    ]
+  },
+  {
+    "id": 1110500042,
+    "name": "Wave Rush",
+    "rush_prefix": "Wave",
+    "rush_suffix": "Rush",
+    "flavor_text": "Attack/Far/Indirect/Fast/All Foes (Blunt+Cold) <br>All range attack.<br>Increases all surviving allies' AGI (small effect).<br>Wave Strike is then activated 2 time(s).<br><br>Wave Strike<br>M. Arts skill/Attack/Power: E/Direct/Column of Foes (Cold) <br>Ranged attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2,
+      5
+    ],
+    "power_grade": "C",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010420,
+      1801040061,
+      1801040062
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 145200031,
+    "skill_se_cue_sheet_name": "145200031",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30025,
+      30033,
+      30041
+    ]
+  },
+  {
+    "id": 1110500043,
+    "name": "Wave Strike",
+    "rush_prefix": "Wave",
+    "rush_suffix": "Strike",
+    "flavor_text": "Attack/Near/Direct/Column of Foes (Cold) <br>Ranged attack.",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 7,
+    "attack_attributes": [
+      5
+    ],
+    "power_grade": "E",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500041,
+    "skill_se_cue_sheet_name": "140500041",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": []
+  },
+  {
+    "id": 1110500044,
+    "name": "Wave Strike",
+    "rush_prefix": "Wave",
+    "rush_suffix": "Strike",
+    "flavor_text": "Attack/Near/Direct/Column of Foes (Cold) <br>Ranged attack.",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 7,
+    "attack_attributes": [
+      5
+    ],
+    "power_grade": "E",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040062
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500041,
+    "skill_se_cue_sheet_name": "140500041",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": []
+  },
+  {
+    "id": 1110500045,
+    "name": "Playful Teasing",
+    "rush_prefix": "Playful",
+    "rush_suffix": "Teasing",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Blunt) <br>Attack.<br>Recovers the user's HP (very small effect), and the user enters a taunt stance (small effect/4 turn(s)).<br>After attacking, the user enters an evasive counter stance (1 turn(s)).<br><br>Counterattack: Pretty Hit<br>M. Arts skill/Attack/Power: D/Single Foe (Blunt)<br>Attack.<br>Recovers the user's HP (very small effect), and the user enters a taunt stance (small effect/4 turn(s)).<br>(Uses skill rank of Playful Teasing).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "D",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040341,
+      801010514,
+      1801040058
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1009,
+    "skill_effect": 140500136,
+    "skill_se_cue_sheet_name": "140500136",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30011,
+      30019
+    ]
+  },
+  {
     "id": 1110600001,
     "name": "Sweet Trap",
     "rush_prefix": "Sweet",
@@ -134107,6 +134322,157 @@
     "awakening_material_set_ids": [
       30010,
       30018
+    ]
+  },
+  {
+    "id": 1110600019,
+    "name": "Jet Ski Attack",
+    "rush_prefix": "Jet Ski",
+    "rush_suffix": "Attack",
+    "flavor_text": "Attack/Far/Indirect/Fast/Single Foe (Blunt+Cold) <br>Attack.<br>When the attack hits, grants the target Defense Down (small effect/1 turn(s)).<br>Dark Bullet is then activated.<br><br>Dark Bullet<br>Gun skill/Attack/Power: SS/Indirect/Single Foe (Blunt+Shadow)<br>Attack.<br>Increases the user's DEX/INT (large effect).<br>(Uses skill rank of Jet Ski Attack).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 6,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      2,
+      5
+    ],
+    "power_grade": "A",
+    "consume_bp": 15,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010982,
+      1801040055
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1011,
+    "skill_effect": 1140600003,
+    "skill_se_cue_sheet_name": "1140600003",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
+    "id": 1110600020,
+    "name": "Dark Bullet",
+    "rush_prefix": "Dark",
+    "rush_suffix": "Bullet",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Blunt+Shadow) <br>Attack.<br>Increases the user's DEX/INT (large effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 6,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      2,
+      8
+    ],
+    "power_grade": "SS",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010245,
+      801010243
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1011,
+    "skill_effect": 140600050,
+    "skill_se_cue_sheet_name": "140600050",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": []
+  },
+  {
+    "id": 1110600021,
+    "name": "There You Go",
+    "rush_prefix": "There",
+    "rush_suffix": "You Go",
+    "flavor_text": "Support/Fast/All Allies<br>Grants all surviving allies an attack boost (small effect/1 turn(s)).<br>Grants all surviving allies a defense boost (small effect/1 turn(s)).<br>Recovers all surviving allies' HP (very small effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 6,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 3,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "-",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040056,
+      1801040057,
+      1801010047
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4010,
+    "skill_effect": 1140600004,
+    "skill_se_cue_sheet_name": "1140600004",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30010,
+      30018
+    ]
+  },
+  {
+    "id": 1110600022,
+    "name": "Start Cooking",
+    "rush_prefix": "Start",
+    "rush_suffix": "Cooking",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Blunt+Slash) <br>Attack.<br>When the attack hits, grants the target Morale Down (small) (2 turn(s)).<br>When the attack hits, grants the target Guard Down (small) (2 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 6,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      2,
+      1
+    ],
+    "power_grade": "SS",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040064,
+      1801040065
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1011,
+    "skill_effect": 1140600005,
+    "skill_se_cue_sheet_name": "1140600005",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30032,
+      30040,
+      30048
     ]
   },
   {
@@ -135139,7 +135505,7 @@
     "name": "Paean of Protection",
     "rush_prefix": "Paean of",
     "rush_suffix": "Protection",
-    "flavor_text": "Support/Fast/All Allies<br>Grants all surviving allies \"Evasion (1 time)\" (1 turn(s)).<br>Recovers all surviving allies' HP (medium effect).<br><br>Evasion (1 time)<br>Evades enemies' attacks, and nullifies damage (Max times: 1).",
+    "flavor_text": "Support/Fast/All Allies<br>Grants all surviving allies \"Evasion (1 time)\" (1 turn(s)).<br>Recovers all surviving allies' HP (medium effect).<br><br>Evasion (1 time)<br>Evades enemy's attack and nullifies damage (Max times: 1).",
     "attack_distance": 2,
     "skill_type": 1,
     "battle_type": 8,
@@ -146323,6 +146689,40 @@
     "min_action_time": 3,
     "max_action_time": 5,
     "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 0,
+    "awakening_material_set_ids": []
+  },
+  {
+    "id": 1655000016,
+    "name": "Kyu Kyu Kyu Kyu!",
+    "rush_prefix": "Kyu Kyu Kyu Kyu!",
+    "rush_suffix": "Kyu Kyu Kyu Kyu!",
+    "flavor_text": "Support/Fast<br>When the skill/spell hits, increases target's CHA (large effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 55,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      7
+    ],
+    "power_grade": "-",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      809010149,
+      1809040003
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4001,
+    "skill_effect": 140300030,
+    "skill_se_cue_sheet_name": "140300023",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
     "is_popup_text": 1,
     "max_awakening_count": 0,
     "awakening_material_set_ids": []

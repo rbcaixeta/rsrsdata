@@ -936,6 +936,14 @@
     "is_pierceily": 0
   },
   {
+    "id": 258,
+    "name": "Main Story Support Missions II",
+    "start_at": 1661734800,
+    "end_at": 1662944399,
+    "priority": 10303,
+    "is_pierceily": 0
+  },
+  {
     "id": 1000000001,
     "name": "New Year",
     "start_at": 1596157200,
@@ -1565,6 +1573,30 @@
     "start_at": 1660006800,
     "end_at": 1660611599,
     "priority": 10297,
+    "is_pierceily": 1
+  },
+  {
+    "id": 1000000083,
+    "name": "SF Remastered TC/KO Release",
+    "start_at": 1661389200,
+    "end_at": 1662598799,
+    "priority": 10301,
+    "is_pierceily": 0
+  },
+  {
+    "id": 1000000084,
+    "name": "Beach Cleanup Challenge",
+    "start_at": 1661389200,
+    "end_at": 1662598799,
+    "priority": 10302,
+    "is_pierceily": 0
+  },
+  {
+    "id": 1000000085,
+    "name": "Main Story Support Missions I",
+    "start_at": 1661734800,
+    "end_at": 1662944399,
+    "priority": 10304,
     "is_pierceily": 1
   }
 ]

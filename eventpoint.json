@@ -3960,6 +3960,78 @@
     "sort_order": 49999645
   },
   {
+    "id": 1100619,
+    "name": "Liam Arc Episode 2 Coin [Ltd. Time]",
+    "flavor_text": "Can be exchanged for S-rank S. Sword [Silverlight (Light+)] and other items. (Until [1664153999] <tz>)",
+    "icon": 1100619,
+    "max_quantity": 99999999,
+    "expired_at": 1664153999,
+    "sort_order": 22010510
+  },
+  {
+    "id": 1100623,
+    "name": "Bronze Metal Chunk",
+    "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100626,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 22010530
+  },
+  {
+    "id": 1100624,
+    "name": "Bronze Sword Mold Piece",
+    "flavor_text": "[Weapon: Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100627,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 22010529
+  },
+  {
+    "id": 1100625,
+    "name": "Bronze S. Sword Mold Piece",
+    "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100628,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 22010523
+  },
+  {
+    "id": 1100626,
+    "name": "Bronze Knuckles Mold Piece",
+    "flavor_text": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100629,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 22010525
+  },
+  {
+    "id": 1100627,
+    "name": "Bronze Pistol Mold Piece",
+    "flavor_text": "[Weapon: Gun] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100630,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 22010524
+  },
+  {
+    "id": 1100628,
+    "name": "Bronze Bow Mold Piece",
+    "flavor_text": "[Weapon: Bow] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100631,
+    "max_quantity": 9999999,
+    "expired_at": 0,
+    "sort_order": 22010521
+  },
+  {
+    "id": 1100632,
+    "name": "Precious Stone [Limited Time]",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items. (Until [1664153999] <tz>)",
+    "icon": 1100233,
+    "max_quantity": 99999999,
+    "expired_at": 1664153999,
+    "sort_order": 22012010
+  },
+  {
     "id": 1000800004,
     "name": "Romancing Festival Medal: Pumpkin",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -4302,6 +4374,15 @@
     "sort_order": 22072250
   },
   {
+    "id": 1000800042,
+    "name": "Romancing Festival Medal 50",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800042,
+    "max_quantity": 99999999,
+    "expired_at": 1663808399,
+    "sort_order": 22082500
+  },
+  {
     "id": 1001100001,
     "name": "Precious Stone [Limited Time]",
     "flavor_text": "Obtained from the Cave of Holy Stones. Can be exchanged for items. (Until [1618534799] <tz>)",
@@ -4633,5 +4714,14 @@
     "max_quantity": 99999999,
     "expired_at": 1661821199,
     "sort_order": 3438
+  },
+  {
+    "id": 1001100223,
+    "name": "Recyclable Items",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100223,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 3440
   }
 ]

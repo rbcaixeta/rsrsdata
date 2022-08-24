@@ -3224,6 +3224,19 @@
     "in_group_priority": 105
   },
   {
+    "id": 1279,
+    "name": "Door",
+    "flavor_text": "An enormous door that leads to another world. What could its sudden appearance portend?",
+    "map_id": 1,
+    "x": -15,
+    "y": 6,
+    "illust_category": 1,
+    "illust": 1046,
+    "priority": 1,
+    "group_id": 1021,
+    "in_group_priority": 100
+  },
+  {
     "id": 1282,
     "name": "Byunei",
     "flavor_text": "One of the Four Sinistrals.",
@@ -3417,5 +3430,18 @@
     "priority": 1,
     "group_id": 2595,
     "in_group_priority": 98
+  },
+  {
+    "id": 1000000011,
+    "name": "Great Arch",
+    "flavor_text": "The number one place to be in summer. Join the cleanup and help keep our beaches clean!",
+    "map_id": 1,
+    "x": -17,
+    "y": -8,
+    "illust_category": 1,
+    "illust": 1033,
+    "priority": 10,
+    "group_id": 2025,
+    "in_group_priority": 99
   }
 ]
