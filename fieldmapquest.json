@@ -53358,6 +53358,2866 @@
     "raid_piercemage_reward_group_id": 0
   },
   {
+    "id": 972017001,
+    "quest_type": 1,
+    "name": "[Slash] Mt. Taftan: Southern Forest 1",
+    "sort_order": 1,
+    "field_map_node_id": 10118001,
+    "battle_id": 511022001,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017002,
+    "quest_type": 1,
+    "name": "[Slash] Mt. Taftan: Southern Forest 2",
+    "sort_order": 2,
+    "field_map_node_id": 10118002,
+    "battle_id": 511022002,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017003,
+    "quest_type": 1,
+    "name": "[Slash] Archlord Tower",
+    "sort_order": 3,
+    "field_map_node_id": 10118003,
+    "battle_id": 511022003,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017004,
+    "quest_type": 1,
+    "name": "[Slash] Hellberg Mtn Range 1",
+    "sort_order": 4,
+    "field_map_node_id": 10118004,
+    "battle_id": 511022004,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017005,
+    "quest_type": 1,
+    "name": "[Slash] Hellberg Mtn Range 2",
+    "sort_order": 5,
+    "field_map_node_id": 10118005,
+    "battle_id": 511022005,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017006,
+    "quest_type": 1,
+    "name": "[Slash] Hellberg Mtn Range 3",
+    "sort_order": 6,
+    "field_map_node_id": 10118006,
+    "battle_id": 511022006,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017007,
+    "quest_type": 1,
+    "name": "[Slash] Hellberg Mtn Range 4",
+    "sort_order": 7,
+    "field_map_node_id": 10118007,
+    "battle_id": 511022007,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017008,
+    "quest_type": 1,
+    "name": "[Slash] Hellberg Mtn Range 5",
+    "sort_order": 8,
+    "field_map_node_id": 10118008,
+    "battle_id": 511022008,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017009,
+    "quest_type": 1,
+    "name": "[Slash] Southern Seas",
+    "sort_order": 9,
+    "field_map_node_id": 10118009,
+    "battle_id": 511022009,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103240,
+      103243
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 10
+      },
+      {
+        "type": 32,
+        "id": 1000950006,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017010,
+    "quest_type": 1,
+    "name": "[Blunt] Great Plains 1",
+    "sort_order": 10,
+    "field_map_node_id": 10118010,
+    "battle_id": 511022010,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017011,
+    "quest_type": 1,
+    "name": "[Blunt] Great Plains 2",
+    "sort_order": 11,
+    "field_map_node_id": 10118011,
+    "battle_id": 511022011,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017012,
+    "quest_type": 1,
+    "name": "[Blunt] Eastern River: West Bank",
+    "sort_order": 12,
+    "field_map_node_id": 10118012,
+    "battle_id": 511022012,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017013,
+    "quest_type": 1,
+    "name": "[Blunt] Eastern River: East Bank",
+    "sort_order": 13,
+    "field_map_node_id": 10118013,
+    "battle_id": 511022013,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017014,
+    "quest_type": 1,
+    "name": "[Blunt] Xuan",
+    "sort_order": 14,
+    "field_map_node_id": 10118014,
+    "battle_id": 511022014,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017015,
+    "quest_type": 1,
+    "name": "[Blunt] Huang",
+    "sort_order": 15,
+    "field_map_node_id": 10118015,
+    "battle_id": 511022015,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017016,
+    "quest_type": 1,
+    "name": "[Blunt] Kalmya Caverns 1",
+    "sort_order": 16,
+    "field_map_node_id": 10118016,
+    "battle_id": 511022016,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017017,
+    "quest_type": 1,
+    "name": "[Blunt] Kalmya Caverns 2",
+    "sort_order": 17,
+    "field_map_node_id": 10118017,
+    "battle_id": 511022017,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017018,
+    "quest_type": 1,
+    "name": "[Blunt] Kalmya Caverns 3",
+    "sort_order": 18,
+    "field_map_node_id": 10118018,
+    "battle_id": 511022018,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017019,
+    "quest_type": 1,
+    "name": "[Blunt] Country of Dae",
+    "sort_order": 19,
+    "field_map_node_id": 10118019,
+    "battle_id": 511022019,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103240,
+      103243
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 10
+      },
+      {
+        "type": 32,
+        "id": 1000950006,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017020,
+    "quest_type": 1,
+    "name": "[Spell] Mount Taftan: North",
+    "sort_order": 20,
+    "field_map_node_id": 10118020,
+    "battle_id": 511022020,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017021,
+    "quest_type": 1,
+    "name": "[Spell] Loanne",
+    "sort_order": 21,
+    "field_map_node_id": 10118021,
+    "battle_id": 511022021,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017022,
+    "quest_type": 1,
+    "name": "[Spell] Sinon",
+    "sort_order": 22,
+    "field_map_node_id": 10118022,
+    "battle_id": 511022022,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017023,
+    "quest_type": 1,
+    "name": "[Spell] Sinon: North",
+    "sort_order": 23,
+    "field_map_node_id": 10118023,
+    "battle_id": 511022023,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017024,
+    "quest_type": 1,
+    "name": "[Spell] Zweig Vicinity 1",
+    "sort_order": 24,
+    "field_map_node_id": 10118024,
+    "battle_id": 511022024,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017025,
+    "quest_type": 1,
+    "name": "[Spell] Zweig Vicinity 2",
+    "sort_order": 25,
+    "field_map_node_id": 10118025,
+    "battle_id": 511022025,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017026,
+    "quest_type": 1,
+    "name": "[Spell] Justerm-Faros Rd",
+    "sort_order": 26,
+    "field_map_node_id": 10118026,
+    "battle_id": 511022026,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017027,
+    "quest_type": 1,
+    "name": "[Sun] Kyrdlund Vicinity 1",
+    "sort_order": 27,
+    "field_map_node_id": 10118027,
+    "battle_id": 511022029,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017028,
+    "quest_type": 1,
+    "name": "[Sun] Kyrdlund Vicinity 2",
+    "sort_order": 28,
+    "field_map_node_id": 10118028,
+    "battle_id": 511022030,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017029,
+    "quest_type": 1,
+    "name": "[Heat] Lance-Faros Rd",
+    "sort_order": 29,
+    "field_map_node_id": 10118029,
+    "battle_id": 511022027,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017030,
+    "quest_type": 1,
+    "name": "[Heat] Lance-Yarmouth Rd",
+    "sort_order": 30,
+    "field_map_node_id": 10118030,
+    "battle_id": 511022028,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017031,
+    "quest_type": 1,
+    "name": "[Pierce] Podorui-Rashkuta Rd 1",
+    "sort_order": 31,
+    "field_map_node_id": 10118032,
+    "battle_id": 511022031,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017032,
+    "quest_type": 1,
+    "name": "[Pierce] Podorui-Rashkuta Rd 2",
+    "sort_order": 32,
+    "field_map_node_id": 10118033,
+    "battle_id": 511022032,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017033,
+    "quest_type": 1,
+    "name": "[Pierce] Podorui: Southern Forest 1",
+    "sort_order": 33,
+    "field_map_node_id": 10118034,
+    "battle_id": 511022033,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017034,
+    "quest_type": 1,
+    "name": "[Pierce] Podorui: Southern Forest 2",
+    "sort_order": 34,
+    "field_map_node_id": 10118035,
+    "battle_id": 511022034,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017035,
+    "quest_type": 1,
+    "name": "[Pierce] Podorui: Southern Forest 3",
+    "sort_order": 35,
+    "field_map_node_id": 10118036,
+    "battle_id": 511022035,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 104001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017036,
+    "quest_type": 1,
+    "name": "[Pierce] Podorui: Northern Forest",
+    "sort_order": 36,
+    "field_map_node_id": 10118037,
+    "battle_id": 511022036,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017037,
+    "quest_type": 1,
+    "name": "[Pierce] Eastern Mountain Path",
+    "sort_order": 37,
+    "field_map_node_id": 10118038,
+    "battle_id": 511022037,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 103001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017038,
+    "quest_type": 1,
+    "name": "[Pierce] Eastern Woods 1",
+    "sort_order": 38,
+    "field_map_node_id": 10118039,
+    "battle_id": 511022038,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017039,
+    "quest_type": 1,
+    "name": "[Pierce] Eastern Woods 2",
+    "sort_order": 39,
+    "field_map_node_id": 10118040,
+    "battle_id": 511022039,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103240,
+      103243
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 10
+      },
+      {
+        "type": 32,
+        "id": 1000950006,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017040,
+    "quest_type": 1,
+    "name": "[Pierce] Northern Seacoast",
+    "sort_order": 40,
+    "field_map_node_id": 10118041,
+    "battle_id": 511022040,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103240,
+      103243
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 10
+      },
+      {
+        "type": 32,
+        "id": 1000950006,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017041,
+    "quest_type": 1,
+    "name": "Southern Mountains",
+    "sort_order": 41,
+    "field_map_node_id": 10118042,
+    "battle_id": 511022041,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103241,
+      103244
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 10
+      },
+      {
+        "type": 32,
+        "id": 1000950006,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017042,
+    "quest_type": 1,
+    "name": "[Heat] Stanley: Northern Forest",
+    "sort_order": 42,
+    "field_map_node_id": 10118043,
+    "battle_id": 511022042,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103240,
+      103243
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 10
+      },
+      {
+        "type": 32,
+        "id": 1000950006,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017043,
+    "quest_type": 1,
+    "name": "[Sun] Hidden Cave",
+    "sort_order": 43,
+    "field_map_node_id": 10118044,
+    "battle_id": 511022043,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103240,
+      103243
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 10
+      },
+      {
+        "type": 32,
+        "id": 1000950006,
+        "quantity": 50
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 972017044,
+    "quest_type": 1,
+    "name": "RS2 Solo Conquest (Coop-Dummy)",
+    "sort_order": 44,
+    "field_map_node_id": 10118045,
+    "battle_id": 511010010,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100606
+      },
+      {
+        "type": 7,
+        "id": 1100607
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 30
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      103239,
+      103242
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840001,
+        "quantity": 5
+      }
+    ],
+    "adjusted_reward_group_id": 0,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
     "id": 990041010,
     "quest_type": 2,
     "name": "To the Decisive Battle",

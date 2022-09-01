@@ -110,6 +110,16 @@
     "field_map_quest_id_to_piercerken": 0
   },
   {
+    "id": 1011201,
+    "field_map_group_id": 10120,
+    "name": "RS2 Solo Conquest (Coop-Dummy)",
+    "screen_in_help_id": 556,
+    "bgm": 130113,
+    "field_map_bg_illust": 10000,
+    "field_map_quest_id_to_lighten": 0,
+    "field_map_quest_id_to_piercerken": 0
+  },
+  {
     "id": 1011501,
     "field_map_group_id": 10115,
     "name": "Destined Battle: End of the Ancient War",
@@ -138,5 +148,15 @@
     "field_map_bg_illust": 10007,
     "field_map_quest_id_to_lighten": 0,
     "field_map_quest_id_to_piercerken": 0
+  },
+  {
+    "id": 1011801,
+    "field_map_group_id": 10118,
+    "name": "RS2 Solo Conquest",
+    "screen_in_help_id": 556,
+    "bgm": 130113,
+    "field_map_bg_illust": 10008,
+    "field_map_quest_id_to_lighten": 972017041,
+    "field_map_quest_id_to_piercerken": 972017001
   }
 ]

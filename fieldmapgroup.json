@@ -249,5 +249,37 @@
       1000093642,
       102833
     ]
+  },
+  {
+    "id": 10118,
+    "area_id": 2017,
+    "field_map_mode": 1,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5000
+      }
+    ],
+    "lock_text": "",
+    "prev_quest_ids": [],
+    "frontier_drop_group_ids": []
+  },
+  {
+    "id": 10120,
+    "area_id": 2017,
+    "field_map_mode": 2,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5000
+      }
+    ],
+    "lock_text": "Co-op Mode is not available.",
+    "prev_quest_ids": [
+      972006001
+    ],
+    "frontier_drop_group_ids": []
   }
 ]

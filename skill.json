@@ -38666,8 +38666,8 @@
   {
     "id": 125100211,
     "name": "Kilonova",
-    "rush_prefix": "Kilonova",
-    "rush_suffix": "Kilonova",
+    "rush_prefix": "Kilo",
+    "rush_suffix": "Nova",
     "flavor_text": "Attack/Far/Indirect/All Foes (Heat) <br>All range attack.",
     "attack_distance": 2,
     "skill_type": 2,
@@ -135610,6 +135610,43 @@
     ]
   },
   {
+    "id": 1110800022,
+    "name": "Swooping Dragon+",
+    "rush_prefix": "Swooping",
+    "rush_suffix": "Dragon",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Pierce) <br>Attack.<br><change>Recovers the user's HP (medium effect).</change>",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      3
+    ],
+    "power_grade": "SSSS",
+    "consume_bp": 15,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801040412
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1118,
+    "skill_effect": 140800018,
+    "skill_se_cue_sheet_name": "140800018",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
     "id": 1110900001,
     "name": "Starry Rain",
     "rush_prefix": "Starry",
@@ -136745,6 +136782,111 @@
       30030,
       30038,
       30046
+    ]
+  },
+  {
+    "id": 1125100018,
+    "name": "Heat Swirl",
+    "rush_prefix": "Heat",
+    "rush_suffix": "Swirl",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Heat) <br>Attack.<br>When the attack hits, there is a chance to reduce target's AGI (small effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      4
+    ],
+    "power_grade": "D",
+    "consume_bp": 2,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010253
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2001,
+    "skill_effect": 145100077,
+    "skill_se_cue_sheet_name": "145100077",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 1,
+    "awakening_material_set_ids": [
+      30002
+    ]
+  },
+  {
+    "id": 1125100019,
+    "name": "Wild Fireballs",
+    "rush_prefix": "Wild",
+    "rush_suffix": "Fireballs",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Heat) <br>Attacks random enemies (1-6 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 9,
+    "attack_attributes": [
+      4
+    ],
+    "power_grade": "D",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 2002,
+    "skill_effect": 145100078,
+    "skill_se_cue_sheet_name": "145100078",
+    "min_action_time": 1,
+    "max_action_time": 6,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30030,
+      30038,
+      30046
+    ]
+  },
+  {
+    "id": 1125100020,
+    "name": "Kilonova",
+    "rush_prefix": "Kilo",
+    "rush_suffix": "Nova",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Heat) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 51,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      4
+    ],
+    "power_grade": "A",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 2002,
+    "skill_effect": 145100079,
+    "skill_se_cue_sheet_name": "145100079",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30027,
+      30035,
+      30043
     ]
   },
   {
@@ -138600,6 +138742,44 @@
       30025,
       30033,
       30041
+    ]
+  },
+  {
+    "id": 1125600015,
+    "name": "Black Sprite",
+    "rush_prefix": "Black",
+    "rush_suffix": "Sprite",
+    "flavor_text": "Attack/Far/Indirect/Fast/All Foes (Shadow+Lightning) <br>All range attack.<br>When the attack hits, inflicts charm on target (medium chance/4 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 56,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      8,
+      6
+    ],
+    "power_grade": "A",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030351
+    ],
+    "normal_attack": 0,
+    "skill_icon": 2012,
+    "skill_effect": 145600089,
+    "skill_se_cue_sheet_name": "145600089",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
     ]
   },
   {
