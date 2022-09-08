@@ -190,5 +190,63 @@
     ],
     "value2": 0,
     "description": "Start this quest with 5 SF1/SF2/SSG/SaGaRS characters."
+  },
+  {
+    "id": 1000000006,
+    "values": [
+      11,
+      12,
+      13,
+      31,
+      32
+    ],
+    "value2": 0,
+    "description": "Start this quest with 5 GBSaGa/SF1/SF2 characters."
+  },
+  {
+    "id": 1000000007,
+    "values": [
+      41,
+      51,
+      61,
+      71,
+      1001
+    ],
+    "value2": 0,
+    "description": "Start this quest with 5 US/ES/SSG/SaGaRS/Other characters."
+  },
+  {
+    "id": 1000000008,
+    "values": [
+      11,
+      21,
+      31,
+      51,
+      1001
+    ],
+    "value2": 0,
+    "description": "Start this quest with 5 SaGa1/RS1/SF1/ES/Other characters."
+  },
+  {
+    "id": 1000000009,
+    "values": [
+      12,
+      22,
+      32,
+      61
+    ],
+    "value2": 0,
+    "description": "Start this quest with 5 SaGa2/RS2/SF2/SSG characters."
+  },
+  {
+    "id": 1000000010,
+    "values": [
+      13,
+      23,
+      41,
+      71
+    ],
+    "value2": 0,
+    "description": "Start this quest with 5 SaGa3/RS3/US/SaGaRS characters."
   }
 ]

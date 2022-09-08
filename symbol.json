@@ -977,7 +977,7 @@
   {
     "id": 1083,
     "name": "Yarmouth",
-    "flavor_text": "A town once infested with\ncrooked merchants. Somewhere\nout there, the Hero of Justice\ncontinues to fight.",
+    "flavor_text": "A town once infested with crooked merchants. Somewhere out there, the Hero of Justice continues to fight.",
     "map_id": 1,
     "x": -15,
     "y": 5,
@@ -3300,6 +3300,19 @@
     "priority": 1,
     "group_id": 1021,
     "in_group_priority": 100
+  },
+  {
+    "id": 1288,
+    "name": "Vanguard",
+    "flavor_text": "Grand festivities are afoot. The city is bustling in preparation for a celebration.",
+    "map_id": 1,
+    "x": 11,
+    "y": -15,
+    "illust_category": 1,
+    "illust": 1045,
+    "priority": 1,
+    "group_id": 1021,
+    "in_group_priority": 99
   },
   {
     "id": 1000000001,

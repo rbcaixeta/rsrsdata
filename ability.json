@@ -27990,6 +27990,34 @@
     "sort_order": 0
   },
   {
+    "id": 1702100043,
+    "name": "Robin's Revenge",
+    "flavor_text": "When attacked, increases own STR (large effect) and nullifies attacks which have heat damage.<br>Also counterattacks with Robin's Move when being directly attacked.<br>(Counterattacks will not activate when parry is used in the same turn).<br><br>Counterattack: Robin's Move<br>Sword skill/Attack/Power: B/Direct/Row of Foes (Slash+Blunt) <br>Ranged attack.<br>When the attack hits, there is a chance to reduce target's WIL (small effect).<br>Increases own WIL (small effect).<br>Has oneself enter a taunt stance (medium effect/4 turn(s)).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040080,
+      1802040082
+    ],
+    "ability_when": 1,
+    "icon": 1002,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100044,
+    "name": "Explosive Punishment",
+    "flavor_text": "When attacked, increases own DEX (large effect) and nullifies attacks which have cold damage.<br>Also counterattacks with Robin Bomb when being directly attacked.<br>(Counterattacks will not activate when parry is used in the same turn).<br><br>Counterattack: Robin Bomb<br>Bow skill/Attack/Power: D/Indirect/All Foes (Blunt+Heat) <br>All range attack.<br>When the attack hits, inflicts confusion on target (low chance/4 turn(s)).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040081,
+      1802040083
+    ],
+    "ability_when": 1,
+    "icon": 1017,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -28895,6 +28923,32 @@
     "sort_order": 0
   },
   {
+    "id": 1702600042,
+    "name": "STR Up When Attacked",
+    "flavor_text": "When being attacked, increases own STR (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802010019
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600043,
+    "name": "DEX Up When Attacked",
+    "flavor_text": "When being attacked, increases own DEX (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802010020
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1708100001,
     "name": "Carapace",
     "flavor_text": "When attacked, damage will be reduced by 100% (Max times: 3 times per battle).<br>*Only activates when hit by an attack.",
@@ -28982,6 +29036,19 @@
     ],
     "ability_when": 1,
     "icon": 2003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1708100008,
+    "name": "Robin Family United",
+    "flavor_text": "[Start of Turn]<br>Something unexpected might happen if an ally is unconscious.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1808040011
+    ],
+    "ability_when": 1,
+    "icon": 4014,
     "rarity": 0,
     "sort_order": 0
   },

@@ -15277,7 +15277,7 @@
     "id": 802040055,
     "state_change_id": 900040062,
     "name": "Defend",
-    "flavor_text": "When hit by Weak attacks, decreases damage taken.",
+    "flavor_text": "Decreases damage taken from Weak attacks.",
     "target_area": 1,
     "state_vars": [
       85
@@ -44236,6 +44236,25 @@
     "state_icon": 2002
   },
   {
+    "id": 1801040066,
+    "state_change_id": 900050073,
+    "name": "Sparkling Ice",
+    "flavor_text": "Attacks with Crimson Break after attacking with Sparkling Ice.",
+    "target_area": 1,
+    "state_vars": [
+      1125100021
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040115,
     "state_change_id": 900040063,
     "name": "Morale Up (large)",
@@ -44649,6 +44668,44 @@
     "direction_id": 1,
     "effect_condition_ids": [],
     "state_icon": 2002
+  },
+  {
+    "id": 1802010019,
+    "state_change_id": 900010012,
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "STR↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      24407
+    ],
+    "state_icon": 2001
+  },
+  {
+    "id": 1802010020,
+    "state_change_id": 900010014,
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "DEX↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      24407
+    ],
+    "state_icon": 2001
   },
   {
     "id": 1802040001,
@@ -46242,6 +46299,84 @@
     "state_icon": 3001
   },
   {
+    "id": 1802040080,
+    "state_change_id": 900040065,
+    "name": "Robin's Revenge",
+    "flavor_text": "Nullifies attacks which have heat damage. Also counterattacks with Robin's Move when being directly attacked.",
+    "target_area": 1,
+    "state_vars": [
+      1110100042,
+      4
+    ],
+    "text_pop": "Robin's Revenge",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "selfburning",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040081,
+    "state_change_id": 900040066,
+    "name": "Explosive Punishment",
+    "flavor_text": "Nullifies attacks which have cold damage. Also counterattacks with Robin Bomb when being directly attacked.",
+    "target_area": 1,
+    "state_vars": [
+      1110900017,
+      5
+    ],
+    "text_pop": "Explosive Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "145200022",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040082,
+    "state_change_id": 900050113,
+    "name": "STR Up When Attacked",
+    "flavor_text": "When being attacked, increases own STR (large effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702600042
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040083,
+    "state_change_id": 900050113,
+    "name": "DEX Up When Attacked",
+    "flavor_text": "When being attacked, increases own DEX (large effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702600043
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
     "id": 1802040362,
     "state_change_id": 900040048,
     "name": "Damage Up",
@@ -46774,6 +46909,25 @@
     "state_icon": 3001
   },
   {
+    "id": 1808040011,
+    "state_change_id": 900040048,
+    "name": "Robin Family United",
+    "flavor_text": "[Start of Turn]<br>Something unexpected might happen if an ally is unconscious.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3003
+  },
+  {
     "id": 1809010001,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -46878,6 +47032,25 @@
     "state_icon": 2002
   },
   {
+    "id": 1809010007,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 1,
+    "state_vars": [
+      5
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 1,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1809040001,
     "state_change_id": 900040036,
     "name": "Counter",
@@ -46931,5 +47104,24 @@
     "direction_id": 1,
     "effect_condition_ids": [],
     "state_icon": 1040
+  },
+  {
+    "id": 1809040004,
+    "state_change_id": 900050073,
+    "name": "Sparkling Ice",
+    "flavor_text": "Attacks with Crimson Break after attacking with Sparkling Ice.",
+    "target_area": 1,
+    "state_vars": [
+      1651000016
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "animation_id": 0,
+    "display_flag": 0,
+    "direction_id": 1,
+    "effect_condition_ids": [],
+    "state_icon": 3001
   }
 ]

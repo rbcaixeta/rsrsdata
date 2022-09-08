@@ -14477,7 +14477,7 @@
   {
     "id": 199293,
     "pc_flag": 0,
-    "name": "3rd Anniversary Gift",
+    "name": "Thank You Party Gift",
     "enemy_class": 99,
     "rank": 1,
     "species": [
@@ -18988,6 +18988,21 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 1000271013,
+    "pc_flag": 1,
+    "name": "Rag Robin",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 710109,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 1000271021,
     "pc_flag": 1,
     "name": "Liz Lynn Wood",
@@ -19116,6 +19131,21 @@
     "gender": 2,
     "sprite_studio": 0,
     "illust": 711100,
+    "pc_enemy_skill_hold_motion": 2
+  },
+  {
+    "id": 1000271112,
+    "pc_flag": 1,
+    "name": "Robingal",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      97
+    ],
+    "gender": 2,
+    "sprite_studio": 0,
+    "illust": 711106,
     "pc_enemy_skill_hold_motion": 2
   },
   {

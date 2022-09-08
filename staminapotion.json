@@ -520,6 +520,36 @@
     "expired_at": 1662685199
   },
   {
+    "id": 840128,
+    "name": "Autumn Carnival Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1666659599] <tz>)",
+    "icon": 840128,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 22102530,
+    "expired_at": 1666659599
+  },
+  {
+    "id": 840129,
+    "name": "Autumn Carnival Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1666659599] <tz>)",
+    "icon": 840129,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 22102560,
+    "expired_at": 1666659599
+  },
+  {
+    "id": 840130,
+    "name": "Autumn Carnival Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1666659599] <tz>)",
+    "icon": 840130,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 22102590,
+    "expired_at": 1666659599
+  },
+  {
     "id": 840140,
     "name": "New Arc Stamina Potion (Sm.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1659661199] <tz>)",
