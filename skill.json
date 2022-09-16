@@ -89271,7 +89271,7 @@
     "name": "Step",
     "rush_prefix": "Step",
     "rush_suffix": "Step",
-    "flavor_text": "Attack/Indirect/Fast/(Blunt)<br>When the attack hits, inflicts stun on target (low chance).",
+    "flavor_text": "Attack/Indirect/Fast/(Blunt)<br>Attack.<br>When the attack hits, inflicts stun on target (low chance).",
     "attack_distance": 2,
     "skill_type": 1,
     "battle_type": 5,
@@ -92511,7 +92511,7 @@
     "name": "Running Dog",
     "rush_prefix": "Running Dog",
     "rush_suffix": "Running Dog",
-    "flavor_text": "Attack/Direct/(Blunt)<br>Attack.<br>Attacks random enemies (3 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
+    "flavor_text": "Attack/Direct/(Blunt)<br>Attacks random enemies (3 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
     "attack_distance": 1,
     "skill_type": 1,
     "battle_type": 5,
@@ -93321,7 +93321,7 @@
     "name": "Amphibian Assault",
     "rush_prefix": "Amphibian Assault",
     "rush_suffix": "Amphibian Assault",
-    "flavor_text": "Attack/Direct/(Blunt)<br>Attack.<br>Attacks random enemies (2 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
+    "flavor_text": "Attack/Direct/(Blunt)<br>Attacks random enemies (2 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)",
     "attack_distance": 1,
     "skill_type": 1,
     "battle_type": 5,
@@ -96629,7 +96629,7 @@
     "name": "Step",
     "rush_prefix": "Step",
     "rush_suffix": "Step",
-    "flavor_text": "Attack/Indirect/(Blunt)<br>When the attack hits, inflicts stun on target (very low chance).",
+    "flavor_text": "Attack/Indirect/(Blunt)<br>Attack.<br>When the attack hits, inflicts stun on target (very low chance).",
     "attack_distance": 2,
     "skill_type": 1,
     "battle_type": 5,
@@ -133898,6 +133898,43 @@
     "awakening_material_set_ids": [
       30011,
       30019
+    ]
+  },
+  {
+    "id": 1110500046,
+    "name": "Infernal Chariot",
+    "rush_prefix": "Infernal",
+    "rush_suffix": "Chariot",
+    "flavor_text": "Attack/Far/Direct/Fast/All Foes (Blunt+Heat) <br>All range attack.<br>Grants all surviving allies a heat attack boost (small effect/1 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 5,
+    "attack_attributes": [
+      2,
+      4
+    ],
+    "power_grade": "C",
+    "consume_bp": 7,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801041001
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500208,
+    "skill_se_cue_sheet_name": "140500208",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30009,
+      30017
     ]
   },
   {

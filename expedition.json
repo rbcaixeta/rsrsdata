@@ -292,5 +292,26 @@
     "sort_order": 86,
     "open_at": 1660870800,
     "close_at": 0
+  },
+  {
+    "id": 6700016,
+    "name": "Solitary Island",
+    "required_quest_id": 120101103,
+    "required_player_rank": 150,
+    "required_hours": 21,
+    "difficulty": 4,
+    "growth_difficulty": 113,
+    "recommended_status": 115,
+    "jewel_cost": 0,
+    "ticket_cost": 62,
+    "drop_group_ids": [
+      880000030,
+      880000031
+    ],
+    "flavor_text": "Recommended for characters with up to 1,250 HP and up to 115 in all attributes",
+    "background_id": 700000082,
+    "sort_order": 85,
+    "open_at": 1663462800,
+    "close_at": 0
   }
 ]

@@ -1008,6 +1008,15 @@
     "sort_order": 22090200
   },
   {
+    "id": 800159,
+    "name": "Ultra Deluxe Summon Medal 26",
+    "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "icon": 800159,
+    "max_quantity": 99999999,
+    "expired_at": 1665881999,
+    "sort_order": 21120645
+  },
+  {
     "id": 800161,
     "name": "Romancing Festival Medal 51",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -1015,6 +1024,15 @@
     "max_quantity": 99999999,
     "expired_at": 1665104399,
     "sort_order": 22090200
+  },
+  {
+    "id": 800162,
+    "name": "SaGa Soul Medal 6",
+    "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+    "icon": 800162,
+    "max_quantity": 99999999,
+    "expired_at": 1665881999,
+    "sort_order": 21121045
   },
   {
     "id": 860001,
@@ -4023,6 +4041,24 @@
     "sort_order": 21121005
   },
   {
+    "id": 1100608,
+    "name": "Wonder Night Pass",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100608,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 21121605
+  },
+  {
+    "id": 1100609,
+    "name": "Wonder Chocolate",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100609,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 21121610
+  },
+  {
     "id": 1100619,
     "name": "Liam Arc Episode 2 Coin [Ltd. Time]",
     "flavor_text": "Can be exchanged for S-rank S. Sword [Silverlight (Light+)] and other items. (Until [1664153999] <tz>)",
@@ -4786,5 +4822,14 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 3440
+  },
+  {
+    "id": 1001100224,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1665795599] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1665795599,
+    "sort_order": 3438
   }
 ]

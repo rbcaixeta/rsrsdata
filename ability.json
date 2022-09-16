@@ -28949,6 +28949,20 @@
     "sort_order": 0
   },
   {
+    "id": 1702600044,
+    "name": "Ability Spread Ⅲ (AGI/INT)",
+    "flavor_text": "When landing an attack, increases all surviving allies' AGI/INT (medium chance/large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802010021,
+      1802010022
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1708100001,
     "name": "Carapace",
     "flavor_text": "When attacked, damage will be reduced by 100% (Max times: 3 times per battle).<br>*Only activates when hit by an attack.",
