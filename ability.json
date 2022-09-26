@@ -2984,7 +2984,7 @@
   {
     "id": 702100757,
     "name": "Numerology (INT/AGI)",
-    "flavor_text": "On odd turns counting from the start of battle, increases own INT (very large effect).<br>On even turns, increases own AGI (very large effect).",
+    "flavor_text": "On odd turns counting from the start of battle, increases own INT (very large effect).<br>On even turns counting from the start of battle, increases own AGI (very large effect).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040819,
@@ -2998,7 +2998,7 @@
   {
     "id": 702100760,
     "name": "Numerology (AGI/STR)",
-    "flavor_text": "On odd turns counting from the start of battle, increases own AGI (very large effect).<br>On even turns, increases own STR (very large effect).",
+    "flavor_text": "On odd turns counting from the start of battle, increases own AGI (very large effect).<br>On even turns counting from the start of battle, increases own STR (very large effect).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040822,
@@ -5880,7 +5880,7 @@
   {
     "id": 702300755,
     "name": "Numerology (INT/AGI)",
-    "flavor_text": "On odd turns counting from the start of battle, increases  INT (very large effect).",
+    "flavor_text": "On odd turns counting from the start of battle, increases INT (very large effect).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802010816
@@ -5919,7 +5919,7 @@
   {
     "id": 702300759,
     "name": "Numerology (AGI/STR)",
-    "flavor_text": "On odd turns counting from the start of battle, increases  AGI (very large effect).",
+    "flavor_text": "On odd turns counting from the start of battle, increases AGI (very large effect).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802010818
@@ -24287,7 +24287,7 @@
   {
     "id": 708100148,
     "name": "Alternating Magic",
-    "flavor_text": "On odd turns counting from the start of battle, increases own INT (large effect) and grants oneself a shadow attack boost (very large effect/1 turn(s)).<br>On even turns, grants oneself Barrier (1 turn(s)).",
+    "flavor_text": "On odd turns counting from the start of battle, increases own INT (large effect) and grants oneself a shadow attack boost (very large effect/1 turn(s)).<br>On even turns counting from the start of battle, grants oneself Barrier (1 turn(s)).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       808040405,
@@ -28139,6 +28139,21 @@
     "sort_order": 0
   },
   {
+    "id": 1702200011,
+    "name": "Sword of Misery",
+    "flavor_text": "[Start of round]<br>Grants oneself Morale Up (extreme) (2 turn(s)).<br>Grants oneself an attack boost (very large effect/2 turn(s)).<br>Recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040920,
+      1802040084,
+      802040312
+    ],
+    "ability_when": 2,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702300001,
     "name": "Lightning Blitz",
     "flavor_text": "[Start of turn]<br>Grants all surviving allies a lightning attack boost (medium effect/1 turn(s)). (Max times: 3 times per battle).",
@@ -28496,6 +28511,19 @@
     "sort_order": 0
   },
   {
+    "id": 1702300027,
+    "name": "Wit",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' INT (very high chance/large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802010023
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702400001,
     "name": "Leader's Missions",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and recovers own BP (+1). ",
@@ -28542,6 +28570,22 @@
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040901
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702400005,
+    "name": "Kylin's Wisdom",
+    "flavor_text": "[End of turn]<br>Recovers own HP (very small effect), recovers own BP (+1), cures oneself from all status ailments, and removes own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040901,
+      802040812,
+      802040844,
+      802040834
     ],
     "ability_when": 4,
     "icon": 4007,

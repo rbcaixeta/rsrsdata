@@ -131264,6 +131264,42 @@
     ]
   },
   {
+    "id": 1110200042,
+    "name": "Surging Slice",
+    "rush_prefix": "Surging",
+    "rush_suffix": "Slice",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Slash) <br>Attack.<br>When the attack hits, inflicts unconsciousness on target (low chance).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 2,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      1
+    ],
+    "power_grade": "S",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030382
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1003,
+    "skill_effect": 140200129,
+    "skill_se_cue_sheet_name": "140200129",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30009,
+      30017
+    ]
+  },
+  {
     "id": 1110300001,
     "name": "Wail",
     "rush_prefix": "Wail",
@@ -133935,6 +133971,84 @@
     "awakening_material_set_ids": [
       30009,
       30017
+    ]
+  },
+  {
+    "id": 1110500047,
+    "name": "Vapor Blast",
+    "rush_prefix": "Vapor",
+    "rush_suffix": "Blast",
+    "flavor_text": "Attack/Far/Indirect/Single Foe (Blunt+Pierce) *M. Arts Special Skill (INT)<br>Attack [Critical: Floating].<br>Increases all surviving allies' INT/WIL (small effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 4,
+    "attack_attributes": [
+      2,
+      3
+    ],
+    "power_grade": "S",
+    "consume_bp": 9,
+    "consume_lp": 0,
+    "critical_targets": [
+      82
+    ],
+    "additional_effect_ids": [
+      1801010048,
+      1801010049
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1009,
+    "skill_effect": 140500184,
+    "skill_se_cue_sheet_name": "140500184",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30016,
+      30024
+    ]
+  },
+  {
+    "id": 1110500048,
+    "name": "Reverse Gravity",
+    "rush_prefix": "Reverse",
+    "rush_suffix": "Gravity",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Blunt) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, there is a chance to reduce target's AGI (medium effect).<br>When the attack hits, inflicts stun on target (medium chance).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "A",
+    "consume_bp": 13,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010261,
+      801030346
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500186,
+    "skill_se_cue_sheet_name": "140500186",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
     ]
   },
   {

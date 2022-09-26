@@ -4561,5 +4561,23 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 299
+  },
+  {
+    "id": 1000000500,
+    "event_ability_category_id": 1000000266,
+    "name": "[Ltd. Time] SaGa Soul Appreciation Battle I",
+    "flavor_text": "・2x attribute gains in Main quests and SaGa Soul Appreciation Battle<br>・Bonus SaGa Soul Cake drops in SaGa Soul Appreciation Battle",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 300
+  },
+  {
+    "id": 1000000501,
+    "event_ability_category_id": 1000000267,
+    "name": "[Ltd. Time] SaGa Soul Appreciation Battle II",
+    "flavor_text": "・3x attribute gains in Main quests and SaGa Soul Appreciation Battle<br>・Bonus SaGa Soul Cake drops in SaGa Soul Appreciation Battle",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 301
   }
 ]
