@@ -868,5 +868,35 @@
     "value": 90,
     "sort_order": 1210,
     "expired_at": 1638406799
+  },
+  {
+    "id": 1000840032,
+    "name": "Secret House Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1667264399] <tz>)",
+    "icon": 840107,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 22110130,
+    "expired_at": 1667264399
+  },
+  {
+    "id": 1000840033,
+    "name": "Secret House Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1667264399] <tz>)",
+    "icon": 840108,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 22110160,
+    "expired_at": 1667264399
+  },
+  {
+    "id": 1000840034,
+    "name": "Secret House Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1667264399] <tz>)",
+    "icon": 840109,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 22110190,
+    "expired_at": 1667264399
   }
 ]

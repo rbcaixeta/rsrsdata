@@ -4579,5 +4579,32 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 301
+  },
+  {
+    "id": 1000000502,
+    "event_ability_category_id": 1000000268,
+    "name": "[Ltd. Time] Secret House Infiltration I",
+    "flavor_text": "・2x attribute gains in Main quests and Secret House Infiltration<br>・Bonus Fancy Vase drops in Secret House Infiltration",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 302
+  },
+  {
+    "id": 1000000503,
+    "event_ability_category_id": 1000000268,
+    "name": "[Ltd. Time] Secret House Infiltration II",
+    "flavor_text": "・3x attribute gains in Main quests and Secret House Infiltration<br>・Bonus Fancy Vase drops in Secret House Infiltration",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 302
+  },
+  {
+    "id": 1000000504,
+    "event_ability_category_id": 1000000269,
+    "name": "[Ltd. Time] Jamil's Treasure Hunt: Hidden Room",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Jamil's Treasure Hunt: Hidden Room",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 303
   }
 ]

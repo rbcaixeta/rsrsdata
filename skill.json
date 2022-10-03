@@ -134052,6 +134052,83 @@
     ]
   },
   {
+    "id": 1110500049,
+    "name": "Black Hole",
+    "rush_prefix": "Black",
+    "rush_suffix": "Hole",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Shadow) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, reduces target's STR/AGI (large effect), and increases the user's INT (large effect).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      8
+    ],
+    "power_grade": "A",
+    "consume_bp": 15,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801011019,
+      1801010050,
+      801011002
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1010,
+    "skill_effect": 140500221,
+    "skill_se_cue_sheet_name": "140500221",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
+    ]
+  },
+  {
+    "id": 1110500050,
+    "name": "Nine Marks",
+    "rush_prefix": "Nine",
+    "rush_suffix": "Marks",
+    "flavor_text": "Attack/Near/Direct/Single Foe (Blunt) <br>Attack.<br>Increases the user's WIL (large effect).<br>When the attack hits, reduces target's WIL (large effect).",
+    "attack_distance": 1,
+    "skill_type": 1,
+    "battle_type": 5,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      2
+    ],
+    "power_grade": "SSSS",
+    "consume_bp": 16,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801010246,
+      1801010051
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1009,
+    "skill_effect": 140500224,
+    "skill_se_cue_sheet_name": "140500224",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30028,
+      30036,
+      30044
+    ]
+  },
+  {
     "id": 1110600001,
     "name": "Sweet Trap",
     "rush_prefix": "Sweet",
@@ -135201,6 +135278,79 @@
     "awakening_material_set_ids": [
       30010,
       30018
+    ]
+  },
+  {
+    "id": 1110700011,
+    "name": "Streaming Pierce",
+    "rush_prefix": "Streaming",
+    "rush_suffix": "Pierce",
+    "flavor_text": "Attack/Far/Direct/Row of Foes (Pierce+Slash) <br>Ranged attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 7,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 6,
+    "attack_attributes": [
+      3,
+      1
+    ],
+    "power_grade": "S",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1015,
+    "skill_effect": 140700086,
+    "skill_se_cue_sheet_name": "140700086",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30014,
+      30022
+    ]
+  },
+  {
+    "id": 1110700012,
+    "name": "Floral Cracker",
+    "rush_prefix": "Floral",
+    "rush_suffix": "Cracker",
+    "flavor_text": "Attack/Far/Direct/Fast/All Foes (Pierce+Slash) <br>All range attack.<br>Grants all surviving allies a pierce attack boost (medium effect/1 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 7,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 5,
+    "attack_attributes": [
+      3,
+      1
+    ],
+    "power_grade": "C",
+    "consume_bp": 11,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      1801040067
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1015,
+    "skill_effect": 140700087,
+    "skill_se_cue_sheet_name": "140700087",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30032,
+      30040,
+      30048
     ]
   },
   {
