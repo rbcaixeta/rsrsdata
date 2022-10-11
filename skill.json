@@ -23318,8 +23318,8 @@
   },
   {
     "id": 110500233,
-    "name": "Rotation",
-    "rush_prefix": "Rotation",
+    "name": "Vertical Rotation",
+    "rush_prefix": "Vertical",
     "rush_suffix": "Rotation",
     "flavor_text": "Attack/Near/Direct/Single Foe (Blunt) <br>Attack.",
     "attack_distance": 1,
@@ -134925,6 +134925,81 @@
     ]
   },
   {
+    "id": 1110600023,
+    "name": "Missile",
+    "rush_prefix": "Missile",
+    "rush_suffix": "Missile",
+    "flavor_text": "Attack/Far/Indirect/All Foes (Blunt+Heat) <br>All range attack.",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 6,
+    "skill_motion": 1,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      2,
+      4
+    ],
+    "power_grade": "C",
+    "consume_bp": 8,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [],
+    "normal_attack": 0,
+    "skill_icon": 1012,
+    "skill_effect": 140600083,
+    "skill_se_cue_sheet_name": "140600083",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 2,
+    "awakening_material_set_ids": [
+      30009,
+      30017
+    ]
+  },
+  {
+    "id": 1110600024,
+    "name": "Leave It to Me",
+    "rush_prefix": "Leave It",
+    "rush_suffix": "to Me",
+    "flavor_text": "Attack/Far/Direct/Fast/Single Foe (Blunt+Lightning) <br>Attack.<br>User becomes unconscious.<br>Grants all other surviving allies Morale Up (very large) (3 turn(s)).<br>Grants all other surviving allies Guard Up (very large) (3 turn(s)).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 6,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 4,
+    "attack_attributes": [
+      2,
+      6
+    ],
+    "power_grade": "SSSS",
+    "consume_bp": 15,
+    "consume_lp": 3,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801030435,
+      801041009,
+      801041018
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1011,
+    "skill_effect": 140600084,
+    "skill_se_cue_sheet_name": "140600084",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30026,
+      30034,
+      30042
+    ]
+  },
+  {
     "id": 1110700001,
     "name": "Dazzling Ballet",
     "rush_prefix": "Dazzling",
@@ -136157,6 +136232,44 @@
     "skill_icon": 1118,
     "skill_effect": 140800018,
     "skill_se_cue_sheet_name": "140800018",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 0,
+    "is_popup_text": 1,
+    "max_awakening_count": 3,
+    "awakening_material_set_ids": [
+      30031,
+      30039,
+      30047
+    ]
+  },
+  {
+    "id": 1110800023,
+    "name": "Light of Blue Quartz",
+    "rush_prefix": "Light of",
+    "rush_suffix": "Blue Quartz",
+    "flavor_text": "Attack/Far/Direct/Fast/All Foes (Pierce+Lightning) <br>All range attack.<br>After attacking, the user enters an Energy Charge stance and starts the countdown (2 counts).<br>The count will decrease by 1 by the end of each turn, and Thunder Volt will be activated on the turn after the count turns 0.<br><br>Energy Charge skill: Thunder Volt<br>Spear skill/Attack/Power: SS/Far/Indirect/Fast/All Foes (Lightning)<br>All range attack.<br>(Uses skill rank of Light of Blue Quartz).",
+    "attack_distance": 2,
+    "skill_type": 1,
+    "battle_type": 8,
+    "skill_motion": 1,
+    "attack_method": 1,
+    "attack_area": 5,
+    "attack_attributes": [
+      3,
+      6
+    ],
+    "power_grade": "S",
+    "consume_bp": 16,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      801041008
+    ],
+    "normal_attack": 0,
+    "skill_icon": 1019,
+    "skill_effect": 140800118,
+    "skill_se_cue_sheet_name": "140800118",
     "min_action_time": 1,
     "max_action_time": 1,
     "is_consumed_when_over_kill": 0,
@@ -148131,6 +148244,40 @@
     "name": "Kyu Kyu Kyu Kyu!",
     "rush_prefix": "Kyu Kyu Kyu Kyu!",
     "rush_suffix": "Kyu Kyu Kyu Kyu!",
+    "flavor_text": "Support/Fast<br>When the skill/spell hits, increases target's CHA (large effect).",
+    "attack_distance": 2,
+    "skill_type": 2,
+    "battle_type": 55,
+    "skill_motion": 3,
+    "attack_method": 2,
+    "attack_area": 5,
+    "attack_attributes": [
+      7
+    ],
+    "power_grade": "-",
+    "consume_bp": 0,
+    "consume_lp": 0,
+    "critical_targets": [],
+    "additional_effect_ids": [
+      809010149,
+      1809040003
+    ],
+    "normal_attack": 0,
+    "skill_icon": 4001,
+    "skill_effect": 140300030,
+    "skill_se_cue_sheet_name": "140300023",
+    "min_action_time": 1,
+    "max_action_time": 1,
+    "is_consumed_when_over_kill": 1,
+    "is_popup_text": 1,
+    "max_awakening_count": 0,
+    "awakening_material_set_ids": []
+  },
+  {
+    "id": 1655000017,
+    "name": "Thank You",
+    "rush_prefix": "Thank You",
+    "rush_suffix": "Thank You",
     "flavor_text": "Support/Fast<br>When the skill/spell hits, increases target's CHA (large effect).",
     "attack_distance": 2,
     "skill_type": 2,

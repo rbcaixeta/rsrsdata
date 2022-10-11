@@ -28018,6 +28018,20 @@
     "sort_order": 0
   },
   {
+    "id": 1702100045,
+    "name": "Strengthened Bravery Ⅲ",
+    "flavor_text": "When HP is full, attacks' damage increases (large effect).<br><br>[Start of battle]<br>Recovers own BP (+3).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040014,
+      802040520
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",

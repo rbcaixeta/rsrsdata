@@ -550,6 +550,36 @@
     "expired_at": 1666659599
   },
   {
+    "id": 840134,
+    "name": "Halloween Party Night Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1669337999] <tz>)",
+    "icon": 840134,
+    "max_quantity": 99999,
+    "value": 30,
+    "sort_order": 22112530,
+    "expired_at": 1669337999
+  },
+  {
+    "id": 840135,
+    "name": "Halloween Party Night Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1669337999] <tz>)",
+    "icon": 840135,
+    "max_quantity": 99999,
+    "value": 60,
+    "sort_order": 22112560,
+    "expired_at": 1669337999
+  },
+  {
+    "id": 840136,
+    "name": "Halloween Party Night Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1669337999] <tz>)",
+    "icon": 840136,
+    "max_quantity": 99999,
+    "value": 90,
+    "sort_order": 22112590,
+    "expired_at": 1669337999
+  },
+  {
     "id": 840140,
     "name": "New Arc Stamina Potion (Sm.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1659661199] <tz>)",
