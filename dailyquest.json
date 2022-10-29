@@ -5704,6 +5704,41 @@
     "max_grind_count": 0
   },
   {
+    "id": 391480010,
+    "name": "Azami's Super Training Dojo",
+    "sort_order": 1,
+    "growth_count": 1,
+    "clear_limit": 0,
+    "banner": 901180,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 33,
+        "id": 960001
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      210001746
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1480,
+    "battle_id": 300101011,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
     "id": 921089010,
     "name": "1. Boots Trial - Hard",
     "sort_order": 1,

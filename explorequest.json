@@ -1817,7 +1817,7 @@
     "is_guaranteed_growth": 0,
     "dairensen_round_reward_set_id": 0,
     "twitter_button_id": 0,
-    "max_grind_count": 0,
+    "max_grind_count": 50,
     "raid_piercemage_reward_group_id": 0
   },
   {
@@ -1882,7 +1882,84 @@
     "battle_id": 950006011,
     "max_turn": 0,
     "scenario_id": 0,
-    "prev_quest_ids": [],
+    "prev_quest_ids": [
+      900000051
+    ],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 50,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
+    "id": 900000051,
+    "quest_type": 1,
+    "name": "Get diggin'! Mining Caves Spree",
+    "difficulty": 0,
+    "sort_order": 3,
+    "growth_count": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 450001,
+    "stamina": 0,
+    "quest_ticket_id": 821075,
+    "quest_ticket_quantity": 50,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100387
+      },
+      {
+        "type": 7,
+        "id": 1100262
+      },
+      {
+        "type": 16,
+        "id": 203401000
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000150,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151,
+      400000151
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1170,
+    "battle_id": 950006011,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      900000051
+    ],
     "point_bonuses": [],
     "quest_condition_id": 0,
     "adjusted_reward_group_id": 0,

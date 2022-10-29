@@ -4678,5 +4678,32 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 308
+  },
+  {
+    "id": 1000000513,
+    "event_ability_category_id": 1000000276,
+    "name": "[Ltd. Time] Death's Halloween Parade! I",
+    "flavor_text": "・2x attribute gains in Main quests and Death's Halloween Parade!<br>・Bonus Jack-O'-Lantern drops in Death's Halloween Parade!",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 309
+  },
+  {
+    "id": 1000000514,
+    "event_ability_category_id": 1000000276,
+    "name": "[Ltd. Time] Death's Halloween Parade! II",
+    "flavor_text": "・3x attribute gains in Main quests and Death's Halloween Parade!<br>・Bonus Jack-O'-Lantern drops in Death's Halloween Parade!",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 309
+  },
+  {
+    "id": 1000000515,
+    "event_ability_category_id": 1000000277,
+    "name": "[Ltd. Time] Azami's Super Training Dojo",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing Azami's Super Training Dojo",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 310
   }
 ]

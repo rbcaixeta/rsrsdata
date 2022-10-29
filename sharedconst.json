@@ -51,7 +51,7 @@
     "id": 9,
     "key": "material_max_quantity",
     "type": "integer",
-    "value": "99999"
+    "value": "999999"
   },
   {
     "id": 10,
@@ -124,5 +124,11 @@
     "key": "auto_rematch_daily_default_count",
     "type": "integer",
     "value": "50"
+  },
+  {
+    "id": 22,
+    "key": "max_inventory_count",
+    "type": "integer",
+    "value": "950"
   }
 ]

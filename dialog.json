@@ -1755,6 +1755,15 @@
     "button1": "Close"
   },
   {
+    "id": 202,
+    "name": "EquipmentNaming_InputText_Max",
+    "title": "Error",
+    "text": "You have exceeded the character limit.<br>Please enter no more than 15 characters.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
     "id": 203,
     "name": "auto_rematch_Battle_End_8",
     "title": "Auto Rematch Stopped",

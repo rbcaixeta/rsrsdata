@@ -1110,5 +1110,37 @@
         "formation_bonus_id": 1124
       }
     ]
+  },
+  {
+    "id": 1041,
+    "name": "Whirlwind",
+    "flavor_text": "Defensive formation which grants the front three members Post-Action Defense Boost. The front three draw enemy attacks. Boosts the party's AGI.<br>For parties which want to strike first and mitigate damage.",
+    "positions": [
+      {
+        "x": 18,
+        "y": 25,
+        "formation_bonus_id": 1125
+      },
+      {
+        "x": 8,
+        "y": 14,
+        "formation_bonus_id": 1126
+      },
+      {
+        "x": 8,
+        "y": 36,
+        "formation_bonus_id": 1126
+      },
+      {
+        "x": 34,
+        "y": 8,
+        "formation_bonus_id": 1127
+      },
+      {
+        "x": 34,
+        "y": 42,
+        "formation_bonus_id": 1127
+      }
+    ]
   }
 ]

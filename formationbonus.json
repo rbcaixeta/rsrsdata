@@ -1298,5 +1298,44 @@
     "ai_coefficient": 100,
     "miryoku_coefficient": 100,
     "ability_id": 0
+  },
+  {
+    "id": 1125,
+    "flavor_text": "AGI increased by 25%, but LOV decreased by 25%.",
+    "wanryoku_coefficient": 100,
+    "tairyoku_coefficient": 100,
+    "kiyousa_coefficient": 100,
+    "subayasa_coefficient": 125,
+    "chiryoku_coefficient": 100,
+    "seishin_coefficient": 100,
+    "ai_coefficient": 75,
+    "miryoku_coefficient": 100,
+    "ability_id": 750100698
+  },
+  {
+    "id": 1126,
+    "flavor_text": "AGI increased by 25%, but LOV decreased by 25%. More likely to be targeted by enemies.",
+    "wanryoku_coefficient": 100,
+    "tairyoku_coefficient": 100,
+    "kiyousa_coefficient": 100,
+    "subayasa_coefficient": 125,
+    "chiryoku_coefficient": 100,
+    "seishin_coefficient": 100,
+    "ai_coefficient": 75,
+    "miryoku_coefficient": 100,
+    "ability_id": 750100698
+  },
+  {
+    "id": 1127,
+    "flavor_text": "AGI/INT increased by 25%, but LOV decreased by 25%. Less likely to be targeted by enemies.",
+    "wanryoku_coefficient": 100,
+    "tairyoku_coefficient": 100,
+    "kiyousa_coefficient": 100,
+    "subayasa_coefficient": 125,
+    "chiryoku_coefficient": 125,
+    "seishin_coefficient": 100,
+    "ai_coefficient": 75,
+    "miryoku_coefficient": 100,
+    "ability_id": 0
   }
 ]

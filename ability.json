@@ -4243,6 +4243,36 @@
     "sort_order": 0
   },
   {
+    "id": 702101124,
+    "name": "Celestial's Wisdom",
+    "flavor_text": "When recovery actions are made, recovers own BP (+1) and recovers own HP (medium effect).<br>Also grants oneself an attack boost (large effect/3 turn(s)) and a defense boost (medium effect/3 turn(s)).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041029,
+      802041030,
+      802041031,
+      802040732
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101125,
+    "name": "Forestall Ⅲ (STR)",
+    "flavor_text": "[Start of round]<br>Increases own action order value (medium effect/1 turn(s)).<br>Increases own STR (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011045,
+      802040941
+    ],
+    "ability_when": 2,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 702101126,
     "name": "Engage Ⅳ",
     "flavor_text": "[Start of round]<br>Grants oneself an attack boost (extreme effect/1 turn(s)).",
@@ -4251,6 +4281,77 @@
       802041034
     ],
     "ability_when": 2,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101127,
+    "name": "Knockdown Energy: Defense",
+    "flavor_text": "On odd turns counting from the start of battle, grants oneself Defense Up (medium effect). (Max times: 5 times per battle).<br>When landing an attack that defeats the target, recovers own BP (only 3 BP will be recovered even if multiple targets are defeated).<br><br>Defense Up<br>Damage taken will be reduced (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040948,
+      802041035
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101128,
+    "name": "Odd Turn: Defense Up",
+    "flavor_text": "On odd turns counting from the start of battle, grants oneself Defense Up (medium effect). (Max times: 5 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041036
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101131,
+    "name": "Healing Resonance Ⅲ",
+    "flavor_text": "When recovery actions are made, recovers own HP (medium effect).<br>And increases own and target's STR/AGI (large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040732,
+      802011040,
+      802011041,
+      802011042,
+      802011043
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101132,
+    "name": "Offensive Union Ⅰ",
+    "flavor_text": "When all allies are still surviving, increases attack damage for all allies (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040530
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101133,
+    "name": "Breadwinner",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' poison resistance and unconsciousness resistance (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802021037,
+      802021038
+    ],
+    "ability_when": 3,
     "icon": 4010,
     "rarity": 0,
     "sort_order": 0
@@ -4269,6 +4370,49 @@
     "sort_order": 0
   },
   {
+    "id": 702101135,
+    "name": "Banner of Hope",
+    "flavor_text": "Increases attack damage for all allies (small effect), and reduces damage taken for all allies (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041048,
+      802041049
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101136,
+    "name": "Chocolate Coating",
+    "flavor_text": "When recovery actions are made, recovers all surviving allies' HP (very small effect).<br>And increases all surviving allies' END (very large effect).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011050,
+      802011051
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101137,
+    "name": "Mastery Ⅰ (DEX/LOV)",
+    "flavor_text": "[Start of turn]<br>Increases own DEX/LOV (small effect).<br>Also recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040812,
+      802011052,
+      802010856
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 702101138,
     "name": "Recover HP on OD Attack",
     "flavor_text": "When landing an OverDrive attack, recovers all surviving allies' HP (medium effect).",
@@ -4278,6 +4422,304 @@
     ],
     "ability_when": 6,
     "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101139,
+    "name": "Impair Ⅱ (WIL)",
+    "flavor_text": "When landing an attack, reduces target's WIL (high chance/large effect).<br>When landing an attack, recovers own BP (high chance/+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041054,
+      802041020
+    ],
+    "ability_when": 1,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101140,
+    "name": "WIL Down on Attack",
+    "flavor_text": "When landing an attack, reduces target's WIL (high chance/large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802010192
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101141,
+    "name": "Fatal Revenge",
+    "flavor_text": "When being directly attacked, counterattacks with Fatal Steal (high chance).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041055
+    ],
+    "ability_when": 1,
+    "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101142,
+    "name": "Charming Practice Ⅰ",
+    "flavor_text": "When landing an attack, inflicts charm on target (high chance/4 turn(s)).<br>When landing an attack, recovers own BP (high chance/+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041019,
+      802041056
+    ],
+    "ability_when": 1,
+    "icon": 3007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101143,
+    "name": "Recover BP on Attack",
+    "flavor_text": "When landing an attack, recovers own BP (high chance/+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040066
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101144,
+    "name": "Queen's Body",
+    "flavor_text": "[Start of turn]<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).<br><br>At the end of odd turns counting from the start of battle, recovers own BP (+1).<br>At the end of even turns counting from the start of battle, recovers own HP (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041059,
+      802041057,
+      802041058
+    ],
+    "ability_when": 1,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101145,
+    "name": "End of Odd Turn: Recover BP",
+    "flavor_text": "At the end of odd turns counting from the start of battle, recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040812
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101146,
+    "name": "End of Even Turn: Recover HP",
+    "flavor_text": "At the end of even turns counting from the start of battle, recovers own HP (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040062
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101147,
+    "name": "Turn Start: All Attributes Up",
+    "flavor_text": "[Start of turn]<br>Increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802010850,
+      802010851,
+      802010852,
+      802010853,
+      802010854,
+      802010855,
+      802010856,
+      802010857
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101148,
+    "name": "Taunt Mastery Ⅲ (WIL)",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a taunt stance (small effect/4 turn(s)), and increases own WIL (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040602,
+      802010391
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101149,
+    "name": "Devoted Swordsmanship",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>After activating an OD attack, Jolting Slash+ will be activated.<br>*Skills/Spells transmitted in Robin Cup and Skills/Spells activated by this Ability are not considered OD attacks.<br><br>Jolting Slash+<br>G. Sword/Attack/Power: SSS/Direct/Single Foe (Slash+Lightning)<br>Attack.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040322,
+      802041063
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101151,
+    "name": "Mastery Ⅰ (DEX/INT)",
+    "flavor_text": "[Start of turn]<br>Increases own DEX/INT (small effect).<br>Also recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040812,
+      802011062,
+      802010846
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101153,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "After activating an OD attack, Jolting Slash+ will be activated.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041064,
+      802041065,
+      802041066,
+      802041067,
+      802041068
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101154,
+    "name": "Power Spread Ⅰ (AGI/INT)",
+    "flavor_text": "When landing an attack, increases all surviving allies' AGI/INT (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011069,
+      802011070
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101155,
+    "name": "Impair Ⅱ (AGI)",
+    "flavor_text": "When landing an attack, reduces target's AGI (high chance/large effect).<br>When landing an attack, recovers own BP (high chance/+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041071,
+      802041020
+    ],
+    "ability_when": 1,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101156,
+    "name": "AGI Down on Attack",
+    "flavor_text": "When landing an attack, reduces target's AGI (high chance/large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802010186
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101157,
+    "name": "Petrifying Practice Ⅱ",
+    "flavor_text": "When landing an attack, inflicts petrification on target (high chance/5 turn(s)).<br>When landing an attack, recovers own BP (high chance/+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041072,
+      802041020
+    ],
+    "ability_when": 1,
+    "icon": 3009,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101158,
+    "name": "Petrify on Attack",
+    "flavor_text": "When landing an attack, inflicts petrification on target (high chance/5 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802030242
+    ],
+    "ability_when": 6,
+    "icon": 3009,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101159,
+    "name": "Boost System",
+    "flavor_text": "[Start of round]<br>Grants oneself Morale Up (large) (3 turn(s)).<br>Grants oneself Guard Up (large) (3 turn(s)).<br>Recovers own BP (+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040754,
+      802041077,
+      802041078
+    ],
+    "ability_when": 2,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101160,
+    "name": "Strengthened Strike Ⅲ",
+    "flavor_text": "OD attacks' damage increases (extreme effect).<br><br>[Start of battle]<br>Recovers own BP (+3).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041073,
+      802040520
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101161,
+    "name": "Haniwa's Fluke",
+    "flavor_text": "When landing an attack with Seven Swords Swing, Seven Swords will be activated (low chance).<br><br>Seven Swords<br>M. Arts/Attack/Power: D/Direct/Single Foe (Slash)<br>Attack.<br>Attacks random enemies (4-7 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041074
+    ],
+    "ability_when": 6,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   },
@@ -4292,6 +4734,861 @@
     ],
     "ability_when": 1,
     "icon": 4006,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101163,
+    "name": "Wide-Range Sound System",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>After activating an OD attack, Beat Wave Cannon will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Beat Wave Cannon<br>Gun/Attack/Power: A/Indirect/All Foes (Blunt) <br>All range attack.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040520,
+      802041075
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101164,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "After activating an OD attack, Beat Wave Cannon will be activated.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041076,
+      802041082,
+      802041083,
+      802041084
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101165,
+    "name": "Hustle Battle Charge Ⅲ",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>When landing an OverDrive attack, recovers all surviving allies' BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040520,
+      802041079
+    ],
+    "ability_when": 1,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101166,
+    "name": "Recover BP on OD Attack",
+    "flavor_text": "When landing an OverDrive attack, recovers all surviving allies' BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041080
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101167,
+    "name": "Divine Revelation",
+    "flavor_text": "When recovery actions are made, grants the target an attack boost (very large effect/3 turn(s)) and a defense boost (medium effect/3 turn(s)).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041081,
+      802041085
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101168,
+    "name": "Camouflage Ⅲ (DEX)",
+    "flavor_text": "[Start of round]<br>Has oneself enter a stealth stance (large effect/4 turn(s)).<br>Increases own DEX (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040951,
+      802010318
+    ],
+    "ability_when": 2,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101169,
+    "name": "Healing Reverb",
+    "flavor_text": "[End of turn]<br>Has a medium chance to:<br>Recover all surviving allies' HP (very small effect), and cure all surviving allies from all status ailments.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802010778,
+      802040072
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101170,
+    "name": "Encore",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, Brave Song will be activated (high chance).<br>*Normal Attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Brave Song<br>Sword skill/Attack/Power: A/Indirect/All Foes (Slash+Heat)<br>All range attack.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041087,
+      802041088,
+      802041089,
+      802041090
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101171,
+    "name": "Strengthened Attack Ⅱ",
+    "flavor_text": "Attacks' damage increases (large effect).<br><br>[Start of battle]<br>Recovers own BP (+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040001,
+      802040322
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101172,
+    "name": "Warring Wave Ⅰ",
+    "flavor_text": "[End of turn]<br>Increases all surviving allies' OD gauge (high chance/small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041091
+    ],
+    "ability_when": 4,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101173,
+    "name": "Alternating ATK & DEF",
+    "flavor_text": "On odd turns counting from the start of battle, increases own action order value (large effect/1 turn(s)), and grants oneself Morale Up (medium) (1 turn(s)).<br><br>On even turns counting from the start of battle, grants oneself Guard Up (large) (1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041092,
+      802041093
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101174,
+    "name": "Odd Turn Start: Action Order Up/Morale Up",
+    "flavor_text": "On odd turns counting from the start of battle, increases own action order value (large effect/1 turn(s)), and grants oneself Morale Up (medium) (1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041094,
+      802040979
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101175,
+    "name": "Even Turn Start: Guard Up",
+    "flavor_text": "On even turns counting from the start of battle, grants oneself Guard Up (large) (1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041095
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101176,
+    "name": "Hustle Cleanse Ⅱ (DEX/INT)",
+    "flavor_text": "When landing an attack, increases own DEX/INT (medium effect).<br>When landing an Overdrive attack, removes target's buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041096,
+      802041097
+    ],
+    "ability_when": 1,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101177,
+    "name": "DEX/INT Up on Attack",
+    "flavor_text": "When landing an attack, increases own DEX/INT (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802010082,
+      802010088
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101178,
+    "name": "Remove Attributes Up on OD Attack",
+    "flavor_text": "When landing an Overdrive attack, removes target's buffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041098
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101179,
+    "name": "Doppelgangers+ Counter",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Doppelgangers+ (medium chance).<br><br>Counterattack: Doppelgangers+<br>Sword skill/Attack/Power: SSS/Direct/Single Foe (Slash)<br>Attack. (Activates using skill Rank 1)",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041100
+    ],
+    "ability_when": 1,
+    "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101181,
+    "name": "Egg's Memory",
+    "flavor_text": "[End of turn]<br>Recovers own HP (very small effect).<br>Recovers own BP (+1).<br>Increases own OD gauge (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040812,
+      802040901,
+      802041101
+    ],
+    "ability_when": 4,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101182,
+    "name": "Active Momentum Ⅱ (INT)",
+    "flavor_text": "[Start of turn]<br>Grants oneself Morale Up (medium) (1 turn(s)).<br>Increases own INT (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041157,
+      802010510
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101183,
+    "name": "Black Anima",
+    "flavor_text": "Attacks' damage increases (large effect).<br><br>On odd turns counting from the start of battle, grants oneself Heat Up (medium effect). (Max times: 5 times per battle).<br>On even turns counting from the start of battle, grants oneself Defense Up (medium effect). (Max times: 5 times per battle).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).<br><br>Defense Up<br>Damage taken will be reduced (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040001,
+      802041103,
+      802041104
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101184,
+    "name": "Odd Turn Start: Heat Up",
+    "flavor_text": "On odd turns counting from the start of battle, grants oneself Heat Up (medium effect). (Max times: 5 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040934
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101185,
+    "name": "Even Turn Start: Defense Up",
+    "flavor_text": "On even turns counting from the start of battle, grants oneself Defense Up (medium effect). (Max times: 5 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041036
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101186,
+    "name": "Evasive Energy Ⅰ",
+    "flavor_text": "When being attacked, evades enemy's attack (medium chance).<br><br>[End of turn]<br>Recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040311,
+      802040902
+    ],
+    "ability_when": 1,
+    "icon": 4006,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101187,
+    "name": "Scorpion Venom",
+    "flavor_text": "[Start of turn]<br>Grants oneself Heat Up (large effect). (Max times: 5 times per battle).<br>Inflicts poison on oneself (4 turn(s)).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041112,
+      802041119
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101188,
+    "name": "High Detox Tension",
+    "flavor_text": "Attacks' damage increases (very large effect).<br><br>[End of turn]<br>Cures oneself from all status ailments.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040346,
+      802041107
+    ],
+    "ability_when": 1,
+    "icon": 4008,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101189,
+    "name": "End of Turn: All Ailments Cured",
+    "flavor_text": "[End of turn]<br>Cures oneself from all status ailments.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040310
+    ],
+    "ability_when": 4,
+    "icon": 4008,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101190,
+    "name": "Critical Knowledge Ⅳ",
+    "flavor_text": "Own attacks will cause critical damage to Human/Mec enemies.<br>Critical attacks' damage increases (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040999,
+      802040960,
+      802041108
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101191,
+    "name": "Fighting Energy Ⅱ (AGI)",
+    "flavor_text": "[Start of turn]<br>Has a very high chance to:<br>Increase own AGI (very large effect) and recover own BP (+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011158,
+      802040754
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101192,
+    "name": "Energy Surge",
+    "flavor_text": "[Start of turn]<br>Recovers own BP (+3) (Max times: 3 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040755
+    ],
+    "ability_when": 3,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101196,
+    "name": "Turn Start: Heat Up",
+    "flavor_text": "[Start of turn]<br>Grants oneself Heat Up (large effect). (Max times: 5 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041116
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101198,
+    "name": "Giant's Combat",
+    "flavor_text": "Counterattacks' damage increases (very large effect).<br>When landing an OverDrive attack, grants oneself Berva's Revenge (1 turn(s)).<br><br>Berva's Revenge<br>Nullifies attacks which have blunt damage. Also counterattacks with Berva's Uppercut when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).<br><br>Counterattack: Berva's Uppercut<br>M. Arts skill/Attack/Power: SSS/Direct/Single Foe (Blunt)<br>Attack.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040012,
+      802041114
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101199,
+    "name": "Berva's Revenge on OD Attack",
+    "flavor_text": "When landing an OverDrive attack, grants oneself Berva's Revenge (1 turn(s)).<br><br>Berva's Revenge<br>Nullifies attacks which have blunt damage. Also counterattacks with Berva's Uppercut when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041115
+    ],
+    "ability_when": 6,
+    "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101200,
+    "name": "Usurp",
+    "flavor_text": "When landing an attack, recovers own HP (high chance/large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040515
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101201,
+    "name": "Transmission Ⅲ (DEX/INT)",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' DEX/INT (medium chance/large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041117,
+      802041118
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101202,
+    "name": "Enchanting Heal Ⅱ (DEX)",
+    "flavor_text": "[Start of turn]<br>Has a medium chance to:<br>Recover all surviving allies' HP (very small effect) and increase all surviving allies' DEX (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802010778,
+      802010672
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101203,
+    "name": "Turn Start: Inflict Poison",
+    "flavor_text": "[Start of turn]<br>Inflicts poison on oneself (4 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802031113
+    ],
+    "ability_when": 3,
+    "icon": 3001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101204,
+    "name": "Axe Arcana Ⅳ",
+    "flavor_text": "When attacking with axes, attack damage increases (very large effect).<br>When landing a Weak attack, damage increases further (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040947,
+      802041120
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101205,
+    "name": "Vivify Ⅵ",
+    "flavor_text": "[End of turn]<br>Recovers own BP (medium chance/+6).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041121
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101206,
+    "name": "Sudden Strike Ⅰ",
+    "flavor_text": "When landing an attack, inflicts stun on target (high chance).<br>When landing an attack, recovers own BP (high chance/+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041122,
+      802041056
+    ],
+    "ability_when": 1,
+    "icon": 3003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101207,
+    "name": "Stun on Attack",
+    "flavor_text": "When landing an attack, inflicts stun on target (high chance).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802030239
+    ],
+    "ability_when": 6,
+    "icon": 3003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101210,
+    "name": "Frozen Guardian",
+    "flavor_text": "Attacks' damage increases (very large effect).<br>When attacking with G. Swords, attack damage increases further (very large effect).<br>Have oneself enter a Frozen stance at start of battle.<br><br>Frozen<br>Have oneself petrified (1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040346,
+      802040752,
+      802031124
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101211,
+    "name": "Master Stance",
+    "flavor_text": "When HP is full, evades attacks towards self (medium chance).<br>When HP is not full, attacks' damage increases (very large effect), and damage taken will be reduced (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041125,
+      802040608,
+      802041126
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101212,
+    "name": "Claw Bit Assault (3x)",
+    "flavor_text": "Starting from the next turn after entering this stance, when landing an attack, Claw Bit Assault will be activated (Max times: 3).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup will not activate Claw Bit Assault.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      801041068,
+      801041069,
+      801041070,
+      801041071,
+      801041072
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101213,
+    "name": "Absorption Magick",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, Drain Energy+ will be activated (very high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041128,
+      802041129,
+      802041130,
+      802041131
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101214,
+    "name": "Improving Spirit Ⅰ (All)",
+    "flavor_text": "When landing an attack, increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011132,
+      802011133,
+      802011134,
+      802011135,
+      802011136,
+      802011137,
+      802011138,
+      802011139
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101215,
+    "name": "End of Turn: Recover HP",
+    "flavor_text": "[End of turn]<br>When knocked unconscious, recovers own HP (very large effect) (Max times: 1).<br>(Will not activate when knocked unconscious by poison damage).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041140
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101216,
+    "name": "Exhaustion Ⅰ (WIL)",
+    "flavor_text": "When landing an attack, reduces target's WIL (small effect) and recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011149,
+      802040742
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101217,
+    "name": "Chasing Wild Fireballs",
+    "flavor_text": "When landing an attack with Cure Fire, Wild Fireballs will be activated (high chance).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041141
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101218,
+    "name": "Purifying Energy Ⅱ",
+    "flavor_text": "[End of turn]<br>Has a very high chance to:<br>Remove own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA, cure oneself from all status ailments, and recover own BP (+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041206,
+      802041207,
+      802040754
+    ],
+    "ability_when": 4,
+    "icon": 4008,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101219,
+    "name": "Frost Amp Ⅳ",
+    "flavor_text": "Cold attacks' damage increases (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041142
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101220,
+    "name": "Revitalize Ⅱ",
+    "flavor_text": "[End of turn]<br>Has a medium chance to:<br>Recover own HP (small effect) and recover own BP (+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040062,
+      802040754
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101221,
+    "name": "Transmission Ⅱ (INT)",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' INT (medium chance/medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011143
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101222,
+    "name": "End of Turn: Recover BP (+4)",
+    "flavor_text": "[End of turn]<br>Recovers own BP (+4/3 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041202
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101223,
+    "name": "Revitalize Ⅰ",
+    "flavor_text": "[End of turn]<br>Has a medium chance to:<br>Recover own HP (small effect) and recover own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040062,
+      802040812
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101224,
+    "name": "Superheating",
+    "flavor_text": "OD attacks' damage increases (extreme effect).<br>On even turns counting from the start of battle, grants oneself Heat Up (medium effect). (Max times: 5 times per battle).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041073,
+      802040935
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101225,
+    "name": "Active Treatment Ⅱ (STR)",
+    "flavor_text": "[Start of turn]<br>Recovers own HP (very small effect), and increases own STR (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041204,
+      802010858
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101227,
+    "name": "Transmission Ⅲ (DEX/CHA)",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' DEX/CHA (medium chance/large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011150,
+      802011151
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101229,
+    "name": "Soul of Friendship",
+    "flavor_text": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack, Thyme's Friends will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Thyme's Friends<br>Club/Attack/Power: B/Indirect/All Foes (Blunt+Slash)<br>All range attack.<br>Recovers all surviving allies' HP (very small effect) and increases all surviving allies' status ailments resistances (medium effect).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041152,
+      802041153
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101230,
+    "name": "End of Turn: OD Gauge Up (Sm.)",
+    "flavor_text": "[End of turn]<br>Increases own OD gauge (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041101
+    ],
+    "ability_when": 4,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101231,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "After activating an OD attack, Thyme's Friends will be activated.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041154,
+      802041155,
+      802041156
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101234,
+    "name": "Fortitude",
+    "flavor_text": "Attacks' damage increases (large effect).<br>When attacked and HP reaches 0, returns to 50% of Max HP (Max times: 1 time per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041203,
+      802040001
+    ],
+    "ability_when": 1,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   },
@@ -23751,6 +25048,136 @@
     "sort_order": 0
   },
   {
+    "id": 703101037,
+    "name": "[Weapon Holy Stone] Sword Master",
+    "flavor_text": "When attacking with swords, damage increases.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      803040599
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 703101038,
+    "name": "[Weapon Holy Stone] G. Sword Master",
+    "flavor_text": "When attacking with G. Swords, damage increases.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      803040600
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 703101039,
+    "name": "[Weapon Holy Stone] Axe Master",
+    "flavor_text": "When attacking with axes, damage increases.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      803040601
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 703101040,
+    "name": "[Weapon Holy Stone] Club Master",
+    "flavor_text": "When attacking with clubs, damage increases.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      803040602
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 703101041,
+    "name": "[Weapon Holy Stone] M. Arts Master",
+    "flavor_text": "When attacking with M. Arts, damage increases.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      803040603
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 703101042,
+    "name": "[Weapon Holy Stone] Gun Master",
+    "flavor_text": "When attacking with guns, damage increases.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      803040604
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 703101043,
+    "name": "[Weapon Holy Stone] S. Sword Master",
+    "flavor_text": "When attacking with S. Swords, damage increases.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      803040605
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 703101044,
+    "name": "[Weapon Holy Stone] Spear Master",
+    "flavor_text": "When attacking with spears, damage increases.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      803040606
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 703101045,
+    "name": "[Weapon Holy Stone] Bow Master",
+    "flavor_text": "When attacking with bows, damage increases.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      803040607
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 703101046,
+    "name": "[Weapon Holy Stone] Staff Master",
+    "flavor_text": "When attacking with staves, damage increases.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      803040608
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 703600028,
     "name": "[Weapon Holy Stone] Poison Res Down",
     "flavor_text": "When landing an attack, reduces target's poison resistance (medium chance).",
@@ -24313,6 +25740,19 @@
     "sort_order": 0
   },
   {
+    "id": 708100158,
+    "name": "Wild Opening",
+    "flavor_text": "[Start of battle]<br>All surviving enemies' OD gauge will be full.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808040388
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 708200112,
     "name": "Weak Point Focus Ⅳ",
     "flavor_text": "Weak attacks' damage increases (very large effect).",
@@ -24379,12 +25819,68 @@
     "sort_order": 0
   },
   {
+    "id": 708200156,
+    "name": "Inhibitor Ⅳ (STR/DEX/AGI)",
+    "flavor_text": "[Start of round]<br>Reduces all enemies' STR/DEX/AGI (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010415,
+      808010416,
+      808010414
+    ],
+    "ability_when": 2,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708200160,
+    "name": "Offense x Defense",
+    "flavor_text": "On odd turns counting from the start of round, grants oneself an attack boost (very small effect/1 turn(s)).<br>On even turns counting from the start of round, grants oneself a defense boost (large effect/1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808040421,
+      808040422
+    ],
+    "ability_when": 2,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708200168,
+    "name": "Sword of Misery",
+    "flavor_text": "[Start of round]<br>Grants oneself Morale Up (extreme) (2 turn(s)).<br>Grants oneself an attack boost (large effect/2 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808040431,
+      808040432
+    ],
+    "ability_when": 2,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 708300012,
     "name": "Reinforce (STR)",
     "flavor_text": "[Start of turn]<br>Increases own STR (large effect).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       808010012
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708300013,
+    "name": "Reinforce (DEX)",
+    "flavor_text": "[Start of turn]<br>Increases own DEX (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010013
     ],
     "ability_when": 3,
     "icon": 4001,
@@ -24674,6 +26170,125 @@
     "sort_order": 0
   },
   {
+    "id": 708300157,
+    "name": "Princess's Illusion",
+    "flavor_text": "On odd turns counting from the start of battle, grants oneself Evasion (1 time) (1 turn(s)).<br><br>Evasion (1 time)<br>Evades enemies' attacks, and nullifies damage (Max times: 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808040413
+    ],
+    "ability_when": 3,
+    "icon": 4006,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708300159,
+    "name": "Even Energy (WIL)",
+    "flavor_text": "On even turns counting from the start of battle, increases own WIL (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010418
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708300161,
+    "name": "Even Turn: Defense Boost",
+    "flavor_text": "On even turns counting from the start of round, grants oneself a defense boost (large effect/1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808040419
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708300162,
+    "name": "Odd Turn: Attack Boost",
+    "flavor_text": "On odd turns counting from the start of round, grants oneself an attack boost (very small effect/1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808040420
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708300170,
+    "name": "Ocean's Healing",
+    "flavor_text": "[Start of turn]<br>Recovers all surviving allies' HP.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808050423
+    ],
+    "ability_when": 3,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708300173,
+    "name": "Ghastly Oppression (AGI)",
+    "flavor_text": "[Start of turn]<br>Reduces all enemies' AGI (very large effect) on specific turns.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010112
+    ],
+    "ability_when": 3,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708300174,
+    "name": "Precision Ⅳ",
+    "flavor_text": "[Start of turn]<br>Own attacks' accuracy increases (very large effect/10 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808040437
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708300176,
+    "name": "STR/AGI Up",
+    "flavor_text": "[Start of turn]<br>Increases own STR (very large effect).<br>Increases own AGI (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010439,
+      808010440
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708300177,
+    "name": "DEX/INT Up",
+    "flavor_text": "[Start of turn]<br>Increases own DEX/INT (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010441,
+      808010442
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 708400052,
     "name": "Regen",
     "flavor_text": "[End of turn]<br>Recovers own HP (large effect).",
@@ -24958,6 +26573,35 @@
     "special_effect_ids": [
       808040409,
       808020410
+    ],
+    "ability_when": 4,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708400163,
+    "name": "Emperor's Command (DEF)",
+    "flavor_text": "[End of turn]<br>Has a medium chance to:<br>Recover all surviving allies' HP, increase all surviving allies' attack accuracy (large effect/5 turn(s)), and grant them a defense boost (medium effect/5 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808050423,
+      808040424,
+      808040425
+    ],
+    "ability_when": 4,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708400164,
+    "name": "Emperor's Command (ATK)",
+    "flavor_text": "[End of turn]<br>Has a medium chance to:<br>Recover all surviving allies' HP, and grant all surviving allies an attack boost (small effect/5 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808050423,
+      808040426
     ],
     "ability_when": 4,
     "icon": 4010,
@@ -25264,6 +26908,178 @@
     "simple_flavor_text": "",
     "special_effect_ids": [
       808040384
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600137,
+    "name": "Increased Threat Ⅱ (AGI)",
+    "flavor_text": "When landing an attack, increases own AGI (medium chance/large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010394
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600140,
+    "name": "Increased Threat Ⅱ (CHA)",
+    "flavor_text": "When landing an attack, increases own CHA (medium chance/large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010397
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600141,
+    "name": "Enervate Ⅱ (STR)",
+    "flavor_text": "When landing an attack, reduces target's STR (medium chance/medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010082
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600142,
+    "name": "Enervate Ⅱ (DEX)",
+    "flavor_text": "When landing an attack, reduces target's DEX (medium chance/medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010085
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600143,
+    "name": "Enervate Ⅱ (AGI)",
+    "flavor_text": "When landing an attack, reduces target's AGI (medium chance/medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010398
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600144,
+    "name": "Enervate Ⅱ (INT)",
+    "flavor_text": "When landing an attack, reduces target's INT (medium chance/medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010088
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600145,
+    "name": "Enervate Ⅱ (LOV)",
+    "flavor_text": "When landing an attack, reduces target's LOV (medium chance/medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010399
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600146,
+    "name": "Enervate Ⅱ (CHA)",
+    "flavor_text": "When landing an attack, reduces target's CHA (medium chance/medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010400
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600166,
+    "name": "Mercenary's Pride",
+    "flavor_text": "When being attacked, increases own STR/END (very small effect).<br>*Only activates when hit by an attack.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010411,
+      808010428
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600172,
+    "name": "Ocean's Love",
+    "flavor_text": "When being attacked, increases all surviving allies' LOV/CHA (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010434,
+      808010435
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600178,
+    "name": "STR/DEX Down",
+    "flavor_text": "When landing an attack, reduces target's STR/DEX (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010443,
+      808010444
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600179,
+    "name": "Ready to Counter Ⅱ (STR)",
+    "flavor_text": "When being attacked, increases own STR (small effect).<br>*Only activates when hit by an attack.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010445
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 708600180,
+    "name": "Ready to Counter Ⅱ (DEX)",
+    "flavor_text": "When being attacked, increases own DEX (small effect).<br>*Only activates when hit by an attack.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      808010446
     ],
     "ability_when": 6,
     "icon": 4001,
@@ -28032,6 +29848,34 @@
     "sort_order": 0
   },
   {
+    "id": 1702100046,
+    "name": "Knockdown Energy: Attack",
+    "flavor_text": "On odd turns counting from the start of battle, grants oneself Heat Up (medium effect). (Max times: 5 times per battle).<br>When landing an attack that defeats the target, recovers own BP (only 3 BP will be recovered even if multiple targets are defeated).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040948,
+      1802040085
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100047,
+    "name": "Club Arcana Ⅳ",
+    "flavor_text": "When attacking with clubs, attack damage increases (very large effect).<br>When landing a Weak attack, damage increases further (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040086,
+      1802040087
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -28531,6 +30375,19 @@
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802010023
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702300028,
+    "name": "Odd Turn Start: Heat Up",
+    "flavor_text": "On odd turns counting from the start of battle, grants oneself Heat Up (medium effect). (Max times: 5 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040934
     ],
     "ability_when": 3,
     "icon": 4010,
