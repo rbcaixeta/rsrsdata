@@ -1080,6 +1080,24 @@
     "sort_order": 22101201
   },
   {
+    "id": 800175,
+    "name": "Romancing Festival Medal 59",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800175,
+    "max_quantity": 99999999,
+    "expired_at": 1669942799,
+    "sort_order": 22110460
+  },
+  {
+    "id": 800176,
+    "name": "SaGa Soul Medal 9",
+    "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+    "icon": 800176,
+    "max_quantity": 99999999,
+    "expired_at": 1669942799,
+    "sort_order": 22110450
+  },
+  {
     "id": 860001,
     "name": "White Crystal",
     "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -4291,6 +4309,15 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 22012025
+  },
+  {
+    "id": 1100654,
+    "name": "SaGa THE STAGE BOX Surprises Ticket [Ltd. Time]",
+    "flavor_text": "A ticket for pulling the SaGa THE STAGE BOX Surprises. (Until [1670979599] <tz>)",
+    "icon": 1001100237,
+    "max_quantity": 99999999,
+    "expired_at": 1670979599,
+    "sort_order": 22110400
   },
   {
     "id": 1000800004,

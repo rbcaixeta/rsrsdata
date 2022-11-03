@@ -43365,6 +43365,23 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040069,
+    "state_change_id": 900050055,
+    "name": "Recover BP on Attack",
+    "flavor_text": "When landing an attack, recovers own BP (+1).",
+    "target_area": 1,
+    "state_vars": [
+      1
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040115,
     "state_change_id": 900040063,
     "name": "Morale Up (large)",
@@ -43793,6 +43810,36 @@
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
     "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1802010024,
+    "state_change_id": 900010013,
+    "name": "END Up",
+    "flavor_text": "Increases END.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "END/WIL↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1802010025,
+    "state_change_id": 900010017,
+    "name": "WIL Up",
+    "flavor_text": "Increases WIL.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
     "triggering_effect_condition_ids": [],
     "state_icon": 2001
   },
@@ -45291,6 +45338,124 @@
       10,
       21004
     ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040088,
+    "state_change_id": 900050113,
+    "name": "Turn Start: DEX/INT Up",
+    "flavor_text": "[Start of turn]<br>Increases own DEX/INT (small effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702300029
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040089,
+    "state_change_id": 900050113,
+    "name": "Recover BP on Enemy KO",
+    "flavor_text": "When defeating an enemy, recovers BP (+5).",
+    "target_area": 1,
+    "state_vars": [
+      1702600045
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040090,
+    "state_change_id": 900050113,
+    "name": "Turn Start: Taunt (small)",
+    "flavor_text": "On start of turn, has oneself enter a taunt stance (small effect/4 turn(s)).",
+    "target_area": 1,
+    "state_vars": [
+      1702300030
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040091,
+    "state_change_id": 900050113,
+    "name": "END/WIL Up When Attacked",
+    "flavor_text": "When attacked, increases own END/WIL (medium effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702600046
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040092,
+    "state_change_id": 900050113,
+    "name": "OD Gauge Up (sm.) When Attacked",
+    "flavor_text": "When attacked, increases own OD gauge (small effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702600047
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040093,
+    "state_change_id": 900050156,
+    "name": "OD Gauge Up",
+    "flavor_text": "Increases OD gauge.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "OD Gauge↑",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040094,
+    "state_change_id": 900040035,
+    "name": "Fatal Revenge",
+    "flavor_text": "Counters direct enemy attacks with Fatal Steal and decreases damage taken (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600018,
+      65
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
     "state_icon": 3001
   },
   {

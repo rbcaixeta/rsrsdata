@@ -4570,7 +4570,7 @@
   {
     "id": 702101149,
     "name": "Devoted Swordsmanship",
-    "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>After activating an OD attack, Jolting Slash+ will be activated.<br>*Skills/Spells transmitted in Robin Cup and Skills/Spells activated by this Ability are not considered OD attacks.<br><br>Jolting Slash+<br>G. Sword/Attack/Power: SSS/Direct/Single Foe (Slash+Lightning)<br>Attack.<br>(Activates using skill Rank 1).",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>After activating an OD attack, Jolting Slash+ will be activated.<br>*Skills/Spells transmitted in Robin Cup and Skills/Spells activated by this Ability are not considered OD attacks.<br><br>Jolting Slash+<br>G. Sword skill/Attack/Power: SSS/Direct/Single Foe (Slash+Lightning)<br>Attack.<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040322,
@@ -4713,7 +4713,7 @@
   {
     "id": 702101161,
     "name": "Haniwa's Fluke",
-    "flavor_text": "When landing an attack with Seven Swords Swing, Seven Swords will be activated (low chance).<br><br>Seven Swords<br>M. Arts/Attack/Power: D/Direct/Single Foe (Slash)<br>Attack.<br>Attacks random enemies (4-7 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>(Activates using skill Rank 1).",
+    "flavor_text": "When landing an attack with Seven Swords Swing, Seven Swords will be activated (low chance).<br><br>Seven Swords<br>M. Arts skill/Attack/Power: D/Direct/Single Foe (Slash)<br>Attack.<br>Attacks random enemies (4-7 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802041074
@@ -4740,7 +4740,7 @@
   {
     "id": 702101163,
     "name": "Wide-Range Sound System",
-    "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>After activating an OD attack, Beat Wave Cannon will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Beat Wave Cannon<br>Gun/Attack/Power: A/Indirect/All Foes (Blunt) <br>All range attack.<br>(Activates using skill Rank 1).",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>After activating an OD attack, Beat Wave Cannon will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Beat Wave Cannon<br>Gun skill/Attack/Power: A/Indirect/All Foes (Blunt) <br>All range attack.<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040520,
@@ -5539,7 +5539,7 @@
   {
     "id": 702101229,
     "name": "Soul of Friendship",
-    "flavor_text": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack, Thyme's Friends will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Thyme's Friends<br>Club/Attack/Power: B/Indirect/All Foes (Blunt+Slash)<br>All range attack.<br>Recovers all surviving allies' HP (very small effect) and increases all surviving allies' status ailments resistances (medium effect).<br>(Activates using skill Rank 1).",
+    "flavor_text": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack, Thyme's Friends will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Thyme's Friends<br>Club skill/Attack/Power: B/Indirect/All Foes (Blunt+Slash)<br>All range attack.<br>Recovers all surviving allies' HP (very small effect) and increases all surviving allies' status ailments resistances (medium effect).<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802041152,
@@ -29876,6 +29876,48 @@
     "sort_order": 0
   },
   {
+    "id": 1702100048,
+    "name": "KO Mastery Ⅰ (DEX/INT)",
+    "flavor_text": "[Start of turn]<br>Increases own DEX/INT (small effect).<br><br>When landing an attack that defeats the target, recovers own BP (only 5 BP will be recovered even if multiple targets are defeated).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040088,
+      1802040089
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100049,
+    "name": "Forged by Adversity",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a taunt stance (small effect/4 turn(s)).<br><br>When attacked, increases own END/WIL (medium effect) and increases own OD gauge (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040090,
+      1802040091,
+      1802040092
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100050,
+    "name": "Fatal Revenge",
+    "flavor_text": "When being directly attacked, reduces damage and counterattacks with Fatal Steal (high chance).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040094
+    ],
+    "ability_when": 1,
+    "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -30395,6 +30437,33 @@
     "sort_order": 0
   },
   {
+    "id": 1702300029,
+    "name": "Turn Start: DEX/INT Up",
+    "flavor_text": "[Start of turn]<br>Increases own DEX/INT (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011062,
+      802010846
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702300030,
+    "name": "Turn Start: Taunt (small)",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a taunt stance (small effect/4 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040602
+    ],
+    "ability_when": 3,
+    "icon": 4009,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702400001,
     "name": "Leader's Missions",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and recovers own BP (+1). ",
@@ -30874,6 +30943,46 @@
     ],
     "ability_when": 6,
     "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600045,
+    "name": "Recover BP on Enemy KO",
+    "flavor_text": "When landing an attack that defeats the target, recovers own BP (only 5 BP will be recovered even if multiple targets are defeated).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040664
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600046,
+    "name": "END/WIL Up When Attacked",
+    "flavor_text": "When attacked, increases own END/WIL (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802010024,
+      1802010025
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600047,
+    "name": "OD Gauge Up (sm.) When Attacked",
+    "flavor_text": "When attacked, increases own OD gauge (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040093
+    ],
+    "ability_when": 6,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   },
