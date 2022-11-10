@@ -4723,5 +4723,32 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 311
+  },
+  {
+    "id": 1000000518,
+    "event_ability_category_id": 1000000279,
+    "name": "[Ltd. Time] Following the Tycoon I",
+    "flavor_text": "・2x attribute gains in Main quests and Following the Tycoon<br>・Bonus Light Stone drops in Following the Tycoon",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 312
+  },
+  {
+    "id": 1000000519,
+    "event_ability_category_id": 1000000279,
+    "name": "[Ltd. Time] Following the Tycoon II",
+    "flavor_text": "・3x attribute gains in Main quests and Following the Tycoon<br>・Bonus Light Stone drops in Following the Tycoon",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 312
+  },
+  {
+    "id": 1000000520,
+    "event_ability_category_id": 1000000280,
+    "name": "[Ltd. Time] Main Story Expansion",
+    "flavor_text": "・2x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 313
   }
 ]

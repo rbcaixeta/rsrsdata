@@ -614,7 +614,7 @@
     "name": "SaGa THE STAGE BOX Stamina Potion (Sm.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1670979599] <tz>)",
     "icon": 840155,
-    "max_quantity": 99999,
+    "max_quantity": 9999999,
     "value": 30,
     "sort_order": 22121430,
     "expired_at": 1670979599
@@ -624,7 +624,7 @@
     "name": "SaGa THE STAGE BOX Stamina Potion (Med.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1670979599] <tz>)",
     "icon": 840156,
-    "max_quantity": 99999,
+    "max_quantity": 9999999,
     "value": 60,
     "sort_order": 22121460,
     "expired_at": 1670979599
@@ -634,10 +634,40 @@
     "name": "SaGa THE STAGE BOX Stamina Potion (Lg.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1670979599] <tz>)",
     "icon": 840157,
-    "max_quantity": 99999,
+    "max_quantity": 9999999,
     "value": 90,
     "sort_order": 22121490,
     "expired_at": 1670979599
+  },
+  {
+    "id": 840161,
+    "name": "Appreciation 2022 Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1674003599] <tz>)",
+    "icon": 840161,
+    "max_quantity": 9999999,
+    "value": 30,
+    "sort_order": 23011830,
+    "expired_at": 1674003599
+  },
+  {
+    "id": 840162,
+    "name": "Appreciation 2022 Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1674003599] <tz>)",
+    "icon": 840162,
+    "max_quantity": 9999999,
+    "value": 60,
+    "sort_order": 23011860,
+    "expired_at": 1674003599
+  },
+  {
+    "id": 840163,
+    "name": "Appreciation 2022 Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1674003599] <tz>)",
+    "icon": 840163,
+    "max_quantity": 9999999,
+    "value": 90,
+    "sort_order": 23011890,
+    "expired_at": 1674003599
   },
   {
     "id": 1000840001,

@@ -72279,5 +72279,2135 @@
     "is_required_for_area_clear": 0,
     "twitter_button_id": 0,
     "max_grind_count": 0
+  },
+  {
+    "id": 120103011,
+    "quest_type": 2,
+    "name": "3-1-1. Unexpected",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210301,
+    "number_of_story_banner": 3,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 0,
+    "scenario_id": 10303001,
+    "prev_quest_ids": [
+      120102171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103012,
+    "quest_type": 1,
+    "name": "3-1-1. Rescue Prep I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 3,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1040081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001116,
+      870001113,
+      870001112,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103171,
+      120102102
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103013,
+    "quest_type": 1,
+    "name": "3-1-1. Rescue Prep I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 3,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001123,
+      870001120,
+      870001119,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103102,
+      120102103
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103021,
+    "quest_type": 2,
+    "name": "3-1-2. Pilot & Warrior",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210301,
+    "number_of_story_banner": 3,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 0,
+    "scenario_id": 10303010,
+    "prev_quest_ids": [
+      120103011
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103022,
+    "quest_type": 1,
+    "name": "3-1-2. Rescue Prep II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 3,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1090061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001116,
+      870001112,
+      870001114,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103012
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103023,
+    "quest_type": 1,
+    "name": "3-1-2. Rescue Prep II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 3,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1090061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001123,
+      870001119,
+      870001121,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103013
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103031,
+    "quest_type": 1,
+    "name": "3-1-3. Rescue Prep I",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 3,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1040081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001109,
+      870001106,
+      870001105,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103021
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103032,
+    "quest_type": 1,
+    "name": "3-1-3. Rescue Prep III",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 3,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1060091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001116,
+      870001114,
+      870001111,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103022
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103033,
+    "quest_type": 1,
+    "name": "3-1-3. Rescue Prep III",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 3,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001123,
+      870001121,
+      870001118,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103023
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103041,
+    "quest_type": 1,
+    "name": "3-1-4. Rescue Prep II",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 3,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1090061,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001109,
+      870001105,
+      870001107,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103031
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103042,
+    "quest_type": 1,
+    "name": "3-1-4. Return to Town I",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 3,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1040461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001117,
+      870001111,
+      870001115,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103032
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103043,
+    "quest_type": 1,
+    "name": "3-1-4. Return to Town I",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 3,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001124,
+      870001118,
+      870001122,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103033
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103051,
+    "quest_type": 1,
+    "name": "3-1-5. Rescue Prep III",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000001,
+    "number_of_story_banner": 3,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1060091,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001109,
+      870001107,
+      870001104,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103041
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103052,
+    "quest_type": 1,
+    "name": "3-1-5. Return to Town II",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 3,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1140161,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001117,
+      870001115,
+      870001113,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103042
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103053,
+    "quest_type": 1,
+    "name": "3-1-5. Return to Town II",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 3,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1140161,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001124,
+      870001122,
+      870001120,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103043
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103061,
+    "quest_type": 2,
+    "name": "3-1-6. Monika's Tour",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210301,
+    "number_of_story_banner": 3,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 0,
+    "scenario_id": 10303020,
+    "prev_quest_ids": [
+      120103051
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103062,
+    "quest_type": 1,
+    "name": "3-2-1. Return to Town III",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 3,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1130051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001116,
+      870001113,
+      870001112,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103052
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103063,
+    "quest_type": 1,
+    "name": "3-2-1. Return to Town III",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 3,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1130051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001123,
+      870001120,
+      870001119,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103053
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103071,
+    "quest_type": 2,
+    "name": "3-1-7. Warrior & Memory",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210301,
+    "number_of_story_banner": 3,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 0,
+    "scenario_id": 10303030,
+    "prev_quest_ids": [
+      120103061
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103072,
+    "quest_type": 1,
+    "name": "3-2-2. Rescue Request I",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 3,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1190361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001116,
+      870001112,
+      870001114,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103062
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103073,
+    "quest_type": 1,
+    "name": "3-2-2. Rescue Request I",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 3,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1190361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001123,
+      870001119,
+      870001121,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103063
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103081,
+    "quest_type": 1,
+    "name": "3-1-8. Return to Town I",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 3,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1040461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001110,
+      870001104,
+      870001108,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103071
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103082,
+    "quest_type": 1,
+    "name": "3-2-3. Rescue Request II",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 3,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1050101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001116,
+      870001114,
+      870001111,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103072
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103083,
+    "quest_type": 1,
+    "name": "3-2-3. Rescue Request II",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 3,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1050101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001123,
+      870001121,
+      870001118,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103073
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103091,
+    "quest_type": 1,
+    "name": "3-1-9. Return to Town II",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 3,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1140161,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001110,
+      870001108,
+      870001106,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 167,
+    "battle_id": 100303051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103081
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103092,
+    "quest_type": 1,
+    "name": "3-2-4. Door Calling",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 3,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1070051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001117,
+      870001111,
+      870001115,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103082
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103093,
+    "quest_type": 1,
+    "name": "3-2-4. Door Calling",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 3,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1070051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001124,
+      870001118,
+      870001122,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103083
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103101,
+    "quest_type": 1,
+    "name": "3-2-1. Return to Town III",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 3,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1130051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001109,
+      870001106,
+      870001105,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103102,
+    "quest_type": 1,
+    "name": "3-2-5. Claw Mark",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 3,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1990081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001117,
+      870001115,
+      870001113,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103092
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103103,
+    "quest_type": 1,
+    "name": "3-2-5. Claw Mark",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 3,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1990081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001124,
+      870001122,
+      870001120,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103093
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103111,
+    "quest_type": 2,
+    "name": "3-2-2. Reunion",
+    "sort_order": 11,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210301,
+    "number_of_story_banner": 3,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 14,
+        "id": 711901,
+        "quantity": 1
+      },
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 0,
+    "scenario_id": 10303040,
+    "prev_quest_ids": [
+      120103101
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103121,
+    "quest_type": 1,
+    "name": "3-2-3. Rescue Request I",
+    "sort_order": 12,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000023,
+    "number_of_story_banner": 3,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1190361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100637
+      },
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001109,
+      870001105,
+      870001107,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103111
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103131,
+    "quest_type": 1,
+    "name": "3-2-4. Rescue Request II",
+    "sort_order": 13,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 3,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1050101,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100639
+      },
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001109,
+      870001107,
+      870001104,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103121
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103141,
+    "quest_type": 2,
+    "name": "3-2-5. Firsthand Account",
+    "sort_order": 14,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210301,
+    "number_of_story_banner": 3,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 0,
+    "scenario_id": 10303050,
+    "prev_quest_ids": [
+      120103131
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103151,
+    "quest_type": 1,
+    "name": "3-2-6. Door Calling",
+    "sort_order": 15,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 3,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1070051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100636
+      },
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001110,
+      870001104,
+      870001108,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103141
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103161,
+    "quest_type": 1,
+    "name": "3-2-7. Claw Mark",
+    "sort_order": 16,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 3,
+    "stamina": 6,
+    "illust_category": 2,
+    "illust_id": 1990081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100640
+      },
+      {
+        "type": 7,
+        "id": 1100638
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001110,
+      870001108,
+      870001106,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 100303101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120103151
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120103171,
+    "quest_type": 2,
+    "name": "3-2-8. Creeping Shadow",
+    "sort_order": 17,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210301,
+    "number_of_story_banner": 3,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 168,
+    "battle_id": 0,
+    "scenario_id": 10303060,
+    "prev_quest_ids": [
+      120103161
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   }
 ]

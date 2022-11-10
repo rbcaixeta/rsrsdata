@@ -1016,11 +1016,27 @@
     "is_pierceily": 0
   },
   {
+    "id": 267,
+    "name": "Main Story Support Missions",
+    "start_at": 1668474000,
+    "end_at": 1669683599,
+    "priority": 10326,
+    "is_pierceily": 0
+  },
+  {
     "id": 274,
     "name": "SaGa THE STAGE BOX II",
     "start_at": 1667523600,
     "end_at": 1668733199,
     "priority": 10321,
+    "is_pierceily": 0
+  },
+  {
+    "id": 286,
+    "name": "Following the Tycoon II",
+    "start_at": 1668128400,
+    "end_at": 1669337999,
+    "priority": 10323,
     "is_pierceily": 0
   },
   {
@@ -1741,6 +1757,22 @@
     "start_at": 1667523600,
     "end_at": 1668733199,
     "priority": 10322,
+    "is_pierceily": 1
+  },
+  {
+    "id": 1000000094,
+    "name": "Following the Tycoon I",
+    "start_at": 1668128400,
+    "end_at": 1669337999,
+    "priority": 10324,
+    "is_pierceily": 1
+  },
+  {
+    "id": 1000000095,
+    "name": "Remembrance Battle",
+    "start_at": 1668128400,
+    "end_at": 1669856399,
+    "priority": 10325,
     "is_pierceily": 1
   }
 ]

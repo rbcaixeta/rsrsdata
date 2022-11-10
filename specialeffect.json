@@ -43382,6 +43382,23 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040073,
+    "state_change_id": 900040048,
+    "name": "Heat Up",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040115,
     "state_change_id": 900040063,
     "name": "Morale Up (large)",
