@@ -43399,6 +43399,21 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040074,
+    "state_change_id": 900040048,
+    "name": "Attack Boost (small)",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "Song of Souls",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "145100007",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040115,
     "state_change_id": 900040063,
     "name": "Morale Up (large)",
@@ -45466,6 +45481,40 @@
     "state_vars": [
       1125600018,
       65
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040095,
+    "state_change_id": 900040048,
+    "name": "Attack Boost (med)",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 2001
+  },
+  {
+    "id": 1802040096,
+    "state_change_id": 900040036,
+    "name": "Doppelgangers+ Counter",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Doppelgangers+ (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      110100223
     ],
     "text_pop": "",
     "text_color": "",

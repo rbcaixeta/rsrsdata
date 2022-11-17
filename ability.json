@@ -29918,6 +29918,34 @@
     "sort_order": 0
   },
   {
+    "id": 1702100051,
+    "name": "Doppelgangers+ Counter",
+    "flavor_text": "When being directly attacked, evades the attack and counterattacks with Doppelgangers+ (high chance).<br><br>Counterattack: Doppelgangers+<br>Sword skill/Attack/Power: SSS/Direct/Single Foe (Slash)<br>Attack. (Activates using skill Rank 1)",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040096
+    ],
+    "ability_when": 1,
+    "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100052,
+    "name": "Scorpion Venom",
+    "flavor_text": "Attacks' damage increases (large effect).<br><br>[Start of turn]<br>Grants oneself Heat Up (large effect) (Max times: 5 times per battle).<br>Inflicts poison on oneself (4 turn(s)).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040001,
+      802041112,
+      802041119
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -30460,6 +30488,20 @@
     ],
     "ability_when": 3,
     "icon": 4009,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702300031,
+    "name": "Energy Surge",
+    "flavor_text": "[Start of turn]<br>Grants oneself an attack boost (medium effect/1 turn(s)) (Max times: 3 times per battle).<br>Recovers own BP (+3) (Max times: 3 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040095,
+      802040755
+    ],
+    "ability_when": 3,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   },
