@@ -670,6 +670,36 @@
     "expired_at": 1674003599
   },
   {
+    "id": 840164,
+    "name": "2.5 Anniv. Eve Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1672966799] <tz>)",
+    "icon": 840164,
+    "max_quantity": 9999999,
+    "value": 30,
+    "sort_order": 23010630,
+    "expired_at": 1672966799
+  },
+  {
+    "id": 840165,
+    "name": "2.5 Anniv. Eve Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1672966799] <tz>)",
+    "icon": 840165,
+    "max_quantity": 9999999,
+    "value": 60,
+    "sort_order": 23010660,
+    "expired_at": 1672966799
+  },
+  {
+    "id": 840166,
+    "name": "2.5 Anniv. Eve Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1672966799] <tz>)",
+    "icon": 840166,
+    "max_quantity": 9999999,
+    "value": 90,
+    "sort_order": 23010690,
+    "expired_at": 1672966799
+  },
+  {
     "id": 1000840001,
     "name": "Thanksgiving Stamina Potion (Lg.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1612141199] <tz>)",

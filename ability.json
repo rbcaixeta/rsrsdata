@@ -29946,6 +29946,35 @@
     "sort_order": 0
   },
   {
+    "id": 1702100053,
+    "name": "Frozen Guardian",
+    "flavor_text": "Attacks' damage increases (extreme effect).<br>When attacking with G. Swords, attack damage increases further (extreme effect).<br>Have oneself enter a Frozen stance at start of battle.<br><br>Frozen<br>Have oneself petrified (1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040741,
+      1802040097,
+      802031124
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100054,
+    "name": "Absorption Magick",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect).<br><br>When landing an attack with an Attack type skill/spell, Drain Energy+ will be activated (very high chance).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040100,
+      1802040099
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -31022,6 +31051,36 @@
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802040093
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600048,
+    "name": "Recover HP on Attack",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040622
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600049,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, Drain Energy+ will be activated (very high chance).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040098,
+      802041128,
+      802041129,
+      802041130,
+      802041131
     ],
     "ability_when": 6,
     "icon": 4010,

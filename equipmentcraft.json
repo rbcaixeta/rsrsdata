@@ -1098,5 +1098,27 @@
     "priority": 221111044,
     "start_at": 1668128400,
     "end_at": 1671152399
+  },
+  {
+    "id": 1000000007,
+    "reward_type": 15,
+    "reward_id": 1161400100,
+    "materials": [
+      {
+        "type": 7,
+        "id": 1001100225,
+        "quantity": 100
+      },
+      {
+        "type": 7,
+        "id": 1001100235,
+        "quantity": 100
+      }
+    ],
+    "aurum": 1000,
+    "limit_count": 0,
+    "priority": 221125061,
+    "start_at": 1669338000,
+    "end_at": 1672361999
   }
 ]
