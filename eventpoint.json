@@ -1098,6 +1098,15 @@
     "sort_order": 22110450
   },
   {
+    "id": 800177,
+    "name": "Romancing Festival Medal 62",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800177,
+    "max_quantity": 99999999,
+    "expired_at": 1672275599,
+    "sort_order": 22120199
+  },
+  {
     "id": 800181,
     "name": "Ultra Deluxe Summon Medal 27",
     "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
@@ -4410,6 +4419,15 @@
     "sort_order": 22021500
   },
   {
+    "id": 1100653,
+    "name": "[SS Exchange] Tarnished Armor III",
+    "flavor_text": "Obtained from Get diggin'! Mining Caves. Can be exchanged for SS armor or gear.",
+    "icon": 1100653,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 22022455
+  },
+  {
     "id": 1100654,
     "name": "SaGa THE STAGE BOX Surprises Ticket [Ltd. Time]",
     "flavor_text": "A ticket for pulling the SaGa THE STAGE BOX Surprises. (Until [1670979599] <tz>)",
@@ -4417,6 +4435,33 @@
     "max_quantity": 99999999,
     "expired_at": 1670979599,
     "sort_order": 22110400
+  },
+  {
+    "id": 1100655,
+    "name": "Fancy Sticker",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100240,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 22022430
+  },
+  {
+    "id": 1100656,
+    "name": "Rock Badge",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100656,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 22022431
+  },
+  {
+    "id": 1100657,
+    "name": "Rhythm Record",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100657,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 22022432
   },
   {
     "id": 1100661,
@@ -4867,6 +4912,24 @@
     "max_quantity": 99999999,
     "expired_at": 1669337999,
     "sort_order": 22102849
+  },
+  {
+    "id": 1000800045,
+    "name": "Romancing Festival Medal 61",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800045,
+    "max_quantity": 99999999,
+    "expired_at": 1672275599,
+    "sort_order": 22120198
+  },
+  {
+    "id": 1000800046,
+    "name": "Romancing Festival Medal 63",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800046,
+    "max_quantity": 99999999,
+    "expired_at": 1674003599,
+    "sort_order": 22120197
   },
   {
     "id": 1001100001,
@@ -5335,5 +5398,23 @@
     "max_quantity": 99999999,
     "expired_at": 1667696399,
     "sort_order": 3439
+  },
+  {
+    "id": 1001100238,
+    "name": "2.5 Anniversary Coin [Ltd. Time]",
+    "flavor_text": "Can be exchanged for items at the 2.5 Anniversary Coin Exchange. (Until [1674003599] <tz>)",
+    "icon": 1001100238,
+    "max_quantity": 99999999,
+    "expired_at": 1674003599,
+    "sort_order": 22120100
+  },
+  {
+    "id": 1001100239,
+    "name": "2.5 Anniv. Romancing Fest. Exclusive SS Style Exchange Ticket",
+    "flavor_text": "Can be exchanged for a Style at the 2.5 Anniv. Romancing Festival Exclusive SS Style Exchange.",
+    "icon": 1001100239,
+    "max_quantity": 99999999,
+    "expired_at": 1675213199,
+    "sort_order": 99999999
   }
 ]

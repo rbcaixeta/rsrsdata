@@ -20343,6 +20343,21 @@
     "pc_enemy_skill_hold_motion": 1
   },
   {
+    "id": 1000221321,
+    "pc_flag": 1,
+    "name": "Darque",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1,
+      96
+    ],
+    "gender": 1,
+    "sprite_studio": 0,
+    "illust": 1000213201,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
     "id": 1000221381,
     "pc_flag": 1,
     "name": "Silver",
@@ -21065,6 +21080,20 @@
     "gender": 9,
     "sprite_studio": 0,
     "illust": 810103,
+    "pc_enemy_skill_hold_motion": 1
+  },
+  {
+    "id": 1009900151,
+    "pc_flag": 1,
+    "name": "Assassin",
+    "enemy_class": 99,
+    "rank": 1,
+    "species": [
+      1
+    ],
+    "gender": 9,
+    "sprite_studio": 0,
+    "illust": 1009900151,
     "pc_enemy_skill_hold_motion": 1
   }
 ]

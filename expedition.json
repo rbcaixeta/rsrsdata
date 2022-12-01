@@ -313,5 +313,26 @@
     "sort_order": 85,
     "open_at": 1663462800,
     "close_at": 0
+  },
+  {
+    "id": 6700017,
+    "name": "Mountain Region",
+    "required_quest_id": 120102103,
+    "required_player_rank": 160,
+    "required_hours": 21,
+    "difficulty": 4,
+    "growth_difficulty": 123,
+    "recommended_status": 125,
+    "jewel_cost": 0,
+    "ticket_cost": 66,
+    "drop_group_ids": [
+      880000032,
+      880000033
+    ],
+    "flavor_text": "Recommended for characters with up to 1,350 HP and up to 125 in all attributes",
+    "background_id": 700000023,
+    "sort_order": 84,
+    "open_at": 1669856400,
+    "close_at": 0
   }
 ]

@@ -2496,6 +2496,66 @@
     "trigger_player_rank": 65
   },
   {
+    "id": 225,
+    "summary": "Defeat 600 Enemies",
+    "description": "Defeat 600 enemies (Retreats from Raid Battles are included)",
+    "reward_type": 10,
+    "reward_id": 821154,
+    "reward_quantity": 15,
+    "priority": 1994,
+    "ribbon_text": "",
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
+  },
+  {
+    "id": 226,
+    "summary": "Complete 120 Quests",
+    "description": "Complete any 120 quests",
+    "reward_type": 10,
+    "reward_id": 821154,
+    "reward_quantity": 20,
+    "priority": 1978,
+    "ribbon_text": "",
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
+  },
+  {
+    "id": 227,
+    "summary": "Perform 4 Summons",
+    "description": "Perform 4 Summons",
+    "reward_type": 10,
+    "reward_id": 821154,
+    "reward_quantity": 5,
+    "priority": 1971,
+    "ribbon_text": "",
+    "trigger_quest_id": 0,
+    "trigger_player_rank": 0
+  },
+  {
+    "id": 228,
+    "summary": "Send 6 Expeditions",
+    "description": "Send 6 Expeditions",
+    "reward_type": 10,
+    "reward_id": 821154,
+    "reward_quantity": 5,
+    "priority": 1964,
+    "ribbon_text": "",
+    "trigger_quest_id": 100101111,
+    "trigger_player_rank": 8
+  },
+  {
+    "id": 229,
+    "summary": "Replenish Energy (NRG) 4 Times",
+    "description": "Replenish your energy (NRG) 4 times",
+    "reward_type": 10,
+    "reward_id": 821154,
+    "reward_quantity": 5,
+    "priority": 1959,
+    "ribbon_text": "",
+    "trigger_quest_id": 100103121,
+    "trigger_player_rank": 20
+  },
+  {
     "id": 1000000001,
     "summary": "Defeat 600 Enemies",
     "description": "Defeat 600 enemies",

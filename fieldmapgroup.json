@@ -281,5 +281,24 @@
       972006001
     ],
     "frontier_drop_group_ids": []
+  },
+  {
+    "id": 10121,
+    "area_id": 2019,
+    "field_map_mode": 2,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5000
+      }
+    ],
+    "lock_text": "",
+    "prev_quest_ids": [],
+    "frontier_drop_group_ids": [
+      103509,
+      103510,
+      1000095627
+    ]
   }
 ]

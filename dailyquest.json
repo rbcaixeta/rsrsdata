@@ -6980,5 +6980,53 @@
     "is_required_for_area_clear": 1,
     "twitter_button_id": 0,
     "max_grind_count": 0
+  },
+  {
+    "id": 1000000011,
+    "name": "2.5 Anniversary Quest",
+    "sort_order": 1,
+    "growth_count": 1,
+    "clear_limit": 0,
+    "banner": 1000901007,
+    "stamina": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 8,
+        "id": 810049
+      },
+      {
+        "type": 12,
+        "id": 840160
+      },
+      {
+        "type": 12,
+        "id": 840159
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      1000095628,
+      1000095629,
+      1000095630,
+      1000095631,
+      1000095632,
+      1000095633
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1000001033,
+    "battle_id": 1950010002,
+    "prev_quest_ids": [],
+    "is_required_for_area_clear": 1,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   }
 ]

@@ -1971,6 +1971,69 @@
     "raid_piercemage_reward_group_id": 0
   },
   {
+    "id": 900000061,
+    "quest_type": 1,
+    "name": "Get diggin'! Mining Caves",
+    "difficulty": 0,
+    "sort_order": 1,
+    "growth_count": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 450002,
+    "stamina": 0,
+    "quest_ticket_id": 821154,
+    "quest_ticket_quantity": 25,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100653
+      },
+      {
+        "type": 7,
+        "id": 1100387
+      },
+      {
+        "type": 16,
+        "id": 203401000
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      400000223,
+      400000223,
+      400000223,
+      400000223,
+      400000223,
+      400000224,
+      400000224,
+      400000224,
+      400000224,
+      400000224
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 1486,
+    "battle_id": 950006011,
+    "max_turn": 0,
+    "scenario_id": 0,
+    "prev_quest_ids": [],
+    "point_bonuses": [],
+    "quest_condition_id": 0,
+    "adjusted_reward_group_id": 0,
+    "is_required_for_area_clear": 0,
+    "is_guaranteed_growth": 0,
+    "dairensen_round_reward_set_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 50,
+    "raid_piercemage_reward_group_id": 0
+  },
+  {
     "id": 910000011,
     "quest_type": 1,
     "name": "1. Thwart All Evil!",
