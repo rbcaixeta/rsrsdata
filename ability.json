@@ -4713,7 +4713,7 @@
   {
     "id": 702101161,
     "name": "Haniwa's Fluke",
-    "flavor_text": "When landing an attack with Seven Swords Swing, Seven Swords will be activated (low chance).<br><br>Seven Swords<br>M. Arts skill/Attack/Power: D/Direct/Single Foe (Slash)<br>Attack.<br>Attacks random enemies (4-7 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>(Activates using skill Rank 1).",
+    "flavor_text": "When landing an attack with Seven Swords Swing, Seven Swords will be activated (low chance).<br><br>Seven Swords<br>M. Arts skill/Attack/Power: D/Direct/Single Foe (Slash)<br>Attacks random enemies (4-7 time(s)).<br>Attack will be interrupted when counterattacked. (Only the first attack will activate user's abilities.)<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802041074
@@ -29975,6 +29975,48 @@
     "sort_order": 0
   },
   {
+    "id": 1702100055,
+    "name": "Surprise Attack",
+    "flavor_text": "Weak attacks' damage increases (very large effect).<br>When landing a Weak attack, grants the target Defense Down (small effect/2 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040347,
+      1802040102
+    ],
+    "ability_when": 1,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100056,
+    "name": "Spear Arcana Ⅳ",
+    "flavor_text": "When attacking with spears, attack damage increases (very large effect).<br>When landing a Weak attack, damage increases further (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040103,
+      1802040104
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100057,
+    "name": "Solid Defense",
+    "flavor_text": "[Start of turn]<br>Grants oneself Damage Block (1 time) (1 turn(s)).<br>Grants oneself Defense Up (medium effect) (Max times: 5 times per battle).<br><br>Damage Block (1 time)<br>Damage taken reduced by 100% (Max times: 1). *Only activates when hit by an attack.<br><br>Defense Up<br>Damage taken will be reduced (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040106,
+      1802040107
+    ],
+    "ability_when": 1,
+    "icon": 4002,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -30535,6 +30577,32 @@
     "sort_order": 0
   },
   {
+    "id": 1702300032,
+    "name": "Turn Start: Damage Block (1 time)",
+    "flavor_text": "[Start of turn]<br>Grants oneself Damage Block (1 time) (1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040105
+    ],
+    "ability_when": 3,
+    "icon": 4002,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702300033,
+    "name": "Turn Start: Defense Up",
+    "flavor_text": "[Start of turn]<br>Grants oneself Defense Up (medium effect) (Max times: 5 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041036
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702400001,
     "name": "Leader's Missions",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and recovers own BP (+1). ",
@@ -31088,6 +31156,33 @@
     "sort_order": 0
   },
   {
+    "id": 1702600050,
+    "name": "Divine Revelation",
+    "flavor_text": "When recovery actions are made, grants the target an attack boost (very large effect/3 turn(s)) and a defense boost (very large effect/3 turn(s)).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041081,
+      1802040101
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600051,
+    "name": "Defense Down on Weak Atk",
+    "flavor_text": "When landing a Weak attack, grants the target Defense Down (small effect/2 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802010026
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1708100001,
     "name": "Carapace",
     "flavor_text": "When attacked, damage will be reduced by 100% (Max times: 3 times per battle).<br>*Only activates when hit by an attack.",
@@ -31192,6 +31287,22 @@
     "sort_order": 0
   },
   {
+    "id": 1708100009,
+    "name": "True Inheritance",
+    "flavor_text": "Summons assassins at the end of specific turns.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1808040020,
+      1808040021,
+      1808040022,
+      1808040023
+    ],
+    "ability_when": 1,
+    "icon": 4014,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1708300001,
     "name": "Poison Rally",
     "flavor_text": "[Start of turn]<br>Inflicts poison on oneself (10 turn(s)).<br>Inflicts poison on all enemies (10 turn(s)).",
@@ -31262,6 +31373,62 @@
     ],
     "ability_when": 4,
     "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1708400003,
+    "name": "True Inheritance",
+    "flavor_text": "Summons assassins at the end of Turn 2.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1808040012,
+      1808040013
+    ],
+    "ability_when": 4,
+    "icon": 4014,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1708400004,
+    "name": "True Inheritance",
+    "flavor_text": "Summons assassins at the end of Turn 4.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1808040014,
+      1808040015
+    ],
+    "ability_when": 4,
+    "icon": 4014,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1708400005,
+    "name": "True Inheritance",
+    "flavor_text": "Summons assassins at the end of Turn 6.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1808040016,
+      1808040017
+    ],
+    "ability_when": 4,
+    "icon": 4014,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1708400006,
+    "name": "True Inheritance",
+    "flavor_text": "Summons assassins at the end of Turn 8.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1808040018,
+      1808040019
+    ],
+    "ability_when": 4,
+    "icon": 4014,
     "rarity": 0,
     "sort_order": 0
   },

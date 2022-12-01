@@ -42419,6 +42419,53 @@
     "state_icon": 2002
   },
   {
+    "id": 1801010053,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 10,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801010054,
+    "state_change_id": 900010013,
+    "name": "END Up",
+    "flavor_text": "Increases END.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "END/WIL↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801010055,
+    "state_change_id": 900010017,
+    "name": "WIL Up",
+    "flavor_text": "Increases WIL.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
     "id": 1801010430,
     "state_change_id": 900010017,
     "name": "WIL Up",
@@ -43382,6 +43429,42 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040070,
+    "state_change_id": 900040048,
+    "name": "Heat Up",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "ATK/DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040071,
+    "state_change_id": 900040062,
+    "name": "Defense Up",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 10,
+    "state_vars": [
+      90
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040073,
     "state_change_id": 900040048,
     "name": "Heat Up",
@@ -43874,6 +43957,21 @@
     "display_flag": 0,
     "triggering_effect_condition_ids": [],
     "state_icon": 2001
+  },
+  {
+    "id": 1802010026,
+    "state_change_id": 900040103,
+    "name": "Defense Down (small)",
+    "flavor_text": "Increases damage taken.",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "DEF↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
   },
   {
     "id": 1802040001,
@@ -45593,6 +45691,130 @@
     "state_icon": 3003
   },
   {
+    "id": 1802040101,
+    "state_change_id": 900040062,
+    "name": "Defend",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 8,
+    "state_vars": [
+      70
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040102,
+    "state_change_id": 900050113,
+    "name": "Defense Down on Weak Atk",
+    "flavor_text": "When landing a Weak attack, grants the target Defense Down (small effect/2 turn(s)).",
+    "target_area": 1,
+    "state_vars": [
+      1702600051
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040103,
+    "state_change_id": 900040048,
+    "name": "Spear Attack Boost",
+    "flavor_text": "Increases damage dealt by spear attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [
+      21008
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040104,
+    "state_change_id": 900040048,
+    "name": "Weak Atk Boost When Spear Equipped",
+    "flavor_text": "Increases Weak damage dealt by spear attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [
+      10,
+      21008
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040105,
+    "state_change_id": 900040184,
+    "name": "Damage Block (1 time)",
+    "flavor_text": "Decreases damage taken by 100% (Max times: 1). *Only activates when hit by an attack.",
+    "target_area": 1,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "Damage Block",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040106,
+    "state_change_id": 900050113,
+    "name": "Turn Start: Damage Block (1 time)",
+    "flavor_text": "[Start of turn]<br>Grants oneself Damage Block (1 time) (1 turn(s)).",
+    "target_area": 1,
+    "state_vars": [
+      1702300032
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040107,
+    "state_change_id": 900050113,
+    "name": "Turn Start: Defense Up",
+    "flavor_text": "[Start of turn]<br>Grants oneself Defense Up (medium effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702300033
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
     "id": 1802040362,
     "state_change_id": 900040048,
     "name": "Damage Up",
@@ -46069,6 +46291,234 @@
     "triggering_effect_condition_ids": [
       4
     ],
+    "state_icon": 3003
+  },
+  {
+    "id": 1808040012,
+    "state_change_id": 900050110,
+    "name": "Summon Assassins",
+    "flavor_text": "Summons assassins.",
+    "target_area": 1,
+    "state_vars": [
+      2,
+      1,
+      1990015101,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040013,
+    "state_change_id": 900050110,
+    "name": "Summon Assassins",
+    "flavor_text": "Summons assassins.",
+    "target_area": 1,
+    "state_vars": [
+      3,
+      1,
+      1990015101,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040014,
+    "state_change_id": 900050110,
+    "name": "Summon Assassins",
+    "flavor_text": "Summons assassins.",
+    "target_area": 1,
+    "state_vars": [
+      1,
+      1,
+      1990015101,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040015,
+    "state_change_id": 900050110,
+    "name": "Summon Assassins",
+    "flavor_text": "Summons assassins.",
+    "target_area": 1,
+    "state_vars": [
+      4,
+      1,
+      1990015101,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040016,
+    "state_change_id": 900050110,
+    "name": "Summon Assassins",
+    "flavor_text": "Summons assassins.",
+    "target_area": 1,
+    "state_vars": [
+      6,
+      1,
+      1990015101,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040017,
+    "state_change_id": 900050110,
+    "name": "Summon Assassins",
+    "flavor_text": "Summons assassins.",
+    "target_area": 1,
+    "state_vars": [
+      7,
+      1,
+      1990015101,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040018,
+    "state_change_id": 900050110,
+    "name": "Summon Assassins",
+    "flavor_text": "Summons assassins.",
+    "target_area": 1,
+    "state_vars": [
+      5,
+      1,
+      1990015101,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040019,
+    "state_change_id": 900050110,
+    "name": "Summon Assassins",
+    "flavor_text": "Summons assassins.",
+    "target_area": 1,
+    "state_vars": [
+      8,
+      1,
+      1990015101,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040020,
+    "state_change_id": 900050113,
+    "name": "True Inheritance",
+    "flavor_text": "Summons assassins at the end of Turn 2.",
+    "target_area": 1,
+    "state_vars": [
+      1708400003
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1808040021,
+    "state_change_id": 900050113,
+    "name": "True Inheritance",
+    "flavor_text": "Summons assassins at the end of Turn 4.",
+    "target_area": 1,
+    "state_vars": [
+      1708400004
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1808040022,
+    "state_change_id": 900050113,
+    "name": "True Inheritance",
+    "flavor_text": "Summons assassins at the end of Turn 6.",
+    "target_area": 1,
+    "state_vars": [
+      1708400005
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1808040023,
+    "state_change_id": 900050113,
+    "name": "True Inheritance",
+    "flavor_text": "Summons assassins at the end of Turn 8.",
+    "target_area": 1,
+    "state_vars": [
+      1708400006
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
     "state_icon": 3003
   },
   {
