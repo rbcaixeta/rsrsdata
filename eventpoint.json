@@ -1107,6 +1107,15 @@
     "sort_order": 22120199
   },
   {
+    "id": 800178,
+    "name": "Romancing Festival Medal 64",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800178,
+    "max_quantity": 99999999,
+    "expired_at": 1672966799,
+    "sort_order": 22022445
+  },
+  {
     "id": 800181,
     "name": "Ultra Deluxe Summon Medal 27",
     "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
@@ -4464,6 +4473,24 @@
     "sort_order": 22022432
   },
   {
+    "id": 1100659,
+    "name": "Fierce Medal (Red) [Ltd. Time]",
+    "flavor_text": "Can be exchanged for Styles and other items. (Until [1672966799] <tz>)",
+    "icon": 1100659,
+    "max_quantity": 99999999,
+    "expired_at": 1672966799,
+    "sort_order": 22030420
+  },
+  {
+    "id": 1100660,
+    "name": "Fierce Medal (Blue) [Ltd. Time]",
+    "flavor_text": "Can be exchanged for Styles and other items. (Until [1672966799] <tz>)",
+    "icon": 1100660,
+    "max_quantity": 99999999,
+    "expired_at": 1672966799,
+    "sort_order": 22030421
+  },
+  {
     "id": 1100661,
     "name": "Changing Ore (Weapon Holy Stone)",
     "flavor_text": "Can be exchanged for items at the Changing Ore Exchange.",
@@ -5416,5 +5443,14 @@
     "max_quantity": 99999999,
     "expired_at": 1675213199,
     "sort_order": 99999999
+  },
+  {
+    "id": 1001100240,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1672621199] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1672621199,
+    "sort_order": 3440
   }
 ]
