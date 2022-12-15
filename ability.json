@@ -5593,6 +5593,20 @@
     "sort_order": 0
   },
   {
+    "id": 702101318,
+    "name": "Revitalize Ⅳ",
+    "flavor_text": "[End of turn]<br>Has a medium chance to:<br>Recover own HP (small effect) and recover own BP (+4).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040062,
+      802041263
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 702200060,
     "name": "Self-Regeneration Ⅲ",
     "flavor_text": "[Start of round]<br>Recovers own HP (medium chance/large effect).",

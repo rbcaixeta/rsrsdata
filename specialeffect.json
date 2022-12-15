@@ -23092,6 +23092,23 @@
     "state_icon": 3001
   },
   {
+    "id": 802041263,
+    "state_change_id": 900050055,
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
+    "target_area": 1,
+    "state_vars": [
+      4
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 803010190,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -43529,6 +43546,36 @@
     "display_flag": 1,
     "triggering_effect_condition_ids": [],
     "state_icon": 3001
+  },
+  {
+    "id": 1801040077,
+    "state_change_id": 900040114,
+    "name": "Morale Down (small)",
+    "flavor_text": "Decreases damage dealt to enemies (can't stack).",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "ATK↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
+    "id": 1801040078,
+    "state_change_id": 900040154,
+    "name": "Morale Down (medium)",
+    "flavor_text": "Decreases damage dealt to enemies (can't stack).",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "ATK↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
   },
   {
     "id": 1801040115,
