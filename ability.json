@@ -30031,6 +30031,20 @@
     "sort_order": 0
   },
   {
+    "id": 1702100058,
+    "name": "Paralysis Practice Ⅱ",
+    "flavor_text": "When landing an attack, inflicts paralysis on target (high chance/4 turn(s)).<br>When landing an attack, recovers own BP (high chance/+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040108,
+      802041020
+    ],
+    "ability_when": 1,
+    "icon": 3004,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -31190,6 +31204,33 @@
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802010026
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600052,
+    "name": "Paralyze on Attack",
+    "flavor_text": "When landing an attack, inflicts paralysis on target (high chance/4 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802030240
+    ],
+    "ability_when": 6,
+    "icon": 3004,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600053,
+    "name": "Exhaustion Ⅰ (DEX)",
+    "flavor_text": "When landing an attack, reduces target's DEX (small effect) and recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802010027,
+      802040742
     ],
     "ability_when": 6,
     "icon": 4003,

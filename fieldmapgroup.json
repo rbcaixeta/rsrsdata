@@ -266,6 +266,24 @@
     "frontier_drop_group_ids": []
   },
   {
+    "id": 10119,
+    "area_id": 2018,
+    "field_map_mode": 2,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5000
+      }
+    ],
+    "lock_text": "",
+    "prev_quest_ids": [],
+    "frontier_drop_group_ids": [
+      103263,
+      1000095627
+    ]
+  },
+  {
     "id": 10120,
     "area_id": 2017,
     "field_map_mode": 2,

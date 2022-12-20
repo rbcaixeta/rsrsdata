@@ -56218,6 +56218,586 @@
     "raid_piercemage_reward_group_id": 0
   },
   {
+    "id": 972018001,
+    "quest_type": 1,
+    "name": "Battle with Macha",
+    "sort_order": 1,
+    "field_map_node_id": 10119010,
+    "battle_id": 511023001,
+    "max_turn": 5,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100612
+      },
+      {
+        "type": 7,
+        "id": 1100613
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      103467
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840158,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 19,
+    "is_unavailable_after_dominated": 0,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 972010012
+  },
+  {
+    "id": 972018002,
+    "quest_type": 1,
+    "name": "Battle with Black X",
+    "sort_order": 2,
+    "field_map_node_id": 10119002,
+    "battle_id": 511023002,
+    "max_turn": 5,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100612
+      },
+      {
+        "type": 7,
+        "id": 1100613
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      103467
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840158,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 19,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 972010012
+  },
+  {
+    "id": 972018003,
+    "quest_type": 1,
+    "name": "Battle with Jewel Beast",
+    "sort_order": 3,
+    "field_map_node_id": 10119008,
+    "battle_id": 511023003,
+    "max_turn": 5,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100612
+      },
+      {
+        "type": 7,
+        "id": 1100613
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      103467
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840158,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 19,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 972010012
+  },
+  {
+    "id": 972018004,
+    "quest_type": 1,
+    "name": "Battle with Golden Baum",
+    "sort_order": 4,
+    "field_map_node_id": 10119007,
+    "battle_id": 511023004,
+    "max_turn": 5,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100612
+      },
+      {
+        "type": 7,
+        "id": 1100613
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      103467
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840158,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 19,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 972010012
+  },
+  {
+    "id": 972018005,
+    "quest_type": 1,
+    "name": "Battle with Spirit Tree",
+    "sort_order": 5,
+    "field_map_node_id": 10119009,
+    "battle_id": 511023005,
+    "max_turn": 5,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100612
+      },
+      {
+        "type": 7,
+        "id": 1100613
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      103467
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840158,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 19,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 972010012
+  },
+  {
+    "id": 972018006,
+    "quest_type": 1,
+    "name": "Battle with Haniwa",
+    "sort_order": 6,
+    "field_map_node_id": 10119005,
+    "battle_id": 511023006,
+    "max_turn": 5,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100612
+      },
+      {
+        "type": 7,
+        "id": 1100613
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      103467
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840158,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 19,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 972010012
+  },
+  {
+    "id": 972018007,
+    "quest_type": 1,
+    "name": "Battle with Jotnar",
+    "sort_order": 7,
+    "field_map_node_id": 10119001,
+    "battle_id": 511023007,
+    "max_turn": 5,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100612
+      },
+      {
+        "type": 7,
+        "id": 1100613
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      103467
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840158,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 19,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 972010012
+  },
+  {
+    "id": 972018008,
+    "quest_type": 1,
+    "name": "Battle with Doppelganger",
+    "sort_order": 8,
+    "field_map_node_id": 10119003,
+    "battle_id": 511023008,
+    "max_turn": 5,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100612
+      },
+      {
+        "type": 7,
+        "id": 1100613
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      103467
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840158,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 19,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 972010012
+  },
+  {
+    "id": 972018009,
+    "quest_type": 1,
+    "name": "Battle with Yami",
+    "sort_order": 9,
+    "field_map_node_id": 10119006,
+    "battle_id": 511023009,
+    "max_turn": 5,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100612
+      },
+      {
+        "type": 7,
+        "id": 1100613
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      103467
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840158,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 19,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 972010012
+  },
+  {
+    "id": 972018010,
+    "quest_type": 1,
+    "name": "Battle with Bokhohn",
+    "sort_order": 10,
+    "field_map_node_id": 10119004,
+    "battle_id": 511023010,
+    "max_turn": 5,
+    "scenario_id": 0,
+    "clear_limit": 0,
+    "stamina": 10,
+    "quest_ticket_id": 0,
+    "quest_ticket_quantity": 0,
+    "growth_count": 1,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100612
+      },
+      {
+        "type": 7,
+        "id": 1100613
+      }
+    ],
+    "first_rewards": [],
+    "rewards": [],
+    "drop_group_ids": [
+      103467
+    ],
+    "enemy_drop_ids": [],
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      },
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 5
+      },
+      {
+        "type": 12,
+        "id": 840158,
+        "quantity": 10
+      }
+    ],
+    "adjusted_reward_group_id": 19,
+    "is_unavailable_after_dominated": 1,
+    "illust_ids": [],
+    "field_map_size": 0,
+    "field_map_enemy_transform_id": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "raid_piercemage_reward_group_id": 972010012
+  },
+  {
     "id": 972019001,
     "quest_type": 1,
     "name": "Rock Area 1",

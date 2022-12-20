@@ -43578,6 +43578,44 @@
     "state_icon": 2002
   },
   {
+    "id": 1801040079,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (med)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040080,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (med)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 3,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040115,
     "state_change_id": 900040063,
     "name": "Morale Up (large)",
@@ -44047,6 +44085,21 @@
     "target_area": 8,
     "state_vars": [],
     "text_pop": "DEF↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
+    "id": 1802010027,
+    "state_change_id": 900010014,
+    "name": "DEX Down",
+    "flavor_text": "Decreases DEX.",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "DEX↓",
     "text_color": "FF0000",
     "enchantment_effect_id": "Debuff",
     "ignition_effect_id": "",
@@ -45886,6 +45939,23 @@
     "target_area": 1,
     "state_vars": [
       1702300033
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040108,
+    "state_change_id": 900050113,
+    "name": "Paralyze on Attack",
+    "flavor_text": "When landing an attack, inflicts paralysis on target (high chance/4 turn(s)).",
+    "target_area": 1,
+    "state_vars": [
+      1702600052
     ],
     "text_pop": "",
     "text_color": "",

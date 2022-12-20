@@ -11644,6 +11644,232 @@
     "joints": []
   },
   {
+    "id": 10119000,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119000,
+      10119001
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119001,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119000,
+      10119003
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119002,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119000,
+      10119006
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119003,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119000,
+      10119009
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119004,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119001,
+      10119010
+    ],
+    "visibility_quest_ids": [
+      972018007
+    ],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119005,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119009,
+      10119008
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119006,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119009,
+      10119007
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119007,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119006,
+      10119005
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119009,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119003,
+      10119002
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119010,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119003,
+      10119004
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119011,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119008,
+      10119010
+    ],
+    "visibility_quest_ids": [
+      972018003
+    ],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119012,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119008,
+      10119007
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119013,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119007,
+      10119005
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119014,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119005,
+      10119004
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119015,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119004,
+      10119002
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119016,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119010,
+      10119002
+    ],
+    "visibility_quest_ids": [
+      972018002
+    ],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119017,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119009,
+      10119001
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119018,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119009,
+      10119006
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119019,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119006,
+      10119003
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
+    "id": 10119020,
+    "field_map_id": 1011901,
+    "adjacent_field_map_node_ids": [
+      10119003,
+      10119001
+    ],
+    "visibility_quest_ids": [],
+    "blockade_quest_ids": [],
+    "joints": []
+  },
+  {
     "id": 10120000,
     "field_map_id": 1012001,
     "adjacent_field_map_node_ids": [
