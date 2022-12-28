@@ -10792,7 +10792,7 @@
   {
     "id": 702600778,
     "name": "Missile Support",
-    "flavor_text": "When landing an attack, Talon will be activated (Max times: 1 time per round).<br><br>Talon<br>Sword skill/Attack/Power: C/Indirect/All Foes (Blunt+Heat)<br>All range attack.<br>(Activates using skill Rank 1).",
+    "flavor_text": "When attacking, Talon will be activated (Max times: 1 time per round).<br><br>Talon<br>Sword skill/Attack/Power: C/Indirect/All Foes (Blunt+Heat)<br>All range attack.<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040859
@@ -30045,6 +30045,50 @@
     "sort_order": 0
   },
   {
+    "id": 1702100059,
+    "name": "Strengthened Ironwall Ⅲ",
+    "flavor_text": "When attacked, damage taken will be reduced (medium effect).<br><br>[Start of battle]<br>Recovers own BP (+3).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041018,
+      802040520
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100060,
+    "name": "Life Tenacity",
+    "flavor_text": "Attacks' damage increases (large effect).<br>When HP is not full, attacks' damage increases (medium effect), and damage taken will be reduced (medium effect).<br><br>[End of turn]<br>When knocked unconscious, recovers own HP (small effect).<br>(Will not activate when knocked unconscious by poison damage).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040001,
+      1802040018,
+      802040475,
+      1802040109
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100061,
+    "name": "Ambitions",
+    "flavor_text": "[Start of turn]<br>Grants oneself Heat Up (large effect) (Max times: 3 times per battle).<br>Grants oneself Defense Up (medium effect) (Max times: 3 times per battle).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).<br><br>Defense Up<br>Damage taken will be reduced (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040111,
+      1802040112
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -30631,6 +30675,46 @@
     "sort_order": 0
   },
   {
+    "id": 1702300034,
+    "name": "Ability Drain Ⅱ (WIL)",
+    "flavor_text": "[Start of turn]<br>Has a high chance to:<br>Reduce all enemies' WIL (medium effect), and increase all surviving allies' WIL (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802010028,
+      1802010029
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702300035,
+    "name": "Turn Start: Heat Up",
+    "flavor_text": "On start of turn, grants oneself Heat Up (large effect) (Max times: 3 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041116
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702300036,
+    "name": "Turn Start: Defense Up",
+    "flavor_text": "On start of turn, grants oneself Defense Up (medium effect) (Max times: 3 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041036
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702400001,
     "name": "Leader's Missions",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and recovers own BP (+1). ",
@@ -30693,6 +30777,19 @@
       802040812,
       802040844,
       802040834
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702400006,
+    "name": "End of Turn: Recover HP",
+    "flavor_text": "[End of turn]<br>When knocked unconscious, recovers own HP (small effect).<br>(Will not activate when knocked unconscious by poison damage).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040110
     ],
     "ability_when": 4,
     "icon": 4007,

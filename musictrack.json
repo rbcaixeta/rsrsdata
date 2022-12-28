@@ -1620,6 +1620,18 @@
     "start_at": 0
   },
   {
+    "id": 10040091,
+    "music_album_id": 4,
+    "name": "Asellus's Theme",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 130181,
+    "composer": "Kenji Ito",
+    "sort_order": 90,
+    "start_at": 1672275600
+  },
+  {
     "id": 10040100,
     "music_album_id": 4,
     "name": "Battle #2",
@@ -1908,6 +1920,18 @@
     "start_at": 1661389200
   },
   {
+    "id": 10040360,
+    "music_album_id": 4,
+    "name": "Booby Trap",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 120197,
+    "composer": "Kenji Ito",
+    "sort_order": 360,
+    "start_at": 1672275600
+  },
+  {
     "id": 10040410,
     "music_album_id": 4,
     "name": "Theme of a Kylin",
@@ -1918,6 +1942,66 @@
     "composer": "Kenji Ito",
     "sort_order": 410,
     "start_at": 1664240400
+  },
+  {
+    "id": 10040430,
+    "music_album_id": 4,
+    "name": "Danger!",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 120198,
+    "composer": "Kenji Ito",
+    "sort_order": 430,
+    "start_at": 1672275600
+  },
+  {
+    "id": 10040460,
+    "music_album_id": 4,
+    "name": "Alone",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 120114,
+    "composer": "Kenji Ito",
+    "sort_order": 460,
+    "start_at": 1672275600
+  },
+  {
+    "id": 10040490,
+    "music_album_id": 4,
+    "name": "Castle of Thorns",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 130295,
+    "composer": "Kenji Ito",
+    "sort_order": 490,
+    "start_at": 1672275600
+  },
+  {
+    "id": 10040640,
+    "music_album_id": 4,
+    "name": "Red's Last Battle",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 120257,
+    "composer": "Kenji Ito",
+    "sort_order": 640,
+    "start_at": 1672966800
+  },
+  {
+    "id": 10040710,
+    "music_album_id": 4,
+    "name": "R3X Rush! (Red's Ending)",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 120258,
+    "composer": "Kenji Ito",
+    "sort_order": 710,
+    "start_at": 1672966800
   },
   {
     "id": 10050005,
@@ -3600,6 +3684,30 @@
     "start_at": 1661389200
   },
   {
+    "id": 10140220,
+    "music_album_id": 4,
+    "name": "Combat Arena",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 120183,
+    "composer": "Kenji Ito",
+    "sort_order": 220,
+    "start_at": 1672966800
+  },
+  {
+    "id": 10140230,
+    "music_album_id": 4,
+    "name": "Leonard's Laboratory",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 120184,
+    "composer": "Kenji Ito",
+    "sort_order": 230,
+    "start_at": 1672966800
+  },
+  {
     "id": 10160020,
     "music_album_id": 16,
     "name": "Main Theme",
@@ -4560,6 +4668,18 @@
     "start_at": 1669856400
   },
   {
+    "id": 10280610,
+    "music_album_id": 4,
+    "name": "Asellus's Last Battle",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 120111,
+    "composer": "Kenji Ito",
+    "sort_order": 610,
+    "start_at": 1672275600
+  },
+  {
     "id": 10290050,
     "music_album_id": 29,
     "name": "Avalon, Seat of the Empire - The Emperor's March Medley from Romancing SaGa 2",
@@ -4618,5 +4738,29 @@
     "composer": "Kenji Ito",
     "sort_order": 180,
     "start_at": 1652230800
+  },
+  {
+    "id": 10310020,
+    "music_album_id": 31,
+    "name": "Asellus's Theme(ACOUSTIC ARRANGEMENTS Ver.)",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 130469,
+    "composer": "Kenji Ito",
+    "sort_order": 20,
+    "start_at": 1672275600
+  },
+  {
+    "id": 10310030,
+    "music_album_id": 31,
+    "name": "Battle #5(ACOUSTIC ARRANGEMENTS Ver.)",
+    "flavor_text": "",
+    "price": 1,
+    "is_free": 0,
+    "sound_id": 120127,
+    "composer": "Kenji Ito",
+    "sort_order": 30,
+    "start_at": 1672275600
   }
 ]

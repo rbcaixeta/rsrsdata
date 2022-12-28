@@ -189,19 +189,37 @@
     "sort_order": 21102725
   },
   {
+    "id": 810046,
+    "name": "Lucky Pack Asellus Summon Ticket [Ltd. Time]",
+    "flavor_text": "A ticket for performing the Romancing Festival Asellus Lucky Pack Ticket Summon. (Until [1673830799] <tz>)",
+    "icon": 810046,
+    "max_quantity": 9999,
+    "expired_at": 1673830799,
+    "sort_order": 23022802
+  },
+  {
+    "id": 810047,
+    "name": "Lucky Pack Ciato Summon Ticket [Ltd. Time]",
+    "flavor_text": "A ticket for performing the Romancing Festival Ciato Lucky Pack Ticket Summon. (Until [1673830799] <tz>)",
+    "icon": 810047,
+    "max_quantity": 9999,
+    "expired_at": 1673830799,
+    "sort_order": 23022801
+  },
+  {
     "id": 810049,
     "name": "2.5 Anniv. Platinum Ticket [Ltd. Time]",
     "flavor_text": "Collect 5 tickets to perform 1 2.5 Anniversary Platinum Ticket Summon. (Until [1675213199] <tz>)",
     "icon": 810049,
     "max_quantity": 9999,
     "expired_at": 1675213199,
-    "sort_order": 23041525
+    "sort_order": 23020100
   },
   {
     "id": 810051,
     "name": "SaGa Soul Red Mage Free 10x Summon Ticket [Ltd. Time]",
     "flavor_text": "A ticket for performing the SaGa Soul Red Mage (Minion) Free 10x Ticket Summon. (Until [1671152399] <tz>)",
-    "icon": 1000810011,
+    "icon": 810051,
     "max_quantity": 9999,
     "expired_at": 1671152399,
     "sort_order": 22042025
@@ -295,5 +313,14 @@
     "max_quantity": 999,
     "expired_at": 1635641999,
     "sort_order": 4000
+  },
+  {
+    "id": 1000810011,
+    "name": "SaGa Year End Fest. Platinum Ticket [Ltd. Time]",
+    "flavor_text": "Collect 5 tickets to perform 1 SaGa Year End Festival Platinum Ticket Summon. (Until [1677545999] <tz>)",
+    "icon": 1000810011,
+    "max_quantity": 9999,
+    "expired_at": 1677545999,
+    "sort_order": 23022800
   }
 ]
