@@ -1188,6 +1188,15 @@
     "sort_order": 22040850
   },
   {
+    "id": 800185,
+    "name": "Romancing Festival Medal 71",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800185,
+    "max_quantity": 99999999,
+    "expired_at": 1675990799,
+    "sort_order": 22040845
+  },
+  {
     "id": 800187,
     "name": "SaGa Soul Medal 11",
     "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
@@ -4671,6 +4680,69 @@
     "sort_order": 22040805
   },
   {
+    "id": 1100672,
+    "name": "Liam Arc Episode 4 Coin [Ltd. Time]",
+    "flavor_text": "Can be exchanged for Platinum Tickets and other items. (Until [1676681999] <tz>)",
+    "icon": 1100672,
+    "max_quantity": 99999999,
+    "expired_at": 1676681999,
+    "sort_order": 22041505
+  },
+  {
+    "id": 1100673,
+    "name": "Teal Metal Chunk",
+    "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100673,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 22041530
+  },
+  {
+    "id": 1100675,
+    "name": "Teal G. Sword Mold Piece",
+    "flavor_text": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100675,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 22041526
+  },
+  {
+    "id": 1100676,
+    "name": "Teal Axe Mold Piece",
+    "flavor_text": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100676,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 22041524
+  },
+  {
+    "id": 1100677,
+    "name": "Teal War Mace Mold Piece",
+    "flavor_text": "[Weapon: Club] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100677,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 22041522
+  },
+  {
+    "id": 1100678,
+    "name": "Teal Gauntlets Mold Piece",
+    "flavor_text": "[Weapon: M. Arts] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100678,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 22041520
+  },
+  {
+    "id": 1100681,
+    "name": "Teal Lance Mold Piece",
+    "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100681,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 22041514
+  },
+  {
     "id": 1100685,
     "name": "SaGa Soul Party Popper",
     "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -5569,5 +5641,14 @@
     "max_quantity": 99999999,
     "expired_at": 1672621199,
     "sort_order": 3440
+  },
+  {
+    "id": 1001100241,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1675645199] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1675645199,
+    "sort_order": 3441
   }
 ]

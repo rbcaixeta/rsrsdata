@@ -4957,5 +4957,32 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 331
+  },
+  {
+    "id": 1000000544,
+    "event_ability_category_id": 1000000299,
+    "name": "[Ltd. Time] Main Story Expansion I",
+    "flavor_text": "・2x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 332
+  },
+  {
+    "id": 1000000545,
+    "event_ability_category_id": 1000000300,
+    "name": "[Ltd. Time] Main Story Expansion II",
+    "flavor_text": "・3x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 333
+  },
+  {
+    "id": 1000000546,
+    "event_ability_category_id": 1000000301,
+    "name": "[Ltd. Time] The Seekers' Path",
+    "flavor_text": "・2x attribute gains in The Seekers' Path",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 334
   }
 ]

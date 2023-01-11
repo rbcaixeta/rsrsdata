@@ -3603,7 +3603,7 @@
   {
     "id": 702101068,
     "name": "Follow-Up (Wind Chaser)",
-    "flavor_text": "After activating a single-foe attack, Wind Chaser will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not considered single-foe attacks.",
+    "flavor_text": "After activating a single-foe attack*, Wind Chaser will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "simple_flavor_text": "",
     "special_effect_ids": [
       801040953,
@@ -3624,7 +3624,7 @@
   {
     "id": 702101069,
     "name": "Follow-Up (Ice Chaser)",
-    "flavor_text": "After activating a single-foe attack, Ice Chaser will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not considered single-foe attacks.",
+    "flavor_text": "After activating a single-foe attack*, Ice Chaser will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "simple_flavor_text": "",
     "special_effect_ids": [
       801040955,
@@ -4570,7 +4570,7 @@
   {
     "id": 702101149,
     "name": "Devoted Swordsmanship",
-    "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>After activating an OD attack, Jolting Slash+ will be activated.<br>*Skills/Spells transmitted in Robin Cup and Skills/Spells activated by this Ability are not considered OD attacks.<br><br>Jolting Slash+<br>G. Sword skill/Attack/Power: SSS/Direct/Single Foe (Slash+Lightning)<br>Attack.<br>(Activates using skill Rank 1).",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+2).<br><br>After activating an OD attack*, Jolting Slash+ will be activated.<br>*Skills/Spells transmitted in Robin Cup and Skills/Spells activated by this Ability are not included.<br><br>Jolting Slash+<br>G. Sword skill/Attack/Power: SSS/Direct/Single Foe (Slash+Lightning)<br>Attack.<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040322,
@@ -4740,7 +4740,7 @@
   {
     "id": 702101163,
     "name": "Wide-Range Sound System",
-    "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>After activating an OD attack, Beat Wave Cannon will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Beat Wave Cannon<br>Gun skill/Attack/Power: A/Indirect/All Foes (Blunt) <br>All range attack.<br>(Activates using skill Rank 1).",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>After activating an OD attack*, Beat Wave Cannon will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Beat Wave Cannon<br>Gun skill/Attack/Power: A/Indirect/All Foes (Blunt) <br>All range attack.<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040520,
@@ -4839,7 +4839,7 @@
   {
     "id": 702101170,
     "name": "Encore",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, Brave Song will be activated (high chance).<br>*Normal Attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Brave Song<br>Sword skill/Attack/Power: A/Indirect/All Foes (Slash+Heat)<br>All range attack.<br>(Activates using skill Rank 1).",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Brave Song will be activated (high chance).<br>*Normal Attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Brave Song<br>Sword skill/Attack/Power: A/Indirect/All Foes (Slash+Heat)<br>All range attack.<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802041087,
@@ -5322,7 +5322,7 @@
   {
     "id": 702101212,
     "name": "Claw Bit Assault (3x)",
-    "flavor_text": "Starting from the next turn after entering this stance, when landing an attack, Claw Bit Assault will be activated (Max times: 3).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup will not activate Claw Bit Assault.",
+    "flavor_text": "Starting from the next turn after entering this stance, after activating an attack*, Claw Bit Assault will be activated (Max times: 3).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
     "simple_flavor_text": "",
     "special_effect_ids": [
       801041068,
@@ -5339,7 +5339,7 @@
   {
     "id": 702101213,
     "name": "Absorption Magick",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, Drain Energy+ will be activated (very high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Drain Energy+ will be activated (very high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802041128,
@@ -5539,7 +5539,7 @@
   {
     "id": 702101229,
     "name": "Soul of Friendship",
-    "flavor_text": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack, Thyme's Friends will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered OD attacks.<br><br>Thyme's Friends<br>Club skill/Attack/Power: B/Indirect/All Foes (Blunt+Slash)<br>All range attack.<br>Recovers all surviving allies' HP (very small effect) and increases all surviving allies' status ailments resistances (medium effect).<br>(Activates using skill Rank 1).",
+    "flavor_text": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack*, Thyme's Friends will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Thyme's Friends<br>Club skill/Attack/Power: B/Indirect/All Foes (Blunt+Slash)<br>All range attack.<br>Recovers all surviving allies' HP (very small effect) and increases all surviving allies' status ailments resistances (medium effect).<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802041152,
@@ -10289,7 +10289,7 @@
   {
     "id": 702600540,
     "name": "Divine Punishment",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, Repent! will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Repent!, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Repent! will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Repent!, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not included.",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040557,
@@ -10401,7 +10401,7 @@
   {
     "id": 702600622,
     "name": "Searing Gambit",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, Bluefire Fang will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Bluefire Fang, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Bluefire Fang will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Bluefire Fang, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not included.",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040630,
@@ -10732,7 +10732,7 @@
   {
     "id": 702600763,
     "name": "Chasing Buster",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, Lance Buster will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal attacks, Lance Buster, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Lance Buster will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal attacks, Lance Buster, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not included.",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040828,
@@ -10761,7 +10761,7 @@
   {
     "id": 702600771,
     "name": "Punishment",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, Holy Wrath will be activated (high chance).<br>When landing an attack with the activated Holy Wrath, Fiat Lux will be activated (high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Holy Wrath<br>M. Arts skill/Attack/Power: D/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack. (Activates using skill Rank 1)<br><br>Fiat Lux<br>M. Arts skill/Attack/Power: B/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts darkness on target (medium chance/4 turns(s)).<br>(Activates using skill Rank 1).",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Holy Wrath will be activated (high chance).<br>When landing an attack with the activated Holy Wrath, Fiat Lux will be activated (high chance).<br>*Normal attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Holy Wrath<br>M. Arts skill/Attack/Power: D/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack. (Activates using skill Rank 1)<br><br>Fiat Lux<br>M. Arts skill/Attack/Power: B/Far/Indirect/All Foes (Lightning+Sun) *M. Arts Special Skill (INT)<br>All range attack.<br>When the attack hits, inflicts darkness on target (medium chance/4 turns(s)).<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040839,
@@ -10819,7 +10819,7 @@
   {
     "id": 702601012,
     "name": "Swift Rose",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, and when own HP is not full, Sleight of Hand will be activated.<br>*Normal Attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Sleight of Hand<br>M. Arts skill/Attack/Power: C/Direct/Single Foe (Blunt+Shadow)<br>Attack.<br>When the attack hits, there is a chance to reduce target's DEX (small effect).<br>When the attack hits, recovers own HP (very small effect).<br>(Activates using skill Rank 1).",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, and when own HP is not full, Sleight of Hand will be activated.<br>*Normal Attacks, Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Sleight of Hand<br>M. Arts skill/Attack/Power: C/Direct/Single Foe (Blunt+Shadow)<br>Attack.<br>When the attack hits, there is a chance to reduce target's DEX (small effect).<br>When the attack hits, recovers own HP (very small effect).<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040905,
@@ -29977,7 +29977,7 @@
   {
     "id": 1702100054,
     "name": "Absorption Magick",
-    "flavor_text": "When landing an attack, recovers own HP (very small effect).<br><br>When landing an attack with an Attack type skill/spell, Drain Energy+ will be activated (very high chance).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect).<br><br>When landing an attack with an Attack type skill/spell*, Drain Energy+ will be activated (very high chance).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802040100,
@@ -30082,6 +30082,21 @@
     "special_effect_ids": [
       1802040111,
       1802040112
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100062,
+    "name": "Giant's Combat",
+    "flavor_text": "Counterattacks' damage increases (very large effect).<br>When attacked, increases own OD gauge (small effect).<br>When landing an OverDrive attack, grants oneself Berva's Revenge (1 turn(s)).<br><br>Berva's Revenge<br>Nullifies attacks which have blunt damage. Also counterattacks with Berva's Uppercut when being directly attacked. (Counterattacks will not activate when parry is used in the same turn).<br><br>Counterattack: Berva's Uppercut<br>M. Arts skill/Attack/Power: SSS/Direct/Single Foe (Blunt)<br>Attack.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040012,
+      1802040092,
+      802041114
     ],
     "ability_when": 1,
     "icon": 4010,
@@ -30637,7 +30652,7 @@
   {
     "id": 1702300031,
     "name": "Energy Surge",
-    "flavor_text": "[Start of turn]<br>Grants oneself an attack boost (medium effect/1 turn(s)) (Max times: 3 times per battle).<br>Recovers own BP (+3) (Max times: 3 times per battle).",
+    "flavor_text": "[Start of turn]<br>Grants oneself Attack Boost (medium effect/1 turn(s)) (Max times: 3 times per battle).<br>Recovers own BP (+3) (Max times: 3 times per battle).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802040095,
@@ -30797,6 +30812,20 @@
     "sort_order": 0
   },
   {
+    "id": 1702400007,
+    "name": "Cure Favor",
+    "flavor_text": "[End of turn]<br>Has a medium chance to:<br>Recover all surviving allies' HP (very small effect), and recover all surviving allies' BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802010778,
+      802040745
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702600001,
     "name": "Insidious Charm",
     "flavor_text": "When landing an attack, inflicts charm on target (medium chance/4 turn(s)).",
@@ -30896,7 +30925,7 @@
   {
     "id": 1702600008,
     "name": "Fluke",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, Fiat Lux will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Fiat Lux, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Fiat Lux will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Normal Attacks, Fiat Lux, Skills/Spells transmitted in Robin Cup, and Skill/Spell Counterattacks are not included.",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040498,
@@ -30981,7 +31010,7 @@
   {
     "id": 1702600014,
     "name": "Divine Punishment",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, Repent! will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Repent! will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040557,
@@ -31081,7 +31110,7 @@
   {
     "id": 1702600021,
     "name": "Chasing Buster",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, Lance Buster will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Lance Buster will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040828,
@@ -31111,7 +31140,7 @@
   {
     "id": 1702600038,
     "name": "Watermelon Crusher",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, Watermelon Cut will be activated (very high chance).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Watermelon Cut<br>G. Sword skill/Attack/Power: E/Direct/Single Foe (Slash)<br>Attack.<br>Recovers the user's HP (small effect).<br>(Activates using skill Rank 1).",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Watermelon Cut will be activated (very high chance).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Watermelon Cut<br>G. Sword skill/Attack/Power: E/Direct/Single Foe (Slash)<br>Attack.<br>Recovers the user's HP (small effect).<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802040064,
@@ -31142,7 +31171,7 @@
   {
     "id": 1702600040,
     "name": "Swift Rose",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, and when own HP is not full, Sleight of Hand will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Sleight of Hand<br>M. Arts skill/Attack/Power: C/Direct/Single Foe (Blunt+Shadow)<br>Attack.<br>When the attack hits, there is a chance to reduce target's DEX (small effect).<br>When the attack hits, recovers own HP (very small effect).<br>(Activates using skill Rank 1).",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, and when own HP is not full, Sleight of Hand will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Sleight of Hand<br>M. Arts skill/Attack/Power: C/Direct/Single Foe (Blunt+Shadow)<br>Attack.<br>When the attack hits, there is a chance to reduce target's DEX (small effect).<br>When the attack hits, recovers own HP (very small effect).<br>(Activates using skill Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802040074,
@@ -31266,7 +31295,7 @@
   {
     "id": 1702600049,
     "name": "Follow-Up on Attack",
-    "flavor_text": "When landing an attack with an Attack type skill/spell, Drain Energy+ will be activated (very high chance).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not considered Attack type skills/spells.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Drain Energy+ will be activated (very high chance).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Drain Energy+<br>Dark spell/Attack/Power: B/Indirect/Single Foe (Shadow)<br>Attack.<br>When the attack hits, recovers the user's HP (small effect).<br>(Activates using spell Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802040098,
@@ -31331,6 +31360,27 @@
     ],
     "ability_when": 6,
     "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600054,
+    "name": "Improving Spirit Ⅰ (All)",
+    "flavor_text": "When landing an attack, increases own STR/END/DEX/AGI/INT/WIL/LOV/CHA (small effect), and recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011132,
+      802011133,
+      802011134,
+      802011135,
+      802011136,
+      802011137,
+      802011138,
+      802011139,
+      802040742
+    ],
+    "ability_when": 6,
+    "icon": 4001,
     "rarity": 0,
     "sort_order": 0
   },

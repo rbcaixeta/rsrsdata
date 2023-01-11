@@ -74409,5 +74409,2135 @@
     "is_required_for_area_clear": 0,
     "twitter_button_id": 0,
     "max_grind_count": 0
+  },
+  {
+    "id": 120104011,
+    "quest_type": 2,
+    "name": "4-1-1. Spreading Unease",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210401,
+    "number_of_story_banner": 4,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 0,
+    "scenario_id": 10304001,
+    "prev_quest_ids": [
+      120103171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104012,
+    "quest_type": 1,
+    "name": "4-1-1. To the Desert in the South I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 4,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1040521,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001136,
+      870001131,
+      870001134,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104171,
+      120103102
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104013,
+    "quest_type": 1,
+    "name": "4-1-1. To the Desert in the South I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 4,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040521,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001142,
+      870001137,
+      870001140,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104102,
+      120103103
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104021,
+    "quest_type": 1,
+    "name": "4-1-2. To the Desert in the South I",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000040,
+    "number_of_story_banner": 4,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1040521,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001130,
+      870001125,
+      870001128,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104011
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104022,
+    "quest_type": 1,
+    "name": "4-1-2. To the Desert in the South II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000022,
+    "number_of_story_banner": 4,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1140321,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001136,
+      870001135,
+      870001132,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104012
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104023,
+    "quest_type": 1,
+    "name": "4-1-2. To the Desert in the South II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000022,
+    "number_of_story_banner": 4,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1140321,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001142,
+      870001141,
+      870001138,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104013
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104031,
+    "quest_type": 1,
+    "name": "4-1-3. To the Desert in the South II",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000022,
+    "number_of_story_banner": 4,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1140321,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001130,
+      870001129,
+      870001126,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104021
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104032,
+    "quest_type": 1,
+    "name": "4-1-3. Beyond the Sand and Dust I",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000007,
+    "number_of_story_banner": 4,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1150081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001136,
+      870001133,
+      870001131,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104022
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104033,
+    "quest_type": 1,
+    "name": "4-1-3. Beyond the Sand and Dust I",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000007,
+    "number_of_story_banner": 4,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1150081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001142,
+      870001139,
+      870001137,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104023
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104041,
+    "quest_type": 2,
+    "name": "4-1-4. The Divine Order",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210401,
+    "number_of_story_banner": 4,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 0,
+    "scenario_id": 10304010,
+    "prev_quest_ids": [
+      120104031
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104042,
+    "quest_type": 1,
+    "name": "4-1-4. Beyond the Sand and Dust II",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000007,
+    "number_of_story_banner": 4,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1060361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001136,
+      870001134,
+      870001135,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104032
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104043,
+    "quest_type": 1,
+    "name": "4-1-4. Beyond the Sand and Dust II",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000007,
+    "number_of_story_banner": 4,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001142,
+      870001140,
+      870001141,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104033
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104051,
+    "quest_type": 1,
+    "name": "4-1-5. Beyond the Sand and Dust I",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000007,
+    "number_of_story_banner": 4,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1150081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001130,
+      870001127,
+      870001125,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104041
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104052,
+    "quest_type": 1,
+    "name": "4-1-5. Archlord Tower & Outset I",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1040531,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001136,
+      870001132,
+      870001133,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104042
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104053,
+    "quest_type": 1,
+    "name": "4-1-5. Archlord Tower & Outset I",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040531,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001142,
+      870001138,
+      870001139,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104043
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104061,
+    "quest_type": 1,
+    "name": "4-1-6. Beyond the Sand and Dust II",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000007,
+    "number_of_story_banner": 4,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1060361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001130,
+      870001128,
+      870001129,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104051
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104062,
+    "quest_type": 1,
+    "name": "4-2-1. Archlord Tower & Outset II",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1170041,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001136,
+      870001131,
+      870001134,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104052
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104063,
+    "quest_type": 1,
+    "name": "4-2-1. Archlord Tower & Outset II",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1170041,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001142,
+      870001137,
+      870001140,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104053
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104071,
+    "quest_type": 2,
+    "name": "4-1-7. Proof of Faith",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210401,
+    "number_of_story_banner": 4,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 0,
+    "scenario_id": 10304020,
+    "prev_quest_ids": [
+      120104061
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104072,
+    "quest_type": 1,
+    "name": "4-2-2. Archlord Tower & Outset III",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1040241,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001136,
+      870001135,
+      870001132,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104062
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104073,
+    "quest_type": 1,
+    "name": "4-2-2. Archlord Tower & Outset III",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040241,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001142,
+      870001141,
+      870001138,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104063
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104081,
+    "quest_type": 1,
+    "name": "4-1-8. Archlord Tower & Outset I",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1040531,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001130,
+      870001126,
+      870001127,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 169,
+    "battle_id": 100304051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104071
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104082,
+    "quest_type": 1,
+    "name": "4-2-3. Archlord Tower & Outset IV",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1060461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001136,
+      870001133,
+      870001131,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104072
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104083,
+    "quest_type": 1,
+    "name": "4-2-3. Archlord Tower & Outset IV",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001142,
+      870001139,
+      870001137,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104073
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104091,
+    "quest_type": 1,
+    "name": "4-2-1. Archlord Tower & Outset II",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1170041,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001130,
+      870001125,
+      870001128,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104081
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104092,
+    "quest_type": 1,
+    "name": "4-2-4. Archlord Tower & Outset V",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1150401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001136,
+      870001134,
+      870001135,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104082
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104093,
+    "quest_type": 1,
+    "name": "4-2-4. Archlord Tower & Outset V",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1150401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001142,
+      870001140,
+      870001141,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104083
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104101,
+    "quest_type": 2,
+    "name": "4-2-2. Ideals & Reality",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210401,
+    "number_of_story_banner": 4,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 0,
+    "scenario_id": 10304030,
+    "prev_quest_ids": [
+      120104091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104102,
+    "quest_type": 1,
+    "name": "4-2-5. Archlord Tower & Outset VI",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1990541,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001136,
+      870001132,
+      870001133,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104092
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104103,
+    "quest_type": 1,
+    "name": "4-2-5. Archlord Tower & Outset VI",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1990541,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001142,
+      870001138,
+      870001139,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104093
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104111,
+    "quest_type": 1,
+    "name": "4-2-3. Archlord Tower & Outset III",
+    "sort_order": 11,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1040241,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001130,
+      870001129,
+      870001126,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104101
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104121,
+    "quest_type": 1,
+    "name": "4-2-4. Archlord Tower & Outset IV",
+    "sort_order": 12,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1060461,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 7,
+        "id": 1100675
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001130,
+      870001127,
+      870001125,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104111
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104131,
+    "quest_type": 2,
+    "name": "4-2-5. Highest Priority",
+    "sort_order": 13,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210401,
+    "number_of_story_banner": 4,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 0,
+    "scenario_id": 10304040,
+    "prev_quest_ids": [
+      120104121
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104141,
+    "quest_type": 2,
+    "name": "4-2-6. Ask and Ye Shall Receive",
+    "sort_order": 14,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210401,
+    "number_of_story_banner": 4,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 0,
+    "scenario_id": 10304050,
+    "prev_quest_ids": [
+      120104131
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104151,
+    "quest_type": 1,
+    "name": "4-2-7. Archlord Tower & Outset V",
+    "sort_order": 15,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1150401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100678
+      },
+      {
+        "type": 7,
+        "id": 1100681
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001130,
+      870001128,
+      870001129,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104141
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104161,
+    "quest_type": 1,
+    "name": "4-2-8. Archlord Tower & Outset VI",
+    "sort_order": 16,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000138,
+    "number_of_story_banner": 4,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1990541,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100676
+      },
+      {
+        "type": 7,
+        "id": 1100677
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001130,
+      870001126,
+      870001127,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 100304101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120104151
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120104171,
+    "quest_type": 2,
+    "name": "4-2-9. The Beginning",
+    "sort_order": 17,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210401,
+    "number_of_story_banner": 4,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 14,
+        "id": 311903,
+        "quantity": 1
+      },
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 170,
+    "battle_id": 0,
+    "scenario_id": 10304060,
+    "prev_quest_ids": [
+      120104161
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   }
 ]
