@@ -30730,6 +30730,35 @@
     "sort_order": 0
   },
   {
+    "id": 1702300037,
+    "name": "Macha's Brilliance",
+    "flavor_text": "[Start of turn]<br>Has a high chance to:<br>Increase all surviving allies' INT (medium effect) and recover all surviving allies' HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802010777,
+      802010778
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702300038,
+    "name": "Breadwinner",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' WIL (small effect), and increases all surviving allies' poison resistance and unconsciousness resistance (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802010030,
+      802021037,
+      802021038
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702400001,
     "name": "Leader's Missions",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect) and recovers own BP (+1). ",
@@ -31381,6 +31410,22 @@
     ],
     "ability_when": 6,
     "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600056,
+    "name": "Celestial's Wisdom",
+    "flavor_text": "When recovery actions are made, recovers own BP (+1) and recovers own HP (medium effect).<br>Also grants oneself an attack boost (large effect/3 turn(s)) and a defense boost (large effect/3 turn(s)).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041029,
+      1802040113,
+      802041031,
+      802040732
+    ],
+    "ability_when": 6,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   },

@@ -3892,6 +3892,23 @@
     "end_at": 1674608399
   },
   {
+    "id": 4900383,
+    "shop_type": 4,
+    "banner": 901139,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 1100617
+      }
+    ],
+    "tab_category": 1,
+    "priority": 7001,
+    "start_at": 1674781200,
+    "end_at": 1677200399
+  },
+  {
     "id": 4900384,
     "shop_type": 4,
     "banner": 1000171,
@@ -4015,6 +4032,40 @@
     "end_at": 1664153999
   },
   {
+    "id": 4900392,
+    "shop_type": 4,
+    "banner": 1000177,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 800172
+      }
+    ],
+    "tab_category": 1,
+    "priority": 10190,
+    "start_at": 1674176400,
+    "end_at": 1676595599
+  },
+  {
+    "id": 4900393,
+    "shop_type": 4,
+    "banner": 1000178,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 800173
+      }
+    ],
+    "tab_category": 1,
+    "priority": 10189,
+    "start_at": 1674176400,
+    "end_at": 1676595599
+  },
+  {
     "id": 4900394,
     "shop_type": 4,
     "banner": 901144,
@@ -4038,6 +4089,27 @@
     "priority": 6975,
     "start_at": 1664845200,
     "end_at": 1667264399
+  },
+  {
+    "id": 4900395,
+    "shop_type": 4,
+    "banner": 901145,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 1100642
+      },
+      {
+        "currency": 4,
+        "id": 1100643
+      }
+    ],
+    "tab_category": 1,
+    "priority": 7000,
+    "start_at": 1674176400,
+    "end_at": 1676595599
   },
   {
     "id": 4900400,
@@ -5909,5 +5981,22 @@
     "priority": 6999,
     "start_at": 1673830800,
     "end_at": 1675645199
+  },
+  {
+    "id": 1004900101,
+    "shop_type": 4,
+    "banner": 1001000069,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 1000800048
+      }
+    ],
+    "tab_category": 1,
+    "priority": 10191,
+    "start_at": 1674781200,
+    "end_at": 1677200399
   }
 ]
