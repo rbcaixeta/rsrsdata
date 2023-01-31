@@ -43669,6 +43669,250 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040084,
+    "state_change_id": 900040184,
+    "name": "Damage Block (1 time)",
+    "flavor_text": "Decreases damage taken by 100% (Max times: 1). *Only activates when hit by an attack.",
+    "target_area": 8,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "Damage Block",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040085,
+    "state_change_id": 900040062,
+    "name": "Defense Up",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      85
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040086,
+    "state_change_id": 900050113,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Activates Dragon Flame Blast after activating a single foe attack.",
+    "target_area": 1,
+    "state_vars": [
+      1702600055
+    ],
+    "text_pop": "Follow-Up Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040087,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Attacks with Dragon Flame Blast after activating an inherited skill (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500059
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040088,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Attacks with Dragon Flame Blast after activating skill 1 (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500059
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040089,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Attacks with Dragon Flame Blast after activating skill 2 (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500059
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040090,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Attacks with Dragon Flame Blast after activating skill 3 (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500059
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040091,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Attacks with Dragon Flame Blast after activating a normal attack.",
+    "target_area": 1,
+    "state_vars": [
+      1110500059
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040092,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Attacks with Dragon Flame Blast after activating an inherited skill (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500059
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040093,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Attacks with Dragon Flame Blast after activating skill 1 (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500059
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040094,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Attacks with Dragon Flame Blast after activating skill 2 (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500059
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040095,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Attacks with Dragon Flame Blast after activating skill 3 (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500059
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040096,
+    "state_change_id": 900040192,
+    "name": "Damage Block (1 time)",
+    "flavor_text": "Decreases damage taken by 100% (Max times: 1). *Only activates when hit by an attack.",
+    "target_area": 1,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "Damage Block",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040097,
+    "state_change_id": 900040036,
+    "name": "Dual Winter Plum",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Dual Winter Plum.",
+    "target_area": 1,
+    "state_vars": [
+      1110100050
+    ],
+    "text_pop": "Counter Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040099,
     "state_change_id": 900050073,
     "name": "Golden Gale",
@@ -43713,6 +43957,24 @@
       6,
       8,
       10
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040102,
+    "state_change_id": 900050055,
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
+    "target_area": 3,
+    "state_vars": [
+      1,
+      2
     ],
     "text_pop": "BP+",
     "text_color": "5BFF24",
@@ -46205,6 +46467,448 @@
     "state_icon": 3001
   },
   {
+    "id": 1802040114,
+    "state_change_id": 900050113,
+    "name": "Recover BP on Attack",
+    "flavor_text": "When landing an attack, recovers own BP (+1).",
+    "target_area": 1,
+    "state_vars": [
+      1702600057
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040115,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702600058
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040116,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702600059
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040117,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 1 (single foe), Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600026
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040118,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 2 (single foe), Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600026
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040119,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 3 (single foe), Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600026
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040120,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing an inherited skill (single foe), Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600026
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040121,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a normal attack, Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600026
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040122,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 1 (random foe), Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600026
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040123,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 2 (random foe), Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600026
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040124,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 3 (random foe), Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600026
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040125,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing an inherited skill (random foe), Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600026
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040126,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 1 (single foe), Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600027
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040127,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 2 (single foe), Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600027
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040128,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 3 (single foe), Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600027
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040129,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing an inherited skill (single foe), Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600027
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040130,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a normal attack, Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600027
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040131,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 1 (random foe), Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600027
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040132,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 2 (random foe), Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600027
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040133,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing skill 3 (random foe), Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600027
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040134,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing an inherited skill (random foe), Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1125600027
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040135,
+    "state_change_id": 900040048,
+    "name": "Staff Attack Boost",
+    "flavor_text": "Increases damage dealt by staff attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [
+      21010
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040136,
+    "state_change_id": 900040048,
+    "name": "Weak Atk Boost When Staff Equipped",
+    "flavor_text": "Increases Weak damage dealt by staff attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [
+      10,
+      21010
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040137,
+    "state_change_id": 900040048,
+    "name": "M. Arts Attack Boost",
+    "flavor_text": "Increases damage dealt by M. Arts attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [
+      21005
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040138,
+    "state_change_id": 900040048,
+    "name": "Weak Atk Boost When M. Arts Equipped",
+    "flavor_text": "Increases Weak damage dealt by M. Arts attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [
+      10,
+      21005
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040139,
+    "state_change_id": 900050112,
+    "name": "LP Recoil Damage",
+    "flavor_text": "Receives LP recoil damage.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "SelfHarm",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
     "id": 1802040362,
     "state_change_id": 900040048,
     "name": "Damage Up",
@@ -46912,6 +47616,176 @@
     "state_icon": 3003
   },
   {
+    "id": 1808040024,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1708600009
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1808040025,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1708600010
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1808040026,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1656000019
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040027,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1656000019
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040028,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1656000019
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040029,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Everlasting Butterflies will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1656000019
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040030,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1656000020
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040031,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1656000020
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040032,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1656000020
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040033,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Blooming Fireworks+ will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1656000020
+    ],
+    "text_pop": "Fluttering Elegance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1809010001,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -47083,6 +47957,91 @@
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
     "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1809040005,
+    "state_change_id": 900050113,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Activates Dragon Flame Blast after activating a single foe attack.",
+    "target_area": 1,
+    "state_vars": [
+      1708600008
+    ],
+    "text_pop": "Follow-Up Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1809040006,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Activates Dragon Flame Blast after activating a single foe attack.",
+    "target_area": 1,
+    "state_vars": [
+      1605000036
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1809040007,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Activates Dragon Flame Blast after activating a single foe attack.",
+    "target_area": 1,
+    "state_vars": [
+      1605000036
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1809040008,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "Activates Dragon Flame Blast after activating a single foe attack.",
+    "target_area": 1,
+    "state_vars": [
+      1605000036
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1809040009,
+    "state_change_id": 900040036,
+    "name": "Dual Winter Plum",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Dual Winter Plum.",
+    "target_area": 1,
+    "state_vars": [
+      1601000039
+    ],
+    "text_pop": "Counter Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
     "triggering_effect_condition_ids": [],
     "state_icon": 3001
   }

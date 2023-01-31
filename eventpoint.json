@@ -4797,6 +4797,15 @@
     "sort_order": 22042045
   },
   {
+    "id": 1100688,
+    "name": "Precious Stone [Limited Time]",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100233,
+    "max_quantity": 99999999,
+    "expired_at": 1677632399,
+    "sort_order": 22051010
+  },
+  {
     "id": 1000800004,
     "name": "Romancing Festival Medal: Pumpkin",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -5199,6 +5208,15 @@
     "icon": 1000800048,
     "max_quantity": 99999999,
     "expired_at": 1677200399,
+    "sort_order": 22012751
+  },
+  {
+    "id": 1000800049,
+    "name": "Romancing Festival Medal 75",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800049,
+    "max_quantity": 99999999,
+    "expired_at": 1677632399,
     "sort_order": 22012751
   },
   {
@@ -5704,5 +5722,23 @@
     "max_quantity": 99999999,
     "expired_at": 1675645199,
     "sort_order": 3441
+  },
+  {
+    "id": 1001100242,
+    "name": "Firecrackers",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100242,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23013110
+  },
+  {
+    "id": 1001100243,
+    "name": "Challenge Scroll",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100243,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23013120
   }
 ]

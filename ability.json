@@ -30104,6 +30104,93 @@
     "sort_order": 0
   },
   {
+    "id": 1702100063,
+    "name": "Fluttering Elegance",
+    "flavor_text": "When landing an attack, recovers own BP (+1).<br>When landing a single-foe attack*, Everlasting Butterflies will be activated (high chance).<br>(Activates using spell Rank 1).<br>When landing a single-foe attack*, Blooming Fireworks+ will be activated (medium chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040114,
+      1802040115,
+      1802040116
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100064,
+    "name": "Staff Arcana Ⅳ",
+    "flavor_text": "When attacking with staves, attack damage increases (very large effect).<br>When landing a Weak attack, damage increases further (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040135,
+      1802040136
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100065,
+    "name": "Strengthened Practice Ⅱ",
+    "flavor_text": "When landing an attack, recovers own BP (+1).<br><br>[Start of battle]<br>Recovers own BP (+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040322,
+      1802040114
+    ],
+    "ability_when": 1,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100066,
+    "name": "Strengthened Battle Heal Ⅱ",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect).<br><br>[Start of battle]<br>Recovers own BP (+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040322,
+      1802040100
+    ],
+    "ability_when": 1,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100067,
+    "name": "M. Arts Arcana Ⅳ",
+    "flavor_text": "When attacking with M. Arts, attack damage increases (very large effect).<br>When landing a Weak attack, damage increases further (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040137,
+      1802040138
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100068,
+    "name": "Dragon Technique",
+    "flavor_text": "Attacks' damage increases (very large effect).<br><br>Grants oneself Follow-Up (Dragon Flame Blast) (Effect: permanent in battle) and Defense Up (large effect) at start of battle.<br>*Loses 2 LP as recoil damage.<br><br>Defense Up<br>Damage taken will be reduced (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040139,
+      802040346,
+      1801040085,
+      1801040086
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -31414,6 +31501,27 @@
     "sort_order": 0
   },
   {
+    "id": 1702600055,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "After activating a single-foe attack*, Dragon Flame Blast will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1801040087,
+      1801040088,
+      1801040089,
+      1801040090,
+      1801040091,
+      1801040092,
+      1801040093,
+      1801040094,
+      1801040095
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702600056,
     "name": "Celestial's Wisdom",
     "flavor_text": "When recovery actions are made, recovers own BP (+1) and recovers own HP (medium effect).<br>Also grants oneself an attack boost (large effect/3 turn(s)) and a defense boost (large effect/3 turn(s)).<br>*Recovery actions: Actions made by recovery type skills/spells.",
@@ -31423,6 +31531,61 @@
       1802040113,
       802041031,
       802040732
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600057,
+    "name": "Recover BP on Attack",
+    "flavor_text": "When landing an attack, recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040742
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600058,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Everlasting Butterflies will be activated (high chance).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040117,
+      1802040118,
+      1802040119,
+      1802040120,
+      1802040121,
+      1802040122,
+      1802040123,
+      1802040124,
+      1802040125
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600059,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Blooming Fireworks+ will be activated (medium chance).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040126,
+      1802040127,
+      1802040128,
+      1802040129,
+      1802040130,
+      1802040131,
+      1802040132,
+      1802040133,
+      1802040134
     ],
     "ability_when": 6,
     "icon": 4010,
@@ -31546,6 +31709,20 @@
     ],
     "ability_when": 1,
     "icon": 4014,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1708100010,
+    "name": "Fluttering Elegance",
+    "flavor_text": "When landing a single-foe attack*, Everlasting Butterflies will be activated (high chance).<br>(Activates using spell Rank 1).<br>When landing a single-foe attack*, Blooming Fireworks+ will be activated (medium chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1808040024,
+      1808040025
+    ],
+    "ability_when": 1,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   },
@@ -31755,6 +31932,53 @@
     ],
     "ability_when": 6,
     "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1708600008,
+    "name": "Follow-Up (Dragon Flame Blast)",
+    "flavor_text": "After activating a single-foe attack*, Dragon Flame Blast will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1809040006,
+      1809040007,
+      1809040008
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1708600009,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Everlasting Butterflies will be activated (high chance).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1808040026,
+      1808040027,
+      1808040028,
+      1808040029
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1708600010,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "When landing a single-foe attack, Blooming Fireworks+ will be activated (medium chance).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1808040030,
+      1808040031,
+      1808040032,
+      1808040033
+    ],
+    "ability_when": 6,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   }
