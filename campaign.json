@@ -26366,6 +26366,20 @@
     "end_at": 1676422799
   },
   {
+    "id": 6536,
+    "displays_campaign": 1,
+    "quest_category": 1,
+    "area_ids": [],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      5623
+    ],
+    "start_at": 1675818000,
+    "end_at": 1677805199
+  },
+  {
     "id": 1000000001,
     "displays_campaign": 1,
     "quest_category": 0,
@@ -56702,6 +56716,93 @@
       1000002315
     ],
     "start_at": 1676336400,
+    "end_at": 1676422799
+  },
+  {
+    "id": 1000002091,
+    "displays_campaign": 1,
+    "quest_category": 1,
+    "area_ids": [],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      1492
+    ],
+    "start_at": 1675818000,
+    "end_at": 1677805199
+  },
+  {
+    "id": 1000002092,
+    "displays_campaign": 1,
+    "quest_category": 1,
+    "area_ids": [],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      1000002316,
+      1000002317,
+      1000002318
+    ],
+    "start_at": 1675818000,
+    "end_at": 1677805199
+  },
+  {
+    "id": 1000002093,
+    "displays_campaign": 1,
+    "quest_category": 0,
+    "area_ids": [
+      171,
+      172
+    ],
+    "difficulties": [
+      1
+    ],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      5681
+    ],
+    "start_at": 1675818000,
+    "end_at": 1676422799
+  },
+  {
+    "id": 1000002094,
+    "displays_campaign": 1,
+    "quest_category": 0,
+    "area_ids": [
+      171,
+      172
+    ],
+    "difficulties": [
+      2
+    ],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      5685
+    ],
+    "start_at": 1675818000,
+    "end_at": 1676422799
+  },
+  {
+    "id": 1000002095,
+    "displays_campaign": 1,
+    "quest_category": 0,
+    "area_ids": [
+      171,
+      172
+    ],
+    "difficulties": [
+      3
+    ],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      5691
+    ],
+    "start_at": 1675818000,
     "end_at": 1676422799
   }
 ]

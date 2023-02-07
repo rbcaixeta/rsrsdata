@@ -30191,6 +30191,22 @@
     "sort_order": 0
   },
   {
+    "id": 1702100069,
+    "name": "Action Switch",
+    "flavor_text": "When attacking with slash attacks, grants oneself Attack Boost (medium effect/3 turn(s)), and recovers own BP (+2).<br>When attacking with shadow attacks, grants oneself Defense Boost (medium effect/3 turn(s)), and recovers own HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040140,
+      1802040141,
+      1802040142,
+      1802040143
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",

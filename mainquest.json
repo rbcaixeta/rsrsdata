@@ -76539,5 +76539,2169 @@
     "is_required_for_area_clear": 0,
     "twitter_button_id": 0,
     "max_grind_count": 0
+  },
+  {
+    "id": 120105011,
+    "quest_type": 2,
+    "name": "5-1-1. Dark Star",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210501,
+    "number_of_story_banner": 5,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 0,
+    "scenario_id": 10305001,
+    "prev_quest_ids": [
+      120104171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105012,
+    "quest_type": 1,
+    "name": "5-1-1. Path to Lance I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 5,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1010031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001155,
+      870001153,
+      870001151,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105181,
+      120104102
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105013,
+    "quest_type": 1,
+    "name": "5-1-1. Path to Lance I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 5,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001162,
+      870001160,
+      870001158,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105102,
+      120104103
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105021,
+    "quest_type": 1,
+    "name": "5-1-2. Path to Lance I",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 5,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1010031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001148,
+      870001146,
+      870001144,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105011
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105022,
+    "quest_type": 1,
+    "name": "5-1-2. Path to Lance II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1020161,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001156,
+      870001151,
+      870001154,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105012
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105023,
+    "quest_type": 1,
+    "name": "5-1-2. Path to Lance II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1020161,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001163,
+      870001158,
+      870001161,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105013
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105031,
+    "quest_type": 1,
+    "name": "5-1-3. Path to Lance II",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1020161,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001149,
+      870001144,
+      870001147,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105021
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105032,
+    "quest_type": 1,
+    "name": "5-1-3. Path to Lance III",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1150071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001156,
+      870001154,
+      870001152,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105022
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105033,
+    "quest_type": 1,
+    "name": "5-1-3. Path to Lance III",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1150071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001163,
+      870001161,
+      870001159,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105023
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105041,
+    "quest_type": 1,
+    "name": "5-1-4. Path to Lance III",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1150071,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001149,
+      870001147,
+      870001145,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105031
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105042,
+    "quest_type": 1,
+    "name": "5-1-4. Frozen Lands I",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000018,
+    "number_of_story_banner": 5,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1100031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001155,
+      870001152,
+      870001150,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105032
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105043,
+    "quest_type": 1,
+    "name": "5-1-4. Frozen Lands I",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000018,
+    "number_of_story_banner": 5,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1100031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001162,
+      870001159,
+      870001157,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105033
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105051,
+    "quest_type": 2,
+    "name": "5-1-5. Astronomer & Prophecy",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210501,
+    "number_of_story_banner": 5,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 0,
+    "scenario_id": 10305010,
+    "prev_quest_ids": [
+      120105041
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105052,
+    "quest_type": 1,
+    "name": "5-1-5. Frozen Lands II",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000006,
+    "number_of_story_banner": 5,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1060051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001155,
+      870001150,
+      870001153,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105042
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105053,
+    "quest_type": 1,
+    "name": "5-1-5. Frozen Lands II",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000006,
+    "number_of_story_banner": 5,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001162,
+      870001157,
+      870001160,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105043
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105061,
+    "quest_type": 1,
+    "name": "5-1-6. Frozen Lands I",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000018,
+    "number_of_story_banner": 5,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1100031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001148,
+      870001145,
+      870001143,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105051
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105062,
+    "quest_type": 1,
+    "name": "5-2-1. Monster Hunt I",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1120331,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001155,
+      870001153,
+      870001151,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105052
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105063,
+    "quest_type": 1,
+    "name": "5-2-1. Monster Hunt I",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1120331,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001162,
+      870001160,
+      870001158,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105053
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105071,
+    "quest_type": 1,
+    "name": "5-1-7. Frozen Lands II",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000006,
+    "number_of_story_banner": 5,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1060051,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001148,
+      870001143,
+      870001146,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 100305051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105061
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105072,
+    "quest_type": 1,
+    "name": "5-2-2. Monster Hunt II",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1010411,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001156,
+      870001151,
+      870001154,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105062
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105073,
+    "quest_type": 1,
+    "name": "5-2-2. Monster Hunt II",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010411,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001163,
+      870001158,
+      870001161,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105063
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105081,
+    "quest_type": 2,
+    "name": "5-1-8. Frozen Snowscape All Around",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210501,
+    "number_of_story_banner": 5,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 0,
+    "scenario_id": 10305020,
+    "prev_quest_ids": [
+      120105071
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105082,
+    "quest_type": 1,
+    "name": "5-2-3. Sparkling Lake I",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000140,
+    "number_of_story_banner": 5,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1150521,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001156,
+      870001154,
+      870001152,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105072
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105083,
+    "quest_type": 1,
+    "name": "5-2-3. Sparkling Lake I",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000140,
+    "number_of_story_banner": 5,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1150521,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001163,
+      870001161,
+      870001159,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105073
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105091,
+    "quest_type": 2,
+    "name": "5-1-9. A Foreign Tale",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210501,
+    "number_of_story_banner": 5,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 171,
+    "battle_id": 0,
+    "scenario_id": 10305030,
+    "prev_quest_ids": [
+      120105081
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105092,
+    "quest_type": 1,
+    "name": "5-2-4. Sparkling Lake II",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000140,
+    "number_of_story_banner": 5,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1110421,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001155,
+      870001152,
+      870001150,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105082
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105093,
+    "quest_type": 1,
+    "name": "5-2-4. Sparkling Lake II",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000140,
+    "number_of_story_banner": 5,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1110421,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001162,
+      870001159,
+      870001157,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105083
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105101,
+    "quest_type": 1,
+    "name": "5-2-1. Monster Hunt I",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1120331,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001148,
+      870001146,
+      870001144,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105102,
+    "quest_type": 1,
+    "name": "5-2-5. Sparkling Lake III",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000140,
+    "number_of_story_banner": 5,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1070301,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001155,
+      870001150,
+      870001153,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105092
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105103,
+    "quest_type": 1,
+    "name": "5-2-5. Sparkling Lake III",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000140,
+    "number_of_story_banner": 5,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1070301,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001162,
+      870001157,
+      870001160,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105093
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105111,
+    "quest_type": 1,
+    "name": "5-2-2. Monster Hunt II",
+    "sort_order": 11,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000036,
+    "number_of_story_banner": 5,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1010411,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100679
+      },
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001149,
+      870001144,
+      870001147,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105101
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105121,
+    "quest_type": 2,
+    "name": "5-2-3. A Foreign Young Man",
+    "sort_order": 12,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210501,
+    "number_of_story_banner": 5,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 0,
+    "scenario_id": 10305040,
+    "prev_quest_ids": [
+      120105111
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105131,
+    "quest_type": 2,
+    "name": "5-2-4. Precious Allies",
+    "sort_order": 13,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210501,
+    "number_of_story_banner": 5,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 0,
+    "scenario_id": 10305050,
+    "prev_quest_ids": [
+      120105121
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105141,
+    "quest_type": 2,
+    "name": "5-2-5. Path & Burdens",
+    "sort_order": 14,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210501,
+    "number_of_story_banner": 5,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 0,
+    "scenario_id": 10305060,
+    "prev_quest_ids": [
+      120105131
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105151,
+    "quest_type": 1,
+    "name": "5-2-6. Sparkling Lake I",
+    "sort_order": 15,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000140,
+    "number_of_story_banner": 5,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1150521,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100683
+      },
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001149,
+      870001147,
+      870001145,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105141
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105161,
+    "quest_type": 1,
+    "name": "5-2-7. Sparkling Lake II",
+    "sort_order": 16,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000140,
+    "number_of_story_banner": 5,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1110421,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100680
+      },
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001148,
+      870001145,
+      870001143,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105151
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105171,
+    "quest_type": 1,
+    "name": "5-2-8. Sparkling Lake III",
+    "sort_order": 17,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000140,
+    "number_of_story_banner": 5,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1070301,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100674
+      },
+      {
+        "type": 7,
+        "id": 1100682
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001148,
+      870001143,
+      870001146,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 100305101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120105161
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120105181,
+    "quest_type": 2,
+    "name": "5-2-9. The Path of Light",
+    "sort_order": 18,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210501,
+    "number_of_story_banner": 5,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 172,
+    "battle_id": 0,
+    "scenario_id": 10305070,
+    "prev_quest_ids": [
+      120105171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   }
 ]
