@@ -42483,6 +42483,96 @@
     "state_icon": 2001
   },
   {
+    "id": 1801010056,
+    "state_change_id": 900010014,
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "DEX/CHA↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801010057,
+    "state_change_id": 900010019,
+    "name": "CHA Up",
+    "flavor_text": "Increases CHA.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801010058,
+    "state_change_id": 900010013,
+    "name": "END Up",
+    "flavor_text": "Increases END.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "Attributes↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "140400090",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801010059,
+    "state_change_id": 900010017,
+    "name": "WIL Up",
+    "flavor_text": "Increases WIL.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801010060,
+    "state_change_id": 900010018,
+    "name": "LOV Up",
+    "flavor_text": "Increases LOV.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801010061,
+    "state_change_id": 900010019,
+    "name": "CHA Up",
+    "flavor_text": "Increases CHA.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
     "id": 1801010430,
     "state_change_id": 900010017,
     "name": "WIL Up",
@@ -43982,6 +44072,59 @@
     "ignition_effect_id": "",
     "display_flag": 1,
     "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040103,
+    "state_change_id": 900040151,
+    "name": "Evasion (1 time)",
+    "flavor_text": "Evades enemy attacks (Max times: 1).",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Evasion",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040104,
+    "state_change_id": 900050054,
+    "name": "Recover HP (small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 3,
+    "state_vars": [
+      10
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "140400092",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040105,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (small)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 3,
+    "state_vars": [
+      85
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
     "state_icon": 3001
   },
   {
@@ -46973,6 +47116,213 @@
     "text_pop": "",
     "text_color": "",
     "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040144,
+    "state_change_id": 900040059,
+    "name": "Deep Affection",
+    "flavor_text": "When knocked unconscious, returns to 100% HP.",
+    "target_area": 1,
+    "state_vars": [
+      0,
+      100
+    ],
+    "text_pop": "Deep Affection",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "Plane",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      16
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040145,
+    "state_change_id": 900050113,
+    "name": "END Up When Attacked",
+    "flavor_text": "When being attacked, increases all surviving allies' END (medium effect).",
+    "target_area": 1,
+    "state_vars": [
+      702600608
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040146,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack (When HP is not full)",
+    "flavor_text": "[When HP is not full]<br>When landing an attack with an Attack type skill/spell, Healing Pierce will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1702600060
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040147,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack (When HP is not full)",
+    "flavor_text": "[When HP is not full]<br>When landing a normal attack, Healing Pierce will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110700019
+    ],
+    "text_pop": "Noble Traditions",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040148,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack (When HP is not full)",
+    "flavor_text": "[When HP is not full]<br>When landing skill 1, Healing Pierce will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110700019
+    ],
+    "text_pop": "Noble Traditions",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040149,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack (When HP is not full)",
+    "flavor_text": "[When HP is not full]<br>When landing skill 2, Healing Pierce will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110700019
+    ],
+    "text_pop": "Noble Traditions",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040150,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack (When HP is not full)",
+    "flavor_text": "[When HP is not full]<br>When landing skill 3, Healing Pierce will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110700019
+    ],
+    "text_pop": "Noble Traditions",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040151,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack (When HP is not full)",
+    "flavor_text": "[When HP is not full]<br>When landing an inherited skill, Healing Pierce will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110700019
+    ],
+    "text_pop": "Noble Traditions",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040152,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "When landing an OverDrive attack, activates Thyme's Friends.",
+    "target_area": 1,
+    "state_vars": [
+      1702600061
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040153,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Thyme's Friends after activating an OverDrive attack with skill 3.",
+    "target_area": 1,
+    "state_vars": [
+      1110400015
+    ],
+    "text_pop": "Soul of Friendship",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040154,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Thyme's Friends after activating an OverDrive attack with an inherited skill.",
+    "target_area": 1,
+    "state_vars": [
+      1110400015
+    ],
+    "text_pop": "Soul of Friendship",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040155,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Thyme's Friends after activating an OverDrive attack with a normal attack.",
+    "target_area": 1,
+    "state_vars": [
+      1110400015
+    ],
+    "text_pop": "Soul of Friendship",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
     "ignition_effect_id": "",
     "display_flag": 1,
     "triggering_effect_condition_ids": [],

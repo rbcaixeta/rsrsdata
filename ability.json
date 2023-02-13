@@ -5607,6 +5607,20 @@
     "sort_order": 0
   },
   {
+    "id": 702101402,
+    "name": "Great Robust Tension",
+    "flavor_text": "Attacks' damage increases (extreme effect).<br>When HP is full, damage increases further (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040741,
+      802040014
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 702200060,
     "name": "Self-Regeneration Ⅲ",
     "flavor_text": "[Start of round]<br>Recovers own HP (medium chance/large effect).",
@@ -29382,7 +29396,7 @@
   {
     "id": 1702100011,
     "name": "Return from Death",
-    "flavor_text": "Shadow attacks' damage increases (medium effect).<br>When attacked and HP reaches 0, returns to 100% of Max HP (Max times: 1 time per battle)..",
+    "flavor_text": "Shadow attacks' damage increases (medium effect).<br>When attacked and HP reaches 0, returns to 100% of Max HP (Max times: 1 time per battle).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802040024,
@@ -30202,6 +30216,49 @@
       1802040143
     ],
     "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100070,
+    "name": "Deep Affection",
+    "flavor_text": "When attacked and HP reaches 0, returns to 100% of Max HP (Max times: 1 time per battle).<br><br>When being attacked, increases all surviving allies' END (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040144,
+      1802040145
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100071,
+    "name": "Noble Traditions",
+    "flavor_text": "Attacks' damage increases (very large effect).<br><br>[When HP is not full]<br>When landing an attack with an Attack type skill/spell*, Healing Pierce will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by this Ability, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040346,
+      1802040146
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100072,
+    "name": "Soul of Friendship",
+    "flavor_text": "When attacked, damage taken will be reduced (large effect).<br><br>[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack*, Thyme's Friends will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Thyme's Friends<br>Club skill/Attack/Power: B/Indirect/All Foes (Blunt+Slash)<br>All range attack.<br>Recovers all surviving allies' HP (small effect) and increases all surviving allies' status ailments resistances (medium effect).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040361,
+      802041152,
+      1802040152
+    ],
+    "ability_when": 1,
     "icon": 4010,
     "rarity": 0,
     "sort_order": 0
@@ -31602,6 +31659,38 @@
       1802040132,
       1802040133,
       1802040134
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600060,
+    "name": "Follow-Up on Attack (When HP is not full)",
+    "flavor_text": "[When HP is not full]<br>When landing an attack with an Attack type skill/spell*, Healing Pierce will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated by this Ability, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040147,
+      1802040148,
+      1802040149,
+      1802040150,
+      1802040151
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702600061,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "After activating an OD attack, Thyme's Friends will be activated.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040153,
+      1802040154,
+      1802040155
     ],
     "ability_when": 6,
     "icon": 4010,
