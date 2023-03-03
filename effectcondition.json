@@ -1470,6 +1470,16 @@
     "vars": []
   },
   {
+    "id": 24409,
+    "effect_condition_type": 5,
+    "vars": []
+  },
+  {
+    "id": 24410,
+    "effect_condition_type": 6,
+    "vars": []
+  },
+  {
     "id": 24500,
     "effect_condition_type": 28,
     "vars": [
@@ -1520,8 +1530,44 @@
     "vars": []
   },
   {
+    "id": 44001,
+    "effect_condition_type": 44,
+    "vars": [
+      100,
+      100
+    ]
+  },
+  {
+    "id": 44002,
+    "effect_condition_type": 44,
+    "vars": [
+      0,
+      99
+    ]
+  },
+  {
     "id": 45001,
     "effect_condition_type": 45,
+    "vars": []
+  },
+  {
+    "id": 46001,
+    "effect_condition_type": 46,
+    "vars": []
+  },
+  {
+    "id": 47001,
+    "effect_condition_type": 47,
+    "vars": []
+  },
+  {
+    "id": 48002,
+    "effect_condition_type": 48,
+    "vars": []
+  },
+  {
+    "id": 49001,
+    "effect_condition_type": 49,
     "vars": []
   },
   {
@@ -1616,6 +1662,13 @@
     ]
   },
   {
+    "id": 50023,
+    "effect_condition_type": 38,
+    "vars": [
+      6
+    ]
+  },
+  {
     "id": 50035,
     "effect_condition_type": 38,
     "vars": [
@@ -1641,6 +1694,104 @@
       41,
       51,
       1001
+    ]
+  },
+  {
+    "id": 50049,
+    "effect_condition_type": 38,
+    "vars": [
+      1,
+      96,
+      97,
+      3
+    ]
+  },
+  {
+    "id": 50050,
+    "effect_condition_type": 38,
+    "vars": [
+      18,
+      83
+    ]
+  },
+  {
+    "id": 50051,
+    "effect_condition_type": 38,
+    "vars": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": 50052,
+    "effect_condition_type": 38,
+    "vars": [
+      5,
+      10
+    ]
+  },
+  {
+    "id": 50053,
+    "effect_condition_type": 38,
+    "vars": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": 50054,
+    "effect_condition_type": 38,
+    "vars": [
+      8,
+      9,
+      11,
+      81
+    ]
+  },
+  {
+    "id": 50055,
+    "effect_condition_type": 38,
+    "vars": [
+      13,
+      84,
+      12
+    ]
+  },
+  {
+    "id": 50056,
+    "effect_condition_type": 38,
+    "vars": [
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "id": 50057,
+    "effect_condition_type": 38,
+    "vars": [
+      20,
+      82
+    ]
+  },
+  {
+    "id": 50501,
+    "effect_condition_type": 50,
+    "vars": []
+  },
+  {
+    "id": 80001,
+    "effect_condition_type": 37,
+    "vars": [
+      901156903
+    ]
+  },
+  {
+    "id": 80002,
+    "effect_condition_type": 37,
+    "vars": [
+      908099903
     ]
   },
   {

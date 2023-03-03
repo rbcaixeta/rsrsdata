@@ -1251,6 +1251,24 @@
     "sort_order": 23021400
   },
   {
+    "id": 800192,
+    "name": "Romancing Festival Medal 79",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800192,
+    "max_quantity": 99999999,
+    "expired_at": 1682038799,
+    "sort_order": 23030302
+  },
+  {
+    "id": 800197,
+    "name": "Romancing Festival Medal 80",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800197,
+    "max_quantity": 99999999,
+    "expired_at": 1680224399,
+    "sort_order": 23030301
+  },
+  {
     "id": 860001,
     "name": "White Crystal",
     "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -2404,10 +2422,10 @@
   },
   {
     "id": 1100322,
-    "name": "Amplification Badge",
-    "flavor_text": "Can be exchanged for items.",
+    "name": "Amplification Scroll",
+    "flavor_text": "Material for amplification. Can be used in the Dojo.",
     "icon": 1100322,
-    "max_quantity": 999,
+    "max_quantity": 9999,
     "expired_at": 0,
     "sort_order": 49999525
   },
@@ -4968,6 +4986,24 @@
     "sort_order": 22051720
   },
   {
+    "id": 1100706,
+    "name": "Vermillion Rare Metal",
+    "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100706,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23030340
+  },
+  {
+    "id": 1100707,
+    "name": "Vermillion Mold Piece (S. Sword)",
+    "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100707,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23030339
+  },
+  {
     "id": 1100709,
     "name": "Kiddie Medal [Ltd. Time]",
     "flavor_text": "Can be exchanged for Styles and other items. (Until [1679446799] <tz>)",
@@ -4975,6 +5011,15 @@
     "max_quantity": 99999999,
     "expired_at": 1679446799,
     "sort_order": 22051710
+  },
+  {
+    "id": 1100710,
+    "name": "Liam Arc Episode 6 Coin [Ltd. Time]",
+    "flavor_text": "Can be exchanged for Vermillion Rare Metal, Vermillion Mold Pieces (S. Sword), and other items. (Until [1680224399] <tz>)",
+    "icon": 1001100246,
+    "max_quantity": 99999999,
+    "expired_at": 1680224399,
+    "sort_order": 23030311
   },
   {
     "id": 1000800004,
@@ -5398,6 +5443,15 @@
     "max_quantity": 99999999,
     "expired_at": 1678755599,
     "sort_order": 23021400
+  },
+  {
+    "id": 1000800051,
+    "name": "Romancing Festival Medal 81",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800051,
+    "max_quantity": 99999999,
+    "expired_at": 1680224399,
+    "sort_order": 23030300
   },
   {
     "id": 1001100001,
@@ -5920,5 +5974,14 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 23013120
+  },
+  {
+    "id": 1001100245,
+    "name": "WJS Marathon Wristbands",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1001100245,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23030310
   }
 ]

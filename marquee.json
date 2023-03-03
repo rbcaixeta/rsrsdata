@@ -27,7 +27,7 @@
   {
     "id": 6,
     "name": "Party_InheritSkill_Change",
-    "text": "Select the skill or spell you want to inherit."
+    "text": "Change the amplification status or BP cost and check abilities."
   },
   {
     "id": 7,
@@ -223,5 +223,45 @@
     "id": 45,
     "name": "main_quest_Choice",
     "text": "Select the Main Quest to take on."
+  },
+  {
+    "id": 46,
+    "name": "Theatre_Museum_Top",
+    "text": "Tap on the screen to zoom in on the image."
+  },
+  {
+    "id": 47,
+    "name": "Smith_EquipmentGrowEvolve_Choice",
+    "text": "Select equipment."
+  },
+  {
+    "id": 48,
+    "name": "Theatre_BattleCustom_Choice_Ally",
+    "text": "Tap on the Style you wish to use. Tap Confirm to confirm change, or tap Remove to remove Style from party."
+  },
+  {
+    "id": 49,
+    "name": "Theatre_BattleCustom_Choice_Enemy",
+    "text": "Tap on the enemy you wish to use. Tap Confirm to confirm change, or tap Remove to remove the enemy."
+  },
+  {
+    "id": 50,
+    "name": "Theatre_BattleCustom_Choice_Skill",
+    "text": "Tap on the skill/spell you wish to use. Tap Confirm to confirm change."
+  },
+  {
+    "id": 51,
+    "name": "Theatre_BattleCustom_Choice_BG",
+    "text": "Tap on the background you wish to use. Tap Confirm to confirm change."
+  },
+  {
+    "id": 52,
+    "name": "Theatre_BattleCustom_Choice_Formation",
+    "text": "Select positions you wish to swap. Tap Confirm to confirm change."
+  },
+  {
+    "id": 53,
+    "name": "Smith_Evolve_confirm",
+    "text": "Tap Evolve to do one evolution. Tap 1-Tap Enhance to move to the 1-Tap Enhance screen."
   }
 ]

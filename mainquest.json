@@ -78703,5 +78703,2169 @@
     "is_required_for_area_clear": 0,
     "twitter_button_id": 0,
     "max_grind_count": 0
+  },
+  {
+    "id": 120106011,
+    "quest_type": 2,
+    "name": "6-1-1. The Runt's Troubles",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210601,
+    "number_of_story_banner": 6,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 0,
+    "scenario_id": 10306001,
+    "prev_quest_ids": [
+      120105181
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106012,
+    "quest_type": 1,
+    "name": "6-1-1. To the Aquamarine Caves I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000024,
+    "number_of_story_banner": 6,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1080391,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100557
+      },
+      {
+        "type": 7,
+        "id": 1100559
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001061,
+      870001055,
+      870001058,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106181,
+      120105102
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106013,
+    "quest_type": 1,
+    "name": "6-1-1. To the Aquamarine Caves I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000024,
+    "number_of_story_banner": 6,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1080391,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100557
+      },
+      {
+        "type": 7,
+        "id": 1100559
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001072,
+      870001066,
+      870001069,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106102,
+      120105103
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106021,
+    "quest_type": 2,
+    "name": "6-1-2. My True Wish",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210601,
+    "number_of_story_banner": 6,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 0,
+    "scenario_id": 10306010,
+    "prev_quest_ids": [
+      120106011
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106022,
+    "quest_type": 1,
+    "name": "6-1-2. To the Aquamarine Caves II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000024,
+    "number_of_story_banner": 6,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1070331,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100558
+      },
+      {
+        "type": 7,
+        "id": 1100560
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001061,
+      870001056,
+      870001057,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106012
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106023,
+    "quest_type": 1,
+    "name": "6-1-2. To the Aquamarine Caves II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000024,
+    "number_of_story_banner": 6,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1070331,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100558
+      },
+      {
+        "type": 7,
+        "id": 1100560
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001072,
+      870001067,
+      870001068,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106013
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106031,
+    "quest_type": 1,
+    "name": "6-1-3. To the Aquamarine Caves I",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000024,
+    "number_of_story_banner": 6,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1080391,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100557
+      },
+      {
+        "type": 7,
+        "id": 1100559
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001050,
+      870001044,
+      870001047,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106021
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106032,
+    "quest_type": 1,
+    "name": "6-1-3. To the Aquamarine Caves III",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000024,
+    "number_of_story_banner": 6,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1150551,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100553
+      },
+      {
+        "type": 7,
+        "id": 1100562
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001080,
+      870001051,
+      870001060,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106022
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106033,
+    "quest_type": 1,
+    "name": "6-1-3. To the Aquamarine Caves III",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000024,
+    "number_of_story_banner": 6,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1150551,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100553
+      },
+      {
+        "type": 7,
+        "id": 1100562
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001081,
+      870001062,
+      870001071,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106023
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106041,
+    "quest_type": 1,
+    "name": "6-1-4. To the Aquamarine Caves II",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000024,
+    "number_of_story_banner": 6,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1070331,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100558
+      },
+      {
+        "type": 7,
+        "id": 1100560
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001050,
+      870001045,
+      870001046,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106031
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106042,
+    "quest_type": 1,
+    "name": "6-1-4. After Albert I",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1060381,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100555
+      },
+      {
+        "type": 7,
+        "id": 1100556
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001061,
+      870001053,
+      870001054,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106032
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106043,
+    "quest_type": 1,
+    "name": "6-1-4. After Albert I",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060381,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100555
+      },
+      {
+        "type": 7,
+        "id": 1100556
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001072,
+      870001064,
+      870001065,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106033
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106051,
+    "quest_type": 1,
+    "name": "6-1-5. To the Aquamarine Caves III",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000024,
+    "number_of_story_banner": 6,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1150551,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100553
+      },
+      {
+        "type": 7,
+        "id": 1100562
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001079,
+      870001040,
+      870001049,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106041
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106052,
+    "quest_type": 1,
+    "name": "6-1-5. After Albert II",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1010401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100554
+      },
+      {
+        "type": 7,
+        "id": 1100561
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001061,
+      870001052,
+      870001059,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106042
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106053,
+    "quest_type": 1,
+    "name": "6-1-5. After Albert II",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100554
+      },
+      {
+        "type": 7,
+        "id": 1100561
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001072,
+      870001063,
+      870001070,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106043
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106061,
+    "quest_type": 2,
+    "name": "6-1-6. Time to Move Forward",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210601,
+    "number_of_story_banner": 6,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 0,
+    "scenario_id": 10306020,
+    "prev_quest_ids": [
+      120106051
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106062,
+    "quest_type": 1,
+    "name": "6-2-1. After Albert III",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1060361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100587
+      },
+      {
+        "type": 7,
+        "id": 1100589
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001028,
+      870001022,
+      870001025,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106052
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106063,
+    "quest_type": 1,
+    "name": "6-2-1. After Albert III",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100587
+      },
+      {
+        "type": 7,
+        "id": 1100589
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001039,
+      870001033,
+      870001036,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106053
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106071,
+    "quest_type": 1,
+    "name": "6-1-7. After Albert I",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1060381,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100555
+      },
+      {
+        "type": 7,
+        "id": 1100556
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001050,
+      870001042,
+      870001043,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106061
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106072,
+    "quest_type": 1,
+    "name": "6-2-2. Getting Albert I",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1010411,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100588
+      },
+      {
+        "type": 7,
+        "id": 1100590
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001028,
+      870001023,
+      870001024,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106062
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106073,
+    "quest_type": 1,
+    "name": "6-2-2. Getting Albert I",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010411,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100588
+      },
+      {
+        "type": 7,
+        "id": 1100590
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001039,
+      870001034,
+      870001035,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106063
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106081,
+    "quest_type": 1,
+    "name": "6-1-8. After Albert II",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1010401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100554
+      },
+      {
+        "type": 7,
+        "id": 1100561
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001050,
+      870001041,
+      870001048,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 173,
+    "battle_id": 100306051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106071
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106082,
+    "quest_type": 1,
+    "name": "6-2-3. Getting Albert II",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1010401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100583
+      },
+      {
+        "type": 7,
+        "id": 1100592
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001077,
+      870001018,
+      870001027,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106072
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106083,
+    "quest_type": 1,
+    "name": "6-2-3. Getting Albert II",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100583
+      },
+      {
+        "type": 7,
+        "id": 1100592
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001078,
+      870001029,
+      870001038,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106073
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106091,
+    "quest_type": 1,
+    "name": "6-2-1. After Albert III",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1060361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100587
+      },
+      {
+        "type": 7,
+        "id": 1100589
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001017,
+      870001011,
+      870001014,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106081
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106092,
+    "quest_type": 1,
+    "name": "6-2-4. Getting Albert III",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1060401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100585
+      },
+      {
+        "type": 7,
+        "id": 1100586
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001028,
+      870001020,
+      870001021,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106082
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106093,
+    "quest_type": 1,
+    "name": "6-2-4. Getting Albert III",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100585
+      },
+      {
+        "type": 7,
+        "id": 1100586
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001039,
+      870001031,
+      870001032,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106083
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106101,
+    "quest_type": 2,
+    "name": "6-2-2. Where the Crystal Leads",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210601,
+    "number_of_story_banner": 6,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 0,
+    "scenario_id": 10306030,
+    "prev_quest_ids": [
+      120106091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106102,
+    "quest_type": 1,
+    "name": "6-2-5. Guardian of the Aquamarine",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 10,
+    "illust_category": 2,
+    "illust_id": 1070361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100584
+      },
+      {
+        "type": 7,
+        "id": 1100591
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001028,
+      870001019,
+      870001026,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106092
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106103,
+    "quest_type": 1,
+    "name": "6-2-5. Guardian of the Aquamarine",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1070361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100584
+      },
+      {
+        "type": 7,
+        "id": 1100591
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001039,
+      870001030,
+      870001037,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106093
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106111,
+    "quest_type": 1,
+    "name": "6-2-3. Getting Albert I",
+    "sort_order": 11,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1010411,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100588
+      },
+      {
+        "type": 7,
+        "id": 1100590
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001017,
+      870001012,
+      870001013,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106101
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106121,
+    "quest_type": 1,
+    "name": "6-2-4. Getting Albert II",
+    "sort_order": 12,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1010401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100583
+      },
+      {
+        "type": 7,
+        "id": 1100592
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001076,
+      870001007,
+      870001016,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106111
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106131,
+    "quest_type": 1,
+    "name": "6-2-5. Getting Albert III",
+    "sort_order": 13,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1060401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100585
+      },
+      {
+        "type": 7,
+        "id": 1100586
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001017,
+      870001009,
+      870001010,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106121
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106141,
+    "quest_type": 2,
+    "name": "6-2-6. Resolve",
+    "sort_order": 14,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210601,
+    "number_of_story_banner": 6,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 0,
+    "scenario_id": 10306040,
+    "prev_quest_ids": [
+      120106131
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106151,
+    "quest_type": 1,
+    "name": "6-2-7. Guardian of the Aquamarine",
+    "sort_order": 15,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000064,
+    "number_of_story_banner": 6,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1070361,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100584
+      },
+      {
+        "type": 7,
+        "id": 1100591
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001017,
+      870001008,
+      870001015,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106141
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106161,
+    "quest_type": 2,
+    "name": "6-2-8. Looking Up to the Light",
+    "sort_order": 16,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210601,
+    "number_of_story_banner": 6,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 0,
+    "scenario_id": 10306050,
+    "prev_quest_ids": [
+      120106151
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106171,
+    "quest_type": 1,
+    "name": "6-2-9. Hiveris",
+    "sort_order": 17,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000146,
+    "number_of_story_banner": 6,
+    "stamina": 7,
+    "illust_category": 2,
+    "illust_id": 1993421,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 100306111,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120106161
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120106181,
+    "quest_type": 2,
+    "name": "6-2-10. The Evil-Banishing Light",
+    "sort_order": 18,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210601,
+    "number_of_story_banner": 6,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 174,
+    "battle_id": 0,
+    "scenario_id": 10306060,
+    "prev_quest_ids": [
+      120106171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": 1,
     "title_name": "",
     "marquee_id": 0,
     "help_id": 0
@@ -63,7 +63,7 @@
     "id": 202,
     "title_name": "Edit Parties",
     "marquee_id": 1,
-    "help_id": 269
+    "help_id": 648
   },
   {
     "id": 203,
@@ -91,9 +91,9 @@
   },
   {
     "id": 207,
-    "title_name": "Inherit Skills/Spells",
+    "title_name": "Manage Skills/Spells",
     "marquee_id": 6,
-    "help_id": 222
+    "help_id": 193
   },
   {
     "id": 208,
@@ -290,19 +290,19 @@
   {
     "id": 406,
     "title_name": "Evolve Weapon",
-    "marquee_id": 16,
+    "marquee_id": 53,
     "help_id": 0
   },
   {
     "id": 407,
     "title_name": "Evolve Armor",
-    "marquee_id": 16,
+    "marquee_id": 53,
     "help_id": 0
   },
   {
     "id": 408,
     "title_name": "Evolve Gear",
-    "marquee_id": 16,
+    "marquee_id": 53,
     "help_id": 0
   },
   {
@@ -328,6 +328,18 @@
     "title_name": "Select Holy Stone",
     "marquee_id": 35,
     "help_id": 95
+  },
+  {
+    "id": 413,
+    "title_name": "Select Equipment",
+    "marquee_id": 47,
+    "help_id": 693
+  },
+  {
+    "id": 414,
+    "title_name": "Confirm Forge",
+    "marquee_id": 0,
+    "help_id": 0
   },
   {
     "id": 501,
@@ -456,6 +468,54 @@
     "help_id": 0
   },
   {
+    "id": 1105,
+    "title_name": "Cinema",
+    "marquee_id": 0,
+    "help_id": 691
+  },
+  {
+    "id": 1106,
+    "title_name": "Museum",
+    "marquee_id": 46,
+    "help_id": 692
+  },
+  {
+    "id": 1107,
+    "title_name": "Custom Battle",
+    "marquee_id": 0,
+    "help_id": 695
+  },
+  {
+    "id": 1108,
+    "title_name": "Select Ally",
+    "marquee_id": 48,
+    "help_id": 0
+  },
+  {
+    "id": 1109,
+    "title_name": "Select Enemy",
+    "marquee_id": 49,
+    "help_id": 0
+  },
+  {
+    "id": 1110,
+    "title_name": "Select Skill/Spell",
+    "marquee_id": 50,
+    "help_id": 0
+  },
+  {
+    "id": 1111,
+    "title_name": "Select Background",
+    "marquee_id": 51,
+    "help_id": 0
+  },
+  {
+    "id": 1112,
+    "title_name": "Set Formation",
+    "marquee_id": 52,
+    "help_id": 0
+  },
+  {
     "id": 1201,
     "title_name": "The Final Isle",
     "marquee_id": 0,
@@ -537,6 +597,12 @@
     "id": 1604,
     "title_name": "Edit Remembrance Party",
     "marquee_id": 39,
+    "help_id": 0
+  },
+  {
+    "id": 1704,
+    "title_name": "Panel Exchange",
+    "marquee_id": 0,
     "help_id": 0
   }
 ]

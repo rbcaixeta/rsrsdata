@@ -2556,6 +2556,66 @@
     "trigger_player_rank": 20
   },
   {
+    "id": 265,
+    "summary": "Complete the Hidden Dojo 1 Time",
+    "description": "Complete the Hidden Dojo 1 time",
+    "reward_type": 7,
+    "reward_id": 1100252,
+    "reward_quantity": 2,
+    "priority": 2500,
+    "ribbon_text": "",
+    "trigger_quest_id": 100103103,
+    "trigger_player_rank": 65
+  },
+  {
+    "id": 266,
+    "summary": "Complete the Hidden Dojo 2 Times",
+    "description": "Complete the Hidden Dojo 2 times",
+    "reward_type": 20,
+    "reward_id": 881001,
+    "reward_quantity": 2,
+    "priority": 2500,
+    "ribbon_text": "",
+    "trigger_quest_id": 100103103,
+    "trigger_player_rank": 65
+  },
+  {
+    "id": 267,
+    "summary": "Complete the Hidden Dojo 3 Times",
+    "description": "Complete the Hidden Dojo 3 times",
+    "reward_type": 7,
+    "reward_id": 1100252,
+    "reward_quantity": 2,
+    "priority": 2500,
+    "ribbon_text": "",
+    "trigger_quest_id": 100103103,
+    "trigger_player_rank": 65
+  },
+  {
+    "id": 268,
+    "summary": "Complete the Hidden Dojo 4 Times",
+    "description": "Complete the Hidden Dojo 4 times",
+    "reward_type": 20,
+    "reward_id": 881001,
+    "reward_quantity": 4,
+    "priority": 2500,
+    "ribbon_text": "",
+    "trigger_quest_id": 100103103,
+    "trigger_player_rank": 65
+  },
+  {
+    "id": 269,
+    "summary": "Complete The Final Isle 1 Time",
+    "description": "Complete The Final Isle 1 time",
+    "reward_type": 20,
+    "reward_id": 881002,
+    "reward_quantity": 6,
+    "priority": 3001,
+    "ribbon_text": "Added!",
+    "trigger_quest_id": 100201053,
+    "trigger_player_rank": 75
+  },
+  {
     "id": 1000000001,
     "summary": "Defeat 600 Enemies",
     "description": "Defeat 600 enemies",

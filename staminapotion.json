@@ -1138,5 +1138,35 @@
     "value": 90,
     "sort_order": 22110190,
     "expired_at": 1667264399
+  },
+  {
+    "id": 1000840035,
+    "name": "Red-Headed Girl Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1680829199] <tz>)",
+    "icon": 840057,
+    "max_quantity": 9999999,
+    "value": 30,
+    "sort_order": 23040730,
+    "expired_at": 1680829199
+  },
+  {
+    "id": 1000840036,
+    "name": "Red-Headed Girl Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1680829199] <tz>)",
+    "icon": 840058,
+    "max_quantity": 9999999,
+    "value": 60,
+    "sort_order": 23040760,
+    "expired_at": 1680829199
+  },
+  {
+    "id": 1000840037,
+    "name": "Red-Headed Girl Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1680829199] <tz>)",
+    "icon": 840059,
+    "max_quantity": 9999999,
+    "value": 90,
+    "sort_order": 23040790,
+    "expired_at": 1680829199
   }
 ]

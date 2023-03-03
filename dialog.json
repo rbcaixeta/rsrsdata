@@ -1780,5 +1780,68 @@
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
+  },
+  {
+    "id": 208,
+    "name": "auto_rematch_Battle_End_9",
+    "title": "Auto Rematch Stopped",
+    "text": "Auto rematch has stopped because the area status has changed.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 209,
+    "name": "TheaterCinema_ContinuousPlayback_Confirm",
+    "title": "Confirm",
+    "text": "All available cutscenes replayed.<br>Return to cutscene list screen.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 210,
+    "name": "TheaterMuseum_Delete_Confirm",
+    "title": "Confirm",
+    "text": "Deleted from Favorites.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 211,
+    "name": "TheaterBattlecustom_upperlimit_Confirm",
+    "title": "Favorites Limit",
+    "text": "Registered Favorites limit reached.<br>Delete some registered Favorites.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 212,
+    "name": "TheaterBattlecustom_Reset_Confirm",
+    "title": "Reset",
+    "text": "Cancel all settings and return to default.<br>Proceed?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
+    "id": 213,
+    "name": "PanelShop_ItemExchange_End",
+    "title": "All Panel Rewards Exchanged",
+    "text": "All panel rewards are exchanged.<br>No more exchangeable panel rewards.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 216,
+    "name": "PanelShop_Expired_Confirm",
+    "title": "Expired",
+    "text": "The availability period for the Panel Exchange has ended.<br>Returning to Home page.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
   }
 ]

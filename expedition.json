@@ -334,5 +334,26 @@
     "sort_order": 84,
     "open_at": 1669856400,
     "close_at": 0
+  },
+  {
+    "id": 1006700001,
+    "name": "WJS Marathon",
+    "required_quest_id": 0,
+    "required_player_rank": 0,
+    "required_hours": 21,
+    "difficulty": 4,
+    "growth_difficulty": 158,
+    "recommended_status": 160,
+    "jewel_cost": 0,
+    "ticket_cost": 70,
+    "drop_group_ids": [
+      1000096457,
+      1000096458
+    ],
+    "flavor_text": "Recommended for characters with up to 1,700 HP and up to 160 in all attributes",
+    "background_id": 1700000001,
+    "sort_order": 70,
+    "open_at": 1677805200,
+    "close_at": 1680224399
   }
 ]
