@@ -34040,6 +34040,47 @@
     "sort_order": 0
   },
   {
+    "id": 1702100080,
+    "name": "Overflowing Joy",
+    "flavor_text": "Reduces damage taken for all allies (medium effect).<br><br>At the end of every 3 turns counting from the start of battle, recovers all surviving allies' HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041515,
+      1802040159
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100081,
+    "name": "End of Every 3 Turns: Recover HP (v. small)",
+    "flavor_text": "At the end of every 3 turns counting from the start of battle, recovers all surviving allies' HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802010778
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100082,
+    "name": "Focus Defiance Ⅴ",
+    "flavor_text": "Weak attacks' damage increases (extreme effect).<br>When attacked by an attack that would cause Resist, damage taken will be reduced (extreme effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040802,
+      802041212
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",

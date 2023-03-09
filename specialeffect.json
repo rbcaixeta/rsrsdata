@@ -29352,6 +29352,25 @@
     "state_icon": 3001
   },
   {
+    "id": 802041515,
+    "state_change_id": 900040062,
+    "name": "Defend",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 3,
+    "state_vars": [
+      90
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
     "id": 803010190,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -51578,6 +51597,21 @@
     "state_icon": 2001
   },
   {
+    "id": 1801010062,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "Attributes↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
     "id": 1801010430,
     "state_change_id": 900010017,
     "name": "WIL Up",
@@ -53330,6 +53364,21 @@
     "text_pop": "Counter Stance",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040118,
+    "state_change_id": 900040063,
+    "name": "Morale Up (medium)",
+    "flavor_text": "Increases damage dealt to enemies (can't stack).",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
     "display_flag": 1,
     "triggering_effect_condition_ids": [],
@@ -56584,6 +56633,23 @@
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
     "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040159,
+    "state_change_id": 900050113,
+    "name": "End of Every 3 Turns: Recover HP (v. small)",
+    "flavor_text": "At the end of every 3 turns counting from the start of battle, recovers all surviving allies' HP (very small effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702100081
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
     "triggering_effect_condition_ids": [],
     "state_icon": 3003
   },
