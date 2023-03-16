@@ -3950,7 +3950,7 @@
   },
   {
     "id": 702101097,
-    "name": "End of Turn: Recover HP",
+    "name": "End of Turn: Recover HP (unconscious) (v. small)",
     "flavor_text": "[End of turn]<br>When knocked unconscious, recovers own HP (very small effect).<br>(Will not activate when knocked unconscious by poison damage).",
     "simple_flavor_text": "",
     "special_effect_ids": [
@@ -4428,7 +4428,7 @@
   },
   {
     "id": 702101138,
-    "name": "Recover HP on OD Attack",
+    "name": "Recover HP (med.) on OD Attack",
     "flavor_text": "When landing an OverDrive attack, recovers all surviving allies' HP (medium effect).",
     "simple_flavor_text": "",
     "special_effect_ids": [
@@ -5388,7 +5388,7 @@
   },
   {
     "id": 702101215,
-    "name": "End of Turn: Recover HP",
+    "name": "End of Turn: Recover HP (unconscious) (v. large/1 time)",
     "flavor_text": "[End of turn]<br>When knocked unconscious, recovers own HP (very large effect) (Max times: 1).<br>(Will not activate when knocked unconscious by poison damage).",
     "simple_flavor_text": "",
     "special_effect_ids": [
@@ -34081,6 +34081,61 @@
     "sort_order": 0
   },
   {
+    "id": 1702100083,
+    "name": "Strengthened Energy Ⅲ",
+    "flavor_text": "Attacks' damage increases (medium effect).<br><br>[Start of battle]<br>Recovers own BP (+3).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040002,
+      802040520
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100084,
+    "name": "Healing War Song: Defense",
+    "flavor_text": "[End of turn]<br>Increases own OD gauge (small effect).<br><br>[On OD attacks]<br>Grants all surviving allies Guard Up (medium) (2 turn(s)).<br>Recovers all surviving allies' HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041152,
+      1802040160,
+      1802040162
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100085,
+    "name": "Guard Up (medium) on OD Attack",
+    "flavor_text": "When landing an OverDrive attack, grants all surviving allies Guard Up (medium) (2 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040161
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100086,
+    "name": "Recover HP (v. small) on OD Attack",
+    "flavor_text": "When landing an OverDrive attack, recovers all surviving allies' HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040163
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
@@ -34806,7 +34861,7 @@
   },
   {
     "id": 1702400006,
-    "name": "End of Turn: Recover HP",
+    "name": "End of Turn: Recover HP (unconscious) (sm.)",
     "flavor_text": "[End of turn]<br>When knocked unconscious, recovers own HP (small effect).<br>(Will not activate when knocked unconscious by poison damage).",
     "simple_flavor_text": "",
     "special_effect_ids": [

@@ -149,7 +149,7 @@
     "flavor_text": "Collect 5 tickets to perform 1 Spiral Corridor Ticket Summon.",
     "icon": 810004,
     "max_quantity": 9999,
-    "expired_at": 0,
+    "expired_at": 1681952399,
     "sort_order": 3431
   },
   {
@@ -232,6 +232,15 @@
     "max_quantity": 9999,
     "expired_at": 1671152399,
     "sort_order": 22042025
+  },
+  {
+    "id": 810053,
+    "name": "Song of Heroes Platinum Ticket [Ltd. Time]",
+    "flavor_text": "Collect 5 tickets to perform 1 Song of Heroes Platinum Ticket Summon. (Until [1684285199] <tz>)",
+    "icon": 810053,
+    "max_quantity": 9999,
+    "expired_at": 1684285199,
+    "sort_order": 23031750
   },
   {
     "id": 1000810001,

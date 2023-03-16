@@ -9156,7 +9156,7 @@
   {
     "id": 801041079,
     "state_change_id": 900050113,
-    "name": "End of Turn: Recover HP (unconscious) (very large/1 turn)",
+    "name": "End of Turn: Recover HP (unconscious) (v. large/1 time)",
     "flavor_text": "[End of turn]<br>When knocked unconscious, recovers own HP (very large effect) (Max times: 1).<br>(Will not activate when knocked unconscious by poison damage).",
     "target_area": 10,
     "state_vars": [
@@ -24780,7 +24780,7 @@
   {
     "id": 802041021,
     "state_change_id": 900050113,
-    "name": "End of Turn: Recover HP (unconscious) (very small)",
+    "name": "End of Turn: Recover HP (unconscious) (v. small)",
     "flavor_text": "[End of turn]<br>When knocked unconscious, recovers own HP (very small effect).<br>(Will not activate when knocked unconscious by poison damage).",
     "target_area": 1,
     "state_vars": [
@@ -26118,7 +26118,7 @@
   {
     "id": 802041140,
     "state_change_id": 900050054,
-    "name": "End of Turn: Recover HP (unconscious) (very large/1 turn)",
+    "name": "End of Turn: Recover HP (unconscious) (v. large/1 time)",
     "flavor_text": "When knocked unconscious, recovers own HP.",
     "target_area": 1,
     "state_vars": [
@@ -55782,7 +55782,7 @@
   {
     "id": 1802040109,
     "state_change_id": 900050113,
-    "name": "End of Turn: Recover HP",
+    "name": "End of Turn: Recover HP (unconscious) (sm.)",
     "flavor_text": "[End of turn]<br>When knocked unconscious, recovers own HP (small effect).<br>(Will not activate when knocked unconscious by poison damage).",
     "target_area": 1,
     "state_vars": [
@@ -56652,6 +56652,76 @@
     "display_flag": 0,
     "triggering_effect_condition_ids": [],
     "state_icon": 3003
+  },
+  {
+    "id": 1802040160,
+    "state_change_id": 900050113,
+    "name": "Guard Up (medium) on OD Attack",
+    "flavor_text": "When landing an OverDrive attack, grants all surviving allies Guard Up (medium) (2 turn(s)).",
+    "target_area": 1,
+    "state_vars": [
+      1702100085
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040161,
+    "state_change_id": 900040076,
+    "name": "Guard Up (medium)",
+    "flavor_text": "Decreases damage taken (can't stack).",
+    "target_area": 3,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040162,
+    "state_change_id": 900050113,
+    "name": "Recover HP (v. small) on OD Attack",
+    "flavor_text": "When landing an OverDrive attack, recovers all surviving allies' HP (very small effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702100086
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040163,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 3,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
   },
   {
     "id": 1802040362,

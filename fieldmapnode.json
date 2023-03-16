@@ -19402,5 +19402,1617 @@
     "next_field_map_node_id": 0,
     "is_notable": 1,
     "flavor_text": ""
+  },
+  {
+    "id": 10122000,
+    "name": "Start",
+    "field_map_id": 1012201,
+    "field_map_node_type": 5,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [],
+    "x": -2.1549620628356934,
+    "y": 4.293808937072754,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10122001,
+    "name": "A Minstrel's Song",
+    "field_map_id": 1012201,
+    "field_map_node_type": 2,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [],
+    "x": 0.08831024169921875,
+    "y": 9.33034896850586,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10122002,
+    "name": "Mt. Scurve: Summit",
+    "field_map_id": 1012201,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993471
+    ],
+    "x": 6.3571858406066895,
+    "y": 10.32938003540039,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10122003,
+    "name": "Mt. Tomae",
+    "field_map_id": 1012201,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993461
+    ],
+    "x": 18.372840881347656,
+    "y": -10.787670135498047,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10122004,
+    "name": "Great Pit",
+    "field_map_id": 1012201,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993491
+    ],
+    "x": 6.8325371742248535,
+    "y": -6.544981002807617,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10122005,
+    "name": "Water Dragon Temple",
+    "field_map_id": 1012201,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993481
+    ],
+    "x": -10.921030044555664,
+    "y": -6.828775882720947,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10122006,
+    "name": "Isthmus Cavern",
+    "field_map_id": 1012201,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991851
+    ],
+    "x": 1.4282840490341187,
+    "y": 5.176139831542969,
+    "field_map_size": 4,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10122007,
+    "name": "A Minstrel's Song Cont'd",
+    "field_map_id": 1012201,
+    "field_map_node_type": 2,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [],
+    "x": 4.583795070648193,
+    "y": 7.513027191162109,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123000,
+    "name": "Altours",
+    "field_map_id": 1012301,
+    "field_map_node_type": 5,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [],
+    "x": -2.1549620628356934,
+    "y": 4.293808937072754,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123001,
+    "name": "Steppes of Galessa: South",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020311
+    ],
+    "x": -2.0704588890075684,
+    "y": 8.162871360778809,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123002,
+    "name": "Taralian Camp",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030391
+    ],
+    "x": -3.9824130535125732,
+    "y": 10.706319808959961,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123003,
+    "name": "Kaklim Desert: South",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040481
+    ],
+    "x": -5.100574016571045,
+    "y": 13.48701000213623,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123004,
+    "name": "Kaklim Desert: Center",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020301
+    ],
+    "x": -2.291748046875,
+    "y": 15.359199523925781,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123005,
+    "name": "Steppes of Galessa: North",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1050371
+    ],
+    "x": 0.25540220737457275,
+    "y": 12.079429626464844,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123006,
+    "name": "Kaklim Desert: East 1",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1060361
+    ],
+    "x": 2.874253034591675,
+    "y": 14.389309883117676,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123007,
+    "name": "Kaklim Desert: East 2",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110401
+    ],
+    "x": 0.9616091251373291,
+    "y": 16.934600830078125,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123008,
+    "name": "Northpoint: West",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679014800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020341
+    ],
+    "x": 4.7233171463012695,
+    "y": 17.385610580444336,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123009,
+    "name": "Northpoint: East 1",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679058000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1100281
+    ],
+    "x": 9.351292610168457,
+    "y": 17.08839988708496,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123010,
+    "name": "Northpoint: East 2",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679058000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1060371
+    ],
+    "x": 12.792360305786133,
+    "y": 15.827619552612305,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123011,
+    "name": "Walon Isle: West 1",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679058000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120331
+    ],
+    "x": 16.65365982055664,
+    "y": 16.58308982849121,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123012,
+    "name": "Walon Isle: West 2",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679058000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030411
+    ],
+    "x": 16.863510131835938,
+    "y": 14.022879600524902,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123013,
+    "name": "Coral Sea: North",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679058000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070301
+    ],
+    "x": 14.051480293273926,
+    "y": 12.30208969116211,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123014,
+    "name": "Pirate Coast",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679058000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110451
+    ],
+    "x": 11.113539695739746,
+    "y": 10.46537971496582,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123015,
+    "name": "Mt. Scurve: North",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679058000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1060381
+    ],
+    "x": 9.223917961120605,
+    "y": 13.230090141296387,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123016,
+    "name": "Mt. Scurve: Summit",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679058000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993471
+    ],
+    "x": 6.3571858406066895,
+    "y": 10.32938003540039,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123017,
+    "name": "Yeoville: East",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679101200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020421
+    ],
+    "x": -0.8812069296836853,
+    "y": 1.4362989664077759,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123018,
+    "name": "Inner Sea: Loban",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679101200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040801
+    ],
+    "x": 0.1802562028169632,
+    "y": -1.1636710166931152,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123019,
+    "name": "Loban",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679101200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030831
+    ],
+    "x": 2.42562198638916,
+    "y": -3.488862991333008,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123020,
+    "name": "Loban: East",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679101200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110441
+    ],
+    "x": 5.447504997253418,
+    "y": -3.0691568851470947,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123021,
+    "name": "Aurefont: East",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679101200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1050681
+    ],
+    "x": 8.97303581237793,
+    "y": -2.3456571102142334,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123022,
+    "name": "Mazewood: South",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679101200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1060631
+    ],
+    "x": 12.120829582214355,
+    "y": -3.856597900390625,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123023,
+    "name": "Mazewood: North",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679101200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1090331
+    ],
+    "x": 11.7431001663208,
+    "y": -1.3803329467773438,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123024,
+    "name": "Melvir",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679101200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993521
+    ],
+    "x": 11.617179870605469,
+    "y": 1.6515510082244873,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123025,
+    "name": "Melvir: East",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679144400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1100251
+    ],
+    "x": 14.531229972839355,
+    "y": 0.577459990978241,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123026,
+    "name": "Jelton: West",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679144400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120701
+    ],
+    "x": 17.503320693969727,
+    "y": -1.0359630584716797,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123027,
+    "name": "Jelton: East",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679144400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110611
+    ],
+    "x": 20.008380889892578,
+    "y": -2.1398839950561523,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123028,
+    "name": "Jelton: South",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679144400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150531
+    ],
+    "x": 17.503320693969727,
+    "y": -4.262810230255127,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123029,
+    "name": "Ligau Isle: South 1",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679144400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040491
+    ],
+    "x": 20.432960510253906,
+    "y": -5.324273109436035,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123030,
+    "name": "Ligau Isle: South 2",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679144400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120361
+    ],
+    "x": 22.428510665893555,
+    "y": -7.065072059631348,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123031,
+    "name": "Ligau Isle: South 3",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679144400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150571
+    ],
+    "x": 21.027379989624023,
+    "y": -9.103079795837402,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123032,
+    "name": "Mt. Tomae",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679144400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993461
+    ],
+    "x": 18.372840881347656,
+    "y": -10.787670135498047,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123033,
+    "name": "North Estamir 1",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679187600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070631
+    ],
+    "x": -4.490179061889648,
+    "y": 1.1815470457077026,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123034,
+    "name": "South Estamir 1",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679187600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150561
+    ],
+    "x": -4.277885913848877,
+    "y": -1.695631980895996,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123035,
+    "name": "Knights Dominion: North 1",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679187600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020411
+    ],
+    "x": -3.216423988342285,
+    "y": -3.616265058517456,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123036,
+    "name": "Knights Dominion: North 2",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679187600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030871
+    ],
+    "x": -4.999680995941162,
+    "y": -5.007394790649414,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123037,
+    "name": "Mirsaburg",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679187600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1050381
+    ],
+    "x": -2.49462890625,
+    "y": -6.036398887634277,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123038,
+    "name": "Weiserheim: North",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679187600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120311
+    ],
+    "x": -5.042139053344727,
+    "y": -7.045403003692627,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123039,
+    "name": "Weiserheim: East",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679187600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150541
+    ],
+    "x": -2.3247950077056885,
+    "y": -8.19178295135498,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123040,
+    "name": "Weiserheim",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679187600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110431
+    ],
+    "x": -5.042139053344727,
+    "y": -9.975038528442383,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123041,
+    "name": "Eugenstadt: South",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679230800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120351
+    ],
+    "x": -3.9382190704345703,
+    "y": -13.074509620666504,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123042,
+    "name": "Valhalland: West",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679230800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150551
+    ],
+    "x": -2.1549620628356934,
+    "y": -15.027600288391113,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123043,
+    "name": "Valhalland: East",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679230800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1140431
+    ],
+    "x": 1.623844027519226,
+    "y": -15.187439918518066,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123044,
+    "name": "Bayre Plateau: South",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679230800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150601
+    ],
+    "x": 3.6618518829345703,
+    "y": -12.372380256652832,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123045,
+    "name": "Bayre Plateau: East",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679230800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1100291
+    ],
+    "x": 6.874506950378418,
+    "y": -9.482924461364746,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123046,
+    "name": "Bayre Plateau: West",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679230800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150581
+    ],
+    "x": 3.097151041030884,
+    "y": -9.80868911743164,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123047,
+    "name": "Bayre Plateau: North",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679230800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110601
+    ],
+    "x": 3.348975896835327,
+    "y": -7.216512203216553,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123048,
+    "name": "Great Pit",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679230800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993491
+    ],
+    "x": 6.8325371742248535,
+    "y": -6.544981002807617,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123049,
+    "name": "North Estamir 2",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679274000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070331
+    ],
+    "x": -6.273436069488525,
+    "y": 2.200550079345703,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123050,
+    "name": "South Estamir 2",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679274000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1100501
+    ],
+    "x": -6.146059989929199,
+    "y": -1.1961289644241333,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123051,
+    "name": "South Estamir 3",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679274000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110591
+    ],
+    "x": -7.334898948669434,
+    "y": -3.6359329223632812,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123052,
+    "name": "Tarmitta",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679274000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030841
+    ],
+    "x": -10.179619789123535,
+    "y": -2.8716790676116943,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123053,
+    "name": "New Road: East 1",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679274000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020431
+    ],
+    "x": -13.703669548034668,
+    "y": -2.107426881790161,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123054,
+    "name": "New Road: East 2",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679274000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1050341
+    ],
+    "x": -15.062350273132324,
+    "y": 1.119420051574707,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123055,
+    "name": "Weston: East",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679274000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1050821
+    ],
+    "x": -15.359560012817383,
+    "y": 4.251349925994873,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123056,
+    "name": "Vampire's Den",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679274000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993511
+    ],
+    "x": -14.170720100402832,
+    "y": 8.030157089233398,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123057,
+    "name": "Weston: North",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679317200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1100261
+    ],
+    "x": -18.628860473632812,
+    "y": 6.681482791900635,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123058,
+    "name": "Weston",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679317200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110461
+    ],
+    "x": -20.242279052734375,
+    "y": 3.539555072784424,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123059,
+    "name": "Weston: South",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679317200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1060421
+    ],
+    "x": -18.161819458007812,
+    "y": 1.331712007522583,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123060,
+    "name": "New Road: West 1",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679317200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1100301
+    ],
+    "x": -16.845600128173828,
+    "y": -1.1633390188217163,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123061,
+    "name": "New Road: West 2",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679317200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150521
+    ],
+    "x": -14.85004997253418,
+    "y": -4.092977046966553,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123062,
+    "name": "Lake Malar: West",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679317200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020331
+    ],
+    "x": -17.100360870361328,
+    "y": -6.7678608894348145,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123063,
+    "name": "Lake Malar: South",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679317200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040811
+    ],
+    "x": -14.59529972076416,
+    "y": -9.739956855773926,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123064,
+    "name": "Water Dragon Temple",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679317200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993481
+    ],
+    "x": -10.921030044555664,
+    "y": -6.828775882720947,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123065,
+    "name": "Yeoville: West",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679360400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150591
+    ],
+    "x": -2.7493810653686523,
+    "y": 0.07762526720762253,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123066,
+    "name": "Isle of Evil",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679360400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110421
+    ],
+    "x": -0.7602248787879944,
+    "y": -3.063309907913208,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123067,
+    "name": "Inner Sea: Bruelle 1",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679360400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070231
+    ],
+    "x": -0.4788965880870819,
+    "y": -5.982934951782227,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123068,
+    "name": "Inner Sea: Bruelle 2",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679360400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040501
+    ],
+    "x": -0.06944680213928223,
+    "y": -9.069557189941406,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123069,
+    "name": "Frosthold Fortress",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679360400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991851
+    ],
+    "x": -0.16393490135669708,
+    "y": -12.912090301513672,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123070,
+    "name": "Crystal City: West",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679360400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030401
+    ],
+    "x": -4.588578224182129,
+    "y": 7.153118133544922,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123071,
+    "name": "Altours: West",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679360400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1060411
+    ],
+    "x": -4.945034980773926,
+    "y": 4.4129509925842285,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123072,
+    "name": "Black Sea 1",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679360400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070291
+    ],
+    "x": -7.244255065917969,
+    "y": 6.995635986328125,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123073,
+    "name": "Black Sea 2",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679360400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1080391
+    ],
+    "x": -10.267889976501465,
+    "y": 6.491697788238525,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123074,
+    "name": "The Underwater Temple",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679360400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991851
+    ],
+    "x": -10.201899528503418,
+    "y": 3.290585994720459,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123075,
+    "name": "Crystal City: North",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679403600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030851
+    ],
+    "x": 1.902068018913269,
+    "y": 8.911341667175293,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123076,
+    "name": "Coral Sea: West",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679403600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020671
+    ],
+    "x": 8.4445219039917,
+    "y": 7.821497917175293,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123077,
+    "name": "Mask Isle",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679403600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1060251
+    ],
+    "x": 14.896430015563965,
+    "y": 6.759730815887451,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123078,
+    "name": "Coral Sea: East",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679403600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120341
+    ],
+    "x": 18.109039306640625,
+    "y": 10.444780349731445,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123079,
+    "name": "Twinmoon Temple",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679403600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991851
+    ],
+    "x": 20.040300369262695,
+    "y": 13.730380058288574,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123080,
+    "name": "Isthmus Cavern",
+    "field_map_id": 1012301,
+    "field_map_node_type": 1,
+    "start_at": 1679403600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991851
+    ],
+    "x": 1.4282840490341187,
+    "y": 5.176139831542969,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10123081,
+    "name": "Saruin's Dimension",
+    "field_map_id": 1012301,
+    "field_map_node_type": 7,
+    "start_at": 1679403600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993441
+    ],
+    "x": 4.738218784332275,
+    "y": 1.3522650003433228,
+    "field_map_size": 4,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
   }
 ]

@@ -336,5 +336,43 @@
       1000095627
     ],
     "start_at": 0
+  },
+  {
+    "id": 10122,
+    "area_id": 2020,
+    "field_map_mode": 1,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 1000
+      }
+    ],
+    "lock_text": "",
+    "prev_quest_ids": [],
+    "frontier_drop_group_ids": [],
+    "start_at": 0
+  },
+  {
+    "id": 10123,
+    "area_id": 2020,
+    "field_map_mode": 2,
+    "domination_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 5000
+      }
+    ],
+    "lock_text": "Clear Solo Mode to Unlock",
+    "prev_quest_ids": [
+      972020107
+    ],
+    "frontier_drop_group_ids": [
+      103786,
+      1000096797,
+      1000096798
+    ],
+    "start_at": 0
   }
 ]
