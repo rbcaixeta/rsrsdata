@@ -3288,5 +3288,35 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 353
+  },
+  {
+    "id": 1000000571,
+    "event_ability_category_id": 1000000322,
+    "name": "Voice of the Ancient Blade I",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・2x attribute gains in Main quests and Voice of the Ancient Blade<br>・Bonus Blade Fragments drops in Voice of the Ancient Blade",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 354
+  },
+  {
+    "id": 1000000572,
+    "event_ability_category_id": 1000000323,
+    "name": "Voice of the Ancient Blade II",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・3x attribute gains in Main quests and Voice of the Ancient Blade<br>・Bonus Blade Fragments drops in Voice of the Ancient Blade",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 355
+  },
+  {
+    "id": 1000000573,
+    "event_ability_category_id": 1000000324,
+    "name": "The Seekers' Path",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・2x attribute gains in The Seekers' Path",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 356
   }
 ]

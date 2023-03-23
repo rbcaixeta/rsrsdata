@@ -1278,6 +1278,15 @@
     "sort_order": 23030301
   },
   {
+    "id": 800198,
+    "name": "Romancing Festival Medal 84",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800198,
+    "max_quantity": 99999999,
+    "expired_at": 1682038799,
+    "sort_order": 23032300
+  },
+  {
     "id": 800200,
     "name": "Romancing Festival Medal 82",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -5076,6 +5085,24 @@
     "sort_order": 23031051
   },
   {
+    "id": 1100715,
+    "name": "Beast Skull",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100715,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23032350
+  },
+  {
+    "id": 1100716,
+    "name": "Blade Fragments",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100716,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23032351
+  },
+  {
     "id": 1100717,
     "name": "Sunshine Rare Metal",
     "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
@@ -5542,6 +5569,15 @@
     "max_quantity": 99999999,
     "expired_at": 1680224399,
     "sort_order": 23030300
+  },
+  {
+    "id": 1000800052,
+    "name": "Romancing Festival Medal 85",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 1000800052,
+    "max_quantity": 99999999,
+    "expired_at": 1682038799,
+    "sort_order": 23032310
   },
   {
     "id": 1001100001,
@@ -6073,5 +6109,14 @@
     "max_quantity": 99999999,
     "expired_at": 0,
     "sort_order": 23030310
+  },
+  {
+    "id": 1001100246,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1681693199] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1681693199,
+    "sort_order": 23032750
   }
 ]

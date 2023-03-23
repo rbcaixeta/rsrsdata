@@ -53385,6 +53385,81 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040119,
+    "state_change_id": 900040102,
+    "name": "Energy Charge Stance",
+    "flavor_text": "Starts the countdown (2 counts).<br>The count will decrease by 1 by the end of each turn, and Elegant Ice Flower will be activated on the turn after the count turns 0.",
+    "target_area": 1,
+    "state_vars": [
+      2,
+      1110200056,
+      10
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "ChargeAttack",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3002
+  },
+  {
+    "id": 1801040120,
+    "state_change_id": 900040035,
+    "name": "Defensive Counter",
+    "flavor_text": "Counters direct enemy attacks with Savage Slash and decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      1110300030,
+      75
+    ],
+    "text_pop": "Counter Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040121,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (med)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 10,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "140800133",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040122,
+    "state_change_id": 900040076,
+    "name": "Guard Up (medium)",
+    "flavor_text": "Decreases damage taken (can't stack).",
+    "target_area": 10,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040335,
     "state_change_id": 900040062,
     "name": "Defense Boost (small)",
