@@ -34136,6 +34136,48 @@
     "sort_order": 0
   },
   {
+    "id": 1702100087,
+    "name": "Guardian of Shrike",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+10).<br><br>[Start of round]<br>Grants oneself Morale Up (very large) (3 turn(s)).<br>Grants oneself Heat Up (medium effect) (Max times: 10 times per battle).<br><br>[Start of turn]<br>Reduces own END/CHA (very large effect).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041285,
+      1802040164,
+      1802040165,
+      802041286
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100088,
+    "name": "Round Start: Morale Up",
+    "flavor_text": "[Start of round]<br>Grants oneself Morale Up (very large) (3 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040166
+    ],
+    "ability_when": 2,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100089,
+    "name": "Round Start: Heat Up",
+    "flavor_text": "[Start of round]<br>Grants oneself Heat Up (medium effect) (Max times: 10 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040934
+    ],
+    "ability_when": 2,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",

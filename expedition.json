@@ -336,6 +336,27 @@
     "close_at": 0
   },
   {
+    "id": 6700018,
+    "name": "Deserted Land",
+    "required_quest_id": 120103103,
+    "required_player_rank": 170,
+    "required_hours": 21,
+    "difficulty": 4,
+    "growth_difficulty": 133,
+    "recommended_status": 135,
+    "jewel_cost": 0,
+    "ticket_cost": 70,
+    "drop_group_ids": [
+      880000034,
+      880000035
+    ],
+    "flavor_text": "Recommended for characters with up to 1,450 HP and up to 135 in all attributes",
+    "background_id": 700000138,
+    "sort_order": 83,
+    "open_at": 1680138000,
+    "close_at": 0
+  },
+  {
     "id": 1006700001,
     "name": "WJS Marathon",
     "required_quest_id": 0,

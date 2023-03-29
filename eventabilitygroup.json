@@ -3318,5 +3318,45 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 356
+  },
+  {
+    "id": 1000000574,
+    "event_ability_category_id": 1000000325,
+    "name": "Chills! Spooky Test of Courage I",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・2x attribute gains in Main quests and Chills! Spooky Test of Courage<br>・Bonus Ghost Lantern drops in Chills! Spooky Test of Courage",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 357
+  },
+  {
+    "id": 1000000575,
+    "event_ability_category_id": 1000000326,
+    "name": "Chills! Spooky Test of Courage II",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・3x attribute gains in Main quests and Chills! Spooky Test of Courage<br>・Bonus Ghost Lantern drops in Chills! Spooky Test of Courage",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 358
+  },
+  {
+    "id": 1000000576,
+    "event_ability_category_id": 1000000327,
+    "name": "Shivers! Test of Courage Training I",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・2x attribute gains in Main quests and Shivers! Test of Courage Training",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 359
+  },
+  {
+    "id": 1000000577,
+    "event_ability_category_id": 1000000328,
+    "name": "Shivers! Test of Courage Training II",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・3x attribute gains in Main quests and Shivers! Test of Courage Training",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 360
   }
 ]

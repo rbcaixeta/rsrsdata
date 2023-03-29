@@ -1198,5 +1198,35 @@
     "value": 90,
     "sort_order": 23040790,
     "expired_at": 1680829199
+  },
+  {
+    "id": 1000840038,
+    "name": "Spring Festival Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1683939599] <tz>)",
+    "icon": 840113,
+    "max_quantity": 9999999,
+    "value": 30,
+    "sort_order": 23051330,
+    "expired_at": 1683939599
+  },
+  {
+    "id": 1000840039,
+    "name": "Spring Festival Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1683939599] <tz>)",
+    "icon": 840114,
+    "max_quantity": 9999999,
+    "value": 60,
+    "sort_order": 23051360,
+    "expired_at": 1683939599
+  },
+  {
+    "id": 1000840040,
+    "name": "Spring Festival Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1683939599] <tz>)",
+    "icon": 840115,
+    "max_quantity": 9999999,
+    "value": 90,
+    "sort_order": 23051390,
+    "expired_at": 1683939599
   }
 ]
