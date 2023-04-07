@@ -34178,6 +34178,81 @@
     "sort_order": 0
   },
   {
+    "id": 1702100090,
+    "name": "Plural Counter System",
+    "flavor_text": "When being directly attacked, counterattacks with Plural Slash.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040167
+    ],
+    "ability_when": 1,
+    "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100091,
+    "name": "Calamity Program",
+    "flavor_text": "Attacks' damage increases (large effect).<br><br>[On every 3 turns counting from the start of battle]<br>Recovers own HP (small effect).<br>Grants oneself Heat Up (medium effect) and Defense Up (medium effect). (Max times: 5 times per battle).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).<br><br>Defense Up<br>Damage taken will be reduced (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040001,
+      1802040168,
+      802041170,
+      802041171
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100092,
+    "name": "Start of Every 3 Turns: Recover HP (sm.)",
+    "flavor_text": "On every 3 turns counting from the start of battle, recovers own HP (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040062
+    ],
+    "ability_when": 3,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100093,
+    "name": "Action Switch",
+    "flavor_text": "When attacking with slash attacks, grants oneself Attack Boost (medium effect/3 turn(s)), and recovers own BP (+2).<br>When attacking with sun attacks, grants oneself Defense Boost (medium effect/3 turn(s)), and recovers own HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040140,
+      1802040141,
+      1802040169,
+      1802040170
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100094,
+    "name": "System Overload (1 time)",
+    "flavor_text": "Starting from the next turn after entering this stance, after activating an OD attack*, Cosmic Rave will be activated (Max times: 1).<br>(Activates using skill Rank 1).<br>*Skills/Spells activated on Special Stances, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1801040128,
+      1801040129,
+      1801040130,
+      1801040131,
+      1801040132
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",

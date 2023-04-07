@@ -2718,7 +2718,7 @@
     "flavor_text": "Increases STR.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "STR/AGI/ATK↑",
+    "text_pop": "STR/AGI↑<br>ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -53526,6 +53526,155 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040124,
+    "state_change_id": 900040048,
+    "name": "Heat Up",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040125,
+    "state_change_id": 900040152,
+    "name": "Guard Down (medium)",
+    "flavor_text": "Increases damage taken (can't stack).",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "DEF↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
+    "id": 1801040126,
+    "state_change_id": 900040152,
+    "name": "Guard Down (small)",
+    "flavor_text": "Increases damage taken (can't stack).",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "DEF↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
+    "id": 1801040127,
+    "state_change_id": 900050113,
+    "name": "System Overload (1 time)",
+    "flavor_text": "Starting from the next turn after entering this stance, after activating an OD attack, Cosmic Rave will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1702100094
+    ],
+    "text_pop": "System Overload",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040128,
+    "state_change_id": 900050073,
+    "name": "System Overload (1 time)",
+    "flavor_text": "Attacks with Cosmic Rave after activating an OD attack with skill 1.",
+    "target_area": 1,
+    "state_vars": [
+      1110600037
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040129,
+    "state_change_id": 900050073,
+    "name": "System Overload (1 time)",
+    "flavor_text": "Attacks with Cosmic Rave after activating an OD attack with skill 2.",
+    "target_area": 1,
+    "state_vars": [
+      1110600037
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040130,
+    "state_change_id": 900050073,
+    "name": "System Overload (1 time)",
+    "flavor_text": "Attacks with Cosmic Rave after activating an OD attack with skill 3.",
+    "target_area": 1,
+    "state_vars": [
+      1110600037
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040131,
+    "state_change_id": 900050073,
+    "name": "System Overload (1 time)",
+    "flavor_text": "Attacks with Cosmic Rave after activating an OD attack with an inherited skill.",
+    "target_area": 1,
+    "state_vars": [
+      1110600037
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040132,
+    "state_change_id": 900050073,
+    "name": "System Overload (1 time)",
+    "flavor_text": "Attacks with Cosmic Rave after activating an OD attack with a normal attack.",
+    "target_area": 1,
+    "state_vars": [
+      1110600037
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040335,
     "state_change_id": 900040062,
     "name": "Defense Boost (small)",
@@ -56908,6 +57057,76 @@
     "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040167,
+    "state_change_id": 900040034,
+    "name": "Plural Counter System",
+    "flavor_text": "Counters direct enemy attacks with Plural Slash.",
+    "target_area": 1,
+    "state_vars": [
+      110100229
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040168,
+    "state_change_id": 900050113,
+    "name": "Start of Every 3 Turns: Recover HP (sm.)",
+    "flavor_text": "On every 3 turns counting from the start of battle, recovers own HP (small effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702100092
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040169,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (med)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      80
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040170,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 1,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
     "ignition_effect_id": "",
     "display_flag": 1,
     "triggering_effect_condition_ids": [],
