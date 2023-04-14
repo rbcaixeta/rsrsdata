@@ -57133,6 +57133,278 @@
     "state_icon": 3001
   },
   {
+    "id": 1802040171,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Activates Drive Energy Shot after activating an OD attack.",
+    "target_area": 1,
+    "state_vars": [
+      1702100097
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040172,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, Drive Energy Shot will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100098
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040173,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Drive Energy Shot after activating an OD attack with skill 1.",
+    "target_area": 1,
+    "state_vars": [
+      1110600048
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040174,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Drive Energy Shot after activating an OD attack with skill 2.",
+    "target_area": 1,
+    "state_vars": [
+      1110600048
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040175,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Drive Energy Shot after activating an OD attack with skill 3.",
+    "target_area": 1,
+    "state_vars": [
+      1110600048
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040176,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Drive Energy Shot after activating an OD attack with an inherited skill.",
+    "target_area": 1,
+    "state_vars": [
+      1110600048
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040177,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Drive Energy Shot after activating an OD attack with a normal attack.",
+    "target_area": 1,
+    "state_vars": [
+      1110600048
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040178,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 1, Drive Energy Shot will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110600048
+    ],
+    "text_pop": "Obsessive Pursuit",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040179,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 2, Drive Energy Shot will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110600048
+    ],
+    "text_pop": "Obsessive Pursuit",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040180,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 3, Drive Energy Shot will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110600048
+    ],
+    "text_pop": "Obsessive Pursuit",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040181,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an inherited skill, Drive Energy Shot will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110600048
+    ],
+    "text_pop": "Obsessive Pursuit",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040182,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing a normal attack, Drive Energy Shot will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110600048
+    ],
+    "text_pop": "Obsessive Pursuit",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040183,
+    "state_change_id": 900050113,
+    "name": "End of Turn: All Ailments Cured",
+    "flavor_text": "[End of turn]<br>Cures oneself from all status ailments (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100100
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040184,
+    "state_change_id": 900050113,
+    "name": "Defense Down on Weak Atk",
+    "flavor_text": "When landing a Weak attack, grants oneself Defense Down (small effect/2 turn(s)).",
+    "target_area": 1,
+    "state_vars": [
+      1702100102
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040185,
+    "state_change_id": 900040048,
+    "name": "Attack Boost (med)",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040186,
+    "state_change_id": 900050055,
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
+    "target_area": 1,
+    "state_vars": [
+      2
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1802040362,
     "state_change_id": 900040048,
     "name": "Damage Up",

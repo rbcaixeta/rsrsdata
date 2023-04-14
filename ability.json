@@ -34253,6 +34253,140 @@
     "sort_order": 0
   },
   {
+    "id": 1702100095,
+    "name": "Investigation",
+    "flavor_text": "Attacks' damage increases (large effect).<br><br>When being directly attacked, reduces damage and counterattacks with Hard Strike.<br><br>Counterattack: Hard Strike<br>Club skill/Attack/Power: B/Direct/Single Foe (Blunt)<br>Attack.<br>When the attack hits, there is a chance to reduce target's INT (small effect).<br>When the attack hits, inflicts paralysis on target (low chance/4 turn(s)).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040001,
+      802041247
+    ],
+    "ability_when": 1,
+    "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100096,
+    "name": "Obsessive Pursuit",
+    "flavor_text": "After activating an OD attack*, Drive Energy Shot will be activated.<br>(Activates using skill Rank 1).<br><br>When landing an attack with an Attack type skill/spell*, Drive Energy Shot will be activated (medium chance).<br>(Activates using skill Rank 1).<br><br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040171,
+      1802040172
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100097,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "After activating an OD attack*, Drive Energy Shot will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040173,
+      1802040174,
+      1802040175,
+      1802040176,
+      1802040177
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100098,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Drive Energy Shot will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040178,
+      1802040179,
+      1802040180,
+      1802040181,
+      1802040182
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100099,
+    "name": "Hide & Seek",
+    "flavor_text": "[End of turn]<br>Cures oneself from all status ailments (very high chance).<br><br>When all allies are still surviving, evades attacks towards self (very high chance).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040676,
+      1802040183
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100100,
+    "name": "End of Turn: All Ailments Cured",
+    "flavor_text": "[End of turn]<br>Cures oneself from all status ailments (very high chance).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040310
+    ],
+    "ability_when": 4,
+    "icon": 4008,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100101,
+    "name": "Lunatic",
+    "flavor_text": "Weak attacks' damage increases (extreme effect).<br><br>[When landing a Weak attack]<br>Recovers own BP (+1).<br>Grants oneself Heat Up (medium effect). (Max times: 5 times per battle).<br>Grants oneself Defense Down (small effect/2 turn(s)). (Max times: 5 times per battle).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040802,
+      802041243,
+      802041242,
+      1802040184
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100102,
+    "name": "Defense Down on Weak Atk",
+    "flavor_text": "When landing a Weak attack, grants oneself Defense Down (small effect/2 turn(s)). (Max times: 5 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011246
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100103,
+    "name": "Action Switch",
+    "flavor_text": "When attacking with blunt attacks, grants oneself Attack Boost (medium effect/3 turn(s)), and recovers own BP (+2).<br>When attacking with sun attacks, grants oneself Defense Boost (medium effect/3 turn(s)), and recovers own HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040185,
+      1802040186,
+      1802040169,
+      1802040170
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",

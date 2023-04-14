@@ -3378,5 +3378,25 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 362
+  },
+  {
+    "id": 1000000580,
+    "event_ability_category_id": 1000000331,
+    "name": "Seeker of Truth I",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・2x attribute gains in Main quests and Seeker of Truth<br>・Bonus Gold Coin drops in Seeker of Truth",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 363
+  },
+  {
+    "id": 1000000581,
+    "event_ability_category_id": 1000000332,
+    "name": "Seeker of Truth II",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・3x attribute gains in Main quests and Seeker of Truth<br>・Bonus Gold Coin drops in Seeker of Truth",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 364
   }
 ]
