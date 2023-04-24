@@ -820,6 +820,36 @@
     "expired_at": 1672966799
   },
   {
+    "id": 840167,
+    "name": "Golden Vacation Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1686272399] <tz>)",
+    "icon": 840167,
+    "max_quantity": 9999999,
+    "value": 30,
+    "sort_order": 23060930,
+    "expired_at": 1686272399
+  },
+  {
+    "id": 840168,
+    "name": "Golden Vacation Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1686272399] <tz>)",
+    "icon": 840168,
+    "max_quantity": 9999999,
+    "value": 60,
+    "sort_order": 23060960,
+    "expired_at": 1686272399
+  },
+  {
+    "id": 840169,
+    "name": "Golden Vacation Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1686272399] <tz>)",
+    "icon": 840169,
+    "max_quantity": 9999999,
+    "value": 90,
+    "sort_order": 23060990,
+    "expired_at": 1686272399
+  },
+  {
     "id": 840173,
     "name": "Song of Heroes Stamina Potion (Sm.) [Ltd. Time]",
     "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1682038799] <tz>)",

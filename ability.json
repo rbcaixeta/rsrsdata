@@ -34387,6 +34387,95 @@
     "sort_order": 0
   },
   {
+    "id": 1702100104,
+    "name": "Illusion Mastery Ⅰ (DEX/INT)",
+    "flavor_text": "When being attacked, evades enemy's attack (medium chance).<br><br>[Start of turn]<br>Increases own DEX/INT (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040311,
+      1802040187
+    ],
+    "ability_when": 1,
+    "icon": 4006,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100105,
+    "name": "Turn Start: DEX/INT Up",
+    "flavor_text": "[Start of turn]<br>Increases own DEX/INT (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011062,
+      802010846
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100106,
+    "name": "Purifying Energy Cure Ⅱ",
+    "flavor_text": "[End of turn]<br>Has a very high chance to:<br>Recover own BP (+2), recover own HP (very small effect), remove own debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA, and cure oneself from all status ailments.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041206,
+      802041207,
+      802040754,
+      802010689
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100107,
+    "name": "Scorching Hot",
+    "flavor_text": "When landing an attack, recovers own BP (+1).<br><br>When landing an attack with an Attack type skill/spell*, Wild Fireballs will be activated (high chance).<br>(Activates using spell Rank 1).<br><br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040114,
+      1802040188
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100108,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell*, Wild Fireballs will be activated (high chance).<br>(Activates using spell Rank 1).<br><br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040189,
+      1802040190,
+      1802040191,
+      1802040192,
+      1802040193
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100109,
+    "name": "Superheating",
+    "flavor_text": "OD attacks' damage increases (extreme effect).<br><br>[Start of turn]<br>Grants oneself Heat Up (medium effect). (Max times: 5 times per battle).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041073,
+      802041423
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",
