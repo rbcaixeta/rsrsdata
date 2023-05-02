@@ -1323,6 +1323,24 @@
     "sort_order": 23031001
   },
   {
+    "id": 800203,
+    "name": "Romancing Festival Medal 91",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800203,
+    "max_quantity": 99999999,
+    "expired_at": 1685494799,
+    "sort_order": 23050210
+  },
+  {
+    "id": 800204,
+    "name": "Romancing Festival Medal 92",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800204,
+    "max_quantity": 99999999,
+    "expired_at": 1685494799,
+    "sort_order": 23050211
+  },
+  {
     "id": 800205,
     "name": "Romancing Festival Medal 88",
     "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
@@ -5220,6 +5238,24 @@
     "sort_order": 23031053
   },
   {
+    "id": 1100721,
+    "name": "Pretty Shell",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100721,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23050250
+  },
+  {
+    "id": 1100722,
+    "name": "Broken Projector",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100722,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23050251
+  },
+  {
     "id": 1100724,
     "name": "Colorful Candy Drops",
     "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -6253,5 +6289,14 @@
     "max_quantity": 99999999,
     "expired_at": 1681693199,
     "sort_order": 23032750
+  },
+  {
+    "id": 1001100247,
+    "name": "Proof of Training [Limited Time]",
+    "flavor_text": "Obtained from The Seekers' Path event. Can be exchanged for items. (Until [1685321999] <tz>)",
+    "icon": 1100228,
+    "max_quantity": 99999999,
+    "expired_at": 1685321999,
+    "sort_order": 23050850
   }
 ]

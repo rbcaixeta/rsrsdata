@@ -34476,6 +34476,82 @@
     "sort_order": 0
   },
   {
+    "id": 1702100110,
+    "name": "Rising Drive",
+    "flavor_text": "When attacked, damage taken will be reduced (large effect).<br><br>[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack*, Rising Earth+ will be activated.<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.<br><br>Rising Earth+<br>Wind spell/Attack/Power: S/Indirect/All Foes (Slash)<br>All range attack.<br>Grants oneself Defense Boost (large effect/2 turn(s)).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040361,
+      802041152,
+      1802040194
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100111,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "After activating an OD attack, Rising Earth+ will be activated.<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040195,
+      1802040196,
+      1802040197,
+      1802040198
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100112,
+    "name": "Action Switch",
+    "flavor_text": "When attacking with slash attacks, grants oneself Attack Boost (medium effect/3 turn(s)), and recovers own BP (+2).<br>When attacking with cold attacks, grants oneself Defense Boost (medium effect/3 turn(s)), and recovers own HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040140,
+      1802040141,
+      1802040199,
+      1802040200
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100113,
+    "name": "Shooter's Power",
+    "flavor_text": "[Start of turn]<br>Increases own DEX (large effect), and grants oneself a defense boost (large effect/1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040201,
+      1802040202
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100114,
+    "name": "Immunity Ⅳ",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' WIL (small effect), and increases all surviving allies' paralysis/confusion resistance (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802010030,
+      802021227,
+      802021228
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",

@@ -53709,6 +53709,74 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040134,
+    "state_change_id": 900040101,
+    "name": "Guard Up (small)",
+    "flavor_text": "Decreases damage taken (can't stack).",
+    "target_area": 12,
+    "state_vars": [
+      88
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040135,
+    "state_change_id": 900040048,
+    "name": "Attack Down (small)",
+    "flavor_text": "Decreases damage dealt to enemies.",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "ATK↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
+    "id": 1801040136,
+    "state_change_id": 900040036,
+    "name": "Dragon Turn",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Dragon Turn.",
+    "target_area": 1,
+    "state_vars": [
+      1110500067
+    ],
+    "text_pop": "Counter Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040137,
+    "state_change_id": 900040036,
+    "name": "Jolt Counter+",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Jolt Counter+.",
+    "target_area": 1,
+    "state_vars": [
+      110500305
+    ],
+    "text_pop": "Counter Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040335,
     "state_change_id": 900040062,
     "name": "Defense Boost (small)",
@@ -57556,6 +57624,161 @@
     "display_flag": 1,
     "triggering_effect_condition_ids": [],
     "state_icon": 3001
+  },
+  {
+    "id": 1802040194,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Activates Rising Earth+ after activating an OD attack.",
+    "target_area": 1,
+    "state_vars": [
+      1702100111
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040195,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Rising Earth+ after activating an OD attack with skill 1.",
+    "target_area": 1,
+    "state_vars": [
+      1125400013
+    ],
+    "text_pop": "Rising Drive",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040196,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Rising Earth+ after activating an OD attack with skill 2.",
+    "target_area": 1,
+    "state_vars": [
+      1125400013
+    ],
+    "text_pop": "Rising Drive",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040197,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Rising Earth+ after activating an OD attack with a normal attack.",
+    "target_area": 1,
+    "state_vars": [
+      1125400013
+    ],
+    "text_pop": "Rising Drive",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040198,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Rising Earth+ after activating an OD attack with an inherited skill.",
+    "target_area": 1,
+    "state_vars": [
+      1125400013
+    ],
+    "text_pop": "Rising Drive",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040199,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (med)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      80
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040200,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 1,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040201,
+    "state_change_id": 900040062,
+    "name": "Defend",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "DEX/DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040202,
+    "state_change_id": 900010014,
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
   },
   {
     "id": 1802040362,
