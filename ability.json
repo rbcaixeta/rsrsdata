@@ -34552,6 +34552,43 @@
     "sort_order": 0
   },
   {
+    "id": 1702100115,
+    "name": "Follow-Up (Frost Levin)",
+    "flavor_text": "After activating a single-foe attack*, Frost Levin will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells activated as Follow-Up attacks, Skill/Spell Counterattacks, and Skills/Spells transmitted in Robin Cup are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1801040139,
+      1801040140,
+      1801040141,
+      1801040142,
+      1801040143,
+      1801040144,
+      1801040145,
+      1801040146,
+      1801040147
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100116,
+    "name": "Dragon Heart",
+    "flavor_text": "When attacked, damage taken will be reduced (very large effect).<br><br>[Start of battle]<br>Grants oneself Follow-Up (Frost Levin) (Effect: permanent in battle), and grants oneself Heat Up (large effect).<br><br>*Loses 2 LP as recoil damage.<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041289,
+      802040448,
+      802041116,
+      1801040138
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",

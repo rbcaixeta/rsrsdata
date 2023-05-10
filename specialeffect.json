@@ -10355,7 +10355,7 @@
     "state_vars": [
       702101338
     ],
-    "text_pop": "Follow-up Stance",
+    "text_pop": "Follow-Up Stance",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -53771,6 +53771,193 @@
     "text_pop": "Counter Stance",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040138,
+    "state_change_id": 900050113,
+    "name": "Follow-Up (Frost Levin)",
+    "flavor_text": "Activates Frost Levin after activating a single foe attack.",
+    "target_area": 1,
+    "state_vars": [
+      1702100115
+    ],
+    "text_pop": "Follow-Up Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040139,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Frost Levin)",
+    "flavor_text": "Attacks with Frost Levin after activating an inherited skill (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500072
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040140,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Frost Levin)",
+    "flavor_text": "Attacks with Frost Levin after activating skill 1 (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500072
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040141,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Frost Levin)",
+    "flavor_text": "Attacks with Frost Levin after activating skill 2 (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500072
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040142,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Frost Levin)",
+    "flavor_text": "Attacks with Frost Levin after activating skill 3 (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500072
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040143,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Frost Levin)",
+    "flavor_text": "Attacks with Frost Levin after activating a normal attack.",
+    "target_area": 1,
+    "state_vars": [
+      1110500072
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040144,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Frost Levin)",
+    "flavor_text": "Attacks with Frost Levin after activating an inherited skill (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500072
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040145,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Frost Levin)",
+    "flavor_text": "Attacks with Frost Levin after activating skill 1 (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500072
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040146,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Frost Levin)",
+    "flavor_text": "Attacks with Frost Levin after activating skill 2 (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500072
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040147,
+    "state_change_id": 900050073,
+    "name": "Follow-Up (Frost Levin)",
+    "flavor_text": "Attacks with Frost Levin after activating skill 3 (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      1110500072
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040148,
+    "state_change_id": 900050055,
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
+    "target_area": 1,
+    "state_vars": [
+      6
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
     "ignition_effect_id": "",
     "display_flag": 1,
     "triggering_effect_condition_ids": [],
