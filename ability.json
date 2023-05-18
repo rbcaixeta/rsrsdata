@@ -34589,6 +34589,81 @@
     "sort_order": 0
   },
   {
+    "id": 1702100117,
+    "name": "Protecting Sword",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect).<br><br>When landing a Weak attack*, Mighty Cross Blade will be activated (very high chance).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.<br><br>Mighty Cross Blade<br>Sword skill/Attack/Power: SS/Direct/Row of Foes (Slash)<br>Ranged attack.<br>Recovers the user's BP (+1).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041252,
+      1802040203
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100118,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack, Mighty Cross Blade will be activated (very high chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040204,
+      1802040205,
+      1802040206,
+      1802040207,
+      1802040208
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100119,
+    "name": "Eager to Win",
+    "flavor_text": "Attacks' damage increases (large effect).<br>When HP is not full, attacks' damage increases further (medium effect) and reduces damage taken (medium effect).<br><br>[Start of turn]<br>Activates the following (Max times: 5 times per battle):<br>・Recovers own BP (+3).<br>・Takes recoil damage for oneself (10% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040001,
+      1802040018,
+      802040475,
+      1802040209
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100120,
+    "name": "Turn Start: Recover BP/Recoil Damage",
+    "flavor_text": "[Start of turn]<br>Activates the following (Max times: 5 times per battle):<br>・Recovers own BP (+3).<br>・Takes recoil damage for oneself (10% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040755,
+      802010910
+    ],
+    "ability_when": 3,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100121,
+    "name": "Great Dire Tension",
+    "flavor_text": "Attacks' damage increases (extreme effect).<br>When HP is not full, attacks' damage increases further (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040741,
+      802040474
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an evasive stance (1 turn(s)).",

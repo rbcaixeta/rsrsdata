@@ -3488,5 +3488,35 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 373
+  },
+  {
+    "id": 1000000591,
+    "event_ability_category_id": 1000000342,
+    "name": "Super Combat Training Booster",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・3x attribute gains in all battle quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 9999
+  },
+  {
+    "id": 1000000592,
+    "event_ability_category_id": 1000000343,
+    "name": "House Julanius Training I",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・2x attribute gains in Main quests and House Julanius Super Combat Training<br>・Bonus Quality Grindstone drops in House Julanius Super Combat Training",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 374
+  },
+  {
+    "id": 1000000593,
+    "event_ability_category_id": 1000000344,
+    "name": "House Julanius Training II",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・3x attribute gains in Main quests and House Julanius Super Combat Training<br>・Bonus Quality Grindstone drops in House Julanius Super Combat Training",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 375
   }
 ]

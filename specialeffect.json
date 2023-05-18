@@ -53964,6 +53964,23 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040149,
+    "state_change_id": 900050079,
+    "name": "Recoil Damage (20% Max HP)",
+    "flavor_text": "Use up 20% of all allies' max HP.",
+    "target_area": 3,
+    "state_vars": [
+      1
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "SelfHarm",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
     "id": 1801040335,
     "state_change_id": 900040062,
     "name": "Defense Boost (small)",
@@ -57966,6 +57983,125 @@
     "display_flag": 0,
     "triggering_effect_condition_ids": [],
     "state_icon": 2001
+  },
+  {
+    "id": 1802040203,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack, Mighty Cross Blade will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100118
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040204,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with skill 1, Mighty Cross Blade will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110100059
+    ],
+    "text_pop": "Protecting Sword",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040205,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with skill 2, Mighty Cross Blade will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110100059
+    ],
+    "text_pop": "Protecting Sword",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040206,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with skill 3, Mighty Cross Blade will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110100059
+    ],
+    "text_pop": "Protecting Sword",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040207,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with an inherited skill, Mighty Cross Blade will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110100059
+    ],
+    "text_pop": "Protecting Sword",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040208,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with a normal attack, Mighty Cross Blade will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110100059
+    ],
+    "text_pop": "Protecting Sword",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040209,
+    "state_change_id": 900050113,
+    "name": "Turn Start: Recover BP/Recoil Damage",
+    "flavor_text": "[Start of turn]<br>Activates the following (Max times: 5 times per battle):<br>・Recovers own BP (+3).<br>・Takes recoil damage for oneself (10% of Max HP).<br>*Recoil damage can't be reduced by effects that reduce damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      1702100120
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
   },
   {
     "id": 1802040362,
