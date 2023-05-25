@@ -5121,6 +5121,60 @@
     "sort_order": 22051720
   },
   {
+    "id": 1100693,
+    "name": "Lapis Chunk",
+    "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100693,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23052690
+  },
+  {
+    "id": 1100695,
+    "name": "Lapis G. Sword Mold Piece",
+    "flavor_text": "[Weapon: G. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100695,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23052686
+  },
+  {
+    "id": 1100696,
+    "name": "Lapis Axe Mold Piece",
+    "flavor_text": "[Weapon: Axe] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100696,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23052684
+  },
+  {
+    "id": 1100700,
+    "name": "Lapis S. Sword Mold Piece",
+    "flavor_text": "[Weapon: S. Sword] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100700,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23052676
+  },
+  {
+    "id": 1100701,
+    "name": "Lapis Spear Mold Piece",
+    "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100701,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23052674
+  },
+  {
+    "id": 1100703,
+    "name": "Lapis Staff Mold Piece",
+    "flavor_text": "[Weapon: Staff] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1100703,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23052670
+  },
+  {
     "id": 1100704,
     "name": "Steel Part",
     "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
@@ -5308,6 +5362,15 @@
     "max_quantity": 99999999,
     "expired_at": 1686877199,
     "sort_order": 23051870
+  },
+  {
+    "id": 1100729,
+    "name": "Liam Arc Episode 7 Coin [Ltd. Time]",
+    "flavor_text": "Can be exchanged for Equipment Medals and other items. (Until [1687481999] <tz>)",
+    "icon": 1100726,
+    "max_quantity": 99999999,
+    "expired_at": 1687481999,
+    "sort_order": 23052600
   },
   {
     "id": 1100731,
@@ -5821,6 +5884,24 @@
     "max_quantity": 99999999,
     "expired_at": 1682038799,
     "sort_order": 23032310
+  },
+  {
+    "id": 1000800053,
+    "name": "Ultra Deluxe Summon Medal 30",
+    "flavor_text": "Obtained when performing a specific Ultra Deluxe Summon. Can be exchanged for items and Styles.",
+    "icon": 800196,
+    "max_quantity": 99999999,
+    "expired_at": 1689296399,
+    "sort_order": 23052611
+  },
+  {
+    "id": 1000800054,
+    "name": "SaGa Soul Medal 13",
+    "flavor_text": "Obtained when performing a specific SaGa Soul Summon. Can be exchanged for items and Styles.",
+    "icon": 800194,
+    "max_quantity": 99999999,
+    "expired_at": 1689296399,
+    "sort_order": 23052610
   },
   {
     "id": 1001100001,
@@ -6370,5 +6451,23 @@
     "max_quantity": 99999999,
     "expired_at": 1685321999,
     "sort_order": 23050850
+  },
+  {
+    "id": 1001100248,
+    "name": "3rd Anniv. Eve UDX Exclusive SS Style Exchange Ticket",
+    "flavor_text": "Can be exchanged for a Style at the 3rd Anniv. Eve UDX Exclusive SS Style Exchange. (Until [1689296399] <tz>)",
+    "icon": 1001100248,
+    "max_quantity": 99999999,
+    "expired_at": 1689296399,
+    "sort_order": 99999998
+  },
+  {
+    "id": 1001100249,
+    "name": "3rd Anniv. Eve SaGa Soul Exclusive SS Style Exchange Ticket",
+    "flavor_text": "Can be exchanged for a Style at the 3rd Anniv. Eve SaGa Soul Exclusive SS Style Exchange. (Until [1689296399] <tz>)",
+    "icon": 1001100249,
+    "max_quantity": 99999999,
+    "expired_at": 1689296399,
+    "sort_order": 99999997
   }
 ]

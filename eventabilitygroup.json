@@ -3518,5 +3518,25 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 375
+  },
+  {
+    "id": 1000000594,
+    "event_ability_category_id": 1000000345,
+    "name": "Main Story Expansion",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・2x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 376
+  },
+  {
+    "id": 1000000595,
+    "event_ability_category_id": 1000000346,
+    "name": "3rd Anniv. Countdown Quest",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing 3rd Anniv. Countdown Quest",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 377
   }
 ]

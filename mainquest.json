@@ -80867,5 +80867,2252 @@
     "is_required_for_area_clear": 0,
     "twitter_button_id": 0,
     "max_grind_count": 0
+  },
+  {
+    "id": 120107011,
+    "quest_type": 2,
+    "name": "7-1-1. The Second Light",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 0,
+    "scenario_id": 10307001,
+    "prev_quest_ids": [
+      120106181
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107012,
+    "quest_type": 1,
+    "name": "7-1-1. To the City Near the Workshop I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1150401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001177,
+      870001175,
+      870001172,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107201,
+      120106102
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107013,
+    "quest_type": 1,
+    "name": "7-1-1. To the City Near the Workshop I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1150401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001184,
+      870001182,
+      870001179,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107102,
+      120106103
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107021,
+    "quest_type": 2,
+    "name": "7-1-2. Trust Your Instincts",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 0,
+    "scenario_id": 10307010,
+    "prev_quest_ids": [
+      120107011
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107022,
+    "quest_type": 1,
+    "name": "7-1-2. To the City Near the Workshop II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1060501,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001176,
+      870001172,
+      870001173,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107012
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107023,
+    "quest_type": 1,
+    "name": "7-1-2. To the City Near the Workshop II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060501,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001183,
+      870001179,
+      870001180,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107013
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107031,
+    "quest_type": 1,
+    "name": "7-1-3. To the City Near the Workshop I",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1150401,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001170,
+      870001168,
+      870001165,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107021
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107032,
+    "quest_type": 1,
+    "name": "7-1-3. Battle with the Phoenix",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1040671,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001176,
+      870001173,
+      870001171,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107022
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107033,
+    "quest_type": 1,
+    "name": "7-1-3. Battle with the Phoenix",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040671,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001183,
+      870001180,
+      870001178,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107023
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107041,
+    "quest_type": 1,
+    "name": "7-1-4. To the City Near the Workshop II",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1060501,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001169,
+      870001165,
+      870001166,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107031
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107042,
+    "quest_type": 1,
+    "name": "7-1-4. After Taria I",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1010691,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001176,
+      870001171,
+      870001174,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107032
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107043,
+    "quest_type": 1,
+    "name": "7-1-4. After Taria I",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010691,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001183,
+      870001178,
+      870001181,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107033
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107051,
+    "quest_type": 2,
+    "name": "7-1-5. It's the Phoenix",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 0,
+    "scenario_id": 10307020,
+    "prev_quest_ids": [
+      120107041
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107052,
+    "quest_type": 1,
+    "name": "7-1-5. After Taria II",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 7,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1060471,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001177,
+      870001174,
+      870001175,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107042
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107053,
+    "quest_type": 1,
+    "name": "7-1-5. After Taria II",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060471,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001184,
+      870001181,
+      870001182,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107043
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107061,
+    "quest_type": 1,
+    "name": "7-1-6. Battle with the Phoenix",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1040671,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001169,
+      870001166,
+      870001164,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107051
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107062,
+    "quest_type": 1,
+    "name": "7-2-1. Favor of the Spirituals I",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 7,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1020711,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001177,
+      870001175,
+      870001172,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107052
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107063,
+    "quest_type": 1,
+    "name": "7-2-1. Favor of the Spirituals I",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1020711,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001184,
+      870001182,
+      870001179,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107053
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107071,
+    "quest_type": 2,
+    "name": "7-1-7. An Unexpected Reunion",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 0,
+    "scenario_id": 10307030,
+    "prev_quest_ids": [
+      120107061
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107072,
+    "quest_type": 1,
+    "name": "7-2-2. Favor of the Spirituals II",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 7,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1120551,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001176,
+      870001172,
+      870001173,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107062
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107073,
+    "quest_type": 1,
+    "name": "7-2-2. Favor of the Spirituals II",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1120551,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001183,
+      870001179,
+      870001180,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107063
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107081,
+    "quest_type": 1,
+    "name": "7-1-8. After Taria I",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000009,
+    "number_of_story_banner": 7,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1010691,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001169,
+      870001164,
+      870001167,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107071
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107082,
+    "quest_type": 1,
+    "name": "7-2-3. Almost at the Nest",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1040831,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001176,
+      870001173,
+      870001171,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107072
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107083,
+    "quest_type": 1,
+    "name": "7-2-3. Almost at the Nest",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040831,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001183,
+      870001180,
+      870001178,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107073
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107091,
+    "quest_type": 1,
+    "name": "7-1-9. After Taria II",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 7,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1060471,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001170,
+      870001167,
+      870001168,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 100307051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107081
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107092,
+    "quest_type": 1,
+    "name": "7-2-4. In Front of the Nest",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1120521,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001176,
+      870001171,
+      870001174,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107082
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107093,
+    "quest_type": 1,
+    "name": "7-2-4. In Front of the Nest",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1120521,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001183,
+      870001178,
+      870001181,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107083
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107101,
+    "quest_type": 2,
+    "name": "7-1-10. Flaming Tail",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 175,
+    "battle_id": 0,
+    "scenario_id": 10307040,
+    "prev_quest_ids": [
+      120107091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107102,
+    "quest_type": 1,
+    "name": "7-2-5. Another Battle with the Phoenix",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1040671,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001177,
+      870001174,
+      870001175,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107092
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107103,
+    "quest_type": 1,
+    "name": "7-2-5. Another Battle with the Phoenix",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1040671,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001184,
+      870001181,
+      870001182,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107093
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107111,
+    "quest_type": 1,
+    "name": "7-2-1. Favor of the Spirituals I",
+    "sort_order": 11,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 7,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1020711,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001170,
+      870001168,
+      870001165,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107101
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107121,
+    "quest_type": 1,
+    "name": "7-2-2. Favor of the Spirituals II",
+    "sort_order": 12,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 7,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1120551,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100696
+      },
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001169,
+      870001165,
+      870001166,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107111
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107131,
+    "quest_type": 2,
+    "name": "7-2-3. Between Pirates",
+    "sort_order": 13,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 0,
+    "scenario_id": 10307050,
+    "prev_quest_ids": [
+      120107121
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107141,
+    "quest_type": 1,
+    "name": "7-2-4. Almost at the Nest",
+    "sort_order": 14,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1040831,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100700
+      },
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001169,
+      870001166,
+      870001164,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107131
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107151,
+    "quest_type": 1,
+    "name": "7-2-5. In Front of the Nest",
+    "sort_order": 15,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1120521,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100695
+      },
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001169,
+      870001164,
+      870001167,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107141
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107161,
+    "quest_type": 2,
+    "name": "7-2-6. Tatzelwurm Girls",
+    "sort_order": 16,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 0,
+    "scenario_id": 10307060,
+    "prev_quest_ids": [
+      120107151
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107171,
+    "quest_type": 1,
+    "name": "7-2-7. Merlot & Syrah",
+    "sort_order": 17,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000146,
+    "number_of_story_banner": 7,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1993711,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107161
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107181,
+    "quest_type": 2,
+    "name": "7-2-8. Birth of a Legend",
+    "sort_order": 18,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 0,
+    "scenario_id": 10307070,
+    "prev_quest_ids": [
+      120107171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107191,
+    "quest_type": 1,
+    "name": "7-2-9. Another Battle with the Phoenix",
+    "sort_order": 19,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 7,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1040671,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100701
+      },
+      {
+        "type": 7,
+        "id": 1100703
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001170,
+      870001167,
+      870001168,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 100307111,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107181
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
+  },
+  {
+    "id": 120107201,
+    "quest_type": 2,
+    "name": "7-2-10. Everything Will Be All Right",
+    "sort_order": 20,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210701,
+    "number_of_story_banner": 7,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 14,
+        "id": 610302,
+        "quantity": 1
+      },
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 176,
+    "battle_id": 0,
+    "scenario_id": 10307080,
+    "prev_quest_ids": [
+      120107191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0
   }
 ]
