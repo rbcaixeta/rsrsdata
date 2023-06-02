@@ -6,12 +6,6 @@
     "value": "6"
   },
   {
-    "id": 2,
-    "key": "shop_wheel_cool_time_hours",
-    "type": "integer",
-    "value": "0"
-  },
-  {
     "id": 3,
     "key": "field_map_interval_seconds",
     "type": "integer",
@@ -130,5 +124,41 @@
     "key": "max_inventory_count",
     "type": "integer",
     "value": "3000"
+  },
+  {
+    "id": 23,
+    "key": "road_meet_limit",
+    "type": "integer",
+    "value": "100"
+  },
+  {
+    "id": 24,
+    "key": "road_fetch_inteval_seconds",
+    "type": "integer",
+    "value": "10"
+  },
+  {
+    "id": 25,
+    "key": "road_navigator_id",
+    "type": "integer",
+    "value": "9900115"
+  },
+  {
+    "id": 26,
+    "key": "road_lobby_dot_count",
+    "type": "integer",
+    "value": "10"
+  },
+  {
+    "id": 27,
+    "key": "max_gacha_optional_draw_count",
+    "type": "integer",
+    "value": "1000"
+  },
+  {
+    "id": 28,
+    "key": "piece_max_quantity",
+    "type": "integer",
+    "value": "99999999"
   }
 ]

@@ -9,13 +9,13 @@
     "id": 10002,
     "login_bonus_type": 1,
     "name": "Start Dash Login Bonus",
-    "display_priority": 9000
+    "display_priority": 900000
   },
   {
     "id": 10005,
     "login_bonus_type": 4,
     "name": "Returning Login Bonus",
-    "display_priority": 9500
+    "display_priority": 950000
   },
   {
     "id": 10006,
@@ -3784,5 +3784,41 @@
     "login_bonus_type": 1,
     "name": "June 2023 Login Bonus",
     "display_priority": 1400
+  },
+  {
+    "id": 1000000631,
+    "login_bonus_type": 1,
+    "name": "3rd Anniversary Appreciation Login Bonus",
+    "display_priority": 2158
+  },
+  {
+    "id": 1000000632,
+    "login_bonus_type": 1,
+    "name": "3rd Anniversary Round 1 Login Bonus",
+    "display_priority": 2157
+  },
+  {
+    "id": 1000000633,
+    "login_bonus_type": 1,
+    "name": "Wonderful Saga! Romancing Tour Solo Mode Grand Opening Login Bonus",
+    "display_priority": 2156
+  },
+  {
+    "id": 1000000634,
+    "login_bonus_type": 1,
+    "name": "New Expedition Login Bonus",
+    "display_priority": 2154
+  },
+  {
+    "id": 1000000635,
+    "login_bonus_type": 1,
+    "name": "Viewer's Medal Exchange Grand Opening Login Bonus",
+    "display_priority": 2155
+  },
+  {
+    "id": 1000000636,
+    "login_bonus_type": 5,
+    "name": "Attribute Growth Booster 14-Day Pack Login Bonus",
+    "display_priority": 999
   }
 ]

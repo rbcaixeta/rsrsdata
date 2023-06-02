@@ -1,0 +1,149 @@
+[
+  {
+    "id": 900001,
+    "text": "[Battle Historia Goal] The goal of the adventure is to defeat the Boss at the end. Check Map>Boss for details on the Boss.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900002,
+    "text": "[Battle Historia Special Rule 1] During the adventure, your party's HP and LP will be carried over in battles. Try not to take too much damage.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900003,
+    "text": "[Battle Historia Special Rule 2] All skills are set to Rank 99, and all Styles are fixed to Lv 30. Styles abilities will all be available.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900004,
+    "text": "[Assigning Warriors] The adventure begins with a party made from scratch. When starting Historia, you will have five random Styles assigned to your party.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900005,
+    "text": "[Types of Tiles on Maps] On the map, there are many types of tiles such as Style, Event, Party Ability, Normal Foe, and Mighty Foe.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900006,
+    "text": "[Style Tile] A type of tile on the map. Choose 1 out of 3 Styles to swap with an existing member in your party.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900007,
+    "text": "[Party Ability Tile] A type of tile on the map. Choose 1 out of 3 party abilities.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900008,
+    "text": "[Normal Foe Tile] A type of tile on the map. Start a battle with an enemy. The further you go, the stronger the enemies.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900009,
+    "text": "[Mighty Foe Tile] A type of tile on the map. Start a battle with a mighty foe. Party members will develop greatly and you will get better rewards.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900010,
+    "text": "[Surprise Attack] Before a battle, Normal Foe battles will have a chance to become Mighty Foe battles.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900011,
+    "text": "[Treasure Chest Tile] A type of tile on the map. If the treasure chest is opened successfully, your party will be enhanced, but there will be a penalty if you failed to open the chest.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900012,
+    "text": "[Treasure Chests (Appears by chance)] When moving to the next tile, a treasure chest will have a chance to appear. Decide carefully whether or not to open the chest.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900013,
+    "text": "[Grasp/Learn when Recruiting Warriors] When recruiting a warrior, the new recruit will learn the number of skills/spells of the Style that left your party.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900014,
+    "text": "[Style Change] You can swap Styles of the same character on Style tiles. Styles of the same character cannot be in the party at the same time.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900015,
+    "text": "[Dodge Skill] In Battle Historia, you can learn dodge skills. Once a dodge skill is learned, you will evade the skill/spell completely when an enemy uses it.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900016,
+    "text": "[Grasp/Learn] In Battle Historia, Styles can learn skills/spells of different weapon types and spell affinity.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900017,
+    "text": "[Item] Consume items in battles to help the party pre-action. The effect amount is based on the average of the party's attributes.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900018,
+    "text": "[Party Ability] Abilities that can only be used in Battle Historia. The effect applies to the entire party.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900019,
+    "text": "[HP Recovery on Map] Styles with 2 or more LP can use 1 LP to fully restore HP.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900020,
+    "text": "[Give Up] Give up on the adventure and exit Historia. If you think you cannot make any more progress on the map, you can choose to give up the current map.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  },
+  {
+    "id": 900021,
+    "text": "[Results] On the Result screen, you can view your adventure log. Review your own unique adventure.",
+    "weight": 100,
+    "start_at": 1670295600,
+    "end_at": 1893351600
+  }
+]

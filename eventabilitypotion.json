@@ -50,5 +50,31 @@
     "event_ability_group_id": 1000000591,
     "duration_seconds": 3600,
     "event_ability_potion_type": 2
+  },
+  {
+    "id": 1000940004,
+    "name": "3rd Anniv. Booster [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that grants 4x attribute gains for a character in all battle quests for 1 hour after use. (Until [1689728399] <tz>)",
+    "max_quantity": 9999,
+    "expired_at": 1689728399,
+    "icon": 1000940004,
+    "sort_order": 23071901,
+    "style_event_ability_id": 0,
+    "event_ability_group_id": 1000000599,
+    "duration_seconds": 3600,
+    "event_ability_potion_type": 2
+  },
+  {
+    "id": 1000940005,
+    "name": "(All) Attribute Growth Booster V",
+    "flavor_text": "Item that grants 5x attribute gains for all Styles in all battle quests for 12 hours after use.",
+    "max_quantity": 9999,
+    "expired_at": 0,
+    "icon": 1000940005,
+    "sort_order": 99999999,
+    "style_event_ability_id": 0,
+    "event_ability_group_id": 1000000600,
+    "duration_seconds": 43200,
+    "event_ability_potion_type": 1
   }
 ]

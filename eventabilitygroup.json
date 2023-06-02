@@ -3538,5 +3538,55 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 377
+  },
+  {
+    "id": 1000000596,
+    "event_ability_category_id": 1000000347,
+    "name": "Wonderful Saga! Romancing Tour (Solo) I",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・3x attribute gains in Main quests and Wonderful Saga! Romancing Tour (Solo)<br>・Bonus Imari Wind Bell drops in Wonderful Saga! Romancing Tour (Solo)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 378
+  },
+  {
+    "id": 1000000597,
+    "event_ability_category_id": 1000000348,
+    "name": "Wonderful Saga! Romancing Tour (Solo) II",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・4x attribute gains in Main quests and Wonderful Saga! Romancing Tour (Solo)<br>・Bonus Imari Wind Bell drops in Wonderful Saga! Romancing Tour (Solo)",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 379
+  },
+  {
+    "id": 1000000598,
+    "event_ability_category_id": 1000000349,
+    "name": "3rd Anniversary Quest",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・Bonus Style Piece drops for the Styles you use when clearing 3rd Anniversary Quest",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 380
+  },
+  {
+    "id": 1000000599,
+    "event_ability_category_id": 1000000350,
+    "name": "3rd Anniv. Booster",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・4x attribute gains in all battle quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 9999
+  },
+  {
+    "id": 1000000600,
+    "event_ability_category_id": 1000000351,
+    "name": "(All) Attribute Growth Booster V",
+    "prefix": "",
+    "flavor_text": "・5x attribute gains in all battle quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 10000
   }
 ]

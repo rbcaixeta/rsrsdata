@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "initial_members",
+    "order": 1,
+    "text": "The game starts with five randomly selected Styles out of a specific group of Styles."
+  },
+  {
+    "id": 2,
+    "name": "scenario_choice",
+    "order": 1,
+    "text": "On event tiles, conditions on the map may change based on your choices."
+  },
+  {
+    "id": 3,
+    "name": "member_choice",
+    "order": 1,
+    "text": "On Style tiles, you can swap Styles. However, you cannot have duplicate characters."
+  },
+  {
+    "id": 4,
+    "name": "party_ability_choice",
+    "order": 1,
+    "text": "On party ability tiles, you can gain party abilities. The effects apply to the entire party."
+  },
+  {
+    "id": 5,
+    "name": "battle",
+    "order": 1,
+    "text": "Party attributes will increase and you will get rewards upon winning a battle."
+  },
+  {
+    "id": 6,
+    "name": "battle",
+    "order": 2,
+    "text": "Also, you can choose party enhancement and rewards. HP/LP will be carried over."
+  },
+  {
+    "id": 7,
+    "name": "middle_boss",
+    "order": 1,
+    "text": "On mighty foe tiles, powerful enemies awaits. The rewards will be better there."
+  },
+  {
+    "id": 8,
+    "name": "middle_boss",
+    "order": 2,
+    "text": "Consume items in battles to help the party pre-action."
+  },
+  {
+    "id": 9,
+    "name": "middle_boss",
+    "order": 3,
+    "text": "Use items with the Item button."
+  },
+  {
+    "id": 10,
+    "name": "chart_hp_recovery",
+    "order": 1,
+    "text": "Styles with 2 LP or more can use 1 LP to fully restore HP."
+  },
+  {
+    "id": 11,
+    "name": "trap_treasure_box",
+    "order": 1,
+    "text": "You will be rewarded at the rate indicated when you try to open the treasure chest."
+  },
+  {
+    "id": 12,
+    "name": "trap_treasure_box",
+    "order": 2,
+    "text": "However, there will be a penalty if you failed to open the chest."
+  },
+  {
+    "id": 13,
+    "name": "final_result",
+    "order": 1,
+    "text": "You can check your adventure log on the results screen. The tutorial ends here!"
+  },
+  {
+    "id": 14,
+    "name": "initial_members",
+    "order": 2,
+    "text": "The following cannot be used outside of Battle Historia:"
+  },
+  {
+    "id": 15,
+    "name": "initial_members",
+    "order": 3,
+    "text": "Styles/Skills/Spells/Items/Formations/Party Abilities and others gained in this mode."
+  },
+  {
+    "id": 16,
+    "name": "initial_members",
+    "order": 4,
+    "text": "Only Historia Points gained at the end of Steps can be used outside of Battle Historia."
+  },
+  {
+    "id": 17,
+    "name": "initial_members",
+    "order": 5,
+    "text": "*Historia Points will not be granted in Tutorial."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "reunion_event_type": 1,
+    "reunion_event_sub_type": 0,
+    "name": "Start",
+    "description": "The starting point.<br>When you start the game, you will always start on this tile."
+  },
+  {
+    "id": 2,
+    "reunion_event_type": 2,
+    "reunion_event_sub_type": 0,
+    "name": "Normal Foe",
+    "description": "Starts battle with enemy.<br>Surprise attack has a chance to occur and a mighty foe will appear instead.<br>Upon victory, party will be enhanced and you may choose 1 party ability."
+  },
+  {
+    "id": 3,
+    "reunion_event_type": 4,
+    "reunion_event_sub_type": 0,
+    "name": "Gain Party Ability",
+    "description": "Get 1 out of 3 party abilities."
+  },
+  {
+    "id": 4,
+    "reunion_event_type": 5,
+    "reunion_event_sub_type": 0,
+    "name": "Found Treasure Chest",
+    "description": "You can try to open the treasure chest.<br>Upon success, party will be enhanced greatly and you can get rewards."
+  },
+  {
+    "id": 5,
+    "reunion_event_type": 6,
+    "reunion_event_sub_type": 0,
+    "name": "Event",
+    "description": "The game changes according to the choices you make."
+  },
+  {
+    "id": 6,
+    "reunion_event_type": 7,
+    "reunion_event_sub_type": 0,
+    "name": "Mighty Foe",
+    "description": "A mighty foe awaits.<br>Upon victory, party will be enhanced greatly and you can get better rewards than in battles with normal foes."
+  },
+  {
+    "id": 7,
+    "reunion_event_type": 8,
+    "reunion_event_sub_type": 0,
+    "name": "Recruit Warrior",
+    "description": "You can choose 1 out of 3 Styles.<br>You may swap them with a party member."
+  },
+  {
+    "id": 8,
+    "reunion_event_type": 9,
+    "reunion_event_sub_type": 0,
+    "name": "Gain Item",
+    "description": "Get 1 out of 3 items."
+  },
+  {
+    "id": 9,
+    "reunion_event_type": 99,
+    "reunion_event_sub_type": 0,
+    "name": "Boss Battle",
+    "description": "The boss awaits.<br>Defeat the boss to clear the level."
+  }
+]

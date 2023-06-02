@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 1,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Selected {reunion_reward_type} to enhance party!"
+  },
+  {
+    "id": 2,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 2,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Selected nothing to enhance party."
+  },
+  {
+    "id": 3,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 3,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 2,
+    "text": "Gained formation \"{formation}\"!"
+  },
+  {
+    "id": 4,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 3,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 3,
+    "text": "Gained party ability \"{ability}\"!"
+  },
+  {
+    "id": 5,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 3,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 4,
+    "text": "Gained item \"{battle_item}\"!"
+  },
+  {
+    "id": 6,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 3,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 6,
+    "text": "Dodged \"{skill}\"!"
+  },
+  {
+    "id": 7,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 4,
+    "reunion_event_log_sub_type": 1,
+    "reunion_reward_type": 0,
+    "text": "Parted ways with {old}, and {new} joined the party!"
+  },
+  {
+    "id": 8,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 4,
+    "reunion_event_log_sub_type": 2,
+    "reunion_reward_type": 0,
+    "text": "Parted ways with {old}, and {new} joined the party!"
+  },
+  {
+    "id": 9,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 4,
+    "reunion_event_log_sub_type": 3,
+    "reunion_reward_type": 0,
+    "text": "{character}'s Style inherited skills/spells from {style}!"
+  },
+  {
+    "id": 10,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 5,
+    "reunion_event_log_sub_type": 4,
+    "reunion_reward_type": 0,
+    "text": "{style} grasped {skill}!"
+  },
+  {
+    "id": 11,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 5,
+    "reunion_event_log_sub_type": 5,
+    "reunion_reward_type": 0,
+    "text": "{style} learned {skill}!"
+  },
+  {
+    "id": 12,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 6,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Succeeded in opening a treasure chest. Gained rewards!"
+  },
+  {
+    "id": 13,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 7,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Failed to open a treasure chest. Activated a trap."
+  },
+  {
+    "id": 14,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 8,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Found a treasure chest but ignored it."
+  },
+  {
+    "id": 15,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 9,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Party's HP recovered!"
+  },
+  {
+    "id": 16,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 10,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Party's LP recovered!"
+  },
+  {
+    "id": 17,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 11,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Entire party's HP reduced by {value}%."
+  },
+  {
+    "id": 18,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 12,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Entire party's LP reduced by {value}."
+  },
+  {
+    "id": 19,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 13,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Field of vision changed."
+  },
+  {
+    "id": 20,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 14,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "The map changed."
+  },
+  {
+    "id": 21,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 15,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 3,
+    "text": "Party ability \"{ability}\" granted."
+  },
+  {
+    "id": 22,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 16,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 1,
+    "text": "\"{old}\" replaced by \"{new}\"."
+  },
+  {
+    "id": 23,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 16,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 2,
+    "text": "Formation \"{old}\" changed to \"{new}\"."
+  },
+  {
+    "id": 24,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 16,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 3,
+    "text": "Party ability \"{old}\" changed to \"{new}\"."
+  },
+  {
+    "id": 25,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 16,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 4,
+    "text": "Item \"{old}\" changed to \"{new}\"."
+  },
+  {
+    "id": 26,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 16,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 6,
+    "text": "Dodge skill \"{old}\" changed to Dodge skill \"{new}\"!"
+  },
+  {
+    "id": 27,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 17,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Attributes increased greatly!"
+  },
+  {
+    "id": 28,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 18,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Encountered foe. {text}"
+  },
+  {
+    "id": 29,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 19,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Encountered mighty foe. {text}"
+  },
+  {
+    "id": 30,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 20,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Encountered a surprise attack. {text}"
+  },
+  {
+    "id": 31,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 21,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Encountered BOSS."
+  },
+  {
+    "id": 32,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 22,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Won the battle!"
+  },
+  {
+    "id": 33,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 23,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "{enemy} defeated the party with {skill}..."
+  },
+  {
+    "id": 34,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 24,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Party defeated by poison damage..."
+  },
+  {
+    "id": 35,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 26,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Gave up..."
+  },
+  {
+    "id": 36,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 27,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Defeated {enemy} and cleared level!"
+  },
+  {
+    "id": 37,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 28,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "An event occurred.<br>[{scenario}]"
+  },
+  {
+    "id": 38,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 29,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "【{choice}】"
+  },
+  {
+    "id": 39,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 30,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Found a treasure chest!"
+  },
+  {
+    "id": 40,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 31,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Your adventure began!"
+  },
+  {
+    "id": 41,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 33,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Consumed {style}'s LP to recover their HP."
+  },
+  {
+    "id": 42,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 34,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Party defeated..."
+  },
+  {
+    "id": 43,
+    "displays_on_top": 0,
+    "reunion_event_log_type": 35,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "{style} inherited {skill}!"
+  },
+  {
+    "id": 44,
+    "displays_on_top": 1,
+    "reunion_event_log_type": 36,
+    "reunion_event_log_sub_type": 0,
+    "reunion_reward_type": 0,
+    "text": "Completed tutorial!"
+  }
+]

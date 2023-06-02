@@ -348,5 +348,36 @@
       400000072,
       400000222
     ]
+  },
+  {
+    "id": 900048,
+    "name": "The Final Treasure III - Small",
+    "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston Pieces, Silver Pieces, Orb Medals, and more.",
+    "rarity": 4,
+    "max_quantity": 9999,
+    "expired_at": 0,
+    "icon": 900027,
+    "sort_order": 49998995,
+    "drop_group_ids": [
+      400000225,
+      400000069,
+      400000221
+    ]
+  },
+  {
+    "id": 900049,
+    "name": "The Final Treasure III - Large",
+    "description": "Open from Items>Treasure Box. You may get any of the following items.<br>Reward: SS [From World's End] Boston, SS [From World's End] Boston Pieces, Testaments of the Mighty: Rank 1/Rank 2, Orb Medals, Stamina Potions (Large), and more.",
+    "rarity": 5,
+    "max_quantity": 9999,
+    "expired_at": 0,
+    "icon": 900028,
+    "sort_order": 49999000,
+    "drop_group_ids": [
+      400000226,
+      400000071,
+      400000072,
+      400000222
+    ]
   }
 ]

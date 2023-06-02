@@ -1,0 +1,1559 @@
+[
+  {
+    "id": 10100001,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100001,
+        "text": "Increase in Style tiles",
+        "sub_text": "Change map layout."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100002,
+        "text": "Increase in party ability tiles",
+        "sub_text": "Change map layout."
+      }
+    ]
+  },
+  {
+    "id": 10100002,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100003,
+        "text": "Powerful item(s)",
+        "sub_text": "Gain 3 items."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100004,
+        "text": "Powerful party ability(ies)",
+        "sub_text": "Gain 1 party ability."
+      }
+    ]
+  },
+  {
+    "id": 10100003,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100005,
+        "text": "A broad field of vision",
+        "sub_text": "Broaden field of vision to 10."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100006,
+        "text": "Party full recovery",
+        "sub_text": "Fully recover party's HP & LP."
+      }
+    ]
+  },
+  {
+    "id": 10100004,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100007,
+        "text": "Formations with HP or BP recovery effects",
+        "sub_text": "Gain 3 formations."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100008,
+        "text": "Item(s) and party ability(ies)",
+        "sub_text": "Gain 3 items and 3 party abilities."
+      }
+    ]
+  },
+  {
+    "id": 10100005,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100009,
+        "text": "Change treasure chests to Style tiles.",
+        "sub_text": "Change map layout."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100010,
+        "text": "Change mighty foes to Style tiles.",
+        "sub_text": "Change map layout."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100208,
+        "text": "No, thanks.",
+        "sub_text": "Do not change map layout."
+      }
+    ]
+  },
+  {
+    "id": 10100006,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100011,
+        "text": "Change treasure chests to party ability tiles.",
+        "sub_text": "Change map layout."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100012,
+        "text": "Change mighty foes to party ability tiles.",
+        "sub_text": "Change map layout."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100209,
+        "text": "No, thanks.",
+        "sub_text": "Do not change map layout."
+      }
+    ]
+  },
+  {
+    "id": 10100007,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100013,
+        "text": "Change Style tiles to treasure chest tiles.",
+        "sub_text": "Change map layout and hint display."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100014,
+        "text": "Change mighty foes to treasure chest tiles.",
+        "sub_text": "Change map layout."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100210,
+        "text": "No, thanks.",
+        "sub_text": "Do not change map layout."
+      }
+    ]
+  },
+  {
+    "id": 10100010,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100021,
+        "text": "Warriors who excel in slash attacks on Style tiles",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100022,
+        "text": "Warriors who excel in blunt attacks on Style tiles",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100023,
+        "text": "Warriors who excel in pierce attacks on Style tiles",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100208,
+        "text": "No, thanks.",
+        "sub_text": "Do not change tiles ahead."
+      }
+    ]
+  },
+  {
+    "id": 10100011,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100024,
+        "text": "Weaken slash attack but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100025,
+        "text": "Weaken blunt attack but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100026,
+        "text": "Weaken pierce attack but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      }
+    ]
+  },
+  {
+    "id": 10100012,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100027,
+        "text": "Become weak to slash but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100028,
+        "text": "Become weak to blunt but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100029,
+        "text": "Become weak to pierce but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      }
+    ]
+  },
+  {
+    "id": 10100013,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100030,
+        "text": "Enhance Sword/G. Sword/Axe skills.",
+        "sub_text": "Gain party ability."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100031,
+        "text": "Enhance Spear/S. Sword/Bow skills.",
+        "sub_text": "Gain party ability."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100032,
+        "text": "Enhance Gun/Club/M. Arts skills.",
+        "sub_text": "Gain party ability."
+      }
+    ]
+  },
+  {
+    "id": 10100014,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100033,
+        "text": "Enhance slash/pierce spells.",
+        "sub_text": "Gain party ability."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100034,
+        "text": "Enhance heat/blunt spells.",
+        "sub_text": "Gain party ability."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100035,
+        "text": "Enhance cold/lightning spells.",
+        "sub_text": "Gain party ability."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100036,
+        "text": "Enhance sun/shadow spells.",
+        "sub_text": "Gain party ability."
+      }
+    ]
+  },
+  {
+    "id": 10100015,
+    "name": "？？？",
+    "screenshot_scenario_id": 10100003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100037,
+        "text": "Warrior who excels in fire/wind spells",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100038,
+        "text": "Warrior who excels in water/earth spells",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100039,
+        "text": "Warrior who excels in light/dark spells",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110003,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110038,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100046,
+        "text": "Warrior who excels in slash attacks",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100047,
+        "text": "Warrior who excels in blunt attacks",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100048,
+        "text": "Warrior who excels in pierce attacks",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100215,
+        "text": "No, thanks.",
+        "sub_text": "Do not change tiles ahead."
+      }
+    ]
+  },
+  {
+    "id": 10110004,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110039,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100049,
+        "text": "Weaken slash attack but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100050,
+        "text": "Weaken blunt attack but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100051,
+        "text": "Weaken pierce attack but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      }
+    ]
+  },
+  {
+    "id": 10110005,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110040,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100052,
+        "text": "Become weak to slash but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100053,
+        "text": "Become weak to blunt but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100054,
+        "text": "Become weak to pierce but recover HP constantly.",
+        "sub_text": "Gain HP recovery ability with a demerit."
+      }
+    ]
+  },
+  {
+    "id": 10110006,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110041,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100055,
+        "text": "Enhance Sword/G. Sword/Axe skills.",
+        "sub_text": "Gain party ability."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100056,
+        "text": "Enhance Spear/S. Sword/Bow skills.",
+        "sub_text": "Gain party ability."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100057,
+        "text": "Enhance Gun/Club/M. Arts skills.",
+        "sub_text": "Gain party ability."
+      }
+    ]
+  },
+  {
+    "id": 10110007,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110042,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100058,
+        "text": "Enhance slash/pierce spells.",
+        "sub_text": "Gain party ability."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100059,
+        "text": "Enhance heat/blunt spells.",
+        "sub_text": "Gain party ability."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100060,
+        "text": "Enhance cold/lightning spells.",
+        "sub_text": "Gain party ability."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100061,
+        "text": "Enhance sun/shadow spells.",
+        "sub_text": "Gain party ability."
+      }
+    ]
+  },
+  {
+    "id": 10110008,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110043,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100062,
+        "text": "Warrior who excels in slash attacks",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100063,
+        "text": "Warrior who excels in blunt attacks",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100064,
+        "text": "Warrior who excels in pierce attacks",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110009,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110043,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100065,
+        "text": "Warrior using Sword/G. Sword/Axe/Club/Spear",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100066,
+        "text": "Warrior using Gun/S. Sword/Bow",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100067,
+        "text": "Warrior using M. Arts",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100068,
+        "text": "Warrior using Staff",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110010,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110043,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100069,
+        "text": "Warrior using Sword/G. Sword/Axe",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100070,
+        "text": "Warrior using S. Sword/Spear/Bow",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100071,
+        "text": "Warrior using Club/M. Arts/Gun",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100072,
+        "text": "Warrior using Staff",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110011,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110044,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100073,
+        "text": "Warrior who excels in fire/wind spells",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100074,
+        "text": "Warrior who excels in water/earth spells",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100075,
+        "text": "Warrior who excels in light/dark spells",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100215,
+        "text": "No, thanks.",
+        "sub_text": "Do not change tiles ahead."
+      }
+    ]
+  },
+  {
+    "id": 10110012,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110044,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100076,
+        "text": "Warrior using Sword/G. Sword/Axe/Club/Spear",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100077,
+        "text": "Warrior using Gun/S. Sword/Bow",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100078,
+        "text": "Warrior using M. Arts",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100211,
+        "text": "Warrior using Staff",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      }
+    ]
+  },
+  {
+    "id": 10110013,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110044,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100079,
+        "text": "Warrior using Sword/G. Sword/Axe",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100080,
+        "text": "Warrior using S. Sword/Spear/Bow",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100081,
+        "text": "Warrior using Club/M. Arts/Gun",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100213,
+        "text": "Warrior using Staff",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      }
+    ]
+  },
+  {
+    "id": 10110014,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110043,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100082,
+        "text": "Warrior who excels in fire/wind spells",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100083,
+        "text": "Warrior who excels in water/earth spells",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100084,
+        "text": "Warrior who excels in light/dark spells",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110015,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110038,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100085,
+        "text": "Warrior who excels in slash attacks",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100086,
+        "text": "Warrior who excels in blunt attacks",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100087,
+        "text": "Warrior who excels in pierce attacks",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100215,
+        "text": "No, thanks.",
+        "sub_text": "Do not change tiles ahead."
+      }
+    ]
+  },
+  {
+    "id": 10110016,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110043,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100088,
+        "text": "Warrior who excels in slash attacks",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100089,
+        "text": "Warrior who excels in blunt attacks",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100090,
+        "text": "Warrior who excels in pierce attacks",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110017,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110043,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100091,
+        "text": "Warrior using Sword/G. Sword/Axe/Club/Spear",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100092,
+        "text": "Warrior using Gun/S. Sword/Bow",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100093,
+        "text": "Warrior using M. Arts",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100094,
+        "text": "Warrior using Staff",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110018,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110043,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100095,
+        "text": "Warrior using Sword/G. Sword/Axe",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100096,
+        "text": "Warrior using S. Sword/Spear/Bow",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100097,
+        "text": "Warrior using Club/M. Arts/Gun",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100098,
+        "text": "Warrior using Staff",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110019,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110044,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100099,
+        "text": "Warrior who excels in fire/wind spells",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100100,
+        "text": "Warrior who excels in water/earth spells",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100101,
+        "text": "Warrior who excels in light/dark spells",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100215,
+        "text": "No, thanks.",
+        "sub_text": "Do not change tiles ahead."
+      }
+    ]
+  },
+  {
+    "id": 10110020,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110044,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100102,
+        "text": "Warrior using Sword/G. Sword/Axe/Club/Spear",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100103,
+        "text": "Warrior using Gun/S. Sword/Bow",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100104,
+        "text": "Warrior using M. Arts",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100212,
+        "text": "Warrior using Staff",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      }
+    ]
+  },
+  {
+    "id": 10110021,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110044,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100105,
+        "text": "Warrior using Sword/G. Sword/Axe",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100106,
+        "text": "Warrior using S. Sword/Spear/Bow",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100107,
+        "text": "Warrior using Club/M. Arts/Gun",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100214,
+        "text": "Warrior using Staff",
+        "sub_text": "Change who's on the Style tiles 5 tiles ahead."
+      }
+    ]
+  },
+  {
+    "id": 10110022,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110043,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100108,
+        "text": "Warrior who excels in fire/wind spells",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100109,
+        "text": "Warrior who excels in water/earth spells",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100110,
+        "text": "Warrior who excels in light/dark spells",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110023,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110032,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100111,
+        "text": "Warrior who excels in slash attacks",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100112,
+        "text": "Warrior who excels in blunt attacks",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100113,
+        "text": "Warrior who excels in pierce attacks",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110024,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110032,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100114,
+        "text": "Warrior using Sword/G. Sword/Axe/Club/Spear",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100115,
+        "text": "Warrior using Gun/S. Sword/Bow",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100116,
+        "text": "Warrior using M. Arts",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100117,
+        "text": "Warrior using Staff",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110025,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110032,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100118,
+        "text": "Warrior using Sword/G. Sword/Axe",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100119,
+        "text": "Warrior using S. Sword/Spear/Bow",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100120,
+        "text": "Warrior using Club/M. Arts/Gun",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100121,
+        "text": "Warrior using Staff",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10110026,
+    "name": "？？？",
+    "screenshot_scenario_id": 10110009,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100122,
+        "text": "Warrior who excels in fire/wind spells",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100123,
+        "text": "Warrior who excels in water/earth spells",
+        "sub_text": "Recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100124,
+        "text": "Warrior who excels in light/dark spells",
+        "sub_text": "Recruit warrior."
+      }
+    ]
+  },
+  {
+    "id": 10120001,
+    "name": "Before Departure",
+    "screenshot_scenario_id": 10100001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100125,
+        "text": "3 items, 2 party abilities, and 1 warrior",
+        "sub_text": "Gain rewards and recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100126,
+        "text": "2 items and field of vision",
+        "sub_text": "Gain rewards and expand field of vision to 2."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100127,
+        "text": "A wide field of vision",
+        "sub_text": "Change field of vision to 5."
+      }
+    ]
+  },
+  {
+    "id": 10120002,
+    "name": "Before Departure",
+    "screenshot_scenario_id": 10100001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100128,
+        "text": "2 warriors",
+        "sub_text": "Recruit warrior and add Style tile ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100129,
+        "text": "1 formation and field of vision",
+        "sub_text": "Gain rewards and expand field of vision to 2."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100130,
+        "text": "1 party ability and field of vision",
+        "sub_text": "Gain rewards and expand field of vision to 2."
+      }
+    ]
+  },
+  {
+    "id": 10120003,
+    "name": "Before Departure",
+    "screenshot_scenario_id": 10100001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100131,
+        "text": "3 items and field of vision",
+        "sub_text": "Gain rewards and expand field of vision to 2."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100132,
+        "text": "4 formations and field of vision",
+        "sub_text": "Gain rewards and expand field of vision to 2."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100133,
+        "text": "1 party ability and field of vision",
+        "sub_text": "Gain rewards and expand field of vision to 2."
+      }
+    ]
+  },
+  {
+    "id": 10120004,
+    "name": "Before Departure",
+    "screenshot_scenario_id": 10100001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100134,
+        "text": "3 items and 2 warriors",
+        "sub_text": "Gain rewards and recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100135,
+        "text": "A wide field of vision",
+        "sub_text": "Change field of vision to 5."
+      }
+    ]
+  },
+  {
+    "id": 10120005,
+    "name": "Before Departure",
+    "screenshot_scenario_id": 10100001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100136,
+        "text": "3 party abilities",
+        "sub_text": "Gain rewards."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100137,
+        "text": "A wide field of vision",
+        "sub_text": "Change field of vision to 5."
+      }
+    ]
+  },
+  {
+    "id": 10120006,
+    "name": "Before Departure",
+    "screenshot_scenario_id": 10100001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100138,
+        "text": "3 items and 1 warrior",
+        "sub_text": "Gain rewards and recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100139,
+        "text": "Field of vision",
+        "sub_text": "Change field of vision to 2."
+      }
+    ]
+  },
+  {
+    "id": 10120007,
+    "name": "Before Departure",
+    "screenshot_scenario_id": 10100001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100140,
+        "text": "Multiple party abilities",
+        "sub_text": "Change treasure chests to ability tiles 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100141,
+        "text": "3 items and 3 formations",
+        "sub_text": "Gain rewards."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100142,
+        "text": "Field of vision",
+        "sub_text": "Change field of vision to 2."
+      }
+    ]
+  },
+  {
+    "id": 10120008,
+    "name": "Before Departure",
+    "screenshot_scenario_id": 10100001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100143,
+        "text": "Multiple treasure chests",
+        "sub_text": "Change event tiles to treasure chests 5 tiles ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100144,
+        "text": "2 warriors",
+        "sub_text": "Recruit warrior and add Style tile ahead."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100145,
+        "text": "A wide field of vision",
+        "sub_text": "Change field of vision to 5."
+      }
+    ]
+  },
+  {
+    "id": 10120009,
+    "name": "Before Departure",
+    "screenshot_scenario_id": 10100001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100146,
+        "text": "3 items, 2 party abilities, and 3 formations",
+        "sub_text": "Gain rewards."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100147,
+        "text": "1 warrior and field of vision",
+        "sub_text": "Change field of vision to 2 and recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100148,
+        "text": "A wide field of vision",
+        "sub_text": "Change field of vision to 5."
+      }
+    ]
+  },
+  {
+    "id": 10120010,
+    "name": "Before Departure",
+    "screenshot_scenario_id": 10100001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100149,
+        "text": "3 items, 3 formations, and 1 warrior",
+        "sub_text": "Gain rewards and recruit warrior."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100150,
+        "text": "3 formations and field of vision",
+        "sub_text": "Gain rewards and expand field of vision to 2."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100151,
+        "text": "A wide field of vision",
+        "sub_text": "Change field of vision to 5."
+      }
+    ]
+  },
+  {
+    "id": 10130001,
+    "name": "SaGa1",
+    "screenshot_scenario_id": 10120001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100152,
+        "text": "So-Cho opens a path.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130003,
+    "name": "SaGa2",
+    "screenshot_scenario_id": 10120003,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100156,
+        "text": "Ask Goddess to help Father.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130005,
+    "name": "MS",
+    "screenshot_scenario_id": 10120005,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100159,
+        "text": "Refuse to hand over the medallions.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100160,
+        "text": "Flee.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130006,
+    "name": "MS",
+    "screenshot_scenario_id": 10120006,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100161,
+        "text": "Fight the Silver Dragon.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100162,
+        "text": "Leave.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130007,
+    "name": "MS",
+    "screenshot_scenario_id": 10120007,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100163,
+        "text": "Hand Scorn the Diamond of Light.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100164,
+        "text": "Run away with Schiele.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130008,
+    "name": "MS",
+    "screenshot_scenario_id": 10120008,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100165,
+        "text": "This Theodore is an impostor.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100166,
+        "text": "This Theodore is the real one.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130009,
+    "name": "RS1",
+    "screenshot_scenario_id": 10120009,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100167,
+        "text": "Get a grip. I'm no thief.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100168,
+        "text": "Wrench it out of his grip.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100169,
+        "text": "Explain the situation to Galahad.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130010,
+    "name": "RS2",
+    "screenshot_scenario_id": 10120010,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100170,
+        "text": "Rest.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100171,
+        "text": "Decline.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130011,
+    "name": "RS2",
+    "screenshot_scenario_id": 10120011,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100172,
+        "text": "Insist on hearing the tower's secrets.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100173,
+        "text": "Leave.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130012,
+    "name": "RS2",
+    "screenshot_scenario_id": 10120012,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100174,
+        "text": "Let Dantarg off with conditions.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100175,
+        "text": "Turn back.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130013,
+    "name": "RS3",
+    "screenshot_scenario_id": 10120013,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100176,
+        "text": "Head to the Fire Fortress.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100177,
+        "text": "Don't head to the Fire Fortress.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130014,
+    "name": "RS3",
+    "screenshot_scenario_id": 10120014,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100178,
+        "text": "Close immediately.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100179,
+        "text": "Hold on.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130015,
+    "name": "RS3",
+    "screenshot_scenario_id": 10120015,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100180,
+        "text": "Leave it to me!",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100181,
+        "text": "I don't think I can...",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130016,
+    "name": "RS3",
+    "screenshot_scenario_id": 10120016,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100182,
+        "text": "I'll go with you.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100183,
+        "text": "I'll remain here.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130017,
+    "name": "SF1",
+    "screenshot_scenario_id": 10120017,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100184,
+        "text": "Listen to the lord.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100185,
+        "text": "Leave.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130018,
+    "name": "SF1",
+    "screenshot_scenario_id": 10120018,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100186,
+        "text": "Fight Princess Lion.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100187,
+        "text": "Flee.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130019,
+    "name": "SF1",
+    "screenshot_scenario_id": 10120019,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100188,
+        "text": "Work for Gladius.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100189,
+        "text": "I'm outta here.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130020,
+    "name": "SF1",
+    "screenshot_scenario_id": 10120020,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100190,
+        "text": "Head to the tournament.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100191,
+        "text": "I won't go after all.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130021,
+    "name": "SF1",
+    "screenshot_scenario_id": 10120021,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100192,
+        "text": "Blow up the base.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100193,
+        "text": "Don't blow up the base.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130022,
+    "name": "SF1",
+    "screenshot_scenario_id": 10120022,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100194,
+        "text": "Morph into Alkaiser and go after Shuzer.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100195,
+        "text": "Regroup.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130023,
+    "name": "SF2",
+    "screenshot_scenario_id": 10120023,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100196,
+        "text": "Undergo the Firebrand Ceremony.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130024,
+    "name": "SF2",
+    "screenshot_scenario_id": 10120024,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100197,
+        "text": "Spend the last moments with Sophie.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130025,
+    "name": "SF2",
+    "screenshot_scenario_id": 10120025,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100198,
+        "text": "Will you show me that egg?",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130026,
+    "name": "SF2",
+    "screenshot_scenario_id": 10120026,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100199,
+        "text": "Is there anything else?",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100200,
+        "text": "Leave.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130027,
+    "name": "SaGaRS",
+    "screenshot_scenario_id": 10120027,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100201,
+        "text": "Make a pact with the mask and escape death.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130028,
+    "name": "SaGaRS",
+    "screenshot_scenario_id": 10120028,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100202,
+        "text": "Explore the World Tower and reach the top.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100203,
+        "text": "Don't explore the World Tower now.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130029,
+    "name": "SaGaRS",
+    "screenshot_scenario_id": 10120029,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100204,
+        "text": "Add Polka to the Robin Family.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100205,
+        "text": "Go ahead, leaving things to the Robin Family.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10130030,
+    "name": "SaGaRS",
+    "screenshot_scenario_id": 10120030,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10100206,
+        "text": "Fight Bertrand.",
+        "sub_text": "？？？"
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10100207,
+        "text": "Leave.",
+        "sub_text": "？？？"
+      }
+    ]
+  },
+  {
+    "id": 10300001,
+    "name": "Tutorial",
+    "screenshot_scenario_id": 10300001,
+    "choices": [
+      {
+        "reunion_scenario_choice_result_box_id": 10300001,
+        "text": "I'm willing to make a great sacrifice!",
+        "sub_text": "Receive large amount of HP decrease and items."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10300002,
+        "text": "I'm willing to sacrifice to get things done!",
+        "sub_text": "Receive medium amount of HP decrease and items."
+      },
+      {
+        "reunion_scenario_choice_result_box_id": 10300003,
+        "text": "I'm not willing to make sacrifices...",
+        "sub_text": "Receive small amount of HP decrease and items."
+      }
+    ]
+  }
+]

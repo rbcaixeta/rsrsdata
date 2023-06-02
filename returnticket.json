@@ -6,7 +6,8 @@
     "icon": 830001,
     "max_quantity": 999999,
     "expired_at": 0,
-    "sort_order": 987
+    "sort_order": 987,
+    "selling_price": 0
   },
   {
     "id": 830002,
@@ -15,7 +16,8 @@
     "icon": 830002,
     "max_quantity": 9999,
     "expired_at": 1609376399,
-    "sort_order": 1215
+    "sort_order": 1215,
+    "selling_price": 0
   },
   {
     "id": 830003,
@@ -24,7 +26,8 @@
     "icon": 830003,
     "max_quantity": 9999,
     "expired_at": 1581706799,
-    "sort_order": 1495
+    "sort_order": 1495,
+    "selling_price": 0
   },
   {
     "id": 830004,
@@ -33,7 +36,8 @@
     "icon": 830004,
     "max_quantity": 9999,
     "expired_at": 1588100399,
-    "sort_order": 1850
+    "sort_order": 1850,
+    "selling_price": 0
   },
   {
     "id": 830006,
@@ -42,7 +46,8 @@
     "icon": 830006,
     "max_quantity": 99999,
     "expired_at": 1627779599,
-    "sort_order": 2165
+    "sort_order": 2165,
+    "selling_price": 0
   },
   {
     "id": 830007,
@@ -51,7 +56,8 @@
     "icon": 830007,
     "max_quantity": 9999,
     "expired_at": 1605380399,
-    "sort_order": 2625
+    "sort_order": 2625,
+    "selling_price": 0
   },
   {
     "id": 830008,
@@ -60,7 +66,8 @@
     "icon": 1000830005,
     "max_quantity": 99999,
     "expired_at": 1643763599,
-    "sort_order": 1260
+    "sort_order": 1260,
+    "selling_price": 0
   },
   {
     "id": 830010,
@@ -69,7 +76,8 @@
     "icon": 830010,
     "max_quantity": 99999,
     "expired_at": 1650070799,
-    "sort_order": 3166
+    "sort_order": 3166,
+    "selling_price": 0
   },
   {
     "id": 830011,
@@ -78,7 +86,8 @@
     "icon": 830011,
     "max_quantity": 99999,
     "expired_at": 1655513999,
-    "sort_order": 3485
+    "sort_order": 3485,
+    "selling_price": 0
   },
   {
     "id": 830013,
@@ -87,7 +96,8 @@
     "icon": 830013,
     "max_quantity": 99999,
     "expired_at": 1662685199,
-    "sort_order": 21090320
+    "sort_order": 21090320,
+    "selling_price": 0
   },
   {
     "id": 830015,
@@ -96,7 +106,8 @@
     "icon": 830015,
     "max_quantity": 99999,
     "expired_at": 1675817999,
-    "sort_order": 23020820
+    "sort_order": 23020820,
+    "selling_price": 0
   },
   {
     "id": 830016,
@@ -105,7 +116,8 @@
     "icon": 830016,
     "max_quantity": 99999,
     "expired_at": 1674003599,
-    "sort_order": 1262
+    "sort_order": 1262,
+    "selling_price": 0
   },
   {
     "id": 830017,
@@ -114,7 +126,18 @@
     "icon": 830017,
     "max_quantity": 99999,
     "expired_at": 1682038799,
-    "sort_order": 23031720
+    "sort_order": 23031720,
+    "selling_price": 0
+  },
+  {
+    "id": 830019,
+    "name": "3rd Anniv. Instant Expedition Ticket [Ltd. Time]",
+    "flavor_text": "[Limited Time] A ticket that allows you to instantly complete and return from an Expedition. (Until [1689728399] <tz>)",
+    "icon": 830019,
+    "max_quantity": 99999,
+    "expired_at": 1689728399,
+    "sort_order": 23071920,
+    "selling_price": 0
   },
   {
     "id": 1000830001,
@@ -123,7 +146,8 @@
     "icon": 1000830001,
     "max_quantity": 9999,
     "expired_at": 1614473999,
-    "sort_order": 1220
+    "sort_order": 1220,
+    "selling_price": 0
   },
   {
     "id": 1000830002,
@@ -132,7 +156,8 @@
     "icon": 1000830002,
     "max_quantity": 9999,
     "expired_at": 1620608399,
-    "sort_order": 1230
+    "sort_order": 1230,
+    "selling_price": 0
   },
   {
     "id": 1000830003,
@@ -141,7 +166,8 @@
     "icon": 830007,
     "max_quantity": 9999,
     "expired_at": 1635296399,
-    "sort_order": 1240
+    "sort_order": 1240,
+    "selling_price": 0
   },
   {
     "id": 1000830004,
@@ -150,7 +176,8 @@
     "icon": 1000830004,
     "max_quantity": 9999,
     "expired_at": 1641085199,
-    "sort_order": 1250
+    "sort_order": 1250,
+    "selling_price": 0
   },
   {
     "id": 1000830005,
@@ -159,7 +186,8 @@
     "icon": 1000830006,
     "max_quantity": 99999,
     "expired_at": 1657933199,
-    "sort_order": 1260
+    "sort_order": 1260,
+    "selling_price": 0
   },
   {
     "id": 1000830006,
@@ -168,7 +196,8 @@
     "icon": 1000830007,
     "max_quantity": 99999,
     "expired_at": 1666659599,
-    "sort_order": 1261
+    "sort_order": 1261,
+    "selling_price": 0
   },
   {
     "id": 1000830007,
@@ -177,7 +206,8 @@
     "icon": 1000830001,
     "max_quantity": 99999,
     "expired_at": 1677632399,
-    "sort_order": 23030120
+    "sort_order": 23030120,
+    "selling_price": 0
   },
   {
     "id": 1000830009,
@@ -186,7 +216,8 @@
     "icon": 1000830009,
     "max_quantity": 99999,
     "expired_at": 1679446799,
-    "sort_order": 23032200
+    "sort_order": 23032200,
+    "selling_price": 0
   },
   {
     "id": 1000830010,
@@ -195,7 +226,8 @@
     "icon": 1000830010,
     "max_quantity": 99999,
     "expired_at": 1683939599,
-    "sort_order": 23051300
+    "sort_order": 23051300,
+    "selling_price": 0
   },
   {
     "id": 1000830011,
@@ -204,6 +236,7 @@
     "icon": 1000830011,
     "max_quantity": 99999,
     "expired_at": 1686272399,
-    "sort_order": 23060900
+    "sort_order": 23060900,
+    "selling_price": 0
   }
 ]

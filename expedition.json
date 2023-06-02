@@ -357,6 +357,27 @@
     "close_at": 0
   },
   {
+    "id": 6700019,
+    "name": "Lakeside",
+    "required_quest_id": 120104103,
+    "required_player_rank": 180,
+    "required_hours": 21,
+    "difficulty": 4,
+    "growth_difficulty": 148,
+    "recommended_status": 150,
+    "jewel_cost": 0,
+    "ticket_cost": 74,
+    "drop_group_ids": [
+      880000036,
+      880000037
+    ],
+    "flavor_text": "Recommended for characters with up to 1,600 HP and up to 150 in all attributes",
+    "background_id": 700000095,
+    "sort_order": 82,
+    "open_at": 1685581200,
+    "close_at": 0
+  },
+  {
     "id": 1006700001,
     "name": "WJS Marathon",
     "required_quest_id": 0,

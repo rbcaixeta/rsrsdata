@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Romancing SaGa Original Soundtrack -Remaster-",
+    "name": "Romancing SaGa Original Soundtrack -Remaster- ",
     "flavor_text": "The Romancing SaGa series introduced the idea of a non-linear storyline to the world of RPGs. Enjoy music from Romancing SaGa, the starting point of the SaGa series, as you accompany the eight heroes on their legendary search for the Fatestones.",
     "icon": 1001,
     "sort_order": 40
   },
   {
     "id": 2,
-    "name": "Romancing SaGa 2 Original Soundtrack -Remaster-",
+    "name": "Romancing SaGa 2 Original Soundtrack -Remaster- ",
     "flavor_text": "Romancing SaGa2 was a hit for its non-linear, freeform plot. This is a collection of RS2's background music that tells a grand tale through its colorful, lyrical content.",
     "icon": 1002,
     "sort_order": 50
   },
   {
     "id": 3,
-    "name": "Romancing SaGa 3 Original Soundtrack -Remaster-",
+    "name": "Romancing SaGa 3 Original Soundtrack -Remaster- ",
     "flavor_text": "Soundtrack for the music in Romancing SaGa3, the last title in the Romancing series for the Super Nintendo that was renowned for its graphics, animation, and music. A collection of the original sounds from the game, this collection adds the perfect finishing touch to the story of eight heroes whose destinies lead them to change the fate of the world.",
     "icon": 1003,
     "sort_order": 60
@@ -47,6 +47,13 @@
     "flavor_text": "Soundtrack for the music in Romancing SaGa -Minstrel Song-, a remake of the original title. With new tracks like Ardent Rhythm and Melodies of Good and Evil, there are also many reimagined songs like Saurin Unchained - the Final Battle. The music alone makes this remake feel like a brand new title.",
     "icon": 1007,
     "sort_order": 100
+  },
+  {
+    "id": 8,
+    "name": "Imperial SaGa Original Soundtrack",
+    "flavor_text": "This is the soundtrack for Imperial SaGa, the first PC browser game in the series. It contains music written and arranged for Imperial SaGa by series composer Kenji Ito. Features 36 tracks, including new music like \"Sound the Charge!\" as well as unreleased bonus tracks like \"Let's Go! Wonder Man Robin (Macaroni Ver.)\" with lyrics penned by executive producer Akitoshi Kawazu!",
+    "icon": 1008,
+    "sort_order": 110
   },
   {
     "id": 9,
@@ -119,11 +126,25 @@
     "sort_order": 200
   },
   {
+    "id": 20,
+    "name": "Final Fantasy Legend III: Shadow or Light Original Soundtrack",
+    "flavor_text": "This soundtrack features all the music from Final Fantasy Legend III: Shadow or Light. The 27-track album includes an original arrangement of the game's main theme as a bonus track. Kenji Ito and Ryuji Sasai composed the music. Enjoy the fantasy reborn!",
+    "icon": 1020,
+    "sort_order": 210
+  },
+  {
     "id": 21,
     "name": "SQUARE ENIX Chill Out Arrangement Tracks - AROUND 80's MIX",
     "flavor_text": "This chill out arrangement album features tracks from nostalgic SQUARE games, including The Final Fantasy Legend, Final Fantasy Legend II, and Final Fantasy Legend III. Enjoy this album with music perfect for a relaxing time.",
     "icon": 1021,
     "sort_order": 220
+  },
+  {
+    "id": 22,
+    "name": "SaGa1･2･3 PIANO TRIO ARRANGEMENTS TRACKS",
+    "flavor_text": "In this mini-album, made for the SaGa 30th Anniversary Box [Kami], carefully selected pieces from The Final Fantasy Legend, Final Fantasy Legend II, and Final Fantasy Legend III are given new instrumental trio arrangements for piano, violin, and cello. Delight in the exquisite melodies of these classic pieces.",
+    "icon": 1022,
+    "sort_order": 230
   },
   {
     "id": 23,
@@ -148,14 +169,14 @@
   },
   {
     "id": 26,
-    "name": "The Orchestral SaGa -Legend of Music-",
+    "name": "The Orchestral SaGa -Legend of Music- ",
     "flavor_text": "Celebrating 25 years of SaGa, composer Kenji Ito has teamed up with Nobuo Uematsu, Chihiro Fujioka, Ryuji Sasai, and Masashi Hamauzu to deliver the orchestral album fans have been waiting for. Includes all-new arrangements of pieces selected from titles throughout the series, from The Final Fantasy Legend to Romancing SaGa -Minstrel Song-.",
     "icon": 1026,
     "sort_order": 280
   },
   {
     "id": 27,
-    "name": "SQUARE ENIX JAZZ -SaGa-",
+    "name": "SQUARE ENIX JAZZ -SaGa- ",
     "flavor_text": "An album of authentic jazz arrangements of tracks from across the SaGa series, featuring 12 carefully selected tracks, including \"Coup de Grace\" (Romancing SaGa), \"Alone\" (SaGa Frontier), \"Sound the Charge!\" (Imperial SaGa), and more. Delight in these arrangements by trombonist Eijiro Nakagawa and bassist Ryu Kawamura, and the unique jazz performances of these great musicians.",
     "icon": 1027,
     "sort_order": 290
@@ -201,5 +222,75 @@
     "flavor_text": "The long-awaited second volume of the soundtrack from Romancing SaGa Re;univerSe is here! This two-disc album features numerous tracks that adorned Main Story Polka Arc, which were not included in the previous Romancing SaGa Re;univerSe Original Soundtrack released in April 2019. Other tracks include those from various events such as anniversaries, Christmas, and all the tracks from the exciting Igomahl Conquest!",
     "icon": 1033,
     "sort_order": 20
+  },
+  {
+    "id": 38,
+    "name": "Songs not included in Romancing SaGa Re;univerSe Soundtrack",
+    "flavor_text": "Tracks not included in the Romancing SaGa Re;univerSe Original Soundtrack are included in advance! *Track names are subject to change at a later date.",
+    "icon": 1034,
+    "sort_order": 30
+  },
+  {
+    "id": 39,
+    "name": "SQUARE ENIX - Airship Cruise Beats",
+    "flavor_text": "Get ready to get down (or fly high) with this album of bumpin' dance beats. You may know the SaGa series tracks \"Aim for the Summit\", \"Righteous Robin's Theme: Thwart All Evil\", \"Sound the Charge!\", and \"Save the World\", but now they've been tuned for a fantastical tour across your own personal world map. From electronica to house to future bass, these sleek sounds from up-and-coming artists will prove the perfect soundtrack for any trip you take.",
+    "icon": 1035,
+    "sort_order": 340
+  },
+  {
+    "id": 40,
+    "name": "Imperial SaGa eclipse Original Soundtrack",
+    "flavor_text": "",
+    "icon": 1040,
+    "sort_order": 115
+  },
+  {
+    "id": 41,
+    "name": "SQUARE ENIX JAZZ Vol.2",
+    "flavor_text": "",
+    "icon": 1041,
+    "sort_order": 295
+  },
+  {
+    "id": 42,
+    "name": "Piano Pieces \"SF2\" Rhapsody on a Theme of SaGa FRONTIER2",
+    "flavor_text": "",
+    "icon": 1042,
+    "sort_order": 350
+  },
+  {
+    "id": 43,
+    "name": "SQUARE ENIX ACOUSTIC ARRANGEMENTS",
+    "flavor_text": "",
+    "icon": 1043,
+    "sort_order": 360
+  },
+  {
+    "id": 44,
+    "name": "SaGa SCARLET GRACE SPECIAL SOUND SELECTION",
+    "flavor_text": "",
+    "icon": 1044,
+    "sort_order": 370
+  },
+  {
+    "id": 45,
+    "name": "Romancing SaGa -Minstrel Song- Remastered Original Soundtrack",
+    "flavor_text": "The Romancing SaGa - Minstrel Song - Remastered Original Soundtrack released in December, 2022 includes 103 tracks from the original soundtrack released in 2005, including \"Minuet\" by Masayoshi Yamazaki. Two tracks \"Pirates!(Inst ver.)\" and \"Pirates!(Sudden ver.)\" that were implemented in the original game but never included in the soundtrack and the newly arranged \"Melodies of Good and Evil (More Wicked!)\" are also included in this 4-CD set (106 tracks).",
+    "icon": 1045,
+    "sort_order": 390
+  },
+  {
+    "id": 46,
+    "name": "DESTINY 8 - SaGa Band Arrangement Album Vol.3",
+    "flavor_text": "Destiny 8's third album is here with highly technical, intense arrangements that give songs from the series a fresh, captivating twist. It includes the battle themes of the three Gods of Evil--Death, Schirach, and Saruin--to commemorate the release of Romancing SaGa - Minstrel Song - Remastered. It also debuts the first rock arrangement of \"Igomahl the Harlequin\"!",
+    "icon": 1046,
+    "sort_order": 275
+  },
+  {
+    "id": 999,
+    "name": "Not included in any album",
+    "flavor_text": "",
+    "icon": 2000,
+    "sort_order": 380
   }
 ]

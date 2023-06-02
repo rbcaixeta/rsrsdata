@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "reunion_accident_type": 1,
+    "reunion_reward_type": 0,
+    "text": "Entire party's HP recovered by {value}%.",
+    "popup_text": "HP Recovered",
+    "text_color": 2
+  },
+  {
+    "id": 2,
+    "reunion_accident_type": 2,
+    "reunion_reward_type": 0,
+    "text": "Entire party's LP recovered by {value}.",
+    "popup_text": "LP Recovered",
+    "text_color": 2
+  },
+  {
+    "id": 3,
+    "reunion_accident_type": 3,
+    "reunion_reward_type": 0,
+    "text": "Entire party's HP reduced by {value}%.",
+    "popup_text": "HP Reduced",
+    "text_color": 3
+  },
+  {
+    "id": 4,
+    "reunion_accident_type": 4,
+    "reunion_reward_type": 0,
+    "text": "Entire party's LP reduced by {value}.",
+    "popup_text": "LP Reduced",
+    "text_color": 3
+  },
+  {
+    "id": 5,
+    "reunion_accident_type": 5,
+    "reunion_reward_type": 0,
+    "text": "Field of vision has changed.",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 6,
+    "reunion_accident_type": 6,
+    "reunion_reward_type": 0,
+    "text": "Field of vision has changed.",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 7,
+    "reunion_accident_type": 7,
+    "reunion_reward_type": 0,
+    "text": "Tiles ahead have changed.",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 8,
+    "reunion_accident_type": 8,
+    "reunion_reward_type": 0,
+    "text": "Condition for tiles ahead have changed.",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 10,
+    "reunion_accident_type": 9,
+    "reunion_reward_type": 2,
+    "text": "Gained formation!",
+    "popup_text": "",
+    "text_color": 2
+  },
+  {
+    "id": 11,
+    "reunion_accident_type": 9,
+    "reunion_reward_type": 3,
+    "text": "Gained party ability!",
+    "popup_text": "",
+    "text_color": 2
+  },
+  {
+    "id": 12,
+    "reunion_accident_type": 9,
+    "reunion_reward_type": 4,
+    "text": "Gained item!",
+    "popup_text": "",
+    "text_color": 2
+  },
+  {
+    "id": 13,
+    "reunion_accident_type": 9,
+    "reunion_reward_type": 5,
+    "text": "Learned skill/spell.",
+    "popup_text": "Skill/Spell Learned",
+    "text_color": 2
+  },
+  {
+    "id": 14,
+    "reunion_accident_type": 9,
+    "reunion_reward_type": 6,
+    "text": "Dodged skill!",
+    "popup_text": "Dodge Skill Learned",
+    "text_color": 2
+  },
+  {
+    "id": 17,
+    "reunion_accident_type": 10,
+    "reunion_reward_type": 3,
+    "text": "Party ability \"{reward}\" has been granted!",
+    "popup_text": "",
+    "text_color": 3
+  },
+  {
+    "id": 22,
+    "reunion_accident_type": 11,
+    "reunion_reward_type": 2,
+    "text": "Formation \"{old}\" has been replaced by \"{new}\"!",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 23,
+    "reunion_accident_type": 11,
+    "reunion_reward_type": 3,
+    "text": "Party ability \"{old}\" has been replaced by \"{new}\"!",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 24,
+    "reunion_accident_type": 11,
+    "reunion_reward_type": 4,
+    "text": "\"{old}\" has been replaced by \"{new}\"!",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 26,
+    "reunion_accident_type": 11,
+    "reunion_reward_type": 6,
+    "text": "Dodge skill \"{old}\" has been replaced by Dodge skill \"{new}\"!",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 27,
+    "reunion_accident_type": 12,
+    "reunion_reward_type": 0,
+    "text": "Members' \"{old}\" has been replaced by \"{new}\"!",
+    "popup_text": "",
+    "text_color": 4
+  },
+  {
+    "id": 28,
+    "reunion_accident_type": 13,
+    "reunion_reward_type": 0,
+    "text": "Attributes increased greatly.",
+    "popup_text": "Attributes Increased",
+    "text_color": 2
+  },
+  {
+    "id": 29,
+    "reunion_accident_type": 14,
+    "reunion_reward_type": 0,
+    "text": "Party enhanced!",
+    "popup_text": "",
+    "text_color": 2
+  }
+]

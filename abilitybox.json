@@ -809,11 +809,7 @@
       },
       {
         "ability_deck_id": 100080003,
-        "rate": 3500
-      },
-      {
-        "ability_deck_id": 100080004,
-        "rate": 5200
+        "rate": 8700
       }
     ]
   },
@@ -843,11 +839,7 @@
       },
       {
         "ability_deck_id": 100080009,
-        "rate": 3500
-      },
-      {
-        "ability_deck_id": 100080010,
-        "rate": 5200
+        "rate": 8700
       }
     ]
   },
@@ -877,11 +869,7 @@
       },
       {
         "ability_deck_id": 100080015,
-        "rate": 3500
-      },
-      {
-        "ability_deck_id": 100080016,
-        "rate": 5200
+        "rate": 8700
       }
     ]
   },
@@ -1048,6 +1036,74 @@
       {
         "ability_deck_id": 100090027,
         "rate": 5200
+      }
+    ]
+  },
+  {
+    "id": 100100001,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100100001,
+        "rate": 600
+      },
+      {
+        "ability_deck_id": 100100002,
+        "rate": 700
+      },
+      {
+        "ability_deck_id": 100100003,
+        "rate": 3500
+      },
+      {
+        "ability_deck_id": 100100004,
+        "rate": 5200
+      }
+    ]
+  },
+  {
+    "id": 100100002,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100100005,
+        "rate": 4600
+      },
+      {
+        "ability_deck_id": 100100006,
+        "rate": 5400
+      }
+    ]
+  },
+  {
+    "id": 100100003,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100100007,
+        "rate": 600
+      },
+      {
+        "ability_deck_id": 100100008,
+        "rate": 700
+      },
+      {
+        "ability_deck_id": 100100009,
+        "rate": 3500
+      },
+      {
+        "ability_deck_id": 100100010,
+        "rate": 5200
+      }
+    ]
+  },
+  {
+    "id": 100100004,
+    "deck_rates": [
+      {
+        "ability_deck_id": 100100011,
+        "rate": 4600
+      },
+      {
+        "ability_deck_id": 100100012,
+        "rate": 5400
       }
     ]
   },

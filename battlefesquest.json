@@ -78,7 +78,8 @@
     "battle_id": 410001001,
     "scenario_id": 0,
     "prev_quest_ids": [],
-    "twitter_button_id": 0
+    "twitter_button_id": 0,
+    "quest_clear_bundle": 1
   },
   {
     "id": 410000012,
@@ -158,10 +159,9 @@
     "area_id": 503,
     "battle_id": 410001002,
     "scenario_id": 0,
-    "prev_quest_ids": [
-      410000011
-    ],
-    "twitter_button_id": 0
+    "prev_quest_ids": [],
+    "twitter_button_id": 0,
+    "quest_clear_bundle": 2
   },
   {
     "id": 410000013,
@@ -241,10 +241,9 @@
     "area_id": 503,
     "battle_id": 410001003,
     "scenario_id": 0,
-    "prev_quest_ids": [
-      410000012
-    ],
-    "twitter_button_id": 0
+    "prev_quest_ids": [],
+    "twitter_button_id": 0,
+    "quest_clear_bundle": 3
   },
   {
     "id": 410000014,
@@ -324,10 +323,9 @@
     "area_id": 503,
     "battle_id": 410001004,
     "scenario_id": 0,
-    "prev_quest_ids": [
-      410000013
-    ],
-    "twitter_button_id": 0
+    "prev_quest_ids": [],
+    "twitter_button_id": 0,
+    "quest_clear_bundle": 4
   },
   {
     "id": 410000015,
@@ -407,10 +405,9 @@
     "area_id": 503,
     "battle_id": 410001005,
     "scenario_id": 0,
-    "prev_quest_ids": [
-      410000014
-    ],
-    "twitter_button_id": 0
+    "prev_quest_ids": [],
+    "twitter_button_id": 0,
+    "quest_clear_bundle": 5
   },
   {
     "id": 410000016,
@@ -490,10 +487,9 @@
     "area_id": 503,
     "battle_id": 410001006,
     "scenario_id": 0,
-    "prev_quest_ids": [
-      410000015
-    ],
-    "twitter_button_id": 0
+    "prev_quest_ids": [],
+    "twitter_button_id": 0,
+    "quest_clear_bundle": 6
   },
   {
     "id": 410000017,
@@ -573,10 +569,9 @@
     "area_id": 503,
     "battle_id": 410001007,
     "scenario_id": 0,
-    "prev_quest_ids": [
-      410000016
-    ],
-    "twitter_button_id": 0
+    "prev_quest_ids": [],
+    "twitter_button_id": 0,
+    "quest_clear_bundle": 7
   },
   {
     "id": 410000018,
@@ -656,10 +651,9 @@
     "area_id": 503,
     "battle_id": 410001008,
     "scenario_id": 0,
-    "prev_quest_ids": [
-      410000017
-    ],
-    "twitter_button_id": 0
+    "prev_quest_ids": [],
+    "twitter_button_id": 0,
+    "quest_clear_bundle": 8
   },
   {
     "id": 410000019,
@@ -739,10 +733,9 @@
     "area_id": 503,
     "battle_id": 410001009,
     "scenario_id": 0,
-    "prev_quest_ids": [
-      410000018
-    ],
-    "twitter_button_id": 0
+    "prev_quest_ids": [],
+    "twitter_button_id": 0,
+    "quest_clear_bundle": 9
   },
   {
     "id": 410000110,
@@ -822,9 +815,8 @@
     "area_id": 503,
     "battle_id": 410001010,
     "scenario_id": 0,
-    "prev_quest_ids": [
-      410000019
-    ],
-    "twitter_button_id": 0
+    "prev_quest_ids": [],
+    "twitter_button_id": 0,
+    "quest_clear_bundle": 10
   }
 ]

@@ -1172,8 +1172,8 @@
   {
     "id": 132,
     "name": "Guild_Establishment_Complete",
-    "title": "Create Guild",
-    "text": "Created a guild.<br>Jumping to Guild Top page.",
+    "title": "Guild Created",
+    "text": "Created a guild.<br>You will be redirected to your Guild.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1199,7 +1199,7 @@
   {
     "id": 135,
     "name": "Guild_EntryRequest_Belonged",
-    "title": "Application Result",
+    "title": "Guild Application Result",
     "text": "You are already a member of this guild.",
     "dialog_type": 1,
     "button2": "",
@@ -1208,8 +1208,8 @@
   {
     "id": 136,
     "name": "Guild_EntryRequest_Reject",
-    "title": "Application Result",
-    "text": "This guild is not accepting applications.",
+    "title": "Guild Application Result",
+    "text": "This guild is not recruiting now.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1217,7 +1217,7 @@
   {
     "id": 137,
     "name": "Guild_EntryRequest_AlreadyDone",
-    "title": "Application Result",
+    "title": "Guild Application Result",
     "text": "You have already applied to join.",
     "dialog_type": 1,
     "button2": "",
@@ -1226,7 +1226,7 @@
   {
     "id": 138,
     "name": "Guild_EntryRequest_Downtime",
-    "title": "Application Result",
+    "title": "Guild Application Result",
     "text": "Cannot request to join another guild within 24 hours of leaving one.",
     "dialog_type": 1,
     "button2": "",
@@ -1235,8 +1235,8 @@
   {
     "id": 139,
     "name": "Guild_EntryRequest_Extinction",
-    "title": "Application Result",
-    "text": "Cannot request to join because this guild has disbanded.",
+    "title": "Guild Application Result",
+    "text": "Unable to apply. This guild has disbanded.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1254,7 +1254,7 @@
     "id": 141,
     "name": "Guild_Join_Reject",
     "title": "Join Result",
-    "text": "This guild is not recruiting.",
+    "text": "This guild is not recruiting now.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1272,7 +1272,7 @@
     "id": 143,
     "name": "Guild_Join_Extinction",
     "title": "Join Result",
-    "text": "Cannot join because this guild has disbanded.",
+    "text": "Unable to join. This guild has disbanded.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1280,8 +1280,8 @@
   {
     "id": 144,
     "name": "Guild_EntryCancel_Approve",
-    "title": "Cancel Application for Guild",
-    "text": "Cannot cancel because your application was already approved.",
+    "title": "Withdraw Guild Application",
+    "text": "Unable to withdraw. Your application has already been approved.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1289,8 +1289,8 @@
   {
     "id": 145,
     "name": "Guild_EntryCancel_Reject",
-    "title": "Cancel Application for Guild",
-    "text": "Your application was declined.",
+    "title": "Withdraw Guild Application",
+    "text": "Your application has already been rejected.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1317,7 +1317,7 @@
     "id": 148,
     "name": "Guild_EntryRequest_Ng",
     "title": "Approval Error",
-    "text": "The application to join the guild was cancelled.",
+    "text": "The application to join the guild has been withdrawn.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1334,7 +1334,7 @@
   {
     "id": 150,
     "name": "Guild_SubMaster_Ng",
-    "title": "Sub-leader Promotion",
+    "title": "Promotion to Subleader",
     "text": "Only three subleaders are allowed.",
     "dialog_type": 1,
     "button2": "",
@@ -1362,7 +1362,7 @@
     "id": 153,
     "name": "Guild_Expulsion_Confirm",
     "title": "Confirm",
-    "text": "You have been expelled from the guild.",
+    "text": "You have been kicked from the guild.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1380,7 +1380,7 @@
     "id": 155,
     "name": "Guild_NonExistencePlayer_Confirm",
     "title": "Confirm",
-    "text": "This player does not exist in any guild.",
+    "text": "This player is no longer in the guild.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1407,7 +1407,7 @@
     "id": 158,
     "name": "GuildChat_Expulsion_Confirm",
     "title": "Confirm",
-    "text": "Cannot view the chat window<br>because you left the guild.",
+    "text": "Cannot view the chat window because you are no longer in the guild.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1416,7 +1416,7 @@
     "id": 159,
     "name": "GuildChat_InputText_Ng",
     "title": "Posting Error",
-    "text": "Could not post to chat because<br>message contains inappropriate language.",
+    "text": "Could not post to chat because message contains inappropriate language.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1434,7 +1434,7 @@
     "id": 161,
     "name": "Guild_Join_Change",
     "title": "Confirm",
-    "text": "Guild now requires approval before joining.",
+    "text": "This guild now requires approval to join.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1461,7 +1461,7 @@
     "id": 164,
     "name": "Guild_Edit_Shortage",
     "title": "Guild Settings",
-    "text": "Changes other than Guild Name will be saved due to insufficient aurum.",
+    "text": "Due to lack of aurum, all changes except the guild name have been saved.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
@@ -1584,6 +1584,33 @@
     "button1": "Yes"
   },
   {
+    "id": 178,
+    "name": "Reunion_BossChallenge_Confirm",
+    "title": "Confirm",
+    "text": "Challenge the Boss?",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Challenge"
+  },
+  {
+    "id": 179,
+    "name": "ReunionBattle_GiveUp_Confirm",
+    "title": "Confirm",
+    "text": "Give up?<br>*The adventure will end and you will move to the result screen.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Give Up"
+  },
+  {
+    "id": 181,
+    "name": "ReunionBattle_GiveUp_impossible",
+    "title": "Confirm",
+    "text": "You cannot give up on a battle when victory is guaranteed.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
     "id": 182,
     "name": "CharacterList_Favorite_Change",
     "title": "Changed",
@@ -1645,6 +1672,15 @@
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
+  },
+  {
+    "id": 189,
+    "name": "Reunion_HPHeal_Confirm",
+    "title": "Confirm",
+    "text": "Use LP to fully recover HP?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
   },
   {
     "id": 190,
@@ -1782,6 +1818,33 @@
     "button1": "OK"
   },
   {
+    "id": 205,
+    "name": "Reunion_Tutorial_End",
+    "title": "Confirm",
+    "text": "The Tutorial adventure ends here.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 206,
+    "name": "Reunion_GiveUp_Confirm",
+    "title": "Confirm",
+    "text": "Give up?<br>*The adventure will end and you will move to the result screen.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Give Up"
+  },
+  {
+    "id": 207,
+    "name": "Reunion_NoChoice_Confirm",
+    "title": "Confirm",
+    "text": "Party enhancement will end if you choose \"No, thanks\".<br>Proceed?",
+    "dialog_type": 2,
+    "button2": "No",
+    "button1": "Yes"
+  },
+  {
     "id": 208,
     "name": "auto_rematch_Battle_End_9",
     "title": "Auto Rematch Stopped",
@@ -1836,10 +1899,55 @@
     "button1": "OK"
   },
   {
+    "id": 215,
+    "name": "Quest_ClearBulk_Confirm",
+    "title": "Auto Clear",
+    "text": "When clearing a quest here, any quests below will be auto-cleared and you will receive the First Completion Rewards for those quests.<br>*First Completion Rewards for quests that have already been cleared cannot be obtained again.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
     "id": 216,
     "name": "PanelShop_Expired_Confirm",
     "title": "Expired",
     "text": "The availability period for the Panel Exchange has ended.<br>Returning to Home page.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 217,
+    "name": "Reunion_TutorialInduction_Confirm",
+    "title": "Confirm",
+    "text": "Start the Tutorial now?<br>*The Tutorial can be accessed at any time.",
+    "dialog_type": 2,
+    "button2": "Cancel",
+    "button1": "Start"
+  },
+  {
+    "id": 218,
+    "name": "Reunion_Expired_Confirm",
+    "title": "Expired",
+    "text": "The event period has ended.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "OK"
+  },
+  {
+    "id": 219,
+    "name": "shop_wheel_Ng",
+    "title": "Video Ad Viewing Error",
+    "text": "Video ads are currently unavailable.",
+    "dialog_type": 1,
+    "button2": "",
+    "button1": "Close"
+  },
+  {
+    "id": 220,
+    "name": "Reunion_GetRandomNoReward_Confirm",
+    "title": "Confirm",
+    "text": "No rewards.",
     "dialog_type": 1,
     "button2": "",
     "button1": "OK"
