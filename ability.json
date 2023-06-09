@@ -3756,7 +3756,7 @@
   {
     "id": 702101078,
     "name": "Wind Munitions",
-    "flavor_text": "When attacked, damage taken will be reduced (large effect).<br><br>Grants oneself <special_effect=800000124>Follow-Up (Wind Chaser)</special_effect> at start of battle (Effect: permanent in battle).<br>*Loses 1 LP as recoil damage.",
+    "flavor_text": "When attacked, damage taken will be reduced (large effect).<br><br>[Start of battle]<br>Grants oneself <special_effect=800000124>Follow-Up (Wind Chaser)</special_effect> (Effect: permanent in battle).<br><br>*Loses 1 LP as recoil damage.",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040990,
@@ -47278,7 +47278,7 @@
   {
     "id": 1702100068,
     "name": "Dragon Technique",
-    "flavor_text": "Attacks' damage increases (very large effect).<br><br>Grants oneself <special_effect=1800000001>Follow-Up (Dragon Flame Blast)</special_effect> (Effect: permanent in battle) and <special_effect=800000096>Defense Up</special_effect> (large effect) at start of battle.<br>*Loses 2 LP as recoil damage.",
+    "flavor_text": "Attacks' damage increases (very large effect).<br><br>[Start of battle]<br>Grants oneself <special_effect=1800000001>Follow-Up (Dragon Flame Blast)</special_effect> (Effect: permanent in battle), and grants oneself <special_effect=800000096>Defense Up</special_effect> (large effect).<br><br>*Loses 2 LP as recoil damage.",
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802040139,
@@ -48179,6 +48179,20 @@
     ],
     "ability_when": 6,
     "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100130,
+    "name": "Abundance Switch",
+    "flavor_text": "When attacking with pierce attacks, recovers own BP (+2).<br>When attacking with cold attacks, recovers all surviving allies' HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040218,
+      1802040219
+    ],
+    "ability_when": 6,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   },

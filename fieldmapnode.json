@@ -22488,5 +22488,1443 @@
     "next_field_map_node_id": 0,
     "is_notable": 0,
     "flavor_text": "This station is in Saga City, capital of Saga Prefecture. Tabidachi Ebisu is found on the platform expressing the wish to \"watch over those who come to Saga, those who leave Saga, and those who pass through Saga station.\" In front of the station stands a statue of Menfuryu, a form of folk entertainment."
+  },
+  {
+    "id": 10125000,
+    "name": "Start",
+    "field_map_id": 1012501,
+    "field_map_node_type": 5,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [],
+    "x": 9.409547805786133,
+    "y": -2.9702789783477783,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125001,
+    "name": "Yokotake Creek Park",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020511
+    ],
+    "x": 10.891590118408203,
+    "y": -0.5894656181335449,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125002,
+    "name": "Hasuike Park",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1060571
+    ],
+    "x": 11.867039680480957,
+    "y": -2.4694221019744873,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125003,
+    "name": "Mietsu Naval Dock Site",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010391
+    ],
+    "x": 9.488225936889648,
+    "y": -4.883545875549316,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125004,
+    "name": "Higatayoka Park",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992511
+    ],
+    "x": 9.64421558380127,
+    "y": -8.884615898132324,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125005,
+    "name": "Rokugoro Bridge",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010101
+    ],
+    "x": 14.917530059814453,
+    "y": -0.3943764865398407,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125006,
+    "name": "Yoshinogari Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010791
+    ],
+    "x": 18.196800231933594,
+    "y": 1.8814769983291626,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125007,
+    "name": "Saga no Eiffel Tower",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686315600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040621
+    ],
+    "x": 9.31313419342041,
+    "y": 0.4923960864543915,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125008,
+    "name": "Kyoseki Park",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686315600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991311
+    ],
+    "x": 6.0632710456848145,
+    "y": 1.2965580224990845,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125009,
+    "name": "Yamato Roadside Station",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686315600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070471
+    ],
+    "x": 5.577779769897461,
+    "y": 3.8043689727783203,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125010,
+    "name": "Kumanokawa Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686315600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992501
+    ],
+    "x": 8.818798065185547,
+    "y": 4.542468070983887,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125011,
+    "name": "Gotoba Shrine",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686315600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030351
+    ],
+    "x": 11.312390327453613,
+    "y": 6.3959808349609375,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125012,
+    "name": "Yoshinogari Historical Park",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686315600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993641
+    ],
+    "x": 13.095930099487305,
+    "y": 4.1862568855285645,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125013,
+    "name": "Saga Pref. Shinrin Park",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686358800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030811
+    ],
+    "x": 6.1738409996032715,
+    "y": -3.2595560550689697,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125014,
+    "name": "Kasegawa Riverside",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686358800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991301
+    ],
+    "x": 4.160411834716797,
+    "y": -1.5091090202331543,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125015,
+    "name": "Suga Shrine",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686358800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030401
+    ],
+    "x": 2.8968029022216797,
+    "y": 1.6695849895477295,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125016,
+    "name": "Kiyomizu Waterfall",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686358800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040771
+    ],
+    "x": 1.7350449562072754,
+    "y": 4.5586628913879395,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125017,
+    "name": "Saga Furyu no Sato Exhibition Hall",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686358800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020671
+    ],
+    "x": 3.4928629398345947,
+    "y": 6.674079895019531,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125018,
+    "name": "Furuyu Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686358800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992481
+    ],
+    "x": 6.918169975280762,
+    "y": 7.203855037689209,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125019,
+    "name": "Mount Tenzan",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686402000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1100441
+    ],
+    "x": -1.4821289777755737,
+    "y": 3.7696869373321533,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125020,
+    "name": "Taku Seibyo Temple",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686402000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170041
+    ],
+    "x": -1.6608619689941406,
+    "y": -0.07304990291595459,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125021,
+    "name": "Takeo Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686402000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991331
+    ],
+    "x": -5.104702949523926,
+    "y": -1.611333966255188,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125022,
+    "name": "Kitagata Shiki no Oka Park",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686402000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030801
+    ],
+    "x": -0.7073370814323425,
+    "y": -3.121493101119995,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125023,
+    "name": "Kaiyu Fureai Park",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686402000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1150381
+    ],
+    "x": 2.807436943054199,
+    "y": -4.601347923278809,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125024,
+    "name": "Tidal Flat Experience Area",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686402000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993631
+    ],
+    "x": 5.265674114227295,
+    "y": -7.864373207092285,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125025,
+    "name": "Nuinoike",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686445200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1060511
+    ],
+    "x": -1.7797290086746216,
+    "y": -5.6190571784973145,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125026,
+    "name": "Suko Castle Ruins",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686445200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1010361
+    ],
+    "x": 0.6179714202880859,
+    "y": -7.262325763702393,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125027,
+    "name": "Hizen Kashima Tidal Flat",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686445200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991381
+    ],
+    "x": 1.9923959970474243,
+    "y": -9.968623161315918,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125028,
+    "name": "Mini Gatalympics",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686445200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1130071
+    ],
+    "x": -0.03709053993225098,
+    "y": -12.34058952331543,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125029,
+    "name": "Hanatori Bank",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686445200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020161
+    ],
+    "x": -2.4052889347076416,
+    "y": -13.438579559326172,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125030,
+    "name": "Yokotake Dam Gyoiko Sakura",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686445200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1100301
+    ],
+    "x": -3.4928629398345947,
+    "y": -9.863938331604004,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125031,
+    "name": "Onohara Plateau",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686445200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1090031
+    ],
+    "x": -6.352572917938232,
+    "y": -11.82999038696289,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125032,
+    "name": "Ureshino Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686445200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991341
+    ],
+    "x": -6.347915172576904,
+    "y": -8.21678638458252,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125033,
+    "name": "Nakakoba Dam",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686488400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110381
+    ],
+    "x": -4.788670063018799,
+    "y": -14.957799911499023,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125034,
+    "name": "Nakayama Camp Site",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686488400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030501
+    ],
+    "x": -2.226557970046997,
+    "y": -17.772829055786133,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125035,
+    "name": "Taratakezaki Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686488400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991291
+    ],
+    "x": 1.6594140529632568,
+    "y": -19.170429229736328,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125036,
+    "name": "Kaichu Road",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686488400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993651
+    ],
+    "x": 0.9465959072113037,
+    "y": -14.845999717712402,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125037,
+    "name": "Kashiwadake Observation Area",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686531600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1160071
+    ],
+    "x": -4.699304103851318,
+    "y": -5.753104209899902,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125038,
+    "name": "Izumiyama Quarry",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686531600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110051
+    ],
+    "x": -8.005843162536621,
+    "y": -4.2231011390686035,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125039,
+    "name": "Arita Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686531600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992491
+    ],
+    "x": -13.13578987121582,
+    "y": -4.795257091522217,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125040,
+    "name": "Okawachiyama Village",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686531600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1130421
+    ],
+    "x": -10.463410377502441,
+    "y": -0.21241450309753418,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125041,
+    "name": "Udono Sekibutsugun",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686531600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1110471
+    ],
+    "x": -8.08002758026123,
+    "y": 3.551737070083618,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125042,
+    "name": "Imari Shrine",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686531600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1020381
+    ],
+    "x": -11.699350357055664,
+    "y": 1.887684941291809,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125043,
+    "name": "Imari Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686531600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992461
+    ],
+    "x": -15.519510269165039,
+    "y": -0.13817580044269562,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125044,
+    "name": "Imarin Beach",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686574800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1140131
+    ],
+    "x": -15.944230079650879,
+    "y": 3.550955057144165,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125045,
+    "name": "Shiki no Oka Park",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686574800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030631
+    ],
+    "x": -12.563509941101074,
+    "y": 5.4723219871521,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125046,
+    "name": "Iroha Island Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686574800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170121
+    ],
+    "x": -15.638319969177246,
+    "y": 7.987955093383789,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125047,
+    "name": "Dajiku (Irino) Terraced Rice Fields",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686574800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1030071
+    ],
+    "x": -17.463449478149414,
+    "y": 10.208720207214355,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125048,
+    "name": "Nakayama Farm",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686574800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1993621
+    ],
+    "x": -15.585539817810059,
+    "y": 12.625510215759277,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125049,
+    "name": "Kankyo Geijutsu No Mori Park",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686618000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1040441
+    ],
+    "x": -4.416024208068848,
+    "y": 3.9985649585723877,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125050,
+    "name": "Chinzantameike Park",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686618000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1170081
+    ],
+    "x": -2.8521180152893066,
+    "y": 6.768911838531494,
+    "field_map_size": 2,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125051,
+    "name": "Kannon Falls",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686618000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1050451
+    ],
+    "x": -0.3203723132610321,
+    "y": 8.645597457885742,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125052,
+    "name": "Narukami Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686618000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992451
+    ],
+    "x": -1.0416359901428223,
+    "y": 11.457010269165039,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125053,
+    "name": "Mikaeri No Taki",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686618000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070551
+    ],
+    "x": -6.47144079208374,
+    "y": 6.1433491706848145,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125054,
+    "name": "Kagamiyama Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686618000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1992471
+    ],
+    "x": -5.498301982879639,
+    "y": 8.91845989227295,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125055,
+    "name": "Kishitake Castle Ruins",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1120451
+    ],
+    "x": -9.480382919311523,
+    "y": 6.4561309814453125,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125056,
+    "name": "Hikiyama Exhibition Hall",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991321
+    ],
+    "x": -10.239359855651855,
+    "y": 9.564776420593262,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125057,
+    "name": "Karatsu Mus. of History & Folklore",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1050341
+    ],
+    "x": -11.848580360412598,
+    "y": 11.907449722290039,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125058,
+    "name": "Nagoya Castle Ruins",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1180271
+    ],
+    "x": -12.593009948730469,
+    "y": 14.45438003540039,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125059,
+    "name": "Yobuko Port",
+    "field_map_id": 1012501,
+    "field_map_node_type": 1,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1991351
+    ],
+    "x": -12.636819839477539,
+    "y": 17.302120208740234,
+    "field_map_size": 3,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125060,
+    "name": "Yobuko Port Vicinity",
+    "field_map_id": 1012501,
+    "field_map_node_type": 7,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1070731
+    ],
+    "x": -15.963310241699219,
+    "y": 16.73185920715332,
+    "field_map_size": 4,
+    "next_field_map_node_id": 0,
+    "is_notable": 1,
+    "flavor_text": ""
+  },
+  {
+    "id": 10125061,
+    "name": "Q Saba Mackerel",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      0
+    ],
+    "x": -9.670546531677246,
+    "y": 17.573970794677734,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "Joint research by Kyushu University and Karatsu City created this farm-raised mackerel with exceptional flavor. It lacks the fishy odor of wild-caught mackerel and offers a delightful balance of fat and taste. Enjoy it as sashimi or try other variations like sesame or seared mackerel."
+  },
+  {
+    "id": 10125062,
+    "name": "Yutoku Inari Shrine",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686445200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      1
+    ],
+    "x": -1.387158989906311,
+    "y": -10.967610359191895,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "Considered one of Japan's top three Inari shrines and fondly referred to by locals as \"Yutoku-san\". The most impressive feature is the vermillion structure that stands out against verdant trees. Famous for the god of business prosperity, the shrine attracts many visitors every year."
+  },
+  {
+    "id": 10125063,
+    "name": "Nagoya Castle Ruins",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      2
+    ],
+    "x": -14.595219612121582,
+    "y": 14.770689964294434,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "Surrounding the ruins of Nagoya Castle itself for a 3 km radius, these ruins were home to over 160 of Japan's feudal lords, making it one of Japan's largest and unique ruins. Ongoing surveys and maintenance continue at the Nagoya Castle Ruins and surrounding camp sites."
+  },
+  {
+    "id": 10125064,
+    "name": "Takeo Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686402000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      3
+    ],
+    "x": -3.331465005874634,
+    "y": -3.422065019607544,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "Reportedly visited by Miyamoto Musashi and Philipp Franz von Siebold. Ideal spot to help revitalize the mind and body. The red-lacquered gate designed by Tatsuno Kingo, architect of Tokyo Station, resembles the Ryugo-jo, a legendary undersea palace."
+  },
+  {
+    "id": 10125065,
+    "name": "Niji No Matsubara",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      4
+    ],
+    "x": -7.993869781494141,
+    "y": 10.379449844360352,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "One of the three great pine groves of Japan. 4.5 km long and 0.5 km wide, roughly 1 million Japanese black pines have been planted here. Take in the scenery of the entire grove from the top of Mount Kagami. Said to feature its own set of Seven Wonders."
+  },
+  {
+    "id": 10125066,
+    "name": "Karatsu Station",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      5
+    ],
+    "x": -8.757731437683105,
+    "y": 8.440349578857422,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "This station connects the Karatsu and Chikuhi Lines in northern Saga. Its north plaza features a Karatsu ceramic statue of the renowned red lion hikiyama float from the Karatsu Kunchi festival. The area is vibrant, with a shopping street, Karatsu City Hall, and the Karatsu City Library nearby."
+  },
+  {
+    "id": 10125067,
+    "name": "Daikozenji Temple",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      6
+    ],
+    "x": 19.825389862060547,
+    "y": 4.633604049682617,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "Known as the Azalea Temple, it boasts a 75,000 sqm garden in the mountain behind the main temple that is adorned with 50,000 azaleas from mid-April to early May. Also famous for its vibrant fall foliage, the temple attracts visitors year-round."
+  },
+  {
+    "id": 10125068,
+    "name": "Taku Station",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686402000,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      7
+    ],
+    "x": -3.406388998031616,
+    "y": 1.9554640054702759,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "This station in the heart of Saga Prefecture serves the Karatsu line. It is located near the community development center \"Aiparetto,\" which aims to create a vibrant community in a compact space near Taku Station. This name was chosen through public contributions as a lovable nickname."
+  },
+  {
+    "id": 10125069,
+    "name": "Ogi Station",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686358800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      8
+    ],
+    "x": 1.3547439575195312,
+    "y": -1.4028340578079224,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "Ogi Station was built to coincide with the opening of the Karatsu line in 1903. Recognized as a tangible cultural property, it features a framed calligraphic name by renowned local calligrapher Gochiku Nakabayashi, welcoming visitors at the entrance."
+  },
+  {
+    "id": 10125070,
+    "name": "Nanatsugama",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      9
+    ],
+    "x": -11.684700012207031,
+    "y": 15.728750228881836,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "The Nanatsugama Caves, designated as a natural monument of Japan, are spectacular caves formed by the raging waves of the Genkai Sea. The name is indicative of its 7 caves, and the scenery strikes onlookers by the wonders of nature."
+  },
+  {
+    "id": 10125071,
+    "name": "Saga Station",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      10
+    ],
+    "x": 8.05008602142334,
+    "y": -1.9129559993743896,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "This station is in Saga City, capital of Saga Prefecture. Tabidachi Ebisu is found on the platform expressing the wish to \"watch over those who come to Saga, those who leave Saga, and those who pass through Saga station.\" In front of the station stands a statue of Menfuryu, a form of folk entertainment."
+  },
+  {
+    "id": 10125072,
+    "name": "Takanawa Embankment Exhibition",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 0,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      11
+    ],
+    "x": 8.10375690460205,
+    "y": -4.229757785797119,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "Japan's first railroad opened for business in 1872. This is the Takanawa embankment, associated with Okuma Shigenobu, constructed so the railroad could go over the sea. A segment discovered in 2022 is on display at Okuma's birthplace of Saga in the Saga Prefectural Museum."
+  },
+  {
+    "id": 10125073,
+    "name": "Furuyu Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686358800,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      12
+    ],
+    "x": 6.431359767913818,
+    "y": 5.592107772827148,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "Located along the Kasegawa river in Fuji town, the legendary Furuyu Onsen was discovered by Xu Fu around 2,100 years ago while searching for the elixir of life. The alkaline, simple hot spring with a slight viscosity is renowned for its effectiveness in relieving joint pain. "
+  },
+  {
+    "id": 10125074,
+    "name": "Kunenan Gardens",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686315600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      13
+    ],
+    "x": 9.974202156066895,
+    "y": 2.7419040203094482,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "Kunenan is a Japanese garden featuring a sukiya-zukuri residence, a nine-year masterpiece, overlooking the Tsukushi Plain. Designated a scenic spot of Japan in 1995, it showcases the vibrant hues of 134 maple trees and the lush greens of some 40 kinds of moss that adorn its grounds."
+  },
+  {
+    "id": 10125075,
+    "name": "Ureshino Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686445200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      14
+    ],
+    "x": -7.454945087432861,
+    "y": -9.8836030960083,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "Top three hot spring in Japan for skin care. One dip in the silky water and you'll never want to leave. Experience the local history and customs at the densely clustered traditional inns, then try the local dish of hot spring soup tofu after a relaxing soak."
+  },
+  {
+    "id": 10125076,
+    "name": "Imari Station",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686531600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      15
+    ],
+    "x": -14.426609992980957,
+    "y": 1.424088954925537,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "This station in western Saga Prefecture connects the Chikuhi and Nishi-Kyushu lines. It's a landmark with its design motifs featuring the white plaster walls of pottery dealers and the chimneys of the \"kamado\" pottery kilns, reflecting its past as a busy pottery shipping port in the Edo period."
+  },
+  {
+    "id": 10125077,
+    "name": "Tonbai Wall & Arita Ware",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686531600,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      16
+    ],
+    "x": -10.579440116882324,
+    "y": -2.699392080307007,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "Tonbai walls are created by applying red clay to discarded fireproof bricks (tonbai) used in climbing kilns. These walls can be found in the alleys around Izumiyama Ooicho and the Arita Ceramic Museum in Odaru. They add to the charm of the pottery town, showcasing the legacy of kiln construction and disposal."
+  },
+  {
+    "id": 10125078,
+    "name": "Taratakezaki Onsen",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686488400,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      17
+    ],
+    "x": 3.1401679515838623,
+    "y": -17.854249954223633,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "This hot spring is right by the Ariake Sea. Boasting the world's largest tidal difference at 6 meters, it is known as \"the town where the moon's gravitational pull is visible.\" Indulge in the bounty of the sea and mountains, including the exquisite Takezaki crab, a true culinary delight."
+  },
+  {
+    "id": 10125079,
+    "name": "Karatsu Kunchi",
+    "field_map_id": 1012501,
+    "field_map_node_type": 6,
+    "start_at": 1686661200,
+    "end_at": 0,
+    "illust_id": 0,
+    "illust_ids": [
+      18
+    ],
+    "x": -10.068309783935547,
+    "y": 11.834830284118652,
+    "field_map_size": 1,
+    "next_field_map_node_id": 0,
+    "is_notable": 0,
+    "flavor_text": "3-day \"Yama, Hoko and Yatai Float Festival\" at the Karatsu Shrine. Shouts of \"Enya, enya!\" and \"Yoisa, yoisa!\" follow hikiyama festival floats through the old castle town. On UNESCO's Representative List of the Intangible Cultural Heritage of Humanity."
   }
 ]

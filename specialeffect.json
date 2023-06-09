@@ -13357,7 +13357,7 @@
     "state_vars": [
       75
     ],
-    "text_pop": "Defensive Stance",
+    "text_pop": "Defensive Stance (Spell)",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -14170,7 +14170,7 @@
     "state_vars": [
       65
     ],
-    "text_pop": "Defensive Stance",
+    "text_pop": "Defensive Stance (Skill)",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "140700113",
     "ignition_effect_id": "",
@@ -14426,8 +14426,8 @@
   {
     "id": 801041311,
     "state_change_id": 900050073,
-    "name": "ネコアタック",
-    "flavor_text": "ネコアタックで攻撃後、ネコのツメで攻撃を行う",
+    "name": "Cat Attack",
+    "flavor_text": "Attacks with Cat's Claw after attacking with Cat Attack.",
     "target_area": 1,
     "state_vars": [
       110500088
@@ -14444,11 +14444,11 @@
   {
     "id": 801041312,
     "state_change_id": 900040047,
-    "name": "ステルス(中)",
+    "name": "Stealth (medium)",
     "flavor_text": "Decreases likelihood of being targeted by enemies.",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "ステルス",
+    "text_pop": "Stealth",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "Plane",
     "ignition_effect_id": "",
@@ -14460,8 +14460,8 @@
   {
     "id": 801041319,
     "state_change_id": 900050055,
-    "name": "BP回復",
-    "flavor_text": "BPが回復する",
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
     "target_area": 12,
     "state_vars": [
       10
@@ -14478,13 +14478,13 @@
   {
     "id": 801041320,
     "state_change_id": 900050113,
-    "name": "ターン終了時BP回復(+1)",
-    "flavor_text": "ターン終了時、自身のBPを回復する( +1 )",
+    "name": "End of Turn: Recover BP (+1)",
+    "flavor_text": "At end of turn, recovers own BP (+1).",
     "target_area": 1,
     "state_vars": [
       702401008
     ],
-    "text_pop": "ターン終了時BP回復",
+    "text_pop": "End of Turn: Recover BP",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -14496,13 +14496,13 @@
   {
     "id": 801041321,
     "state_change_id": 900050153,
-    "name": "眠り解除",
-    "flavor_text": "眠り状態を解除する",
+    "name": "Cure Sleep",
+    "flavor_text": "Cures sleep.",
     "target_area": 12,
     "state_vars": [
       35
     ],
-    "text_pop": "眠り解除",
+    "text_pop": "Cure Sleep",
     "text_color": "5BFF24",
     "enchantment_effect_id": "Heal",
     "ignition_effect_id": "",
@@ -14548,13 +14548,13 @@
   {
     "id": 801041325,
     "state_change_id": 900040062,
-    "name": "防御強化(小)",
+    "name": "Defense Boost (small)",
     "flavor_text": "Decreases damage taken.",
     "target_area": 3,
     "state_vars": [
       85
     ],
-    "text_pop": "防御↑",
+    "text_pop": "DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -14588,11 +14588,11 @@
   {
     "id": 801041329,
     "state_change_id": 900040048,
-    "name": "ヒートアップ",
+    "name": "Heat Up",
     "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -14606,8 +14606,8 @@
   {
     "id": 801041330,
     "state_change_id": 900050073,
-    "name": "高翔び蹴り",
-    "flavor_text": "高翔び蹴りで攻撃後、まわしげりで攻撃を行う",
+    "name": "High Jump Kick",
+    "flavor_text": "Attacks with Roundhouse Kick after attacking with High Jump Kick.",
     "target_area": 1,
     "state_vars": [
       110500341
@@ -14624,8 +14624,8 @@
   {
     "id": 801041331,
     "state_change_id": 900050054,
-    "name": "HP回復(特大)",
-    "flavor_text": "HPを回復する",
+    "name": "Recover HP (very large)",
+    "flavor_text": "Recovers HP.",
     "target_area": 1,
     "state_vars": [
       40
@@ -14642,8 +14642,8 @@
   {
     "id": 801041333,
     "state_change_id": 900050073,
-    "name": "バーニングディセント",
-    "flavor_text": "バーニングディセントで攻撃後、イラプションで攻撃を行う",
+    "name": "Burning Descent",
+    "flavor_text": "Attacks with Erupting Flames after attacking with Burning Descent.",
     "target_area": 1,
     "state_vars": [
       110800260
@@ -14664,7 +14664,7 @@
     "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -14676,11 +14676,11 @@
   {
     "id": 801041348,
     "state_change_id": 900040048,
-    "name": "ヒートアップ",
+    "name": "Heat Up",
     "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -14694,13 +14694,13 @@
   {
     "id": 801041350,
     "state_change_id": 900040184,
-    "name": "ダメージブロック(1回)",
-    "flavor_text": "被ダメージを100%カットする( 上限回数:1 ※攻撃が命中した時のみ発動 )",
+    "name": "Damage Block (1 time)",
+    "flavor_text": "Decreases damage taken by 100% (Max times: 1). *Only activates when hit by an attack.",
     "target_area": 3,
     "state_vars": [
       0
     ],
-    "text_pop": "ダメージブロック",
+    "text_pop": "Damage Block",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -14714,11 +14714,11 @@
   {
     "id": 801041351,
     "state_change_id": 900040048,
-    "name": "攻撃弱化(極大)",
+    "name": "Attack Down (extreme)",
     "flavor_text": "Decreases damage dealt to enemies.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "攻撃↓",
+    "text_pop": "ATK↓",
     "text_color": "FF0000",
     "enchantment_effect_id": "Debuff",
     "ignition_effect_id": "",
@@ -14730,13 +14730,13 @@
   {
     "id": 801041354,
     "state_change_id": 900040190,
-    "name": "防御態勢(術/大)",
+    "name": "Defensive Stance (Spell) (large)",
     "flavor_text": "When hit by a spell attack, reduces damage taken (can't stack).",
     "target_area": 3,
     "state_vars": [
       65
     ],
-    "text_pop": "防御態勢(術)",
+    "text_pop": "Defensive Stance (Spell)",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -14750,8 +14750,8 @@
   {
     "id": 801041355,
     "state_change_id": 900050073,
-    "name": "銀光双牙",
-    "flavor_text": "銀光双牙で攻撃後、銀光乱舞で攻撃を行う",
+    "name": "Silverlight Fangs",
+    "flavor_text": "Attacks with Silverlight Dance after attacking with Silverlight Fangs.",
     "target_area": 1,
     "state_vars": [
       110100281
@@ -14772,7 +14772,7 @@
     "flavor_text": "When attacking with heat attacks, increases damage.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "熱攻撃↑<br>愛 魅力↑",
+    "text_pop": "Heat ATK↑<br>LOV/CHA↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -14786,13 +14786,13 @@
   {
     "id": 801041360,
     "state_change_id": 900040062,
-    "name": "防御強化(中)",
+    "name": "Defense Boost (med)",
     "flavor_text": "Decreases damage taken.",
     "target_area": 3,
     "state_vars": [
       80
     ],
-    "text_pop": "テンペストヴェール",
+    "text_pop": "Tempest Veil",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -14806,11 +14806,11 @@
   {
     "id": 801041363,
     "state_change_id": 900040048,
-    "name": "エレメントエンハンス(陰)",
-    "flavor_text": "陰属性攻撃時、与えるダメージが上昇する",
+    "name": "Elemental Enhance (Shadow)",
+    "flavor_text": "When attacking with shadow attacks, damage increases.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "陰攻撃↑",
+    "text_pop": "Shadow ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -14824,7 +14824,7 @@
   {
     "id": 801041365,
     "state_change_id": 900040101,
-    "name": "ガードアップ(小)",
+    "name": "Guard Up (small)",
     "flavor_text": "Reduces damage taken (can't stack).",
     "target_area": 3,
     "state_vars": [
@@ -14844,11 +14844,11 @@
   {
     "id": 801041366,
     "state_change_id": 900040063,
-    "name": "モラルアップ(小)",
+    "name": "Morale Up (small)",
     "flavor_text": "Increases damage dealt to enemies (can't stack).",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -14860,8 +14860,8 @@
   {
     "id": 801041367,
     "state_change_id": 900050055,
-    "name": "BP回復",
-    "flavor_text": "BPが回復する",
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
     "target_area": 10,
     "state_vars": [
       1
@@ -14878,13 +14878,13 @@
   {
     "id": 801041368,
     "state_change_id": 900050113,
-    "name": "追撃(フローズンチェイサー)",
+    "name": "Follow-Up (Frozen Chaser)",
     "flavor_text": "Activates <skill=110600274>Frozen Chaser</skill> after activating a single foe attack.",
     "target_area": 1,
     "state_vars": [
       702101522
     ],
-    "text_pop": "追撃装填",
+    "text_pop": "Reload",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -14896,8 +14896,8 @@
   {
     "id": 801041369,
     "state_change_id": 900050073,
-    "name": "追撃(フローズンチェイサー)",
-    "flavor_text": "技1(敵単体)を発動後、フローズンチェイサーで攻撃を行う",
+    "name": "Follow-Up (Frozen Chaser)",
+    "flavor_text": "Attacks with Frozen Chaser after activating skill 1 (single foe).",
     "target_area": 1,
     "state_vars": [
       110600274
@@ -14919,8 +14919,8 @@
   {
     "id": 801041370,
     "state_change_id": 900050073,
-    "name": "追撃(フローズンチェイサー)",
-    "flavor_text": "技2(敵単体)を発動後、フローズンチェイサーで攻撃を行う",
+    "name": "Follow-Up (Frozen Chaser)",
+    "flavor_text": "Attacks with Frozen Chaser after activating skill 2 (single foe).",
     "target_area": 1,
     "state_vars": [
       110600274
@@ -14942,8 +14942,8 @@
   {
     "id": 801041371,
     "state_change_id": 900050073,
-    "name": "追撃(フローズンチェイサー)",
-    "flavor_text": "技3(敵単体)を発動後、フローズンチェイサーで攻撃を行う",
+    "name": "Follow-Up (Frozen Chaser)",
+    "flavor_text": "Attacks with Frozen Chaser after activating skill 3 (single foe).",
     "target_area": 1,
     "state_vars": [
       110600274
@@ -14965,8 +14965,8 @@
   {
     "id": 801041372,
     "state_change_id": 900050073,
-    "name": "追撃(フローズンチェイサー)",
-    "flavor_text": "技1(敵ランダム)を発動後、フローズンチェイサーで攻撃を行う",
+    "name": "Follow-Up (Frozen Chaser)",
+    "flavor_text": "Attacks with Frozen Chaser after activating skill 1 (random foe).",
     "target_area": 1,
     "state_vars": [
       110600274
@@ -14988,8 +14988,8 @@
   {
     "id": 801041373,
     "state_change_id": 900050073,
-    "name": "追撃(フローズンチェイサー)",
-    "flavor_text": "技2(敵ランダム)を発動後、フローズンチェイサーで攻撃を行う",
+    "name": "Follow-Up (Frozen Chaser)",
+    "flavor_text": "Attacks with Frozen Chaser after activating skill 2 (random foe).",
     "target_area": 1,
     "state_vars": [
       110600274
@@ -15011,8 +15011,8 @@
   {
     "id": 801041374,
     "state_change_id": 900050073,
-    "name": "追撃(フローズンチェイサー)",
-    "flavor_text": "技3(敵ランダム)を発動後、フローズンチェイサーで攻撃を行う",
+    "name": "Follow-Up (Frozen Chaser)",
+    "flavor_text": "Attacks with Frozen Chaser after activating skill 3 (random foe).",
     "target_area": 1,
     "state_vars": [
       110600274
@@ -15034,8 +15034,8 @@
   {
     "id": 801041375,
     "state_change_id": 900050073,
-    "name": "追撃(フローズンチェイサー)",
-    "flavor_text": "継承技(敵単体)を発動後、フローズンチェイサーで攻撃を行う",
+    "name": "Follow-Up (Frozen Chaser)",
+    "flavor_text": "Attacks with Frozen Chaser after activating an inherited skill (single foe).",
     "target_area": 1,
     "state_vars": [
       110600274
@@ -15057,8 +15057,8 @@
   {
     "id": 801041376,
     "state_change_id": 900050073,
-    "name": "追撃(フローズンチェイサー)",
-    "flavor_text": "継承技(敵ランダム)を発動後、フローズンチェイサーで攻撃を行う",
+    "name": "Follow-Up (Frozen Chaser)",
+    "flavor_text": "Attacks with Frozen Chaser after activating an inherited skill (random foe).",
     "target_area": 1,
     "state_vars": [
       110600274
@@ -15080,8 +15080,8 @@
   {
     "id": 801041377,
     "state_change_id": 900050073,
-    "name": "追撃(フローズンチェイサー)",
-    "flavor_text": "通常攻撃を発動後、フローズンチェイサーで攻撃を行う",
+    "name": "Follow-Up (Frozen Chaser)",
+    "flavor_text": "Attacks with Frozen Chaser after activating a normal attack.",
     "target_area": 1,
     "state_vars": [
       110600274
@@ -15107,7 +15107,7 @@
     "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15119,13 +15119,13 @@
   {
     "id": 801041380,
     "state_change_id": 900040036,
-    "name": "円舞剣+",
-    "flavor_text": "敵からの直接攻撃を回避して、円舞剣+でカウンター攻撃を行う",
+    "name": "Sword Ballet+",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Sword Ballet+.",
     "target_area": 1,
     "state_vars": [
       110700257
     ],
-    "text_pop": "反撃態勢",
+    "text_pop": "Counter Stance",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -15137,8 +15137,8 @@
   {
     "id": 801041381,
     "state_change_id": 900050073,
-    "name": "練気散弾",
-    "flavor_text": "練気散弾で攻撃後、気弾で攻撃を行う",
+    "name": "Punishing Shots",
+    "flavor_text": "Attacks with Ki Blast after attacking with Punishing Shots.",
     "target_area": 1,
     "state_vars": [
       110500376
@@ -15155,11 +15155,11 @@
   {
     "id": 801041384,
     "state_change_id": 900040048,
-    "name": "ヒートアップ",
+    "name": "Heat Up",
     "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15173,8 +15173,8 @@
   {
     "id": 801041385,
     "state_change_id": 900050054,
-    "name": "HP回復(大)",
-    "flavor_text": "HPを回復する",
+    "name": "Recover HP (large)",
+    "flavor_text": "Recovers HP.",
     "target_area": 1,
     "state_vars": [
       30
@@ -15191,13 +15191,13 @@
   {
     "id": 801041386,
     "state_change_id": 900040101,
-    "name": "ガードアップ(小)",
+    "name": "Guard Up (small)",
     "flavor_text": "Reduces damage taken (can't stack).",
     "target_area": 1,
     "state_vars": [
       88
     ],
-    "text_pop": "防御↑",
+    "text_pop": "DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15211,13 +15211,13 @@
   {
     "id": 801041387,
     "state_change_id": 900040184,
-    "name": "ダメージブロック(1回)",
-    "flavor_text": "被ダメージを100%カットする( 上限回数:1 ※攻撃が命中した時のみ発動 )",
+    "name": "Damage Block (1 time)",
+    "flavor_text": "Decreases damage taken by 100% (Max times: 1). *Only activates when hit by an attack.",
     "target_area": 10,
     "state_vars": [
       0
     ],
-    "text_pop": "ダメージブロック",
+    "text_pop": "Damage Block",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "140300101",
     "ignition_effect_id": "",
@@ -15231,11 +15231,11 @@
   {
     "id": 801041388,
     "state_change_id": 900040152,
-    "name": "ガードダウン(中)",
+    "name": "Guard Down (medium)",
     "flavor_text": "Increases damage taken (can't stack).",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "防御↓",
+    "text_pop": "DEF↓",
     "text_color": "FF0000",
     "enchantment_effect_id": "Debuff",
     "ignition_effect_id": "",
@@ -15247,13 +15247,13 @@
   {
     "id": 801041391,
     "state_change_id": 900040036,
-    "name": "下り飛竜+",
-    "flavor_text": "敵からの直接攻撃を回避して、下り飛竜+でカウンター攻撃を行う",
+    "name": "Swooping Dragon+",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with Swooping Dragon+.",
     "target_area": 1,
     "state_vars": [
       110800265
     ],
-    "text_pop": "反撃態勢",
+    "text_pop": "Counter Stance",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -15269,7 +15269,7 @@
     "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15281,11 +15281,11 @@
   {
     "id": 801041401,
     "state_change_id": 900050156,
-    "name": "ODゲージアップ",
-    "flavor_text": "ODゲージが上昇する",
+    "name": "OD Gauge Up",
+    "flavor_text": "Increases OD gauge.",
     "target_area": 12,
     "state_vars": [],
-    "text_pop": "ODゲージ↑",
+    "text_pop": "OD Gauge↑",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "140100206",
     "ignition_effect_id": "",
@@ -15297,13 +15297,13 @@
   {
     "id": 801041403,
     "state_change_id": 900050113,
-    "name": "ターン終了時BP回復(+3)",
-    "flavor_text": "ターン終了時、自身のBPを回復する( +3 )",
+    "name": "End of Turn: Recover BP (+3)",
+    "flavor_text": "At end of turn, recovers own BP (+3).",
     "target_area": 1,
     "state_vars": [
       702101556
     ],
-    "text_pop": "英雄の構え",
+    "text_pop": "Heroic Stance",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -15315,7 +15315,7 @@
   {
     "id": 801041405,
     "state_change_id": 900040048,
-    "name": "ヒートアップ",
+    "name": "Heat Up",
     "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 1,
     "state_vars": [],
@@ -15333,13 +15333,13 @@
   {
     "id": 801041406,
     "state_change_id": 900040202,
-    "name": "防御態勢(間接/中)",
+    "name": "Defensive Stance (Indirect) (medium)",
     "flavor_text": "When being attacked by an indirect attack, reduces damage taken (can't stack).",
     "target_area": 3,
     "state_vars": [
       75
     ],
-    "text_pop": "防御態勢(間接)",
+    "text_pop": "Defensive Stance (Indirect)",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15353,13 +15353,13 @@
   {
     "id": 801041409,
     "state_change_id": 900040062,
-    "name": "ディフェンスアップ",
-    "flavor_text": "被ダメージが低下する",
+    "name": "Defense Up",
+    "flavor_text": "Decreases damage taken.",
     "target_area": 1,
     "state_vars": [
       80
     ],
-    "text_pop": "防御↑",
+    "text_pop": "DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15373,13 +15373,13 @@
   {
     "id": 801041410,
     "state_change_id": 900050113,
-    "name": "プレゼント忍法",
+    "name": "Ninjutsu Present",
     "flavor_text": "Starting from the next turn after entering this stance, after activating an attack, <skill=110100289>Ninjutsu: Present Swiftblade</skill> will be activated.",
     "target_area": 1,
     "state_vars": [
       702101566
     ],
-    "text_pop": "プレゼント忍法",
+    "text_pop": "Ninjutsu Present",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -15391,13 +15391,13 @@
   {
     "id": 801041412,
     "state_change_id": 900040062,
-    "name": "ディフェンスアップ",
-    "flavor_text": "被ダメージが低下する",
+    "name": "Defense Up",
+    "flavor_text": "Decreases damage taken.",
     "target_area": 1,
     "state_vars": [
       95
     ],
-    "text_pop": "防御↑",
+    "text_pop": "DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15411,13 +15411,13 @@
   {
     "id": 801041416,
     "state_change_id": 900040076,
-    "name": "ガードアップ(中)",
+    "name": "Guard Up (medium)",
     "flavor_text": "Reduces damage taken (can't stack).",
     "target_area": 8,
     "state_vars": [
       75
     ],
-    "text_pop": "防御↑",
+    "text_pop": "DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15431,13 +15431,13 @@
   {
     "id": 801041417,
     "state_change_id": 900050113,
-    "name": "癒しの祝福",
-    "flavor_text": "[ターン終了時] <br>味方生存者全体のHPを回復する( 確率中/効果極小 )",
+    "name": "Healing Favor",
+    "flavor_text": "[End of turn]<br>Recovers all surviving allies' HP (medium chance/very small effect).",
     "target_area": 12,
     "state_vars": [
       702400489
     ],
-    "text_pop": "癒しの祝福",
+    "text_pop": "Healing Favor",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "145500055",
     "ignition_effect_id": "",
@@ -15449,11 +15449,11 @@
   {
     "id": 801041418,
     "state_change_id": 900040154,
-    "name": "モラルダウン(中)",
+    "name": "Morale Down (medium)",
     "flavor_text": "Decreases damage dealt to enemies (can't stack).",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "攻撃↓",
+    "text_pop": "ATK↓",
     "text_color": "FF0000",
     "enchantment_effect_id": "Debuff",
     "ignition_effect_id": "",
@@ -15465,11 +15465,11 @@
   {
     "id": 801041419,
     "state_change_id": 900040109,
-    "name": "行動順補正上昇(小)",
-    "flavor_text": "行動順補正値が上昇する( 効果小 )",
+    "name": "Action Order Up (small)",
+    "flavor_text": "Increase in the action order value (small effect).",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "行動順補正↑",
+    "text_pop": "Action Order↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15481,11 +15481,11 @@
   {
     "id": 801041420,
     "state_change_id": 900040048,
-    "name": "ヒートアップ",
+    "name": "Heat Up",
     "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15499,11 +15499,11 @@
   {
     "id": 801041421,
     "state_change_id": 900040103,
-    "name": "ディフェンスダウン",
-    "flavor_text": "敵から受けるダメージが上昇する",
+    "name": "Defense Drop",
+    "flavor_text": "Increases damage taken.",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "防御↓",
+    "text_pop": "DEF↓",
     "text_color": "FF0000",
     "enchantment_effect_id": "Debuff",
     "ignition_effect_id": "",
@@ -15519,7 +15519,7 @@
     "flavor_text": "Increases damage dealt to enemies.",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "攻撃↑",
+    "text_pop": "ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15531,11 +15531,11 @@
   {
     "id": 801041426,
     "state_change_id": 900040047,
-    "name": "ステルス(中)",
+    "name": "Stealth (medium)",
     "flavor_text": "Decreases likelihood of being targeted by enemies.",
     "target_area": 12,
     "state_vars": [],
-    "text_pop": "ステルス",
+    "text_pop": "Stealth",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "Plane",
     "ignition_effect_id": "",
@@ -15547,8 +15547,8 @@
   {
     "id": 801041427,
     "state_change_id": 900050055,
-    "name": "BP回復",
-    "flavor_text": "BPが回復する",
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
     "target_area": 10,
     "state_vars": [
       2
@@ -15565,13 +15565,13 @@
   {
     "id": 801041429,
     "state_change_id": 900040062,
-    "name": "防御強化(特大)",
+    "name": "Defense Boost (very large)",
     "flavor_text": "Decreases damage taken.",
     "target_area": 1,
     "state_vars": [
       50
     ],
-    "text_pop": "防御↑",
+    "text_pop": "DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15585,8 +15585,8 @@
   {
     "id": 801041430,
     "state_change_id": 900050073,
-    "name": "幻術連唱",
-    "flavor_text": "幻術連唱で攻撃後、ジャッカル+で攻撃を行う",
+    "name": "Mirage Chant",
+    "flavor_text": "Attacks with Jackal+ after attacking with Mirage Chant.",
     "target_area": 1,
     "state_vars": [
       125600295
@@ -15603,8 +15603,8 @@
   {
     "id": 801041433,
     "state_change_id": 900050073,
-    "name": "幻術連唱",
-    "flavor_text": "幻術連唱で発動したジャッカル+で攻撃後、ナイトメア+で攻撃を行う",
+    "name": "Mirage Chant",
+    "flavor_text": "Attacks with Nightmare+ after attacking with Jackal+ activated by Mirage Chant.",
     "target_area": 1,
     "state_vars": [
       125600296
@@ -15621,11 +15621,11 @@
   {
     "id": 801041437,
     "state_change_id": 900040048,
-    "name": "OD攻撃強化(極大)",
-    "flavor_text": "OD攻撃のダメージが上昇する",
+    "name": "OverDrive Attack Boost (extreme)",
+    "flavor_text": "Increases damage dealt by OverDrive attacks.",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "OD攻撃↑",
+    "text_pop": "OD ATK↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15639,13 +15639,13 @@
   {
     "id": 801041438,
     "state_change_id": 900050113,
-    "name": "専心鏡明(4回)",
+    "name": "Clear Focus (4x)",
     "flavor_text": "[Start of turn]<br>Activates the following (Max times: 4 times):<br>・Grants oneself <special_effect=800000164>Critical Enhance</special_effect> (1 turn(s)).<br>・Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/1 turn(s)).<br>・Grants oneself <special_effect=800000013>Morale Up (very large)</special_effect> (1 turn(s)).<br>・Grants oneself <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).<br>・Recovers own BP (+4).",
     "target_area": 1,
     "state_vars": [
       702101643
     ],
-    "text_pop": "専心鏡明",
+    "text_pop": "Clear Focus",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -15657,11 +15657,11 @@
   {
     "id": 801041440,
     "state_change_id": 900050156,
-    "name": "ODゲージアップ",
-    "flavor_text": "ODゲージが上昇する",
+    "name": "OD Gauge Up",
+    "flavor_text": "Increases OD gauge.",
     "target_area": 12,
     "state_vars": [],
-    "text_pop": "ODゲージ↑",
+    "text_pop": "OD Gauge↑",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -15673,13 +15673,13 @@
   {
     "id": 801041445,
     "state_change_id": 900040076,
-    "name": "ガードアップ(中)",
+    "name": "Guard Up (medium)",
     "flavor_text": "Reduces damage taken (can't stack).",
     "target_area": 3,
     "state_vars": [
       75
     ],
-    "text_pop": "防御↑",
+    "text_pop": "DEF↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -15693,7 +15693,7 @@
   {
     "id": 801041446,
     "state_change_id": 900050113,
-    "name": "ターン開始時 ダメージブロック(1回)・BP回復",
+    "name": "Turn Start: Damage Block (1 time)/Recover BP",
     "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000118>Damage Block (1 time)</special_effect> (1 turn(s)).<br>Recovers own BP (+1).",
     "target_area": 1,
     "state_vars": [
@@ -20597,11 +20597,11 @@
   {
     "id": 802011447,
     "state_change_id": 900010015,
-    "name": "素早さアップ",
-    "flavor_text": "素早さが上昇する",
+    "name": "AGI Up",
+    "flavor_text": "Increases AGI.",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "素早さ↑",
+    "text_pop": "AGI↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -20613,11 +20613,11 @@
   {
     "id": 802011461,
     "state_change_id": 900010014,
-    "name": "器用さアップ",
-    "flavor_text": "器用さが上昇する",
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "能力↑",
+    "text_pop": "Attributes↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -20631,11 +20631,11 @@
   {
     "id": 802011472,
     "state_change_id": 900010016,
-    "name": "知力アップ",
-    "flavor_text": "知力が上昇する",
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "知力↑",
+    "text_pop": "INT↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -20649,11 +20649,11 @@
   {
     "id": 802011513,
     "state_change_id": 900010014,
-    "name": "器用さアップ",
-    "flavor_text": "器用さが上昇する",
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "器用さ↑",
+    "text_pop": "DEX↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -20665,8 +20665,8 @@
   {
     "id": 802011525,
     "state_change_id": 900050054,
-    "name": "HP回復(極小)",
-    "flavor_text": "HPを回復する",
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
     "target_area": 1,
     "state_vars": [
       0
@@ -20685,11 +20685,11 @@
   {
     "id": 802011537,
     "state_change_id": 900010017,
-    "name": "精神アップ",
-    "flavor_text": "精神が上昇する",
+    "name": "WIL Up",
+    "flavor_text": "Increases WIL.",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "精神↑",
+    "text_pop": "WIL↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -20701,11 +20701,11 @@
   {
     "id": 802011629,
     "state_change_id": 900010014,
-    "name": "器用さダウン",
-    "flavor_text": "器用さが低下する",
+    "name": "DEX Down",
+    "flavor_text": "Decreases DEX.",
     "target_area": 8,
     "state_vars": [],
-    "text_pop": "器用さ↓",
+    "text_pop": "DEX↓",
     "text_color": "FF0000",
     "enchantment_effect_id": "Debuff",
     "ignition_effect_id": "",
@@ -20719,11 +20719,11 @@
   {
     "id": 802011670,
     "state_change_id": 900010012,
-    "name": "腕力アップ",
-    "flavor_text": "腕力が上昇する",
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
     "target_area": 3,
     "state_vars": [],
-    "text_pop": "能力↑",
+    "text_pop": "Attributes↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "145500057",
     "ignition_effect_id": "",
@@ -20735,8 +20735,8 @@
   {
     "id": 802011671,
     "state_change_id": 900010013,
-    "name": "体力アップ",
-    "flavor_text": "体力が上昇する",
+    "name": "END Up",
+    "flavor_text": "Increases END.",
     "target_area": 3,
     "state_vars": [],
     "text_pop": "",
@@ -20751,8 +20751,8 @@
   {
     "id": 802011672,
     "state_change_id": 900010014,
-    "name": "器用さアップ",
-    "flavor_text": "器用さが上昇する",
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
     "target_area": 3,
     "state_vars": [],
     "text_pop": "",
@@ -20767,8 +20767,8 @@
   {
     "id": 802011673,
     "state_change_id": 900010015,
-    "name": "素早さアップ",
-    "flavor_text": "素早さが上昇する",
+    "name": "AGI Up",
+    "flavor_text": "Increases AGI.",
     "target_area": 3,
     "state_vars": [],
     "text_pop": "",
@@ -20783,8 +20783,8 @@
   {
     "id": 802011674,
     "state_change_id": 900010016,
-    "name": "知力アップ",
-    "flavor_text": "知力が上昇する",
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
     "target_area": 3,
     "state_vars": [],
     "text_pop": "",
@@ -20799,8 +20799,8 @@
   {
     "id": 802011675,
     "state_change_id": 900010017,
-    "name": "精神アップ",
-    "flavor_text": "精神が上昇する",
+    "name": "WIL Up",
+    "flavor_text": "Increases WIL.",
     "target_area": 3,
     "state_vars": [],
     "text_pop": "",
@@ -20815,8 +20815,8 @@
   {
     "id": 802011676,
     "state_change_id": 900010018,
-    "name": "愛アップ",
-    "flavor_text": "愛が上昇する",
+    "name": "LOV Up",
+    "flavor_text": "Increases LOV.",
     "target_area": 3,
     "state_vars": [],
     "text_pop": "",
@@ -20831,8 +20831,8 @@
   {
     "id": 802011677,
     "state_change_id": 900010019,
-    "name": "魅力アップ",
-    "flavor_text": "魅力が上昇する",
+    "name": "CHA Up",
+    "flavor_text": "Increases CHA.",
     "target_area": 3,
     "state_vars": [],
     "text_pop": "",
@@ -20847,11 +20847,11 @@
   {
     "id": 802011679,
     "state_change_id": 900010012,
-    "name": "腕力ダウン",
-    "flavor_text": "腕力が低下する",
+    "name": "STR Down",
+    "flavor_text": "Decreases STR.",
     "target_area": 5,
     "state_vars": [],
-    "text_pop": "能力↓",
+    "text_pop": "Attributes↓",
     "text_color": "FF0000",
     "enchantment_effect_id": "Debuff",
     "ignition_effect_id": "",
@@ -20863,8 +20863,8 @@
   {
     "id": 802011680,
     "state_change_id": 900010013,
-    "name": "体力ダウン",
-    "flavor_text": "体力が低下する",
+    "name": "END Down",
+    "flavor_text": "Decreases END.",
     "target_area": 5,
     "state_vars": [],
     "text_pop": "",
@@ -20879,8 +20879,8 @@
   {
     "id": 802011681,
     "state_change_id": 900010014,
-    "name": "器用さダウン",
-    "flavor_text": "器用さが低下する",
+    "name": "DEX Down",
+    "flavor_text": "Decreases DEX.",
     "target_area": 5,
     "state_vars": [],
     "text_pop": "",
@@ -20895,8 +20895,8 @@
   {
     "id": 802011683,
     "state_change_id": 900010016,
-    "name": "知力ダウン",
-    "flavor_text": "知力が低下する",
+    "name": "INT Down",
+    "flavor_text": "Decreases INT.",
     "target_area": 5,
     "state_vars": [],
     "text_pop": "",
@@ -20911,8 +20911,8 @@
   {
     "id": 802011685,
     "state_change_id": 900010018,
-    "name": "愛ダウン",
-    "flavor_text": "愛が低下する",
+    "name": "LOV Down",
+    "flavor_text": "Decreases LOV.",
     "target_area": 5,
     "state_vars": [],
     "text_pop": "",
@@ -20927,8 +20927,8 @@
   {
     "id": 802011686,
     "state_change_id": 900010019,
-    "name": "魅力ダウン",
-    "flavor_text": "魅力が低下する",
+    "name": "CHA Down",
+    "flavor_text": "Decreases CHA.",
     "target_area": 5,
     "state_vars": [],
     "text_pop": "",
@@ -20943,11 +20943,11 @@
   {
     "id": 802011692,
     "state_change_id": 900010014,
-    "name": "器用さアップ",
-    "flavor_text": "器用さが上昇する",
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "器用さ↑ ",
+    "text_pop": "DEX↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -20961,11 +20961,11 @@
   {
     "id": 802011693,
     "state_change_id": 900010015,
-    "name": "素早さアップ",
-    "flavor_text": "素早さが上昇する",
+    "name": "AGI Up",
+    "flavor_text": "Increases AGI.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "素早さ↑",
+    "text_pop": "AGI↑",
     "text_color": "65D2FF",
     "enchantment_effect_id": "Buff",
     "ignition_effect_id": "",
@@ -23317,11 +23317,11 @@
   {
     "id": 802031650,
     "state_change_id": 900030005,
-    "name": "眠り",
-    "flavor_text": "行動不能になる<br>ターン経過もしくは敵の攻撃を受けると回復する",
+    "name": "Sleep",
+    "flavor_text": "Character is incapacitated.<br>Recovers after some number of turns or when attacked.",
     "target_area": 1,
     "state_vars": [],
-    "text_pop": "眠り",
+    "text_pop": "Sleep",
     "text_color": "FFFFFF",
     "enchantment_effect_id": "",
     "ignition_effect_id": "",
@@ -80057,6 +80057,118 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040156,
+    "state_change_id": 900040062,
+    "name": "Nullify Damage (Shadow)",
+    "flavor_text": "Nullifies attacks which have shadow damage.",
+    "target_area": 10,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "Light of Dawn",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "140500276",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      23008
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040157,
+    "state_change_id": 900040048,
+    "name": "Attack Boost (large)",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "ATK/DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "140200183",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040158,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (small)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 10,
+    "state_vars": [
+      85
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040159,
+    "state_change_id": 900040102,
+    "name": "Energy Charge Stance",
+    "flavor_text": "Starts the countdown (2 counts).<br>The count will decrease by 1 by the end of each turn, and <skill=1110200065>Osaki Pigeon Whistle</skill> will be activated on the turn after the count turns 0.",
+    "target_area": 1,
+    "state_vars": [
+      2,
+      1110200065,
+      10
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "ChargeAttack",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3002
+  },
+  {
+    "id": 1801040160,
+    "state_change_id": 900040063,
+    "name": "Morale Up (very large)",
+    "flavor_text": "Increases damage dealt to enemies (can't stack).",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "ATK/DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "140200184",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040161,
+    "state_change_id": 900040076,
+    "name": "Guard Up (medium)",
+    "flavor_text": "Reduces damage taken (can't stack).",
+    "target_area": 10,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040335,
     "state_change_id": 900040062,
     "name": "Defense Boost (small)",
@@ -84900,6 +85012,46 @@
     "display_flag": 1,
     "applying_effect_condition_ids": [
       9
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040218,
+    "state_change_id": 900050055,
+    "name": "BP Recovery",
+    "flavor_text": "Recovers own BP.",
+    "target_area": 1,
+    "state_vars": [
+      2
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      22011
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040219,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 3,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      22013
     ],
     "triggering_effect_condition_ids": [],
     "state_icon": 3001
