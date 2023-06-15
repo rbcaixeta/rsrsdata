@@ -48197,6 +48197,33 @@
     "sort_order": 0
   },
   {
+    "id": 1702100131,
+    "name": "Another Stick",
+    "flavor_text": "Cold attacks' damage increases (very large effect).<br>When attacking, <skill=1110200070>Icy Wind</skill> will be activated (Max times: 1 time per round).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040220,
+      1802040221
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100132,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When attacking, <skill=1110200070>Icy Wind</skill> will be activated (Max times: 1 time per round).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040222
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",

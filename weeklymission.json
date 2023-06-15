@@ -2698,5 +2698,29 @@
     "ribbon_text": "Added!",
     "trigger_quest_id": 100201053,
     "trigger_player_rank": 75
+  },
+  {
+    "id": 1000010003,
+    "summary": "最果ての決戦島を2回クリア",
+    "description": "最果ての決戦島を2回クリアする",
+    "reward_type": 20,
+    "reward_id": 881003,
+    "reward_quantity": 6,
+    "priority": 3000,
+    "ribbon_text": "追加！",
+    "trigger_quest_id": 100201053,
+    "trigger_player_rank": 75
+  },
+  {
+    "id": 1000010004,
+    "summary": "最果ての決戦島を3回クリア",
+    "description": "最果ての決戦島を3回クリアする",
+    "reward_type": 20,
+    "reward_id": 881004,
+    "reward_quantity": 6,
+    "priority": 2999,
+    "ribbon_text": "追加！",
+    "trigger_quest_id": 100201053,
+    "trigger_player_rank": 75
   }
 ]

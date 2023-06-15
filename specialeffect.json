@@ -85057,6 +85057,63 @@
     "state_icon": 3001
   },
   {
+    "id": 1802040220,
+    "state_change_id": 900040048,
+    "name": "Cold Attack Boost",
+    "flavor_text": "Increases damage dealt by cold attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Cold ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      22005
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040221,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When attacking, <skill=1110200070>Icy Wind</skill> will be activated (Max times: 1 time per round).",
+    "target_area": 1,
+    "state_vars": [
+      1702100132
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040222,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When attacking, activates Icy Wind.",
+    "target_area": 1,
+    "state_vars": [
+      1110200070
+    ],
+    "text_pop": "Another Stick",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24408,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1802040362,
     "state_change_id": 900040048,
     "name": "Attack Boost (large)",
