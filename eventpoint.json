@@ -1590,6 +1590,16 @@
     "selling_price": 0
   },
   {
+    "id": 800219,
+    "name": "Romancing Festival Medal 99",
+    "flavor_text": "Obtained from participating in a specific Romancing Festival. Can be exchanged for items and Styles.",
+    "icon": 800219,
+    "max_quantity": 99999999,
+    "expired_at": 1689728399,
+    "sort_order": 23062160,
+    "selling_price": 0
+  },
+  {
     "id": 860001,
     "name": "White Crystal",
     "flavor_text": "Can be exchanged for Platinum Tickets and other items.",
@@ -6210,6 +6220,16 @@
     "selling_price": 0
   },
   {
+    "id": 1100758,
+    "name": "Precious Stone [Limited Time]",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100233,
+    "max_quantity": 99999999,
+    "expired_at": 1689728399,
+    "sort_order": 23062170,
+    "selling_price": 0
+  },
+  {
     "id": 1100760,
     "name": "Takeshita Ice Cream Bar BOX Surprises Ticket [Ltd. Time]",
     "flavor_text": "Collect 10 tickets to pull 1 Templar Galahad & Takeshita Ice Cream Bar BOX Surprises. (Until [1689296399] <tz>)",
@@ -6217,6 +6237,16 @@
     "max_quantity": 99999999,
     "expired_at": 1689296399,
     "sort_order": 23061500,
+    "selling_price": 0
+  },
+  {
+    "id": 1100761,
+    "name": "Romancing Saga Postcards",
+    "flavor_text": "Obtained from corresponding events. Can be exchanged for items.",
+    "icon": 1100761,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 23062120,
     "selling_price": 0
   },
   {
@@ -7387,6 +7417,26 @@
     "max_quantity": 99999999,
     "expired_at": 1689296399,
     "sort_order": 99999999,
+    "selling_price": 0
+  },
+  {
+    "id": 1001100251,
+    "name": "Marine Rare Metal",
+    "flavor_text": "Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1001100251,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 42000011,
+    "selling_price": 0
+  },
+  {
+    "id": 1001100252,
+    "name": "Marine Mold Piece (Spear)",
+    "flavor_text": "[Weapon: Spear] Material for forging equipment. Can be obtained from events and other special venues.",
+    "icon": 1001100252,
+    "max_quantity": 99999999,
+    "expired_at": 0,
+    "sort_order": 42000010,
     "selling_price": 0
   }
 ]

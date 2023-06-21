@@ -48224,6 +48224,126 @@
     "sort_order": 0
   },
   {
+    "id": 1702100133,
+    "name": "Sealord's Territory",
+    "flavor_text": "[Start of round]<br>Grants oneself <special_effect=800000095>Heat Up</special_effect> (large effect). (Max times: 10 times per battle).<br>Grants all enemies <special_effect=800000136>Defense Drop</special_effect> (medium effect).<br><br>[On every 3 turns counting from the start of battle]<br>Removes all surviving allies' debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.<br>Increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041408,
+      802041409,
+      802041410,
+      1802040223
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100134,
+    "name": "Start of Every 3 Turns: Attributes Up",
+    "flavor_text": "On every 3 turns counting from the start of battle, increases all surviving allies' STR/END/DEX/AGI/INT/WIL/LOV/CHA (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040224,
+      1802040225,
+      1802040226,
+      1802040227,
+      1802040228,
+      1802040229,
+      1802040230,
+      1802040231
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100135,
+    "name": "Earthlord's Deeds",
+    "flavor_text": "When landing an attack, increases own STR (large effect).<br>When landing a direct attack, recovers own BP (+1).<br><br>When being attacked, increases own END/WIL (medium effect).<br>When being directly attacked, grants oneself <special_effect=800000095>Heat Up</special_effect> (large effect). (Max times: 10 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040232,
+      1802040233,
+      1802040091,
+      802041418
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100136,
+    "name": "STR Up on Attack",
+    "flavor_text": "When landing an attack, increases own STR (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040234
+    ],
+    "ability_when": 6,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100137,
+    "name": "Recover BP on Direct Attack",
+    "flavor_text": "When landing a direct attack, recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040235
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100138,
+    "name": "Firelord's Manner",
+    "flavor_text": "Nullifies attacks which have heat damage.<br>Critical attacks' damage increases (extreme effect).<br><br>[When landing a Critical attack]<br>Recovers own BP (+2).<br>Grants oneself <special_effect=800000096>Defense Up</special_effect> (large effect) (Max times: 5 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040473,
+      802041471,
+      1802040236,
+      1802040237
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100139,
+    "name": "Recover BP on Critical Attack",
+    "flavor_text": "When landing a Critical attack, recovers own BP (+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040238
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100140,
+    "name": "Defense Up on Critical Attack",
+    "flavor_text": "When landing a Critical attack, grants oneself <special_effect=800000096>Defense Up</special_effect> (large effect) (Max times: 5 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040239
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",

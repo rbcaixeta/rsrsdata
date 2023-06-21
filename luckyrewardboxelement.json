@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": 1,
+    "lucky_reward_box_id": 100001,
+    "asset_id": 100001,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100761,
+        "quantity": 1600
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "lucky_reward_box_id": 100001,
+    "asset_id": 100002,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100761,
+        "quantity": 3000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "lucky_reward_box_id": 100001,
+    "asset_id": 100003,
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100761,
+        "quantity": 6500
+      }
+    ]
+  }
+]

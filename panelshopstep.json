@@ -1,5 +1,436 @@
 [
   {
+    "id": 900100,
+    "panel_shop_id": 909001,
+    "step": 1,
+    "panel_illust_id": 100004,
+    "loop": 0,
+    "step_reward_type": 1,
+    "step_reward_id": 100002,
+    "step_reward_quantity": 1000,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      900101,
+      900102,
+      900103,
+      900104,
+      900105,
+      900106,
+      900107,
+      900108,
+      900109,
+      900110,
+      900111,
+      900112,
+      900113,
+      900114,
+      900115,
+      900116
+    ]
+  },
+  {
+    "id": 900200,
+    "panel_shop_id": 909001,
+    "step": 2,
+    "panel_illust_id": 100005,
+    "loop": 0,
+    "step_reward_type": 2,
+    "step_reward_id": 105001,
+    "step_reward_quantity": 100,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      900201,
+      900202,
+      900203,
+      900204
+    ]
+  },
+  {
+    "id": 900300,
+    "panel_shop_id": 909001,
+    "step": 3,
+    "panel_illust_id": 100006,
+    "loop": 0,
+    "step_reward_type": 1,
+    "step_reward_id": 100002,
+    "step_reward_quantity": 1000,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      900301,
+      900302,
+      900303,
+      900304
+    ]
+  },
+  {
+    "id": 900400,
+    "panel_shop_id": 909001,
+    "step": 4,
+    "panel_illust_id": 100007,
+    "loop": 0,
+    "step_reward_type": 2,
+    "step_reward_id": 105001,
+    "step_reward_quantity": 100,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      900401,
+      900402,
+      900403,
+      900404
+    ]
+  },
+  {
+    "id": 900500,
+    "panel_shop_id": 909001,
+    "step": 5,
+    "panel_illust_id": 100008,
+    "loop": 0,
+    "step_reward_type": 1,
+    "step_reward_id": 100002,
+    "step_reward_quantity": 1000,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      900501,
+      900502,
+      900503,
+      900504
+    ]
+  },
+  {
+    "id": 900600,
+    "panel_shop_id": 909001,
+    "step": 6,
+    "panel_illust_id": 100009,
+    "loop": 0,
+    "step_reward_type": 2,
+    "step_reward_id": 105001,
+    "step_reward_quantity": 50,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      900601,
+      900602,
+      900603,
+      900604
+    ]
+  },
+  {
+    "id": 900700,
+    "panel_shop_id": 909001,
+    "step": 7,
+    "panel_illust_id": 100010,
+    "loop": 0,
+    "step_reward_type": 1,
+    "step_reward_id": 100002,
+    "step_reward_quantity": 1000,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      900701,
+      900702,
+      900703,
+      900704
+    ]
+  },
+  {
+    "id": 900800,
+    "panel_shop_id": 909001,
+    "step": 8,
+    "panel_illust_id": 100011,
+    "loop": 0,
+    "step_reward_type": 2,
+    "step_reward_id": 105001,
+    "step_reward_quantity": 50,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      900801,
+      900802,
+      900803,
+      900804
+    ]
+  },
+  {
+    "id": 900900,
+    "panel_shop_id": 909001,
+    "step": 9,
+    "panel_illust_id": 100012,
+    "loop": 0,
+    "step_reward_type": 1,
+    "step_reward_id": 100002,
+    "step_reward_quantity": 1000,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      900901,
+      900902,
+      900903,
+      900904
+    ]
+  },
+  {
+    "id": 901000,
+    "panel_shop_id": 909001,
+    "step": 10,
+    "panel_illust_id": 100013,
+    "loop": 0,
+    "step_reward_type": 2,
+    "step_reward_id": 105001,
+    "step_reward_quantity": 50,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      901001,
+      901002,
+      901003,
+      901004,
+      901005,
+      901006,
+      901007,
+      901008,
+      901009,
+      901010,
+      901011,
+      901012,
+      901013,
+      901014,
+      901015,
+      901016
+    ]
+  },
+  {
+    "id": 901100,
+    "panel_shop_id": 909001,
+    "step": 11,
+    "panel_illust_id": 100014,
+    "loop": 0,
+    "step_reward_type": 20,
+    "step_reward_id": 881003,
+    "step_reward_quantity": 24,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      901101,
+      901102,
+      901103,
+      901104,
+      901105,
+      901106,
+      901107,
+      901108,
+      901109
+    ]
+  },
+  {
+    "id": 901200,
+    "panel_shop_id": 909001,
+    "step": 12,
+    "panel_illust_id": 100015,
+    "loop": 0,
+    "step_reward_type": 2,
+    "step_reward_id": 105001,
+    "step_reward_quantity": 50,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      901201,
+      901202,
+      901203,
+      901204,
+      901205,
+      901206,
+      901207,
+      901208,
+      901209
+    ]
+  },
+  {
+    "id": 901300,
+    "panel_shop_id": 909001,
+    "step": 13,
+    "panel_illust_id": 100016,
+    "loop": 0,
+    "step_reward_type": 20,
+    "step_reward_id": 881004,
+    "step_reward_quantity": 24,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      901301,
+      901302,
+      901303,
+      901304,
+      901305,
+      901306,
+      901307,
+      901308,
+      901309
+    ]
+  },
+  {
+    "id": 901400,
+    "panel_shop_id": 909001,
+    "step": 14,
+    "panel_illust_id": 100017,
+    "loop": 0,
+    "step_reward_type": 2,
+    "step_reward_id": 105001,
+    "step_reward_quantity": 50,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      901401,
+      901402,
+      901403,
+      901404,
+      901405,
+      901406,
+      901407,
+      901408,
+      901409
+    ]
+  },
+  {
+    "id": 901500,
+    "panel_shop_id": 909001,
+    "step": 15,
+    "panel_illust_id": 100018,
+    "loop": 0,
+    "step_reward_type": 20,
+    "step_reward_id": 881003,
+    "step_reward_quantity": 24,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      901501,
+      901502,
+      901503,
+      901504,
+      901505,
+      901506,
+      901507,
+      901508,
+      901509
+    ]
+  },
+  {
+    "id": 901600,
+    "panel_shop_id": 909001,
+    "step": 16,
+    "panel_illust_id": 100019,
+    "loop": 0,
+    "step_reward_type": 2,
+    "step_reward_id": 105001,
+    "step_reward_quantity": 50,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      901601,
+      901602,
+      901603,
+      901604,
+      901605,
+      901606,
+      901607,
+      901608,
+      901609
+    ]
+  },
+  {
+    "id": 901700,
+    "panel_shop_id": 909001,
+    "step": 17,
+    "panel_illust_id": 100020,
+    "loop": 0,
+    "step_reward_type": 20,
+    "step_reward_id": 881004,
+    "step_reward_quantity": 12,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      901701,
+      901702,
+      901703,
+      901704,
+      901705,
+      901706,
+      901707,
+      901708,
+      901709
+    ]
+  },
+  {
+    "id": 901800,
+    "panel_shop_id": 909001,
+    "step": 18,
+    "panel_illust_id": 100021,
+    "loop": 0,
+    "step_reward_type": 2,
+    "step_reward_id": 105001,
+    "step_reward_quantity": 50,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      901801,
+      901802,
+      901803,
+      901804,
+      901805,
+      901806,
+      901807,
+      901808,
+      901809
+    ]
+  },
+  {
+    "id": 901900,
+    "panel_shop_id": 909001,
+    "step": 19,
+    "panel_illust_id": 100022,
+    "loop": 0,
+    "step_reward_type": 20,
+    "step_reward_id": 881004,
+    "step_reward_quantity": 12,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      901901,
+      901902,
+      901903,
+      901904,
+      901905,
+      901906,
+      901907,
+      901908,
+      901909
+    ]
+  },
+  {
+    "id": 902000,
+    "panel_shop_id": 909001,
+    "step": 20,
+    "panel_illust_id": 100023,
+    "loop": 0,
+    "step_reward_type": 2,
+    "step_reward_id": 105001,
+    "step_reward_quantity": 50,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      902001,
+      902002,
+      902003,
+      902004,
+      902005,
+      902006,
+      902007,
+      902008,
+      902009
+    ]
+  },
+  {
+    "id": 902100,
+    "panel_shop_id": 909001,
+    "step": 21,
+    "panel_illust_id": 0,
+    "loop": 1,
+    "step_reward_type": 2,
+    "step_reward_id": 105001,
+    "step_reward_quantity": 5,
+    "lucky_reward_box_id": 100001,
+    "panel_shop_product_ids": [
+      902101,
+      902102,
+      902103,
+      902104
+    ]
+  },
+  {
     "id": 902200,
     "panel_shop_id": 909002,
     "step": 1,
