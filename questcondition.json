@@ -275,5 +275,39 @@
     ],
     "value2": 0,
     "description": "Start this quest with at least 1 RS2 female character."
+  },
+  {
+    "id": 1000000012,
+    "values": [
+      11,
+      12,
+      13,
+      23,
+      41,
+      71
+    ],
+    "value2": 0,
+    "description": "Start this quest with 5 GBSaGa/RS3/US/SaGaRS characters."
+  },
+  {
+    "id": 1000000013,
+    "values": [
+      21,
+      31,
+      51,
+      1001
+    ],
+    "value2": 0,
+    "description": "Start this quest with 5 RS1/SF1/ES/Other characters."
+  },
+  {
+    "id": 1000000014,
+    "values": [
+      22,
+      32,
+      61
+    ],
+    "value2": 0,
+    "description": "Start this quest with 5 RS2/SF2/SSG characters."
   }
 ]

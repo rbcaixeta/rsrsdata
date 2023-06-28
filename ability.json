@@ -3147,7 +3147,7 @@
   {
     "id": 702101014,
     "name": "Thermosphere",
-    "flavor_text": "When hit by an attack which have heat damage, nullifies the damage and recovers own HP (very small effect), and increases own INT (large effect).<br>When being directly attacked, counterattacks with <skill=125100205>Air Slash+</skill><br>(Counterattacks will not activate when parry is used in the same turn).<br>(Activates using spell Rank 1).",
+    "flavor_text": "When hit by an attack which have heat damage, nullifies the damage and recovers own HP (very small effect), and increases own INT (large effect).<br>When being directly attacked, counterattacks with <skill=125100205>Air Slash+</skill>.<br>(Counterattacks will not activate when parry is used in the same turn).<br>(Activates using spell Rank 1).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040923,
@@ -48337,6 +48337,158 @@
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802040239
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100141,
+    "name": "Elemental Heal Ⅱ",
+    "flavor_text": "[End of turn]<br>Recovers own HP (very small effect).<br><br>On odd turns counting from the start of battle, recovers own BP (+2).<br>On even turns counting from the start of battle, increases own AGI/INT/WIL (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041224,
+      802041225,
+      1802040240
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100142,
+    "name": "Even Turn Start: AGI/INT/WIL Up",
+    "flavor_text": "On even turns counting from the start of battle, increases own AGI/INT/WIL (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011275,
+      802010773,
+      802010774
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100143,
+    "name": "In Element",
+    "flavor_text": "When attacked, increases own INT (large effect) and nullifies attacks which have sun damage.<br>Also counterattacks with <skill=1125200031>Twin Goldfish</skill> when being directly attacked.<br>(Counterattacks will not activate when parry is used in the same turn).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040241,
+      1802040242
+    ],
+    "ability_when": 1,
+    "icon": 2004,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100144,
+    "name": "INT Up When Attacked",
+    "flavor_text": "When being attacked, increases own INT (large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040243
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100145,
+    "name": "Clarity of Mind",
+    "flavor_text": "Attacks' damage increases (very large effect).<br><br>[When landing an attack]<br>Recovers own HP (very small effect) and recovers own BP (+1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=1125100035>Cure Fire</skill> will be activated (high chance).<br>(Activates using spell Rank 1).<br><skill=1125200032>Cure Water</skill> will be activated (high chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040346,
+      1802040244,
+      1802040245,
+      1802040246
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100146,
+    "name": "Recover HP/BP on Attack",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect) and recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040622,
+      802040742
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100147,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=1125100035>Cure Fire</skill> will be activated (high chance).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040247,
+      1802040248,
+      1802040249,
+      1802040250,
+      1802040251
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100148,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=1125200032>Cure Water</skill> will be activated (high chance).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040252,
+      1802040253,
+      1802040254,
+      1802040255,
+      1802040256
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100149,
+    "name": "Sweet Tooth",
+    "flavor_text": "When attacked, damage taken will be reduced (large effect).<br><br>[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack*, <skill=1125400017>Sweet Smell</skill> will be activated.<br>(Activates using spell Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated by this Ability, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040361,
+      802041152,
+      1802040257
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100150,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "After activating an OD attack, <skill=1125400017>Sweet Smell</skill> will be activated.<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040258,
+      1802040259,
+      1802040260,
+      1802040261
     ],
     "ability_when": 6,
     "icon": 4010,

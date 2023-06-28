@@ -76331,6 +76331,22 @@
     "state_icon": 1031
   },
   {
+    "id": 1800000011,
+    "state_change_id": 900030001,
+    "name": "Phantom",
+    "flavor_text": "When being attacked, evades enemy's attack (medium chance).",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 1031
+  },
+  {
     "id": 1801010001,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -80215,6 +80231,329 @@
     "applying_effect_condition_ids": [],
     "triggering_effect_condition_ids": [],
     "state_icon": 2001
+  },
+  {
+    "id": 1801040165,
+    "state_change_id": 900010015,
+    "name": "AGI Up",
+    "flavor_text": "Increases AGI.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "Attributes↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040166,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040167,
+    "state_change_id": 900010017,
+    "name": "WIL Up",
+    "flavor_text": "Increases WIL.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040168,
+    "state_change_id": 900010019,
+    "name": "CHA Up",
+    "flavor_text": "Increases CHA.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040169,
+    "state_change_id": 900040080,
+    "name": "Evasion",
+    "flavor_text": "Evades enemy attacks (medium chance).",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "Phantom",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "145200122",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040170,
+    "state_change_id": 900050055,
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
+    "target_area": 8,
+    "state_vars": [
+      3
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040171,
+    "state_change_id": 900050156,
+    "name": "OD Gauge Up",
+    "flavor_text": "Increases OD gauge.",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "OD Gauge↑",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040172,
+    "state_change_id": 900050067,
+    "name": "Remove Attributes Down",
+    "flavor_text": "Removes debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "target_area": 3,
+    "state_vars": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_pop": "Remove Attributes Down",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040173,
+    "state_change_id": 900010012,
+    "name": "STR Up",
+    "flavor_text": "Increases STR.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "Attributes↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040174,
+    "state_change_id": 900010013,
+    "name": "END Up",
+    "flavor_text": "Increases END.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040175,
+    "state_change_id": 900010014,
+    "name": "DEX Up",
+    "flavor_text": "Increases DEX.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040176,
+    "state_change_id": 900010015,
+    "name": "AGI Up",
+    "flavor_text": "Increases AGI.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040177,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040178,
+    "state_change_id": 900010017,
+    "name": "WIL Up",
+    "flavor_text": "Increases WIL.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040179,
+    "state_change_id": 900010018,
+    "name": "LOV Up",
+    "flavor_text": "Increases LOV.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040180,
+    "state_change_id": 900010019,
+    "name": "CHA Up",
+    "flavor_text": "Increases CHA.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040181,
+    "state_change_id": 900040048,
+    "name": "Attack Boost (large)",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK/DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040182,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (small)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      85
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040183,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 8,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
   },
   {
     "id": 1801040335,
@@ -85457,6 +85796,459 @@
     "triggering_effect_condition_ids": [
       14
     ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040240,
+    "state_change_id": 900050113,
+    "name": "Even Turn Start: AGI/INT/WIL Up",
+    "flavor_text": "On even turns counting from the start of battle, increases own AGI/INT/WIL (medium effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702100142
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040241,
+    "state_change_id": 900040111,
+    "name": "In Element",
+    "flavor_text": "Nullifies attacks which have sun damage. Also counterattacks with <skill=1125200031>Twin Goldfish</skill> when being directly attacked.",
+    "target_area": 1,
+    "state_vars": [
+      1125200031,
+      7
+    ],
+    "text_pop": "In Element",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "145600078",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040242,
+    "state_change_id": 900050113,
+    "name": "INT Up When Attacked",
+    "flavor_text": "When being attacked, increases own INT (large effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702100144
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040243,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "INT↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24407
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1802040244,
+    "state_change_id": 900050113,
+    "name": "Recover HP/BP on Attack",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect) and recovers own BP (+1).",
+    "target_area": 1,
+    "state_vars": [
+      1702100146
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040245,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=1125100035>Cure Fire</skill> will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100147
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040246,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=1125200032>Cure Water</skill> will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100148
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040247,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 1, Cure Fire will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125100035
+    ],
+    "text_pop": "Clarity of Mind",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040248,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 2, Cure Fire will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125100035
+    ],
+    "text_pop": "Clarity of Mind",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040249,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 3, Cure Fire will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125100035
+    ],
+    "text_pop": "Clarity of Mind",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040250,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an inherited skill, Cure Fire will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125100035
+    ],
+    "text_pop": "Clarity of Mind",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040251,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing a normal attack, Cure Fire will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125100035
+    ],
+    "text_pop": "Clarity of Mind",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040252,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 1, Cure Water will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125200032
+    ],
+    "text_pop": "Clarity of Mind",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040253,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 2, Cure Water will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125200032
+    ],
+    "text_pop": "Clarity of Mind",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040254,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 3, Cure Water will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125200032
+    ],
+    "text_pop": "Clarity of Mind",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040255,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an inherited skill, Cure Water will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125200032
+    ],
+    "text_pop": "Clarity of Mind",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040256,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing a normal attack, Cure Water will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125200032
+    ],
+    "text_pop": "Clarity of Mind",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040257,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "On OD attacks, activates <skill=1125400017>Sweet Smell</skill>.",
+    "target_area": 1,
+    "state_vars": [
+      1702100150
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040258,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Sweet Smell after activating an OD attack with skill 2.",
+    "target_area": 1,
+    "state_vars": [
+      1125400017
+    ],
+    "text_pop": "Sweet Tooth",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9,
+      33,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040259,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Sweet Smell after activating an OD attack with skill 3.",
+    "target_area": 1,
+    "state_vars": [
+      1125400017
+    ],
+    "text_pop": "Sweet Tooth",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9,
+      34,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040260,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Sweet Smell after activating an OD attack with a normal attack.",
+    "target_area": 1,
+    "state_vars": [
+      1125400017
+    ],
+    "text_pop": "Sweet Tooth",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9,
+      30,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040261,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Sweet Smell after activating an OD attack with an inherited skill.",
+    "target_area": 1,
+    "state_vars": [
+      1125400017
+    ],
+    "text_pop": "Sweet Tooth",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9,
+      31,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
     "state_icon": 3001
   },
   {
