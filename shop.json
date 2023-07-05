@@ -5440,6 +5440,64 @@
     "end_at": 1687481999
   },
   {
+    "id": 4900466,
+    "shop_type": 4,
+    "banner": 1000215,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 800208
+      }
+    ],
+    "tab_category": 1,
+    "shop_filter_type": 0,
+    "priority": 10225,
+    "start_at": 1688605200,
+    "end_at": 1691369999
+  },
+  {
+    "id": 4900467,
+    "shop_type": 4,
+    "banner": 1000216,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 800209
+      }
+    ],
+    "tab_category": 1,
+    "shop_filter_type": 0,
+    "priority": 10224,
+    "start_at": 1688605200,
+    "end_at": 1691369999
+  },
+  {
+    "id": 4900468,
+    "shop_type": 4,
+    "banner": 901180,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 1100734
+      },
+      {
+        "currency": 4,
+        "id": 1100735
+      }
+    ],
+    "tab_category": 1,
+    "shop_filter_type": 2,
+    "priority": 7035,
+    "start_at": 1688950800,
+    "end_at": 1691369999
+  },
+  {
     "id": 4900469,
     "shop_type": 4,
     "banner": 1000217,
@@ -7683,5 +7741,23 @@
     "priority": 7034,
     "start_at": 1688000400,
     "end_at": 1690419599
+  },
+  {
+    "id": 1004900125,
+    "shop_type": 4,
+    "banner": 901181,
+    "currency": 0,
+    "currency_item_ids": [],
+    "currency_items": [
+      {
+        "currency": 4,
+        "id": 1100736
+      }
+    ],
+    "tab_category": 1,
+    "shop_filter_type": 0,
+    "priority": 7036,
+    "start_at": 1688950800,
+    "end_at": 1691369999
   }
 ]

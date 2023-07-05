@@ -48496,6 +48496,180 @@
     "sort_order": 0
   },
   {
+    "id": 1702100151,
+    "name": "Action Switch",
+    "flavor_text": "When attacking with cold attacks, grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/3 turn(s)), and recovers own BP (+2).<br>When attacking with shadow attacks, grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/3 turn(s)), and recovers own HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040262,
+      1802040263,
+      1802040142,
+      1802040143
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100152,
+    "name": "Sword Arcana Ⅳ",
+    "flavor_text": "When attacking with swords, attack damage increases (very large effect).<br>When landing a Weak attack, damage increases further (very large effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040264,
+      1802040265
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100153,
+    "name": "Tornado Switch",
+    "flavor_text": "When attacking with slash attacks, grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/3 turn(s)), and recovers own BP (+2).<br>When attacking with lightning attacks, grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/3 turn(s)), and recovers own HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040266,
+      1802040141,
+      802041403,
+      802011404
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100154,
+    "name": "Deadly Insight Ⅲ",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>Own attacks will cause critical damage to Aquatic/Fish/Plant/Insect enemies.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040520,
+      1802040267,
+      1802040268,
+      802041414,
+      1802040269
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100155,
+    "name": "Breath of Invigoration Ⅱ",
+    "flavor_text": "When landing an attack, recovers own HP (very small effect), and recovers own BP (+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040622,
+      802040961
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100156,
+    "name": "Madonna of the Dusk",
+    "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).<br><br>When landing an attack with an Attack type skill/spell*, <skill=1125400020>Azure Gale Blade</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040270,
+      802041748
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100157,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=1125400020>Azure Gale Blade</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040271,
+      1802040272,
+      1802040273,
+      1802040274,
+      1802040275
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100158,
+    "name": "Another Bop",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=110400228>Hammer Bop</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><skill=1110400021>Spin Pressure</skill> will be activated (high chance).<br>(Activates using skill Rank 1).<br><skill=1110400023>Great Dolphin Show</skill> will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040276,
+      1802040277,
+      1802040278
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100159,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=110400228>Hammer Bop</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041276,
+      802041277,
+      802041278,
+      802041279,
+      802041280
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100160,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110400021>Spin Pressure</skill> will be activated (high chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040279,
+      1802040280,
+      1802040281,
+      1802040282,
+      1802040283
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100161,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110400023>Great Dolphin Show</skill> will be activated (medium chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040284,
+      1802040285,
+      1802040286,
+      1802040287,
+      1802040288
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",

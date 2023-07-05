@@ -80556,6 +80556,60 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040184,
+    "state_change_id": 900050073,
+    "name": "Lightning Cross",
+    "flavor_text": "Attacks with a column attack skill after attacking with Lightning Cross.",
+    "target_area": 1,
+    "state_vars": [
+      1110100063
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040185,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "On OD attacks, activates Azure Gale Blade.",
+    "target_area": 1,
+    "state_vars": [
+      1125400020
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [
+      9
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040186,
+    "state_change_id": 900010014,
+    "name": "DEX Down",
+    "flavor_text": "Decreases DEX.",
+    "target_area": 8,
+    "state_vars": [],
+    "text_pop": "DEX↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
     "id": 1801040335,
     "state_change_id": 900040062,
     "name": "Defense Boost (small)",
@@ -86246,6 +86300,559 @@
     "applying_effect_condition_ids": [
       9,
       31,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040262,
+    "state_change_id": 900040048,
+    "name": "Attack Boost (medium)",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      22013
+    ],
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040263,
+    "state_change_id": 900050055,
+    "name": "BP Recovery",
+    "flavor_text": "Recovers own BP.",
+    "target_area": 1,
+    "state_vars": [
+      2
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      22013
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040264,
+    "state_change_id": 900040048,
+    "name": "Sword Attack Boost",
+    "flavor_text": "Increases damage dealt by sword attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      21001
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040265,
+    "state_change_id": 900040048,
+    "name": "Weak Atk Boost When Sword Equipped",
+    "flavor_text": "Increases Weak damage dealt by sword attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      10,
+      21001
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040266,
+    "state_change_id": 900040048,
+    "name": "Attack Boost (large)",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      22009
+    ],
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040267,
+    "state_change_id": 900040179,
+    "name": "Critical: Aquatic",
+    "flavor_text": "Own attacks will cause critical damage to Aquatic enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      50025
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040268,
+    "state_change_id": 900040179,
+    "name": "Critical: Fish",
+    "flavor_text": "Own attacks will cause critical damage to Fish enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      50026
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040269,
+    "state_change_id": 900040179,
+    "name": "Critical: Insect",
+    "flavor_text": "Own attacks will cause critical damage to Insect enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      50024
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040270,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=1125400020>Azure Gale Blade</skill> will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100157
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040271,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 1, Azure Gale Blade will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125400020
+    ],
+    "text_pop": "Madonna of the Dusk",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040272,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 2, Azure Gale Blade will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125400020
+    ],
+    "text_pop": "Madonna of the Dusk",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040273,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 3, Azure Gale Blade will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125400020
+    ],
+    "text_pop": "Madonna of the Dusk",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040274,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an inherited skill, Azure Gale Blade will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125400020
+    ],
+    "text_pop": "Madonna of the Dusk",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040275,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing a normal attack, Azure Gale Blade will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125400020
+    ],
+    "text_pop": "Madonna of the Dusk",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040276,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=110400228>Hammer Bop</skill> will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100159
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040277,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110400021>Spin Pressure</skill> will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100160
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040278,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110400023>Great Dolphin Show</skill> will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100161
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040279,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 1, Spin Pressure will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110400021
+    ],
+    "text_pop": "Another Bop",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040280,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 2, Spin Pressure will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110400021
+    ],
+    "text_pop": "Another Bop",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040281,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 3, Spin Pressure will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110400021
+    ],
+    "text_pop": "Another Bop",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040282,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an inherited skill, Spin Pressure will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110400021
+    ],
+    "text_pop": "Another Bop",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040283,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing a normal attack, Spin Pressure will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110400021
+    ],
+    "text_pop": "Another Bop",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040284,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 1, Great Dolphin Show will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110400023
+    ],
+    "text_pop": "Another Bop",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040285,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 2, Great Dolphin Show will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110400023
+    ],
+    "text_pop": "Another Bop",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040286,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 3, Great Dolphin Show will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110400023
+    ],
+    "text_pop": "Another Bop",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040287,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an inherited skill, Great Dolphin Show will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110400023
+    ],
+    "text_pop": "Another Bop",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040288,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing a normal attack, Great Dolphin Show will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110400023
+    ],
+    "text_pop": "Another Bop",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      4,
       24600
     ],
     "triggering_effect_condition_ids": [],
