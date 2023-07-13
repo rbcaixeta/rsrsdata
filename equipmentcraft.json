@@ -1342,6 +1342,28 @@
     "end_at": 1682643599
   },
   {
+    "id": 66,
+    "reward_type": 15,
+    "reward_id": 101405500,
+    "materials": [
+      {
+        "type": 7,
+        "id": 1100693,
+        "quantity": 500
+      },
+      {
+        "type": 7,
+        "id": 1100694,
+        "quantity": 500
+      }
+    ],
+    "aurum": 1000,
+    "limit_count": 0,
+    "priority": 3600,
+    "start_at": 1689296400,
+    "end_at": 0
+  },
+  {
     "id": 67,
     "reward_type": 15,
     "reward_id": 102405100,
@@ -1386,6 +1408,72 @@
     "end_at": 0
   },
   {
+    "id": 69,
+    "reward_type": 15,
+    "reward_id": 104404700,
+    "materials": [
+      {
+        "type": 7,
+        "id": 1100693,
+        "quantity": 500
+      },
+      {
+        "type": 7,
+        "id": 1100697,
+        "quantity": 500
+      }
+    ],
+    "aurum": 1000,
+    "limit_count": 0,
+    "priority": 3570,
+    "start_at": 1689296400,
+    "end_at": 0
+  },
+  {
+    "id": 70,
+    "reward_type": 15,
+    "reward_id": 105405200,
+    "materials": [
+      {
+        "type": 7,
+        "id": 1100693,
+        "quantity": 500
+      },
+      {
+        "type": 7,
+        "id": 1100698,
+        "quantity": 500
+      }
+    ],
+    "aurum": 1000,
+    "limit_count": 0,
+    "priority": 3560,
+    "start_at": 1689296400,
+    "end_at": 0
+  },
+  {
+    "id": 71,
+    "reward_type": 15,
+    "reward_id": 106404700,
+    "materials": [
+      {
+        "type": 7,
+        "id": 1100693,
+        "quantity": 500
+      },
+      {
+        "type": 7,
+        "id": 1100699,
+        "quantity": 500
+      }
+    ],
+    "aurum": 1000,
+    "limit_count": 0,
+    "priority": 3550,
+    "start_at": 1689296400,
+    "end_at": 0
+  },
+  {
     "id": 72,
     "reward_type": 15,
     "reward_id": 107404600,
@@ -1427,6 +1515,28 @@
     "limit_count": 0,
     "priority": 3530,
     "start_at": 1685062800,
+    "end_at": 0
+  },
+  {
+    "id": 74,
+    "reward_type": 15,
+    "reward_id": 109404300,
+    "materials": [
+      {
+        "type": 7,
+        "id": 1100693,
+        "quantity": 500
+      },
+      {
+        "type": 7,
+        "id": 1100702,
+        "quantity": 500
+      }
+    ],
+    "aurum": 1000,
+    "limit_count": 0,
+    "priority": 3520,
+    "start_at": 1689296400,
     "end_at": 0
   },
   {

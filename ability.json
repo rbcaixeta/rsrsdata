@@ -8586,7 +8586,7 @@
   {
     "id": 702101478,
     "name": "M. Arts Instructions Ⅱ",
-    "flavor_text": "Increases all allies' attacks' damage (small effect).<br>Reduces damage taken for all allies (small effect).<br><br>Increases all allies' M. Arts attacks' damage (medium effect).",
+    "flavor_text": "Increases attack damage for all allies (small effect).<br>Reduces damage taken for all allies (small effect).<br>When an ally attacks with M. Arts, damage increases (medium effect).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802041048,
@@ -48663,6 +48663,176 @@
       1802040286,
       1802040287,
       1802040288
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100162,
+    "name": "Talon's Support",
+    "flavor_text": "[After activating a single-foe attack*]<br><skill=110100272>Turbulence Cannon</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.<br><br>At the end of odd turns counting from the start of battle, recovers own BP (+1).<br>At the end of even turns counting from the start of battle, recovers own HP (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040289,
+      802041057,
+      802041058
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100163,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "[After activating a single-foe attack]<br><skill=110100272>Turbulence Cannon</skill> will be activated.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040290,
+      1802040291,
+      1802040292,
+      1802040293,
+      1802040294,
+      1802040295,
+      1802040296,
+      1802040297,
+      1802040298
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100164,
+    "name": "Action Switch",
+    "flavor_text": "When attacking with lightning attacks, grants oneself <special_effect=800000001>Attack Boost</special_effect> (medium effect/3 turn(s)), and recovers own BP (+2).<br>When attacking with cold attacks, grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/3 turn(s)), and recovers own HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040299,
+      1802040300,
+      1802040199,
+      1802040200
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100165,
+    "name": "Magical Aptitude",
+    "flavor_text": "Spell attacks' damage increases (extreme effect).<br><br>[After activating a spell attack*]<br><skill=1125200039>Lit 1</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br><skill=1125200040>Ice 1</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040301,
+      1802040302,
+      1802040307
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100166,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "[After activating a spell attack]<br><skill=1125200039>Lit 1</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040303,
+      1802040304,
+      1802040305,
+      1802040306
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100167,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "[After activating a spell attack]<br><skill=1125200040>Ice 1</skill> will be activated (very high chance).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040308,
+      1802040309,
+      1802040310,
+      1802040311
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100168,
+    "name": "Energy Cure Teaching",
+    "flavor_text": "[End of turn]<br>Recovers own BP (+1) and recovers own HP (very small effect).<br><br>[When recovery actions are made]<br>Recovers all surviving allies' HP (very small effect) and recovers all surviving allies' BP (+1).<br>*Recovery actions: Actions made by recovery type skills/spells.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040312,
+      1802040313
+    ],
+    "ability_when": 1,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100169,
+    "name": "End of Turn: Recover HP/BP",
+    "flavor_text": "[End of turn]<br>Recovers own BP (+1) and recovers own HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040812,
+      802010689
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100170,
+    "name": "Recover HP/BP on Recovery Action",
+    "flavor_text": "[When recovery actions are made]<br>Recovers all surviving allies' HP (very small effect) and recovers all surviving allies' BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802011050,
+      802041398
+    ],
+    "ability_when": 6,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100171,
+    "name": "Bad Temper",
+    "flavor_text": "Attacks' damage increases (extreme effect).<br>When being attacked, evades enemy's attack (high chance).<br>When landing an attack that defeats the target, <skill=1125100037>Fira</skill> will be activated (Number of activation will not be affected even if multiple targets are defeated).<br>(Activates using spell Rank 1).<br><br>[Start of battle]<br>Loses 1 LP as recoil damage.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040741,
+      802040765,
+      1802040315,
+      1802040314
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100172,
+    "name": "Follow-Up on Enemy KO",
+    "flavor_text": "When landing an attack that defeats the target, <skill=1125100037>Fira</skill> will be activated (Number of activation will not be affected even if multiple targets are defeated).<br>(Activates using spell Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040316
     ],
     "ability_when": 6,
     "icon": 4010,

@@ -80610,6 +80610,26 @@
     "state_icon": 2002
   },
   {
+    "id": 1801040187,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (medium)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 8,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040335,
     "state_change_id": 900040062,
     "name": "Defense Boost (small)",
@@ -86854,6 +86874,599 @@
       30,
       4,
       24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040289,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "[After activating a single-foe attack]<br><skill=110100272>Turbulence Cannon</skill> will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1702100163
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040290,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "Attacks with Turbulence Cannon after activating an inherited skill (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      110100272
+    ],
+    "text_pop": "Talon's Support",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24507,
+      24408,
+      24504,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040291,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "Attacks with Turbulence Cannon after activating skill 1 (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      110100272
+    ],
+    "text_pop": "Talon's Support",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24500,
+      24408,
+      24504,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040292,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "Attacks with Turbulence Cannon after activating skill 2 (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      110100272
+    ],
+    "text_pop": "Talon's Support",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24501,
+      24408,
+      24504,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040293,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "Attacks with Turbulence Cannon after activating skill 3 (single foe).",
+    "target_area": 1,
+    "state_vars": [
+      110100272
+    ],
+    "text_pop": "Talon's Support",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24502,
+      24408,
+      24504,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040294,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "Attacks with Turbulence Cannon after activating a normal attack.",
+    "target_area": 1,
+    "state_vars": [
+      110100272
+    ],
+    "text_pop": "Talon's Support",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24506,
+      24408,
+      24504,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040295,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "Attacks with Turbulence Cannon after activating an inherited skill (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      110100272
+    ],
+    "text_pop": "Talon's Support",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24507,
+      24408,
+      24505,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040296,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "Attacks with Turbulence Cannon after activating skill 1 (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      110100272
+    ],
+    "text_pop": "Talon's Support",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24500,
+      24408,
+      24505,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040297,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "Attacks with Turbulence Cannon after activating skill 2 (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      110100272
+    ],
+    "text_pop": "Talon's Support",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24501,
+      24408,
+      24505,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040298,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Single Atk",
+    "flavor_text": "Attacks with Turbulence Cannon after activating skill 3 (random foe).",
+    "target_area": 1,
+    "state_vars": [
+      110100272
+    ],
+    "text_pop": "Talon's Support",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24502,
+      24408,
+      24505,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040299,
+    "state_change_id": 900040048,
+    "name": "Attack Boost (medium)",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      22014
+    ],
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040300,
+    "state_change_id": 900050055,
+    "name": "BP Recovery",
+    "flavor_text": "Recovers own BP.",
+    "target_area": 1,
+    "state_vars": [
+      2
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      22014
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040301,
+    "state_change_id": 900040048,
+    "name": "Spell Attack Boost",
+    "flavor_text": "Increases damage dealt by spell attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      6
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040302,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "[After activating a spell attack]<br><skill=1125200039>Lit 1</skill> will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100166
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040303,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "Attacks with Lit 1 after activating an inherited skill (spell attack).",
+    "target_area": 1,
+    "state_vars": [
+      1125200039
+    ],
+    "text_pop": "Magical Aptitude",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24507,
+      24408,
+      24410,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040304,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "Attacks with Lit 1 after activating skill 1 (spell attack).",
+    "target_area": 1,
+    "state_vars": [
+      1125200039
+    ],
+    "text_pop": "Magical Aptitude",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24500,
+      24408,
+      24410,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040305,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "Attacks with Lit 1 after activating skill 2 (spell attack).",
+    "target_area": 1,
+    "state_vars": [
+      1125200039
+    ],
+    "text_pop": "Magical Aptitude",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24501,
+      24408,
+      24410,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040306,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "Attacks with Lit 1 after activating skill 3 (spell attack).",
+    "target_area": 1,
+    "state_vars": [
+      1125200039
+    ],
+    "text_pop": "Magical Aptitude",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24502,
+      24408,
+      24410,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040307,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "[After activating a spell attack]<br><skill=1125200040>Ice 1</skill> will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100167
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040308,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "Attacks with Ice 1 after activating an inherited skill (spell attack).",
+    "target_area": 1,
+    "state_vars": [
+      1125200040
+    ],
+    "text_pop": "Magical Aptitude",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24507,
+      24408,
+      24410,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040309,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "Attacks with Ice 1 after activating skill 1 (spell attack).",
+    "target_area": 1,
+    "state_vars": [
+      1125200040
+    ],
+    "text_pop": "Magical Aptitude",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24500,
+      24408,
+      24410,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040310,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "Attacks with Ice 1 after activating skill 2 (spell attack).",
+    "target_area": 1,
+    "state_vars": [
+      1125200040
+    ],
+    "text_pop": "Magical Aptitude",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24501,
+      24408,
+      24410,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040311,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Spell Atk",
+    "flavor_text": "Attacks with Ice 1 after activating skill 3 (spell attack).",
+    "target_area": 1,
+    "state_vars": [
+      1125200040
+    ],
+    "text_pop": "Magical Aptitude",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24502,
+      24408,
+      24410,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040312,
+    "state_change_id": 900050113,
+    "name": "End of Turn: Recover HP/BP",
+    "flavor_text": "[End of turn]<br>Recovers own BP (+1) and recovers own HP (very small effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702100169
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040313,
+    "state_change_id": 900050113,
+    "name": "Recover HP/BP on Recovery Action",
+    "flavor_text": "[When recovery actions are made]<br>Recovers all surviving allies' HP (very small effect) and recovers all surviving allies' BP (+1).",
+    "target_area": 1,
+    "state_vars": [
+      1702100170
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040314,
+    "state_change_id": 900050112,
+    "name": "LP Recoil Damage",
+    "flavor_text": "Receives LP recoil damage.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Bad Temper",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "SelfHarm",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
+    "id": 1802040315,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Enemy KO",
+    "flavor_text": "When landing an attack that defeats the target, <skill=1125100037>Fira</skill> will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1702100172
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040316,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Enemy KO",
+    "flavor_text": "When landing an attack that defeats the target, Fira will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1125100037
+    ],
+    "text_pop": "Bad Temper",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      13
     ],
     "triggering_effect_condition_ids": [],
     "state_icon": 3001

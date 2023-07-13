@@ -84562,5 +84562,2245 @@
     "twitter_button_id": 0,
     "max_grind_count": 0,
     "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108011,
+    "quest_type": 1,
+    "name": "8-1-1. Battle Simulation",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000143,
+    "number_of_story_banner": 8,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1020481,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001190,
+      870001186,
+      870001187,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120107201
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108012,
+    "quest_type": 1,
+    "name": "8-1-1. Battle Simulation",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000143,
+    "number_of_story_banner": 8,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1020481,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001196,
+      870001192,
+      870001193,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 1
+  },
+  {
+    "id": 120108013,
+    "quest_type": 1,
+    "name": "8-1-1. Battle Simulation",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000143,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1020481,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001202,
+      870001198,
+      870001199,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 101
+  },
+  {
+    "id": 120108021,
+    "quest_type": 2,
+    "name": "8-1-2. The Third Light",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210801,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 0,
+    "scenario_id": 10308001,
+    "prev_quest_ids": [
+      120108011
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108022,
+    "quest_type": 1,
+    "name": "8-1-2. A Foreign Land I",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1020491,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001196,
+      870001193,
+      870001191,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 2
+  },
+  {
+    "id": 120108023,
+    "quest_type": 1,
+    "name": "8-1-2. A Foreign Land I",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1020491,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001202,
+      870001199,
+      870001197,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 102
+  },
+  {
+    "id": 120108031,
+    "quest_type": 2,
+    "name": "8-1-3. Big Bro & Big Sis",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210801,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 0,
+    "scenario_id": 10308010,
+    "prev_quest_ids": [
+      120108021
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108032,
+    "quest_type": 1,
+    "name": "8-1-3. A Foreign Land II",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1010391,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001196,
+      870001191,
+      870001194,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 3
+  },
+  {
+    "id": 120108033,
+    "quest_type": 1,
+    "name": "8-1-3. A Foreign Land II",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1010391,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001202,
+      870001197,
+      870001200,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 103
+  },
+  {
+    "id": 120108041,
+    "quest_type": 1,
+    "name": "8-1-4. A Foreign Land I",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1020491,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001190,
+      870001187,
+      870001185,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108031
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108042,
+    "quest_type": 1,
+    "name": "8-1-4. A Foreign Land III",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1160161,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001196,
+      870001194,
+      870001195,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 4
+  },
+  {
+    "id": 120108043,
+    "quest_type": 1,
+    "name": "8-1-4. A Foreign Land III",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1160161,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001202,
+      870001200,
+      870001201,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 104
+  },
+  {
+    "id": 120108051,
+    "quest_type": 1,
+    "name": "8-1-5. A Foreign Land II",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1010391,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001190,
+      870001185,
+      870001188,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108041
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108052,
+    "quest_type": 1,
+    "name": "8-1-5. A Foreign Land IV",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1070671,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001196,
+      870001195,
+      870001192,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 5
+  },
+  {
+    "id": 120108053,
+    "quest_type": 1,
+    "name": "8-1-5. A Foreign Land IV",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1070671,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001202,
+      870001201,
+      870001198,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 105
+  },
+  {
+    "id": 120108061,
+    "quest_type": 2,
+    "name": "8-1-6. The Talon",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210801,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 0,
+    "scenario_id": 10308020,
+    "prev_quest_ids": [
+      120108051
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108062,
+    "quest_type": 1,
+    "name": "8-2-1. A Foreign Land V",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1060641,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001196,
+      870001192,
+      870001193,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 1
+  },
+  {
+    "id": 120108063,
+    "quest_type": 1,
+    "name": "8-2-1. A Foreign Land V",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060641,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001202,
+      870001198,
+      870001199,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 101
+  },
+  {
+    "id": 120108071,
+    "quest_type": 1,
+    "name": "8-1-7. A Foreign Land III",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1160161,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001190,
+      870001188,
+      870001189,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108061
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108072,
+    "quest_type": 1,
+    "name": "8-2-2. A Foreign Land VI",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1130321,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001196,
+      870001193,
+      870001191,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 2
+  },
+  {
+    "id": 120108073,
+    "quest_type": 1,
+    "name": "8-2-2. A Foreign Land VI",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1130321,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001202,
+      870001199,
+      870001197,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 102
+  },
+  {
+    "id": 120108081,
+    "quest_type": 1,
+    "name": "8-1-8. A Foreign Land IV",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 8,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1070671,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001190,
+      870001189,
+      870001186,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 100308051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108071
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108082,
+    "quest_type": 1,
+    "name": "8-2-3. Frenzied Girl",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1011111,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001196,
+      870001191,
+      870001194,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 3
+  },
+  {
+    "id": 120108083,
+    "quest_type": 1,
+    "name": "8-2-3. Frenzied Girl",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1011111,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001202,
+      870001197,
+      870001200,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 103
+  },
+  {
+    "id": 120108091,
+    "quest_type": 2,
+    "name": "8-1-9. Past World",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210801,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 177,
+    "battle_id": 0,
+    "scenario_id": 10308030,
+    "prev_quest_ids": [
+      120108081
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108092,
+    "quest_type": 1,
+    "name": "8-2-4. Controlled Beast",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001196,
+      870001194,
+      870001195,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 4
+  },
+  {
+    "id": 120108093,
+    "quest_type": 1,
+    "name": "8-2-4. Controlled Beast",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001202,
+      870001200,
+      870001201,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 104
+  },
+  {
+    "id": 120108101,
+    "quest_type": 1,
+    "name": "8-2-1. A Foreign Land V",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000003,
+    "number_of_story_banner": 8,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1060641,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001190,
+      870001186,
+      870001187,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108102,
+    "quest_type": 1,
+    "name": "8-2-5. Break Through!",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 11,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001196,
+      870001195,
+      870001192,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 5
+  },
+  {
+    "id": 120108103,
+    "quest_type": 1,
+    "name": "8-2-5. Break Through!",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001202,
+      870001201,
+      870001198,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 105
+  },
+  {
+    "id": 120108111,
+    "quest_type": 1,
+    "name": "8-2-2. A Foreign Land VI",
+    "sort_order": 11,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1130321,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100698
+      },
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001190,
+      870001187,
+      870001185,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108101
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108121,
+    "quest_type": 2,
+    "name": "8-2-3. Adventurers of Time",
+    "sort_order": 12,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210801,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 0,
+    "scenario_id": 10308040,
+    "prev_quest_ids": [
+      120108111
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108131,
+    "quest_type": 1,
+    "name": "8-2-4. Frenzied Girl",
+    "sort_order": 13,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1011111,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100694
+      },
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001190,
+      870001185,
+      870001188,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108121
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108141,
+    "quest_type": 2,
+    "name": "8-2-5. Two Wings",
+    "sort_order": 14,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210801,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 0,
+    "scenario_id": 10308050,
+    "prev_quest_ids": [
+      120108131
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108151,
+    "quest_type": 1,
+    "name": "8-2-6. Controlled Beast",
+    "sort_order": 15,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100699
+      },
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001190,
+      870001188,
+      870001189,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108141
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108161,
+    "quest_type": 2,
+    "name": "8-2-7. The Use of Life",
+    "sort_order": 16,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210801,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 0,
+    "scenario_id": 10308060,
+    "prev_quest_ids": [
+      120108151
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108171,
+    "quest_type": 1,
+    "name": "8-2-8. Break Through!",
+    "sort_order": 17,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000005,
+    "number_of_story_banner": 8,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1993571,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100702
+      },
+      {
+        "type": 7,
+        "id": 1100697
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001190,
+      870001189,
+      870001186,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108161
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108181,
+    "quest_type": 1,
+    "name": "8-2-9. Orlette",
+    "sort_order": 18,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000146,
+    "number_of_story_banner": 8,
+    "stamina": 8,
+    "illust_category": 2,
+    "illust_id": 1993601,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 100308111,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120108171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120108191,
+    "quest_type": 2,
+    "name": "8-2-10. If You Desire, Pray for It",
+    "sort_order": 19,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210801,
+    "number_of_story_banner": 8,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 178,
+    "battle_id": 0,
+    "scenario_id": 10308070,
+    "prev_quest_ids": [
+      120108181
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
   }
 ]
