@@ -1138,7 +1138,7 @@
   {
     "id": 800000101,
     "state_change_id": 900030001,
-    "name": "Defensive Stance (Spell) (very large)",
+    "name": "Defensive Stance (Spell) (v. large)",
     "flavor_text": "When hit by a spell attack, reduces damage taken (can't stack).",
     "target_area": 1,
     "state_vars": [],
@@ -1667,7 +1667,7 @@
     "id": 800000155,
     "state_change_id": 900030001,
     "name": "Binding of Thorns (10x)",
-    "flavor_text": "When attacked, reduces own INT/AGI (small effect) (Max times: 10 times).<br>*Only activates when hit by an attack.",
+    "flavor_text": "When attacked, reduces own INT/AGI (small effect) (Max times: 10).<br>*Only activates when hit by an attack.",
     "target_area": 1,
     "state_vars": [],
     "text_pop": "",
@@ -1779,7 +1779,7 @@
     "id": 800000165,
     "state_change_id": 900030001,
     "name": "Clear Focus (4x)",
-    "flavor_text": "[Start of turn]<br>Activates the following (Max times: 4 times):<br>・Grants oneself <special_effect=800000164>Critical Enhance</special_effect> (1 turn(s)).<br>・Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/1 turn(s)).<br>・Grants oneself <special_effect=800000013>Morale Up (very large)</special_effect> (1 turn(s)).<br>・Grants oneself <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).<br>・Recovers own BP (+4).",
+    "flavor_text": "[Start of turn]<br>Activates the following (Max times: 4):<br>・Grants oneself <special_effect=800000164>Critical Enhance</special_effect> (1 turn(s)).<br>・Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/1 turn(s)).<br>・Grants oneself <special_effect=800000013>Morale Up (very large)</special_effect> (1 turn(s)).<br>・Grants oneself <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).<br>・Recovers own BP (+4).",
     "target_area": 1,
     "state_vars": [],
     "text_pop": "",
@@ -12116,7 +12116,7 @@
   {
     "id": 801041062,
     "state_change_id": 900040189,
-    "name": "Defensive Stance (Spell) (very large)",
+    "name": "Defensive Stance (Spell) (v. large)",
     "flavor_text": "When hit by a spell attack, reduces damage taken (can't stack).",
     "target_area": 1,
     "state_vars": [
@@ -15640,7 +15640,7 @@
     "id": 801041438,
     "state_change_id": 900050113,
     "name": "Clear Focus (4x)",
-    "flavor_text": "[Start of turn]<br>Activates the following (Max times: 4 times):<br>・Grants oneself <special_effect=800000164>Critical Enhance</special_effect> (1 turn(s)).<br>・Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/1 turn(s)).<br>・Grants oneself <special_effect=800000013>Morale Up (very large)</special_effect> (1 turn(s)).<br>・Grants oneself <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).<br>・Recovers own BP (+4).",
+    "flavor_text": "[Start of turn]<br>Activates the following (Max times: 4):<br>・Grants oneself <special_effect=800000164>Critical Enhance</special_effect> (1 turn(s)).<br>・Grants oneself <special_effect=800000001>Attack Boost</special_effect> (very large effect/1 turn(s)).<br>・Grants oneself <special_effect=800000013>Morale Up (very large)</special_effect> (1 turn(s)).<br>・Grants oneself <special_effect=800000119>Evasion (1 time)</special_effect> (1 turn(s)).<br>・Recovers own BP (+4).",
     "target_area": 1,
     "state_vars": [
       702101643
@@ -41343,7 +41343,7 @@
     "id": 802041941,
     "state_change_id": 900050113,
     "name": "Binding of Thorns (10x)",
-    "flavor_text": "When attacked, reduces own INT/AGI (small effect) (Max times: 10 times).<br>*Only activates when hit by an attack.",
+    "flavor_text": "When attacked, reduces own INT/AGI (small effect) (Max times: 10).<br>*Only activates when hit by an attack.",
     "target_area": 8,
     "state_vars": [
       702101673
@@ -80630,6 +80630,62 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040188,
+    "state_change_id": 900050054,
+    "name": "Recover HP (very small)",
+    "flavor_text": "Recovers HP.",
+    "target_area": 3,
+    "state_vars": [
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040189,
+    "state_change_id": 900010017,
+    "name": "WIL Up",
+    "flavor_text": "Increases WIL.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "WIL↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040190,
+    "state_change_id": 900050073,
+    "name": "Roaring Thunder+",
+    "flavor_text": "Attacks with a single foe attack skill after attacking with Roaring Thunder+.",
+    "target_area": 1,
+    "state_vars": [
+      1110500083
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040335,
     "state_change_id": 900040062,
     "name": "Defense Boost (small)",
@@ -87467,6 +87523,336 @@
     "display_flag": 1,
     "applying_effect_condition_ids": [
       13
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040317,
+    "state_change_id": 900040048,
+    "name": "All-Range Attack Boost",
+    "flavor_text": "Increases damage dealt by all range attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "All range ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      25
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040318,
+    "state_change_id": 900040048,
+    "name": "Column Attack Boost",
+    "flavor_text": "Increases damage dealt by column attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Column ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      27
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040319,
+    "state_change_id": 900040048,
+    "name": "Row Attack Boost",
+    "flavor_text": "Increases damage dealt by row attacks.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Row ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      26
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040320,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack, <skill=1110500077>Thunderous Dragon Roar</skill> will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100175
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040321,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with skill 1, Thunderous Dragon Roar will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110500077
+    ],
+    "text_pop": "Sky Tyrant",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      10,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040322,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with skill 2, Thunderous Dragon Roar will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110500077
+    ],
+    "text_pop": "Sky Tyrant",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      10,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040323,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with skill 3, Thunderous Dragon Roar will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110500077
+    ],
+    "text_pop": "Sky Tyrant",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      10,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040324,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with an inherited skill, Thunderous Dragon Roar will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110500077
+    ],
+    "text_pop": "Sky Tyrant",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      10,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040325,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with a normal attack, Thunderous Dragon Roar will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110500077
+    ],
+    "text_pop": "Sky Tyrant",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      10,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040326,
+    "state_change_id": 900040048,
+    "name": "Attack Boost (large)",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      22010
+    ],
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040327,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "On OD attacks, activates <skill=1110500081>Sublimation Twister</skill>.",
+    "target_area": 1,
+    "state_vars": [
+      1702100179
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040328,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Sublimation Twister after activating an OD attack with skill 1.",
+    "target_area": 1,
+    "state_vars": [
+      1110500081
+    ],
+    "text_pop": "White Stream",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9,
+      32,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040329,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Sublimation Twister after activating an OD attack with skill 2.",
+    "target_area": 1,
+    "state_vars": [
+      1110500081
+    ],
+    "text_pop": "White Stream",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9,
+      33,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040330,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Sublimation Twister after activating an OD attack with skill 3.",
+    "target_area": 1,
+    "state_vars": [
+      1110500081
+    ],
+    "text_pop": "White Stream",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9,
+      34,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040331,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Sublimation Twister after activating an OD attack with an inherited skill.",
+    "target_area": 1,
+    "state_vars": [
+      1110500081
+    ],
+    "text_pop": "White Stream",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9,
+      31,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040332,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "Attacks with Sublimation Twister after activating an OD attack with a normal attack.",
+    "target_area": 1,
+    "state_vars": [
+      1110500081
+    ],
+    "text_pop": "White Stream",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9,
+      30,
+      24600
     ],
     "triggering_effect_condition_ids": [],
     "state_icon": 3001

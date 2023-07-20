@@ -10392,7 +10392,7 @@
   {
     "id": 702101643,
     "name": "Clear Focus (4x)",
-    "flavor_text": "[Start of turn]<br>Activates the following (Max times: 4 times):<br>・Grants oneself Critical Enhance (1 turn(s)).<br>・Grants oneself Attack Boost (very large effect/1 turn(s)).<br>・Grants oneself Morale Up (very large) (1 turn(s)).<br>・Grants oneself Evasion (1 time) (1 turn(s)).<br>・Recovers own BP (+4).",
+    "flavor_text": "[Start of turn]<br>Activates the following (Max times: 4):<br>・Grants oneself Critical Enhance (1 turn(s)).<br>・Grants oneself Attack Boost (very large effect/1 turn(s)).<br>・Grants oneself Morale Up (very large) (1 turn(s)).<br>・Grants oneself Evasion (1 time) (1 turn(s)).<br>・Recovers own BP (+4).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802041731,
@@ -48833,6 +48833,101 @@
     "simple_flavor_text": "",
     "special_effect_ids": [
       1802040316
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100173,
+    "name": "Annihilator",
+    "flavor_text": "Attacks' damage increases (extreme effect).<br>All-range/Ranged attacks' damage increases (large effect).<br>(An all-range and ranged attack will receive both buffs).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040741,
+      1802040317,
+      1802040318,
+      1802040319
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100174,
+    "name": "Sky Tyrant",
+    "flavor_text": "Attacks' damage increases (extreme effect).<br><br>[When landing a Weak attack*]<br><skill=1110500077>Thunderous Dragon Roar</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040741,
+      1802040320
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100175,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack, <skill=1110500077>Thunderous Dragon Roar</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040321,
+      1802040322,
+      1802040323,
+      1802040324,
+      1802040325
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100176,
+    "name": "Dragon Switch",
+    "flavor_text": "When attacking with blunt attacks, grants oneself <special_effect=800000001>Attack Boost</special_effect> (large effect/3 turn(s)) and recovers own BP (+2).<br>When attacking with lightning attacks, grants oneself <special_effect=800000015>Defense Boost</special_effect> (small effect/3 turn(s)) and recovers own HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040326,
+      1802040186,
+      802041403,
+      802011404
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100178,
+    "name": "White Stream",
+    "flavor_text": "When attacked, damage taken will be reduced (large effect).<br><br>[End of turn]<br>Increases own OD gauge (small effect).<br><br>After activating an OD attack*, <skill=1110500081>Sublimation Twister</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040361,
+      802041152,
+      1802040327
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100179,
+    "name": "Follow-Up on OD Attack",
+    "flavor_text": "After activating an OD attack, <skill=1110500081>Sublimation Twister</skill> will be activated.<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040328,
+      1802040329,
+      1802040330,
+      1802040331,
+      1802040332
     ],
     "ability_when": 6,
     "icon": 4010,

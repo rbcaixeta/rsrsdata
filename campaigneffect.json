@@ -16882,6 +16882,17 @@
     ]
   },
   {
+    "id": 5819,
+    "ribbon": "Start with 20 BP!",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      21012744
+    ]
+  },
+  {
     "id": 1000001001,
     "ribbon": "Special Event!",
     "campaign_type": 5,
@@ -38785,6 +38796,33 @@
     "drop_group_ids": [
       1000097481,
       1000097482
+    ]
+  },
+  {
+    "id": 1000002713,
+    "ribbon": "Forging Material/Aurum Drops!",
+    "campaign_type": 9,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      1000097483,
+      1000097484,
+      1000097485,
+      1000097486,
+      1000097487,
+      1000097488
+    ]
+  },
+  {
+    "id": 1000002714,
+    "ribbon": "SS Draconic Crystal Garter Drops!",
+    "campaign_type": 5,
+    "rate": 0,
+    "reward_type": 0,
+    "reward_id": 0,
+    "drop_group_ids": [
+      1000097489
     ]
   }
 ]
