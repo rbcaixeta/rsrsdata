@@ -86802,5 +86802,2165 @@
     "twitter_button_id": 0,
     "max_grind_count": 0,
     "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109011,
+    "quest_type": 2,
+    "name": "9-1-1. A Changing World",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 0,
+    "scenario_id": 10309001,
+    "prev_quest_ids": [
+      120108191
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109012,
+    "quest_type": 1,
+    "name": "9-1-1. A Familiar City I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 12,
+    "illust_category": 2,
+    "illust_id": 1041891,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001215,
+      870001211,
+      870001213,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309012,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 1
+  },
+  {
+    "id": 120109013,
+    "quest_type": 1,
+    "name": "9-1-1. A Familiar City I",
+    "sort_order": 1,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1041891,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001222,
+      870001218,
+      870001220,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309013,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 101
+  },
+  {
+    "id": 120109021,
+    "quest_type": 1,
+    "name": "9-1-2. A Familiar City I",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000088,
+    "number_of_story_banner": 9,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1041891,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001208,
+      870001204,
+      870001206,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309011,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109011
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109022,
+    "quest_type": 1,
+    "name": "9-1-2. A Familiar City II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 12,
+    "illust_category": 2,
+    "illust_id": 1120111,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001215,
+      870001213,
+      870001212,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309022,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 2
+  },
+  {
+    "id": 120109023,
+    "quest_type": 1,
+    "name": "9-1-2. A Familiar City II",
+    "sort_order": 2,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1120111,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001222,
+      870001220,
+      870001219,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309023,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 102
+  },
+  {
+    "id": 120109031,
+    "quest_type": 1,
+    "name": "9-1-3. A Familiar City II",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000088,
+    "number_of_story_banner": 9,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1120111,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001208,
+      870001206,
+      870001205,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309021,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109021
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109032,
+    "quest_type": 1,
+    "name": "9-1-3. Bio Research Lab I",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 12,
+    "illust_category": 2,
+    "illust_id": 1170081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001215,
+      870001212,
+      870001210,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309032,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 3
+  },
+  {
+    "id": 120109033,
+    "quest_type": 1,
+    "name": "9-1-3. Bio Research Lab I",
+    "sort_order": 3,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1170081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001222,
+      870001219,
+      870001217,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309033,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 103
+  },
+  {
+    "id": 120109041,
+    "quest_type": 2,
+    "name": "9-1-4. Necessary Sacrifice",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 0,
+    "scenario_id": 10309010,
+    "prev_quest_ids": [
+      120109031
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109042,
+    "quest_type": 1,
+    "name": "9-1-4. Bio Research Lab II",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 12,
+    "illust_category": 2,
+    "illust_id": 1190021,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001216,
+      870001210,
+      870001214,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309042,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 4
+  },
+  {
+    "id": 120109043,
+    "quest_type": 1,
+    "name": "9-1-4. Bio Research Lab II",
+    "sort_order": 4,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1190021,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001223,
+      870001217,
+      870001221,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309043,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 104
+  },
+  {
+    "id": 120109051,
+    "quest_type": 1,
+    "name": "9-1-5. Bio Research Lab I",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000099,
+    "number_of_story_banner": 9,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1170081,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001208,
+      870001205,
+      870001203,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309031,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109041
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109052,
+    "quest_type": 1,
+    "name": "9-1-5. Bio Research Lab III",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 12,
+    "illust_category": 2,
+    "illust_id": 1050231,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001216,
+      870001214,
+      870001211,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309052,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 5
+  },
+  {
+    "id": 120109053,
+    "quest_type": 1,
+    "name": "9-1-5. Bio Research Lab III",
+    "sort_order": 5,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1050231,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001223,
+      870001221,
+      870001218,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309053,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 105
+  },
+  {
+    "id": 120109061,
+    "quest_type": 1,
+    "name": "9-1-6. Bio Research Lab II",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000099,
+    "number_of_story_banner": 9,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1190021,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001209,
+      870001203,
+      870001207,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309041,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109051
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109062,
+    "quest_type": 1,
+    "name": "9-1-6. Bio Research Lab IV",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 12,
+    "illust_category": 2,
+    "illust_id": 1060451,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001215,
+      870001211,
+      870001213,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309062,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 6
+  },
+  {
+    "id": 120109063,
+    "quest_type": 1,
+    "name": "9-1-6. Bio Research Lab IV",
+    "sort_order": 6,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1060451,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001222,
+      870001218,
+      870001220,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309063,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 106
+  },
+  {
+    "id": 120109071,
+    "quest_type": 2,
+    "name": "9-1-7. The Experiment",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 0,
+    "scenario_id": 10309020,
+    "prev_quest_ids": [
+      120109061
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109072,
+    "quest_type": 1,
+    "name": "9-2-1. After the Girl I",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 12,
+    "illust_category": 2,
+    "illust_id": 1160031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001215,
+      870001213,
+      870001212,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309072,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 1
+  },
+  {
+    "id": 120109073,
+    "quest_type": 1,
+    "name": "9-2-1. After the Girl I",
+    "sort_order": 7,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1160031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001222,
+      870001220,
+      870001219,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309073,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 101
+  },
+  {
+    "id": 120109081,
+    "quest_type": 1,
+    "name": "9-1-8. Bio Research Lab III",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000099,
+    "number_of_story_banner": 9,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1050231,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001209,
+      870001207,
+      870001204,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309051,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109071
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109082,
+    "quest_type": 1,
+    "name": "9-2-2. After the Girl II",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 12,
+    "illust_category": 2,
+    "illust_id": 1160141,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001215,
+      870001212,
+      870001210,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309082,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 2
+  },
+  {
+    "id": 120109083,
+    "quest_type": 1,
+    "name": "9-2-2. After the Girl II",
+    "sort_order": 8,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1160141,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001222,
+      870001219,
+      870001217,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309083,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 102
+  },
+  {
+    "id": 120109091,
+    "quest_type": 1,
+    "name": "9-1-9. Bio Research Lab IV",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000099,
+    "number_of_story_banner": 9,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1060451,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001208,
+      870001204,
+      870001206,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 179,
+    "battle_id": 100309061,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109081
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109092,
+    "quest_type": 1,
+    "name": "9-2-3. After the Girl III",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 12,
+    "illust_category": 2,
+    "illust_id": 1991941,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001216,
+      870001210,
+      870001214,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309092,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 3
+  },
+  {
+    "id": 120109093,
+    "quest_type": 1,
+    "name": "9-2-3. After the Girl III",
+    "sort_order": 9,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000002,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1991941,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001223,
+      870001217,
+      870001221,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309093,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 103
+  },
+  {
+    "id": 120109101,
+    "quest_type": 2,
+    "name": "9-2-1. Whatever the Future Holds",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 0,
+    "scenario_id": 10309030,
+    "prev_quest_ids": [
+      120109091
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109102,
+    "quest_type": 1,
+    "name": "9-2-4. Turning the Clock On",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 2,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000044,
+    "number_of_story_banner": 9,
+    "stamina": 12,
+    "illust_category": 2,
+    "illust_id": 1170151,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 26,
+        "id": 501300100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501300100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001216,
+      870001214,
+      870001211,
+      870001074,
+      870001082,
+      870001084
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309102,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 4
+  },
+  {
+    "id": 120109103,
+    "quest_type": 1,
+    "name": "9-2-4. Turning the Clock On",
+    "sort_order": 10,
+    "growth_count": 1,
+    "difficulty": 3,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000044,
+    "number_of_story_banner": 9,
+    "stamina": 23,
+    "illust_category": 2,
+    "illust_id": 1170151,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 26,
+        "id": 501400100
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      },
+      {
+        "type": 26,
+        "id": 501400100,
+        "quantity": 1
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001223,
+      870001221,
+      870001218,
+      870001075,
+      870001083,
+      870001085
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309103,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109171
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 104
+  },
+  {
+    "id": 120109111,
+    "quest_type": 1,
+    "name": "9-2-2. After the Girl I",
+    "sort_order": 11,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000088,
+    "number_of_story_banner": 9,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1160031,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100772
+      },
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001208,
+      870001206,
+      870001205,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309071,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109101
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109121,
+    "quest_type": 1,
+    "name": "9-2-3. After the Girl II",
+    "sort_order": 12,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000088,
+    "number_of_story_banner": 9,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1160141,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100769
+      },
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001208,
+      870001205,
+      870001203,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309081,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109111
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109131,
+    "quest_type": 2,
+    "name": "9-2-4. Zozma's Whims",
+    "sort_order": 13,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 0,
+    "scenario_id": 10309040,
+    "prev_quest_ids": [
+      120109121
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109141,
+    "quest_type": 1,
+    "name": "9-2-5. After the Girl III",
+    "sort_order": 14,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000019,
+    "number_of_story_banner": 9,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1991941,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100764
+      },
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001209,
+      870001203,
+      870001207,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309091,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109131
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109151,
+    "quest_type": 2,
+    "name": "9-2-6. Time Lord",
+    "sort_order": 15,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 0,
+    "scenario_id": 10309050,
+    "prev_quest_ids": [
+      120109141
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109161,
+    "quest_type": 1,
+    "name": "9-2-7. Turning the Clock On",
+    "sort_order": 16,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 700000150,
+    "number_of_story_banner": 9,
+    "stamina": 9,
+    "illust_category": 2,
+    "illust_id": 1170151,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 1,
+    "typical_rewards": [
+      {
+        "type": 7,
+        "id": 1100773
+      },
+      {
+        "type": 7,
+        "id": 1100768
+      },
+      {
+        "type": 1,
+        "id": 100003
+      }
+    ],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 100
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [
+      870001209,
+      870001207,
+      870001204,
+      870001073
+    ],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 100309101,
+    "scenario_id": 0,
+    "prev_quest_ids": [
+      120109151
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
+  },
+  {
+    "id": 120109171,
+    "quest_type": 2,
+    "name": "9-2-8. My Journey Begins",
+    "sort_order": 17,
+    "growth_count": 1,
+    "difficulty": 1,
+    "clear_limit": 0,
+    "closing_group": 0,
+    "area_control_action": 0,
+    "dialog_id_after_clear": 0,
+    "banner": 10210901,
+    "number_of_story_banner": 9,
+    "stamina": 0,
+    "illust_category": 0,
+    "illust_id": 0,
+    "typical_enemy_ids": [],
+    "typical_rewards_category": 2,
+    "typical_rewards": [],
+    "first_rewards": [
+      {
+        "type": 1,
+        "id": 100002,
+        "quantity": 50
+      }
+    ],
+    "rewards": [],
+    "drop_group_ids": [],
+    "enemy_drop_ids": [],
+    "area_id": 180,
+    "battle_id": 0,
+    "scenario_id": 10309060,
+    "prev_quest_ids": [
+      120109161
+    ],
+    "is_required_for_area_clear": 0,
+    "twitter_button_id": 0,
+    "max_grind_count": 0,
+    "quest_clear_bundle": 0
   }
 ]

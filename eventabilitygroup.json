@@ -3748,5 +3748,25 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 396
+  },
+  {
+    "id": 1000000617,
+    "event_ability_category_id": 1000000368,
+    "name": "Main Story Expansion I",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・3x attribute gains in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 397
+  },
+  {
+    "id": 1000000618,
+    "event_ability_category_id": 1000000369,
+    "name": "Main Story Expansion II",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・4x attribute gains in Main quests<br>・2x skill/spell rank up amount in Main quests",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 398
   }
 ]

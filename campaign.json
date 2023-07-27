@@ -28821,6 +28821,83 @@
     "end_at": 1688605199
   },
   {
+    "id": 7174,
+    "displays_campaign": 1,
+    "quest_category": 1,
+    "area_ids": [],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      5785
+    ],
+    "start_at": 1690506000,
+    "end_at": 1691715599
+  },
+  {
+    "id": 7176,
+    "displays_campaign": 1,
+    "quest_category": 1,
+    "area_ids": [],
+    "difficulties": [
+      1
+    ],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      5786,
+      5792,
+      5795,
+      5798,
+      5801,
+      5804
+    ],
+    "start_at": 1690506000,
+    "end_at": 1691110799
+  },
+  {
+    "id": 7177,
+    "displays_campaign": 1,
+    "quest_category": 1,
+    "area_ids": [],
+    "difficulties": [
+      2
+    ],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      5787,
+      5793,
+      5796,
+      5799,
+      5802,
+      5805
+    ],
+    "start_at": 1690506000,
+    "end_at": 1691110799
+  },
+  {
+    "id": 7178,
+    "displays_campaign": 1,
+    "quest_category": 1,
+    "area_ids": [],
+    "difficulties": [
+      3
+    ],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      5788,
+      5794,
+      5797,
+      5800,
+      5803,
+      5806
+    ],
+    "start_at": 1690506000,
+    "end_at": 1691110799
+  },
+  {
     "id": 7185,
     "displays_campaign": 1,
     "quest_category": 0,
@@ -68176,8 +68253,8 @@
     "campaign_effect_ids": [
       1492
     ],
-    "start_at": 1689296400,
-    "end_at": 1689901199
+    "start_at": 1690506000,
+    "end_at": 1691110799
   },
   {
     "id": 1000002541,
@@ -68265,6 +68342,37 @@
       1000002714
     ],
     "start_at": 1689901200,
+    "end_at": 1691110799
+  },
+  {
+    "id": 1000002545,
+    "displays_campaign": 1,
+    "quest_category": 0,
+    "area_ids": [
+      501
+    ],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      1033
+    ],
+    "start_at": 1690506000,
+    "end_at": 1691110799
+  },
+  {
+    "id": 1000002546,
+    "displays_campaign": 1,
+    "quest_category": 1,
+    "area_ids": [],
+    "difficulties": [],
+    "quest_ids": [],
+    "expedition_ids": [],
+    "campaign_effect_ids": [
+      1000002715,
+      1000002716
+    ],
+    "start_at": 1690506000,
     "end_at": 1691110799
   }
 ]

@@ -48935,6 +48935,76 @@
     "sort_order": 0
   },
   {
+    "id": 1702100180,
+    "name": "Kingdom's Teaching",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=1800000012>Elemental Guard (shadow/medium)</special_effect> (1 turn(s)).<br><br>[End of turn]<br>Recovers own BP (+2).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040333,
+      802041315
+    ],
+    "ability_when": 1,
+    "icon": 4002,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100181,
+    "name": "Turn Start: Elemental Guard (shadow/medium)",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=1800000012>Elemental Guard (shadow/medium)</special_effect> (1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040334
+    ],
+    "ability_when": 3,
+    "icon": 4002,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100182,
+    "name": "Time Magic Blessings",
+    "flavor_text": "Reduces damage taken for all allies (medium effect).<br>Increases all allies' action order value (medium effect).<br><br>[Start of turn]<br>Increases all surviving allies' AGI/INT (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041515,
+      1802040335,
+      1802040336
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100183,
+    "name": "Turn Start: AGI/INT Up",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' AGI/INT (small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040337,
+      1802040338
+    ],
+    "ability_when": 3,
+    "icon": 4001,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100184,
+    "name": "Ailment Knowledge",
+    "flavor_text": "[At the end of every 3 turns counting from the start of battle]<br>Cures all surviving allies' status ailments and removes all surviving allies' debuffs to STR/END/DEX/AGI/INT/WIL/LOV/CHA.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040848,
+      802040849
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",

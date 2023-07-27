@@ -76347,6 +76347,22 @@
     "state_icon": 1031
   },
   {
+    "id": 1800000012,
+    "state_change_id": 900030001,
+    "name": "Elemental Guard (shadow/medium)",
+    "flavor_text": "When hit by an attack which have shadow damage, reduces damage taken (can't stack).",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 1031
+  },
+  {
     "id": 1801010001,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -87856,6 +87872,110 @@
     ],
     "triggering_effect_condition_ids": [],
     "state_icon": 3001
+  },
+  {
+    "id": 1802040333,
+    "state_change_id": 900050113,
+    "name": "Turn Start: Elemental Guard (shadow/medium)",
+    "flavor_text": "[Start of turn]<br>Grants all surviving allies <special_effect=1800000012>Elemental Guard (shadow/medium)</special_effect> (1 turn(s)).",
+    "target_area": 1,
+    "state_vars": [
+      1702100181
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040334,
+    "state_change_id": 900040197,
+    "name": "Elemental Guard (shadow/medium)",
+    "flavor_text": "When hit by an attack which have shadow damage, reduces damage taken (can't stack).",
+    "target_area": 3,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "Elemental Guard (shadow)",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      23008
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040335,
+    "state_change_id": 900040109,
+    "name": "Action Order Up (medium)",
+    "flavor_text": "Increase in the action order value (medium effect).",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "Action Order↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040336,
+    "state_change_id": 900050113,
+    "name": "Turn Start: AGI/INT Up",
+    "flavor_text": "[Start of turn]<br>Increases all surviving allies' AGI/INT (small effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702100183
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040337,
+    "state_change_id": 900010015,
+    "name": "AGI Up",
+    "flavor_text": "Increases AGI.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "AGI/INT↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1802040338,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
   },
   {
     "id": 1802040362,
