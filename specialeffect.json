@@ -76363,6 +76363,38 @@
     "state_icon": 1031
   },
   {
+    "id": 1800000013,
+    "state_change_id": 900030001,
+    "name": "Intimidated",
+    "flavor_text": "When attacking, grants oneself <special_effect=800000029>Attack Down</special_effect> (small effect/1 turn(s)).",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 1031
+  },
+  {
+    "id": 1800000014,
+    "state_change_id": 900030001,
+    "name": "Super Hit (Malicious Pumpkins)",
+    "flavor_text": "After activating an OD attack*, <skill=1110500091>Malicious Pumpkins</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 1031
+  },
+  {
     "id": 1801010001,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -80698,6 +80730,170 @@
     "ignition_effect_id": "",
     "display_flag": 0,
     "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040191,
+    "state_change_id": 900050113,
+    "name": "Intimidated",
+    "flavor_text": "When attacking, grants oneself <special_effect=800000029>Attack Down</special_effect> (small effect/1 turn(s)).",
+    "target_area": 8,
+    "state_vars": [
+      1702100185
+    ],
+    "text_pop": "Intimidated",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1801040192,
+    "state_change_id": 900040048,
+    "name": "Heat Up",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040193,
+    "state_change_id": 900050113,
+    "name": "Super Hit (Malicious Pumpkins)",
+    "flavor_text": "On OD attacks, activates <skill=1110500091>Malicious Pumpkins</skill>.",
+    "target_area": 1,
+    "state_vars": [
+      1702100186
+    ],
+    "text_pop": "Super Hit Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1801040194,
+    "state_change_id": 900050073,
+    "name": "Super Hit (Malicious Pumpkins)",
+    "flavor_text": "Attacks with Malicious Pumpkins after activating an OD attack with skill 1.",
+    "target_area": 1,
+    "state_vars": [
+      1110500091
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [
+      9,
+      32,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040195,
+    "state_change_id": 900050073,
+    "name": "Super Hit (Malicious Pumpkins)",
+    "flavor_text": "Attacks with Malicious Pumpkins after activating an OD attack with skill 2.",
+    "target_area": 1,
+    "state_vars": [
+      1110500091
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [
+      9,
+      33,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040196,
+    "state_change_id": 900050073,
+    "name": "Super Hit (Malicious Pumpkins)",
+    "flavor_text": "Attacks with Malicious Pumpkins after activating an OD attack with skill 3.",
+    "target_area": 1,
+    "state_vars": [
+      1110500091
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [
+      9,
+      34,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040197,
+    "state_change_id": 900050073,
+    "name": "Super Hit (Malicious Pumpkins)",
+    "flavor_text": "Attacks with Malicious Pumpkins after activating an OD attack with an inherited skill.",
+    "target_area": 1,
+    "state_vars": [
+      1110500091
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [
+      9,
+      31,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040198,
+    "state_change_id": 900050073,
+    "name": "Super Hit (Malicious Pumpkins)",
+    "flavor_text": "Attacks with Malicious Pumpkins after activating an OD attack with a normal attack.",
+    "target_area": 1,
+    "state_vars": [
+      1110500091
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [
+      9,
+      30,
+      24600
+    ],
     "triggering_effect_condition_ids": [],
     "state_icon": 3001
   },
@@ -87974,6 +88170,378 @@
     "ignition_effect_id": "",
     "display_flag": 0,
     "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1802040339,
+    "state_change_id": 900040048,
+    "name": "Attack Down (small)",
+    "flavor_text": "Decreases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24408
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
+    "id": 1802040340,
+    "state_change_id": 900040036,
+    "name": "Combat Girl",
+    "flavor_text": "Evades a direct enemy attack and counterattacks with <skill=110500088>Cat's Claw</skill> (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      110500088
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040341,
+    "state_change_id": 900050113,
+    "name": "Defense Up When Indirectly Attacked",
+    "flavor_text": "When indirectly attacked, grants oneself <special_effect=800000096>Defense Up</special_effect> (medium effect) (Max times: 5 times per battle). *Only activates when hit by an attack.",
+    "target_area": 1,
+    "state_vars": [
+      1702100189
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040342,
+    "state_change_id": 900040062,
+    "name": "Defense Up",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      90
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      49001
+    ],
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040343,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=110500329>Horizontal Pumpkins</skill> will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      702101446
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040344,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=110500330>Vertical Pumpkins</skill> will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      702101447
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040345,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 1, Horizontal Pumpkins will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110500329
+    ],
+    "text_pop": "Pumpkin Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040346,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 2, Horizontal Pumpkins will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110500329
+    ],
+    "text_pop": "Pumpkin Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040347,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 3, Horizontal Pumpkins will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110500329
+    ],
+    "text_pop": "Pumpkin Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040348,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an inherited skill, Horizontal Pumpkins will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110500329
+    ],
+    "text_pop": "Pumpkin Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040349,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing a normal attack, Horizontal Pumpkins will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110500329
+    ],
+    "text_pop": "Pumpkin Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040350,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 1, Vertical Pumpkins will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110500330
+    ],
+    "text_pop": "Pumpkin Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040351,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 2, Vertical Pumpkins will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110500330
+    ],
+    "text_pop": "Pumpkin Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040352,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 3, Vertical Pumpkins will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110500330
+    ],
+    "text_pop": "Pumpkin Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040353,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an inherited skill, Vertical Pumpkins will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110500330
+    ],
+    "text_pop": "Pumpkin Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040354,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing a normal attack, Vertical Pumpkins will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      110500330
+    ],
+    "text_pop": "Pumpkin Punishment",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040355,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (medium)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      80
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24408
+    ],
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040356,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "INT↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      24408
+    ],
     "triggering_effect_condition_ids": [],
     "state_icon": 2001
   },

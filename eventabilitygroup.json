@@ -3768,5 +3768,25 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 398
+  },
+  {
+    "id": 1000000619,
+    "event_ability_category_id": 1000000370,
+    "name": "Creepy! Haunted Show I",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・3x attribute gains in Main quests and Creepy! Haunted Show<br>・Bonus Pumpkin Wreath drops in Creepy! Haunted Show",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 399
+  },
+  {
+    "id": 1000000620,
+    "event_ability_category_id": 1000000371,
+    "name": "Creepy! Haunted Show II",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Creepy! Haunted Show<br>・Bonus Pumpkin Wreath drops in Creepy! Haunted Show",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 400
   }
 ]

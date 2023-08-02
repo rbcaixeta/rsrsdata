@@ -1461,5 +1461,38 @@
     "sort_order": 23061630,
     "expired_at": 1686877199,
     "selling_price": 0
+  },
+  {
+    "id": 1000840042,
+    "name": "Summer Party Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1694134799] <tz>)",
+    "icon": 1000840042,
+    "max_quantity": 9999999,
+    "value": 30,
+    "sort_order": 23090830,
+    "expired_at": 1694134799,
+    "selling_price": 0
+  },
+  {
+    "id": 1000840043,
+    "name": "Summer Party Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1694134799] <tz>)",
+    "icon": 1000840043,
+    "max_quantity": 9999999,
+    "value": 60,
+    "sort_order": 23090860,
+    "expired_at": 1694134799,
+    "selling_price": 0
+  },
+  {
+    "id": 1000840044,
+    "name": "Summer Party Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1694134799] <tz>)",
+    "icon": 1000840044,
+    "max_quantity": 9999999,
+    "value": 90,
+    "sort_order": 23090890,
+    "expired_at": 1694134799,
+    "selling_price": 0
   }
 ]

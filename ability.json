@@ -33504,7 +33504,7 @@
   {
     "id": 711100009,
     "name": "All Range+",
-    "flavor_text": "All range attacks' damage increases by 30%.",
+    "flavor_text": "All-range attacks' damage increases by 30%.",
     "simple_flavor_text": "All Range +30%",
     "special_effect_ids": [
       811040009
@@ -33882,7 +33882,7 @@
   {
     "id": 711100090,
     "name": "All Range+",
-    "flavor_text": "All range attacks' damage increases by 20%.",
+    "flavor_text": "All-range attacks' damage increases by 20%.",
     "simple_flavor_text": "All Range +20%",
     "special_effect_ids": [
       811040090
@@ -34260,7 +34260,7 @@
   {
     "id": 711100171,
     "name": "All Range+",
-    "flavor_text": "All range attacks' damage increases by 10%.",
+    "flavor_text": "All-range attacks' damage increases by 10%.",
     "simple_flavor_text": "All Range +10%",
     "special_effect_ids": [
       811040171
@@ -49001,6 +49001,140 @@
     ],
     "ability_when": 4,
     "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100185,
+    "name": "Intimidated",
+    "flavor_text": "When attacking, grants oneself <special_effect=800000029>Attack Down</special_effect> (small effect/1 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040339
+    ],
+    "ability_when": 6,
+    "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100186,
+    "name": "Super Hit (Malicious Pumpkins)",
+    "flavor_text": "After activating an OD attack*, <skill=1110500091>Malicious Pumpkins</skill> will be activated.<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1801040194,
+      1801040195,
+      1801040196,
+      1801040197,
+      1801040198
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100187,
+    "name": "Combat Girl",
+    "flavor_text": "[Start of battle]<br>Recovers own BP (+3).<br><br>[When being directly attacked]<br>Evades the attack and counterattacks with <skill=110500088>Cat's Claw</skill> (high chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040520,
+      1802040340
+    ],
+    "ability_when": 1,
+    "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100188,
+    "name": "Candy Revenge",
+    "flavor_text": "[When being directly attacked]<br>Reduces damage and counterattacks with <skill=110600263>Candy Bazooka Fire</skill>.<br>(Activates using skill Rank 1).<br><br>[When being indirectly attacked]<br>Grants oneself <special_effect=800000096>Defense Up</special_effect> (medium effect) (Max times: 5 times per battle). *Only activates when hit by an attack.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041460,
+      1802040341
+    ],
+    "ability_when": 1,
+    "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100189,
+    "name": "Defense Up When Indirectly Attacked",
+    "flavor_text": "When indirectly attacked, grants oneself <special_effect=800000096>Defense Up</special_effect> (medium effect) (Max times: 5 times per battle). *Only activates when hit by an attack.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040342
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100190,
+    "name": "Pumpkin Punishment",
+    "flavor_text": "[When landing an attack]<br>Recovers own BP (+1).<br><br>[When landing an attack with an Attack type skill/spell*]<br><skill=110500329>Horizontal Pumpkins</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><skill=110500330>Vertical Pumpkins</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040114,
+      1802040343,
+      1802040344
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100191,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=110500329>Horizontal Pumpkins</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040345,
+      1802040346,
+      1802040347,
+      1802040348,
+      1802040349
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100192,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an attack with an Attack type skill/spell, <skill=110500330>Vertical Pumpkins</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040350,
+      1802040351,
+      1802040352,
+      1802040353,
+      1802040354
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100193,
+    "name": "Defense Knowledge Ⅱ (INT)",
+    "flavor_text": "[When attacking]<br>Grants oneself <special_effect=800000015>Defense Boost</special_effect> (medium effect/2 turn(s)).<br>Increases all surviving allies' INT (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040355,
+      1802040356
+    ],
+    "ability_when": 6,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   },
