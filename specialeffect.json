@@ -41361,6 +41361,42 @@
     "state_icon": 3003
   },
   {
+    "id": 802042112,
+    "state_change_id": 900040048,
+    "name": "Attack Boost (extreme)",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 802042283,
+    "state_change_id": 900040048,
+    "name": "Pierce Attack Boost",
+    "flavor_text": "Increases damage dealt to enemies when using a pierce attack.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      22003
+    ],
+    "state_icon": 3001
+  },
+  {
     "id": 803010190,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -80898,6 +80934,78 @@
     "state_icon": 3001
   },
   {
+    "id": 1801040199,
+    "state_change_id": 900050073,
+    "name": "High Jump Kick",
+    "flavor_text": "Attacks with Punishing Rush after attacking with High Jump Kick.",
+    "target_area": 1,
+    "state_vars": [
+      1110500096
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040200,
+    "state_change_id": 900050073,
+    "name": "Raging Whirlwind Fist",
+    "flavor_text": "Attacks with Roundhouse Kick after attacking with Raging Whirlwind Fist.",
+    "target_area": 1,
+    "state_vars": [
+      110500341
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040201,
+    "state_change_id": 900050055,
+    "name": "BP Recovery",
+    "flavor_text": "Recovers BP.",
+    "target_area": 1,
+    "state_vars": [
+      2
+    ],
+    "text_pop": "BP+",
+    "text_color": "5BFF24",
+    "enchantment_effect_id": "Heal",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040202,
+    "state_change_id": 900050113,
+    "name": "End of Turn: Recover HP (very small)",
+    "flavor_text": "Recovers own HP at end of turn (very small effect).",
+    "target_area": 8,
+    "state_vars": [
+      702101371
+    ],
+    "text_pop": "Fluffy Castella",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
     "id": 1801040335,
     "state_change_id": 900040062,
     "name": "Defense Boost (small)",
@@ -88597,6 +88705,99 @@
     "triggering_effect_condition_ids": [
       22006
     ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040447,
+    "state_change_id": 900040048,
+    "name": "Blunt Attack Boost",
+    "flavor_text": "Increases damage dealt to enemies when using a blunt attack.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      22002
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040448,
+    "state_change_id": 900050113,
+    "name": "Turn Start: Taunt (medium)",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).",
+    "target_area": 1,
+    "state_vars": [
+      1702100197
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040449,
+    "state_change_id": 900040035,
+    "name": "Man of Iron",
+    "flavor_text": "Counters direct enemy attacks with <skill=1110600056>Bazooka</skill> and decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      1110600056,
+      65
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040450,
+    "state_change_id": 900040035,
+    "name": "Poster Girl",
+    "flavor_text": "Counters direct enemy attacks with <skill=1110400026>Healing Beat</skill> and decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      1110400026,
+      65
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040451,
+    "state_change_id": 900040035,
+    "name": "Poster Girl",
+    "flavor_text": "Counters direct enemy attacks with <skill=1110400027>Blast Heal+</skill> and decreases damage taken (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1110400027,
+      65
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
     "state_icon": 3001
   },
   {

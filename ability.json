@@ -5908,7 +5908,7 @@
   {
     "id": 702101254,
     "name": "Intrinsic S. Sword Ⅳ",
-    "flavor_text": "When attacking with S. Swords, damage increases (very large effect).<br>When attacked by an attack that would cause Resist, damage taken will be reduced (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
+    "flavor_text": "When attacking with S. Swords, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, reduces damage taken (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040738,
@@ -8306,7 +8306,7 @@
   {
     "id": 702101451,
     "name": "Intrinsic M. Arts Ⅳ",
-    "flavor_text": "When attacking with M. Arts, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, damage taken will be reduced (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
+    "flavor_text": "When attacking with M. Arts, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, reduces damage taken (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040909,
@@ -8502,7 +8502,7 @@
   {
     "id": 702101467,
     "name": "Intrinsic Axe Ⅳ",
-    "flavor_text": "When attacking with axes, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, damage taken will be reduced (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
+    "flavor_text": "When attacking with axes, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, reduces damage taken (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802040947,
@@ -8712,7 +8712,7 @@
   {
     "id": 702101487,
     "name": "Intrinsic Spear Ⅳ",
-    "flavor_text": "When attacking with spears, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, damage taken will be reduced (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
+    "flavor_text": "When attacking with spears, attack damage increases (very large effect).<br>When attacked by an attack that would cause Resist, reduces damage taken (extreme effect).<br>When attacked by an attack that would cause Resist, evades enemy's attack (high chance).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802041487,
@@ -10451,7 +10451,7 @@
   {
     "id": 702101651,
     "name": "Club Finesse",
-    "flavor_text": "When attacking with clubs, damage increases (extreme effect).<br>When attacked, damage taken will be reduced (very large effect).",
+    "flavor_text": "When attacking with clubs, attack damage increases (extreme effect).<br>When attacked, reduces damage taken (very large effect).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802041728,
@@ -10943,6 +10943,33 @@
       802041790
     ],
     "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101859,
+    "name": "Furious Assault Ⅴ",
+    "flavor_text": "[Start of turn]<br>Grants oneself <special_effect=800000001>Attack Boost</special_effect> (extreme effect/2 turn(s)) (Max times: 5 times per battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802042112
+    ],
+    "ability_when": 3,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 702101968,
+    "name": "Pierce Energy Ⅰ",
+    "flavor_text": "Increases all allies' pierce attacks' damage (extreme effect).<br><br>[End of turn]<br>Recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802042283,
+      802040902
+    ],
+    "ability_when": 1,
     "icon": 4010,
     "rarity": 0,
     "sort_order": 0
@@ -49135,6 +49162,78 @@
     ],
     "ability_when": 6,
     "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100194,
+    "name": "Blunt Energy Ⅰ",
+    "flavor_text": "Increases all allies' blunt attacks' damage (extreme effect).<br><br>[End of turn]<br>Recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040447,
+      802040902
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100195,
+    "name": "M. Arts Instructions Ⅱ",
+    "flavor_text": "Increases attack damage for all allies (medium effect).<br>Reduces damage taken for all allies (medium effect).<br>When an ally attacks with M. Arts, damage increases (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041514,
+      802041515,
+      802041428
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100196,
+    "name": "Man of Iron",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br><br>[When being directly attacked]<br>Reduces damage and counterattacks with <skill=1110600056>Bazooka</skill>.<br>(Activates using skill Rank 1).<br><br>[When being attacked]<br>Recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040448,
+      1802040449,
+      802041545
+    ],
+    "ability_when": 1,
+    "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100197,
+    "name": "Turn Start: Taunt (medium)",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040533
+    ],
+    "ability_when": 3,
+    "icon": 4009,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100198,
+    "name": "Poster Girl",
+    "flavor_text": "[Start of turn]<br>Has oneself enter a <special_effect=800000073>taunt</special_effect> stance (medium effect/4 turn(s)).<br>Recovers the user's HP (very small effect).<br><br>[When being directly attacked]<br>Reduces damage and counterattacks with <skill=1110400026>Healing Beat</skill>.<br>(Activates using skill Rank 1).<br>Reduces damage and counterattacks with <skill=1110400027>Blast Heal+</skill> (medium chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041593,
+      1802040450,
+      1802040451
+    ],
+    "ability_when": 1,
+    "icon": 4005,
     "rarity": 0,
     "sort_order": 0
   },
