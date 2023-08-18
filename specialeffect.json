@@ -14786,7 +14786,7 @@
   {
     "id": 801041360,
     "state_change_id": 900040062,
-    "name": "Defense Boost (med)",
+    "name": "Defense Boost (medium)",
     "flavor_text": "Decreases damage taken.",
     "target_area": 3,
     "state_vars": [
@@ -27386,7 +27386,7 @@
     "id": 802040501,
     "state_change_id": 900040048,
     "name": "All-Range Attack Boost",
-    "flavor_text": "Increases damage dealt by all range attacks.",
+    "flavor_text": "Increases damage dealt by all-range attacks.",
     "target_area": 1,
     "state_vars": [],
     "text_pop": "All range ATK↑",
@@ -31249,7 +31249,7 @@
     "id": 802040985,
     "state_change_id": 900040048,
     "name": "All-Range Attack Boost",
-    "flavor_text": "Increases damage dealt by all range attacks.",
+    "flavor_text": "Increases damage dealt by all-range attacks.",
     "target_area": 3,
     "state_vars": [],
     "text_pop": "All range ATK↑",
@@ -38271,7 +38271,7 @@
     "id": 802041538,
     "state_change_id": 900040048,
     "name": "All-Range Attack Boost",
-    "flavor_text": "Increases damage dealt by all range attacks.",
+    "flavor_text": "Increases damage dealt by all-range attacks.",
     "target_area": 1,
     "state_vars": [],
     "text_pop": "All range ATK↑",
@@ -81006,6 +81006,78 @@
     "state_icon": 3003
   },
   {
+    "id": 1801040203,
+    "state_change_id": 900010016,
+    "name": "INT Up",
+    "flavor_text": "Increases INT.",
+    "target_area": 12,
+    "state_vars": [],
+    "text_pop": "INT↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2001
+  },
+  {
+    "id": 1801040204,
+    "state_change_id": 900010017,
+    "name": "WIL Down",
+    "flavor_text": "Decreases WIL.",
+    "target_area": 10,
+    "state_vars": [],
+    "text_pop": "WIL↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
+    "id": 1801040210,
+    "state_change_id": 900040062,
+    "name": "Defense Boost (medium)",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 3,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040211,
+    "state_change_id": 900040076,
+    "name": "Guard Up (medium)",
+    "flavor_text": "Reduces damage taken (can't stack).",
+    "target_area": 3,
+    "state_vars": [
+      75
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
     "id": 1801040335,
     "state_change_id": 900040062,
     "name": "Defense Boost (small)",
@@ -81983,7 +82055,7 @@
     "id": 1802040021,
     "state_change_id": 900040048,
     "name": "All-Range Attack Boost",
-    "flavor_text": "Increases damage dealt by all range attacks.",
+    "flavor_text": "Increases damage dealt by all-range attacks.",
     "target_area": 1,
     "state_vars": [],
     "text_pop": "All range ATK↑",
@@ -87851,7 +87923,7 @@
     "id": 1802040317,
     "state_change_id": 900040048,
     "name": "All-Range Attack Boost",
-    "flavor_text": "Increases damage dealt by all range attacks.",
+    "flavor_text": "Increases damage dealt by all-range attacks.",
     "target_area": 1,
     "state_vars": [],
     "text_pop": "All range ATK↑",
@@ -88797,6 +88869,188 @@
     "ignition_effect_id": "",
     "display_flag": 0,
     "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040452,
+    "state_change_id": 900040048,
+    "name": "Slash Attack Boost",
+    "flavor_text": "Increases damage dealt to enemies when using a slash attack.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "Slash ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      22001
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040453,
+    "state_change_id": 900040048,
+    "name": "Cold Attack Boost",
+    "flavor_text": "Increases damage dealt to enemies when using a cold attack.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      22005
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040454,
+    "state_change_id": 900040048,
+    "name": "Heat Attack Boost",
+    "flavor_text": "Increases damage dealt to enemies when using a heat attack.",
+    "target_area": 3,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      22004
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040455,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack, <skill=1110800041>Glitter Shell</skill> will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100204
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040456,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with skill 1, Glitter Shell will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110800041
+    ],
+    "text_pop": "Silver Glove Owner",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      10,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040457,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with skill 2, Glitter Shell will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110800041
+    ],
+    "text_pop": "Silver Glove Owner",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      10,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040458,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with skill 3, Glitter Shell will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110800041
+    ],
+    "text_pop": "Silver Glove Owner",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      10,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040459,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with an inherited skill, Glitter Shell will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110800041
+    ],
+    "text_pop": "Silver Glove Owner",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      10,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040460,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack with a normal attack, Glitter Shell will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110800041
+    ],
+    "text_pop": "Silver Glove Owner",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      10,
+      24600
+    ],
     "triggering_effect_condition_ids": [],
     "state_icon": 3001
   },

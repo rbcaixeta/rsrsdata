@@ -3808,5 +3808,25 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 402
+  },
+  {
+    "id": 1000000623,
+    "event_ability_category_id": 1000000374,
+    "name": "Mages of Mahzoz I",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・3x attribute gains in Main quests and Mages of Mahzoz",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 403
+  },
+  {
+    "id": 1000000624,
+    "event_ability_category_id": 1000000375,
+    "name": "Mages of Mahzoz II",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Mages of Mahzoz",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 404
   }
 ]

@@ -3561,7 +3561,7 @@
   },
   {
     "id": 702101063,
-    "name": "End of Turn: Recover HP",
+    "name": "End of Turn: Recover HP (v. small)",
     "flavor_text": "[End of turn]<br>Recovers own HP (very small effect effect/10 turn(s)).",
     "simple_flavor_text": "",
     "special_effect_ids": [
@@ -49234,6 +49234,93 @@
     ],
     "ability_when": 1,
     "icon": 4005,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100199,
+    "name": "Slash Clash",
+    "flavor_text": "[Start of round]<br>Grants all surviving allies <special_effect=800000002>Slash Attack Boost</special_effect> (medium effect/3 turn(s)).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040452
+    ],
+    "ability_when": 2,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100200,
+    "name": "Cold Energy Ⅰ",
+    "flavor_text": "Increases all allies' cold attacks' damage (extreme effect).<br><br>[End of turn]<br>Recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040453,
+      802040902
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100201,
+    "name": "Heat Energy Ⅰ",
+    "flavor_text": "Increases all allies' heat attacks' damage (extreme effect).<br><br>[End of turn]<br>Recovers own BP (+1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040454,
+      802040902
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100202,
+    "name": "Goddess of the Children",
+    "flavor_text": "[When all allies are still surviving]<br>Reduces damage taken for all allies (medium effect).<br><br>[End of turn]<br>Recovers own BP (+1) and recovers own HP (very small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040663,
+      1802040312
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100203,
+    "name": "Silver Glove Owner",
+    "flavor_text": "When attacking with spears, attack damage increases (large effect).<br><br>[When landing a Weak attack*]<br><skill=1110800041>Glitter Shell</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><br>[On every 3 turns counting from the start of battle, when landing a single-foe attack*]<br><skill=110800261>Round Slicer</skill> will be activated.<br>(Activates using skill Rank 1).<br><br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040438,
+      1802040455,
+      802041486
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100204,
+    "name": "Follow-Up on Weak Atk",
+    "flavor_text": "When landing a Weak attack, <skill=1110800041>Glitter Shell</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040456,
+      1802040457,
+      1802040458,
+      1802040459,
+      1802040460
+    ],
+    "ability_when": 6,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   },
