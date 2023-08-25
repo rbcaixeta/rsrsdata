@@ -10409,7 +10409,7 @@
   {
     "id": 702101648,
     "name": "United Hope Ⅱ",
-    "flavor_text": "When all allies are still surviving, reduces damage for all allies (medium effect).<br>When attacked and HP reaches 0, recovers all surviving allies' HP (medium effect).",
+    "flavor_text": "When all allies are still surviving, reduces damage taken for all allies (medium effect).<br>When attacked and HP reaches 0, recovers all surviving allies' HP (medium effect).",
     "simple_flavor_text": "",
     "special_effect_ids": [
       802041724,
@@ -49325,6 +49325,127 @@
     "sort_order": 0
   },
   {
+    "id": 1702100205,
+    "name": "Sword Dance",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell*]<br><skill=1110100069>Floral Flourish</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).<br><skill=1110100070>Plum Blossom Whirlwind</skill> will be activated (high chance).<br>(Activates using skill Rank 1).<br><skill=1110100071>Rising Dual Dragon</skill> will be activated (medium chance).<br>(Activates using skill Rank 1).<br>*Skills/Spells transmitted in Robin Cup, Skills/Spells activated on Special Stances, Skills/Spells activated by this Ability, Skills/Spells activated by skill/spell effects, and Skill/Spell Counterattacks are not included.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040461,
+      1802040462,
+      1802040463
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100206,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110100069>Floral Flourish</skill> will be activated (very high chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040464,
+      1802040465,
+      1802040466,
+      1802040467,
+      1802040468
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100207,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110100070>Plum Blossom Whirlwind</skill> will be activated (high chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040469,
+      1802040470,
+      1802040471,
+      1802040472,
+      1802040473
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100208,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110100071>Rising Dual Dragon</skill> will be activated (medium chance).<br>(Activates using skill Rank 1).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1802040474,
+      1802040475,
+      1802040476,
+      1802040477,
+      1802040478
+    ],
+    "ability_when": 6,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100209,
+    "name": "Spear Instructions Ⅱ",
+    "flavor_text": "Increases attack damage for all allies (medium effect).<br>Reduces damage taken for all allies (medium effect).<br>When an ally attacks with spear, damage increases (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041514,
+      802041515,
+      802041730
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100210,
+    "name": "Offense & Defense Ⅱ",
+    "flavor_text": "[When all allies are still surviving]<br>Increases attack damage for all allies (medium effect).<br>Reduces damage taken for all allies (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040989,
+      802040663
+    ],
+    "ability_when": 1,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100211,
+    "name": "End of Turn: Recover HP (small)",
+    "flavor_text": "[End of turn]<br>Recovers own HP (high chance/small effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802040062
+    ],
+    "ability_when": 4,
+    "icon": 4007,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1702100212,
+    "name": "End of Turn: OD Gauge Up (med.)",
+    "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      802041741
+    ],
+    "ability_when": 4,
+    "icon": 4010,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
     "id": 1702200002,
     "name": "Cover of Night",
     "flavor_text": "[Start of round]<br>Has oneself enter an <special_effect=800000110>evasive</special_effect> stance (1 turn(s)).",
@@ -50949,6 +51070,32 @@
     ],
     "ability_when": 3,
     "icon": 4003,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1708300005,
+    "name": "Egg-Laying Season",
+    "flavor_text": "[On every 3 turns counting from the start of battle]<br>Grants oneself Delay Stance (1 turn(s)).<br><br>Delay Stance<br>Actions become delayed.",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1808040034
+    ],
+    "ability_when": 3,
+    "icon": 4014,
+    "rarity": 0,
+    "sort_order": 0
+  },
+  {
+    "id": 1708300006,
+    "name": "Queen's Favor",
+    "flavor_text": "[Start of turn]<br>Grants all other surviving allies Heat Up (small effect).<br><br>Heat Up<br>Attacks' damage increases (Effect: permanent in battle).",
+    "simple_flavor_text": "",
+    "special_effect_ids": [
+      1808040035
+    ],
+    "ability_when": 3,
+    "icon": 4010,
     "rarity": 0,
     "sort_order": 0
   },

@@ -76431,6 +76431,22 @@
     "state_icon": 1031
   },
   {
+    "id": 1800000015,
+    "state_change_id": 900030001,
+    "name": "Ceaseless Spirit Ⅱ",
+    "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).<br>Recovers own HP (high chance/small effect).",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 1031
+  },
+  {
     "id": 1801010001,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -81036,6 +81052,84 @@
     "applying_effect_condition_ids": [],
     "triggering_effect_condition_ids": [],
     "state_icon": 2002
+  },
+  {
+    "id": 1801040205,
+    "state_change_id": 900040062,
+    "name": "Defense Up",
+    "flavor_text": "Decreases damage taken.",
+    "target_area": 1,
+    "state_vars": [
+      90
+    ],
+    "text_pop": "DEF↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040207,
+    "state_change_id": 900050073,
+    "name": "Dragon Spear Cross",
+    "flavor_text": "Attacks with a column attack skill after attacking with Dragon Spear Cross.",
+    "target_area": 1,
+    "state_vars": [
+      1110800045
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1801040208,
+    "state_change_id": 900050113,
+    "name": "End of Turn: Recover HP (small)",
+    "flavor_text": "[End of turn]<br>Recovers own HP (high chance/small effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702100211
+    ],
+    "text_pop": "Ceaseless Spirit Ⅱ",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      9
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1801040209,
+    "state_change_id": 900050113,
+    "name": "End of Turn: OD Gauge Up (med.)",
+    "flavor_text": "[End of turn]<br>Increases own OD gauge (medium effect).",
+    "target_area": 1,
+    "state_vars": [
+      1702100212
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [
+      9
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
   },
   {
     "id": 1801040210,
@@ -89055,6 +89149,390 @@
     "state_icon": 3001
   },
   {
+    "id": 1802040461,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110100069>Floral Flourish</skill> will be activated (very high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100206
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040462,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110100070>Plum Blossom Whirlwind</skill> will be activated (high chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100207
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040463,
+    "state_change_id": 900050113,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "[When landing an attack with an Attack type skill/spell]<br><skill=1110100071>Rising Dual Dragon</skill> will be activated (medium chance).",
+    "target_area": 1,
+    "state_vars": [
+      1702100208
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 0,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3003
+  },
+  {
+    "id": 1802040464,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 1, Floral Flourish will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100069
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040465,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 2, Floral Flourish will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100069
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040466,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 3, Floral Flourish will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100069
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040467,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an inherited skill, Floral Flourish will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100069
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040468,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing a normal attack, Floral Flourish will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100069
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040469,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 1, Plum Blossom Whirlwind will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100070
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040470,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 2, Plum Blossom Whirlwind will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100070
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040471,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 3, Plum Blossom Whirlwind will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100070
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040472,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an inherited skill, Plum Blossom Whirlwind will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100070
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040473,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing a normal attack, Plum Blossom Whirlwind will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100070
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040474,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 1, Rising Dual Dragon will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100071
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      32,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040475,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 2, Rising Dual Dragon will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100071
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      33,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040476,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing skill 3, Rising Dual Dragon will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100071
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      34,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040477,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing an inherited skill, Rising Dual Dragon will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100071
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      31,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1802040478,
+    "state_change_id": 900050073,
+    "name": "Follow-Up on Attack",
+    "flavor_text": "When landing a normal attack, Rising Dual Dragon will be activated.",
+    "target_area": 1,
+    "state_vars": [
+      1110100071
+    ],
+    "text_pop": "Sword Dance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [
+      30,
+      4,
+      24600
+    ],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
     "id": 1808010002,
     "state_change_id": 900010016,
     "name": "INT Up",
@@ -89991,6 +90469,40 @@
     "state_icon": 3001
   },
   {
+    "id": 1808040034,
+    "state_change_id": 900040211,
+    "name": "Delay Stance",
+    "flavor_text": "Actions become delayed.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "Delay Stance",
+    "text_color": "FFFFFF",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1808040035,
+    "state_change_id": 900040048,
+    "name": "Heat Up",
+    "flavor_text": "Increases damage dealt to enemies.",
+    "target_area": 12,
+    "state_vars": [],
+    "text_pop": "ATK↑",
+    "text_color": "65D2FF",
+    "enchantment_effect_id": "Buff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      4
+    ],
+    "state_icon": 3001
+  },
+  {
     "id": 1809010001,
     "state_change_id": 900010012,
     "name": "STR Up",
@@ -90105,6 +90617,60 @@
     "applying_effect_condition_ids": [],
     "triggering_effect_condition_ids": [],
     "state_icon": 3001
+  },
+  {
+    "id": 1809010008,
+    "state_change_id": 900050079,
+    "name": "Earthquake (30% Max HP)",
+    "flavor_text": "Deals damage to target (30% of target's Max HP).<br>*Damage can't be reduced by effects that reduce damage taken or effects that reduce attack damage.",
+    "target_area": 8,
+    "state_vars": [
+      1
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "SelfHarm",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
+    "id": 1809010009,
+    "state_change_id": 900050079,
+    "name": "Earthquake (40% Max HP)",
+    "flavor_text": "Deals damage to target (40% of target's Max HP).<br>*Damage can't be reduced by effects that reduce damage taken or effects that reduce attack damage.",
+    "target_area": 8,
+    "state_vars": [
+      1
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "SelfHarm",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
+  },
+  {
+    "id": 1809010010,
+    "state_change_id": 900050079,
+    "name": "Earthquake (50% Max HP)",
+    "flavor_text": "Deals damage to target (50% of target's Max HP).<br>*Damage can't be reduced by effects that reduce damage taken or effects that reduce attack damage.",
+    "target_area": 8,
+    "state_vars": [
+      1
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "SelfHarm",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
   },
   {
     "id": 1809040001,
@@ -90277,5 +90843,125 @@
     "applying_effect_condition_ids": [],
     "triggering_effect_condition_ids": [],
     "state_icon": 3001
+  },
+  {
+    "id": 1809040010,
+    "state_change_id": 900050110,
+    "name": "Beckon Ally",
+    "flavor_text": "Summons demonic beasts.",
+    "target_area": 1,
+    "state_vars": [
+      1,
+      1,
+      1010600301,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1809040011,
+    "state_change_id": 900050110,
+    "name": "Beckon Ally",
+    "flavor_text": "Summons demonic beasts.",
+    "target_area": 1,
+    "state_vars": [
+      2,
+      1,
+      1010600301,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1809040012,
+    "state_change_id": 900050110,
+    "name": "Beckon Ally",
+    "flavor_text": "Summons demonic beasts.",
+    "target_area": 1,
+    "state_vars": [
+      3,
+      1,
+      1010601101,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1809040013,
+    "state_change_id": 900050110,
+    "name": "Beckon Ally",
+    "flavor_text": "Summons demonic beasts.",
+    "target_area": 1,
+    "state_vars": [
+      4,
+      1,
+      1010601101,
+      0
+    ],
+    "text_pop": "",
+    "text_color": "",
+    "enchantment_effect_id": "",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 3001
+  },
+  {
+    "id": 1809040014,
+    "state_change_id": 900040103,
+    "name": "Defense Down (v. large/3x)",
+    "flavor_text": "Increases damage taken (Max times: 3) *Only activates when hit by an attack.",
+    "target_area": 1,
+    "state_vars": [],
+    "text_pop": "DEF↓",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [
+      14
+    ],
+    "state_icon": 2002
+  },
+  {
+    "id": 1809040015,
+    "state_change_id": 900050104,
+    "name": "Remove WIL Buff",
+    "flavor_text": "Removes buffs to WIL.",
+    "target_area": 10,
+    "state_vars": [
+      6
+    ],
+    "text_pop": "Remove WIL Buffs",
+    "text_color": "FF0000",
+    "enchantment_effect_id": "Debuff",
+    "ignition_effect_id": "",
+    "display_flag": 1,
+    "applying_effect_condition_ids": [],
+    "triggering_effect_condition_ids": [],
+    "state_icon": 2002
   }
 ]

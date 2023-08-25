@@ -564,5 +564,755 @@
       }
     ],
     "priority": 9990
+  },
+  {
+    "id": 1000000001,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 200 items",
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 100000
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9999
+  },
+  {
+    "id": 1000000002,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 400 items",
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 50
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9998
+  },
+  {
+    "id": 1000000003,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 600 items",
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 200000
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9997
+  },
+  {
+    "id": 1000000004,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 800 items",
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 100
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9996
+  },
+  {
+    "id": 1000000005,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 1,000 items",
+    "rewards": [
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 25
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9995
+  },
+  {
+    "id": 1000000006,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 1,500 items",
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 300000
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9994
+  },
+  {
+    "id": 1000000007,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 2,000 items",
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 150
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9993
+  },
+  {
+    "id": 1000000008,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 2,500 items",
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 400000
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9992
+  },
+  {
+    "id": 1000000009,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 3,000 items",
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 200
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9991
+  },
+  {
+    "id": 1000000010,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 3,500 items",
+    "rewards": [
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 75
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9990
+  },
+  {
+    "id": 1000000011,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 1,000,000 items",
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 200000
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9989
+  },
+  {
+    "id": 1000000012,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 2,000,000 items",
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 250
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9988
+  },
+  {
+    "id": 1000000013,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 4,000,000 items",
+    "rewards": [
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 40
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9987
+  },
+  {
+    "id": 1000000014,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 6,000,000 items",
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 500000
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9986
+  },
+  {
+    "id": 1000000015,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 8,000,000 items",
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 500
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9985
+  },
+  {
+    "id": 1000000016,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 10,000,000 items",
+    "rewards": [
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 60
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9984
+  },
+  {
+    "id": 1000000017,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 20,000,000 items",
+    "rewards": [
+      {
+        "type": 1,
+        "id": 100003,
+        "quantity": 800000
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9983
+  },
+  {
+    "id": 1000000018,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 30,000,000 items",
+    "rewards": [
+      {
+        "type": 11,
+        "id": 830001,
+        "quantity": 750
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9982
+  },
+  {
+    "id": 1000000019,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 40,000,000 items",
+    "rewards": [
+      {
+        "type": 33,
+        "id": 960001,
+        "quantity": 100
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9981
+  },
+  {
+    "id": 1000000020,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000001,
+    "description": "Get 50,000,000 items",
+    "rewards": [
+      {
+        "type": 31,
+        "id": 504405100,
+        "quantity": 1
+      }
+    ],
+    "priority": 9980
+  },
+  {
+    "id": 1000000021,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 200 items",
+    "rewards": [
+      {
+        "type": 8,
+        "id": 810003,
+        "quantity": 15
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9999
+  },
+  {
+    "id": 1000000022,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 400 items",
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100322,
+        "quantity": 3
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9998
+  },
+  {
+    "id": 1000000023,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 600 items",
+    "rewards": [
+      {
+        "type": 8,
+        "id": 810003,
+        "quantity": 45
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9997
+  },
+  {
+    "id": 1000000024,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 800 items",
+    "rewards": [
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 3
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9996
+  },
+  {
+    "id": 1000000025,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 1,000 items",
+    "rewards": [
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 25
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9995
+  },
+  {
+    "id": 1000000026,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 1,500 items",
+    "rewards": [
+      {
+        "type": 4,
+        "id": 304001,
+        "quantity": 4
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9994
+  },
+  {
+    "id": 1000000027,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 2,000 items",
+    "rewards": [
+      {
+        "type": 7,
+        "id": 1100322,
+        "quantity": 6
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9993
+  },
+  {
+    "id": 1000000028,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 2,500 items",
+    "rewards": [
+      {
+        "type": 4,
+        "id": 305001,
+        "quantity": 3
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9992
+  },
+  {
+    "id": 1000000029,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 3,000 items",
+    "rewards": [
+      {
+        "type": 8,
+        "id": 810001,
+        "quantity": 1
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9991
+  },
+  {
+    "id": 1000000030,
+    "is_multi": 0,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 3,500 items",
+    "rewards": [
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 75
+      },
+      {
+        "type": 32,
+        "id": 950001,
+        "quantity": 100
+      }
+    ],
+    "priority": 9990
+  },
+  {
+    "id": 1000000031,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 1,000,000 items",
+    "rewards": [
+      {
+        "type": 8,
+        "id": 810003,
+        "quantity": 15
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9989
+  },
+  {
+    "id": 1000000032,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 2,000,000 items",
+    "rewards": [
+      {
+        "type": 4,
+        "id": 303001,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9988
+  },
+  {
+    "id": 1000000033,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 4,000,000 items",
+    "rewards": [
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 40
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9987
+  },
+  {
+    "id": 1000000034,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 6,000,000 items",
+    "rewards": [
+      {
+        "type": 8,
+        "id": 810003,
+        "quantity": 30
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9986
+  },
+  {
+    "id": 1000000035,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 8,000,000 items",
+    "rewards": [
+      {
+        "type": 4,
+        "id": 304001,
+        "quantity": 4
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9985
+  },
+  {
+    "id": 1000000036,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 10,000,000 items",
+    "rewards": [
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 60
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9984
+  },
+  {
+    "id": 1000000037,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 20,000,000 items",
+    "rewards": [
+      {
+        "type": 8,
+        "id": 810003,
+        "quantity": 45
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9983
+  },
+  {
+    "id": 1000000038,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 30,000,000 items",
+    "rewards": [
+      {
+        "type": 4,
+        "id": 305001,
+        "quantity": 3
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9982
+  },
+  {
+    "id": 1000000039,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 40,000,000 items",
+    "rewards": [
+      {
+        "type": 2,
+        "id": 105001,
+        "quantity": 100
+      },
+      {
+        "type": 12,
+        "id": 1000840048,
+        "quantity": 50
+      }
+    ],
+    "priority": 9981
+  },
+  {
+    "id": 1000000040,
+    "is_multi": 1,
+    "multi_mission_tab_id": 1000000002,
+    "description": "Get 50,000,000 items",
+    "rewards": [
+      {
+        "type": 31,
+        "id": 501406100,
+        "quantity": 1
+      }
+    ],
+    "priority": 9980
   }
 ]

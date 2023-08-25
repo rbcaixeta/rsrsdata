@@ -3828,5 +3828,25 @@
     "icon": 4010,
     "applies_to_all_styles": 0,
     "priority": 404
+  },
+  {
+    "id": 1000000625,
+    "event_ability_category_id": 1000000376,
+    "name": "Fateful Showdown I",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・3x attribute gains in Main quests and Fateful Showdown",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 405
+  },
+  {
+    "id": 1000000626,
+    "event_ability_category_id": 1000000377,
+    "name": "Fateful Showdown II",
+    "prefix": "[Ltd. Time] ",
+    "flavor_text": "・4x attribute gains and 2x skill/spell rank up amount in Main quests and Fateful Showdown",
+    "icon": 4010,
+    "applies_to_all_styles": 0,
+    "priority": 406
   }
 ]

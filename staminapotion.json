@@ -1527,5 +1527,38 @@
     "sort_order": 23091690,
     "expired_at": 1694825999,
     "selling_price": 0
+  },
+  {
+    "id": 1000840048,
+    "name": "Fateful Showdown Stamina Potion (Sm.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 30 stamina. (Until [1695430799] <tz>)",
+    "icon": 840085,
+    "max_quantity": 9999999,
+    "value": 30,
+    "sort_order": 23092330,
+    "expired_at": 1695430799,
+    "selling_price": 0
+  },
+  {
+    "id": 1000840049,
+    "name": "Fateful Showdown Stamina Potion (Med.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 60 stamina. (Until [1695430799] <tz>)",
+    "icon": 840086,
+    "max_quantity": 9999999,
+    "value": 60,
+    "sort_order": 23092360,
+    "expired_at": 1695430799,
+    "selling_price": 0
+  },
+  {
+    "id": 1000840050,
+    "name": "Fateful Showdown Stamina Potion (Lg.) [Ltd. Time]",
+    "flavor_text": "[Limited Time] Item that recovers 90 stamina. (Until [1695430799] <tz>)",
+    "icon": 840087,
+    "max_quantity": 9999999,
+    "value": 90,
+    "sort_order": 23092390,
+    "expired_at": 1695430799,
+    "selling_price": 0
   }
 ]
